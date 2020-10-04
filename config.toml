@@ -1,0 +1,8 @@
+title = "Will Craft Software"
+baseURL = "https://willcraft.software/"
+
+languageCode = "en-us"
+theme = "ananke"
+
+[params]
+  description = "well-crafted software solutions"
