@@ -6,5 +6,6 @@ theme = "detox"
 
 [params]
     description = "Not only working software, but also well-crafted software."
-    author = "Will Craft Software"
+    author = "We Will Craft"
+    email = "we@willcraft.software"
     github = "wewillcraft"
