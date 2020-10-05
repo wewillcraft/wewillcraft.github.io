@@ -1,6 +1,3 @@
 ---
-title: "SaaC - Software as a Craft"
-description: "Not only working software, but also well-crafted software."
+title: "Software as a Craft"
 ---
-
-Interested in working with us? Contact us at we@willcraft.software!
