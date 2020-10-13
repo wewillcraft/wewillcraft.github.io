@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/wewillcraft
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://willcraft.software
+  * I am wewillcraft (https://keybase.io/wewillcraft) on keybase.
+  * I have a public key with fingerprint B0FB D078 D63C 7443 38E5  E467 3791 A7CC 831E 55FC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fe584c9ab05a614dd6afdf52b6f98fbdcef4e5f400b6a61a8394e27dde1a00a00a",
+      "fingerprint": "b0fbd078d63c744338e5e4673791a7cc831e55fc",
+      "host": "keybase.io",
+      "key_id": "3791a7cc831e55fc",
+      "kid": "0101fe584c9ab05a614dd6afdf52b6f98fbdcef4e5f400b6a61a8394e27dde1a00a00a",
+      "uid": "674709e8c8355869912ab5d60fee0b19",
+      "username": "wewillcraft"
+    },
+    "service": {
+      "hostname": "willcraft.software",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1602579126,
+  "expire_in": 157680000,
+  "prev": "c794a435bd97e750f02e4f1d03e61bffd7fca75fe481cd0e9d0ecdb10f765415",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD5HPWWWZllR0Y196cJJZs/uzO4eDAyDKEuSbhjaaWZn5rh6
+OnvaXTUTocIgCNOgLA1RyFLyIShKEKGj9BDYBYqwR7vZhQqChJ6qWcu3HhtmGGb+
+7/v+7//5H+RmBnKCUsu3N5dw+UhwfLS3LhA7U3OvSSI2bZSiTVItm7lYgjLXi9Va
+VIpKQAYyZ1BXTQMTADGSVUoR5pTDCEHc0DmhJuMqg1wFgCABwLpiqCyiUcpkDIC/
+pbDErWScOSnHSnpClgDBA5pOkWJqqqooOoNMRZqiGTLWTFNXZAYhNwWx2nZ9hjBH
+sMsKLVv8iUdsxt4/8P/Zd92MHNJUDRhMF4kg1JFhyBFMIEWAMwaIbPhAlzlJfJQJ
+dANrsBIJ08Hck5rDkgjUWybze+sXMwuahRS6NvcasMOESMqxPdu0EyJe7XkpN+rz
+vcbUH1US+ysVI1aSioYKRj1zXMtOSlFZIE3P8rVlBCJQdCaCwhI7nrIcFrN8BNSQ
+DsTy87B6IWlqhopVBRJqaEyDgIMIU7lMgcKQTDinGjexBjlTddmkgBnimJTIgGsI
+qjKU/OKOJW0pqgqbOC4kXSuexF6dqKZ5LF2ZFQjmBOaEMvxBC+TMy58dv9Fl2YHh
+zDudh+w9obaGdFbrzddFxRu11vTgeTIPHryfe7mpOK/k6LMaeGJsa/uFrILx+Mgu
+oyhn+dSHex1nn/a3nRwuHyzvzRwrM762VFR23ug+LA/x6S3o1l79esGC+vGuVY8T
+SafxefdEdajk5SJ05AWpC09cWd5x4PHdYEffjkdtG9TtDxcObFvc0/+l9Alxa5d4
+g7Vv12xq35lf9b2mYrJ3dPriVEZWyLsN02UP9peGX11tCfe8rz6yvq1yaHfB3ZqP
+gdO46vA1KfTpa1Vjs7XZXvEu/Tz7R9++6fHYWndZcdfI5JOE8mvl6qJzn5d+rBiI
+rzt1cu7YYOXnvJ8D+fPfo8nfYTtA+A==
+=YAuH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wewillcraft
+
+==================================================================
