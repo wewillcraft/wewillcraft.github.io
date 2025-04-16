@@ -1,35 +1,36 @@
-name: deploy
+name: Publish on GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: Clone repository
+        uses: actions/checkout@v4
+
+      - name: Setup Deno environment
+        uses: denoland/setup-deno@v2
+
+      - name: Build site
+        run: deno task build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          persist-credentials: false
+          path: "_site"
 
-      - name: Update theme
-        run: git submodule update --init --recursive
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.74.3'
-
-      - name: Build
-        run: HUGO_ENV=production hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.WEWILLCRAFT_GITHUB_PAGES_DEPLOY_KEY }}
-          publish_dir: ./public
-          publish_branch: gh-pages
-          keep_files: false
-          allow_empty_commit: true
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
