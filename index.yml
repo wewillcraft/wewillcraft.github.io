@@ -69,3 +69,24 @@ creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
 footer:
   text: © 2025 Will Craft Software. All rights reserved.
+  links:
+    - icon: github
+      icon_library: fontawesome
+      icon_variant: brands
+      text: GitHub
+      url: https://github.com/wewillcraft
+    - icon: linkedin
+      icon_library: fontawesome
+      icon_variant: brands
+      text: LinkedIn
+      url: https://www.linkedin.com/company/wewillcraft
+    - icon: keybase
+      icon_library: fontawesome
+      icon_variant: brands
+      text: Keybase
+      url: https://keybase.io/wewillcraft
+    - icon: facebook
+      icon_library: fontawesome
+      icon_variant: brands
+      text: Facebook
+      url: https://facebook.com/wewillcraft

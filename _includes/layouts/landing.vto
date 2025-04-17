@@ -101,5 +101,14 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 
 <!-- Footer -->
 <footer class="bg-stone-900 py-10 text-center text-sm">
-  <p class="mb-4">{{ footer.text }}</p>
+  <p class="mb-6">{{ footer.text }}</p>
+
+  <nav class="flex flex-wrap justify-center gap-x-6 gap-y-4">
+    {{ for link of footer.links }}
+      <a href="{{ link.url }}" class="flex items-center gap-2 text-white hover:text-red-500 transition" target="_blank">
+        <img src="{{ link.icon |> icon(link.icon_library, link.icon_variant) }}" class="h-4 w-4" alt="{{ link.text }}" inline />
+        <span class="text-sm">{{ link.text }}</span>
+      </a>
+    {{ /for }}
+  </nav>
 </footer>
