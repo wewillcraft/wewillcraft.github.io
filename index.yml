@@ -5,10 +5,10 @@ navbar:
   logo_alt: Will Craft Software
   title: Will Craft Software
   links:
-    - text: Specializations
-      url: "#specializations"
     - text: Virtues
       url: "#virtues"
+    - text: Specializations
+      url: "#specializations"
     - text: Apprenticeship
       url: "#apprenticeship"
     - text: Inquiries
@@ -27,7 +27,7 @@ about:
   title: 🔥 Forged by Experience. United in Mastery.
   subtitle: "We are <strong>Will Craft Software</strong>, an elite guild of passionate creators, dedicated apprentices, and seasoned masters who bring ideas to life through disciplined practice and enduring skill."
 specializations:
-  title: 🌟 Our Specializations
+  title: ❤️‍🔥 Our Specializations
   items:
     - icon: 🏰
       title: Digital Masterpieces
@@ -51,8 +51,8 @@ virtues:
       title: Legacy
       description: "Our work is a testament to our craft, leaving a lasting impact on the world."
 apprenticeship:
-  title: 🧑‍🎓 The Path of the Apprentice
-  subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside nonprofit allies."
+  title: 🧑‍🎓 Applying as an Apprentice
+  subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors."
   faqs:
     - question: "What is this apprenticeship?"
       answer: "A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors."
