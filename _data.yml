@@ -1,1 +1,4 @@
-layout: layouts/home/layout.vto
+layout: layouts/base.vto
+title_suffix: Will Craft Software
+footer:
+  copyright: © 2025 - [Will Craft Software](https://willcraft.software)
