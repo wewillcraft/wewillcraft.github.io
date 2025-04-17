@@ -64,6 +64,7 @@ apprenticeship:
 contact:
   title: 📜 Contact the Guild
   subtitle: 'Send your inquiries or quests to <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
+  email: we@willcraft.software
 creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
 footer:

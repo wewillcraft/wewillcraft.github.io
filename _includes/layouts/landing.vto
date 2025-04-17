@@ -86,7 +86,7 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 <section id="inquiries" class="py-20 max-w-4xl mx-auto text-center">
   <h4 class="text-3xl font-bold mb-6">{{ contact.title }}</h4>
   <p class="mb-6 text-base sm:text-lg">{{ contact.subtitle }}</p>
-  <form class="space-y-4 text-left" target="_blank" action="https://formsubmit.co/we@willcraft.software" method="POST">
+  <form class="space-y-4 text-left" target="_blank" action="https://formsubmit.co/{{ contact.email }}" method="POST">
     <input type="text" name="name" placeholder="Your Name" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" required />
     <input type="email" name="email" placeholder="Your Email" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" required />
     <textarea name="message" placeholder="Your Message" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" rows="4" required></textarea>
