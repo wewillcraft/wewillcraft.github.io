@@ -1,2 +1,76 @@
 layout: layouts/landing.vto
 title: Software as a Craft
+navbar:
+  logo: /logo-white.svg
+  logo_alt: Will Craft Software
+  title: Will Craft Software
+  links:
+    - text: Specializations
+      url: "#specializations"
+    - text: Virtues
+      url: "#virtues"
+    - text: Apprenticeship
+      url: "#apprenticeship"
+    - text: Inquiries
+      url: "#inquiries"
+hero:
+  title: ⚔️ We are a Collective of Crafters
+  subtitle: A Guild of Makers Tackling Real-World Challenges
+  links:
+    - text: 🛡️ Seek Apprenticeship
+      url: "#apprenticeship"
+      extra_class: "bg-red-600 py-3 px-6 rounded hover:bg-red-700"
+    - text: 🔨 Commission the Guild
+      url: "#inquiries"
+      extra_class: "bg-stone-700 py-3 px-6 rounded hover:bg-stone-600"
+about:
+  title: 🔥 Forged by Experience. United in Mastery.
+  subtitle: "We are <strong>Will Craft Software</strong>, an elite guild of passionate creators, dedicated apprentices, and seasoned masters who bring ideas to life through disciplined practice and enduring skill."
+specializations:
+  title: 🌟 Our Specializations
+  items:
+    - icon: 🏰
+      title: Digital Masterpieces
+      description: From nimble prototypes to expansive applications.
+    - icon: 🗝️
+      title: Strategic Consulting
+      description: Guiding you through the labyrinth of technology.
+    - icon: 🧑‍🏫
+      title: Discipleship
+      description: Nurturing the next generation of crafters.
+virtues:
+  title: 🛡️ Our Virtues
+  items:
+    - icon: ⚔️
+      title: Mastery
+      description: "We are relentless in our pursuit of excellence, honing our skills through practice and discipline."
+    - icon: 🧙‍♂️
+      title: Wisdom
+      description: "We share knowledge and insights, empowering others to grow and succeed."
+    - icon: 🏆
+      title: Legacy
+      description: "Our work is a testament to our craft, leaving a lasting impact on the world."
+apprenticeship:
+  title: 🧑‍🎓 The Path to Mastery
+  subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside nonprofit allies."
+  faqs:
+    - question: "What is the apprenticeship?"
+      answer: "A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors."
+    - question: "Who can apply?"
+      answer: "Anyone with a passion for technology and a desire to learn. We welcome all backgrounds and skill levels."
+    - question: "What will I learn?"
+      answer: "You will gain practical skills in software development, project management, and teamwork, preparing you for a successful career."
+    - question: "How long is the program?"
+      answer: "The apprenticeship lasts 6 months, with flexible schedules to accommodate your needs."
+    - question: "What projects will I work on?"
+      answer: "You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions."
+  cta:
+    text: 🛡️ Seek Apprenticeship
+    url: "#"
+contact:
+  title: 📜 Contact the Guild
+  subtitle: 'Send your inquiries or quests to <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
+creed:
+  text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
+footer:
+  text: &copy; 2025 Will Craft Software. All rights reserved.

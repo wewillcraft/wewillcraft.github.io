@@ -1,143 +1,111 @@
 ---
 layout: ./base.vto
+body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-white"
 ---
 
-<!-- Sticky Navbar -->
+<!-- Navbar -->
 <nav class="sticky top-0 z-50 bg-stone-900 py-4 shadow-lg">
-<div class="max-w-5xl mx-auto flex justify-between items-center px-4">
-    <div class="text-2xl font-bold uppercase">Will Craft Software</div>
-    <ul class="flex space-x-6">
-    <li><a href="#about" class="hover:text-red-500">About</a></li>
-    <li><a href="#specializations" class="hover:text-red-500">Specializations</a></li>
-    <li><a href="#apprenticeship" class="hover:text-red-500">Apprenticeship</a></li>
-    <li><a href="#virtues" class="hover:text-red-500">Virtues</a></li>
-    <li><a href="#contact" class="hover:text-red-500">Contact</a></li>
+  <div class="max-w-6xl mx-auto flex flex-wrap justify-between items-center px-4">
+    <div class="text-2xl font-bold uppercase mb-4 sm:mb-0 w-full sm:w-auto text-center sm:text-left">
+      <img src="{{ navbar.logo }}" alt="{{ navbar.logo_alt }}" class="h-5 w-5 inline-block mr-1 mb-1">
+      {{ navbar.title }}
+    </div>
+    <ul class="flex flex-wrap justify-center sm:justify-end gap-4 w-full sm:w-auto">
+      {{ for link of navbar.links }}
+        <li>
+          <a href="{{ link.url }}" class="hover:text-red-500 text-sm sm:text-base">{{ link.text }}</a>
+        </li>
+      {{ /for }}
     </ul>
-</div>
+  </div>
 </nav>
 
 <!-- Hero -->
-<header class="py-48 text-center px-6">
-<h1 class="text-5xl font-bold mb-4">⚔️ We are a Collective of Crafters</h1>
-<p class="italic text-xl">A Legendary Guild of Makers Forging Code into Reality</p>
-<div class="mt-10 space-x-4">
-    <a href="#" class="bg-red-600 py-3 px-6 rounded hover:bg-red-700">🔨 Commission the Guild</a>
-    <a href="#" class="bg-stone-700 py-3 px-6 rounded hover:bg-stone-600">🛡️ Seek Apprenticeship</a>
-</div>
+<header class="py-32 sm:py-48 text-center px-6">
+  <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ hero.title }}</h1>
+  <p class="italic text-lg sm:text-xl">{{ hero.subtitle }}</p>
+  <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+    {{ for link of hero.links }}
+      <a href="{{ link.url }}" class="{{ link.extra_class }}">{{ link.text }}</a>
+    {{ /for }}
+  </div>
 </header>
 
-<!-- Creed -->
-<section class="bg-red-800 text-center py-24 px-6">
-<blockquote class="italic text-2xl">"In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."</blockquote>
-</section>
-
 <!-- About -->
-<section id="about" class="py-20 px-6 max-w-4xl mx-auto text-center">
-<h2 class="text-3xl font-bold mb-6">🔥 Forged by Experience. United in Mastery.</h2>
-<p class="text-lg">We are <strong>Will Craft Software</strong>, an elite guild of passionate creators, dedicated apprentices, and seasoned masters who bring ideas to life through disciplined practice and enduring skill.</p>
+<section class="bg-red-800 text-center py-20 sm:py-24 px-6">
+  <h2 class="text-2xl sm:text-3xl font-bold mb-6">{{ about.title }} </h2>
+  <p class="text-lg max-w-3xl mx-auto">{{ about.subtitle |> md }}</p>
 </section>
 
 <!-- Specializations -->
 <section id="specializations" class="py-20 bg-stone-800 px-6">
-<div class="max-w-4xl mx-auto text-center">
-    <h3 class="text-3xl font-bold text-center mb-12">🌟 Our Specializations</h3>
-    <div class="grid md:grid-cols-3 gap-8">
-    <div class="bg-red-700 p-6 rounded shadow-lg">
-        <h4 class="text-xl font-bold mb-4">🏰 Digital Fortresses</h4>
-        <p>From nimble prototypes to expansive applications.</p>
+  <div class="max-w-6xl mx-auto text-center">
+    <h3 class="text-3xl font-bold mb-12">{{ specializations.title }}</h3>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {{ for item of specializations.items }}
+        <div class="bg-red-700 p-6 rounded shadow-lg text-center">
+          <div class="text-4xl mb-4">{{ item.icon }}</div>
+          <h4 class="text-xl font-bold mb-2">{{ item.title }}</h4>
+          <p class="text-base">{{ item.description }}</p>
+        </div>
+      {{ /for }}
     </div>
-    <div class="bg-red-700 p-6 rounded shadow-lg">
-        <h4 class="text-xl font-bold mb-4">🗝️ Strategic Consulting</h4>
-        <p>Architects resolving complexities and guiding strategies.</p>
-    </div>
-    <div class="bg-red-700 p-6 rounded shadow-lg">
-        <h4 class="text-xl font-bold mb-4">🧑‍🏫 Discipleship</h4>
-        <p>Apprentices immersed in impactful projects with veteran guidance.</p>
-    </div>
-    </div>
-</div>
-</section>
-
-<!-- Apprenticeship with Accordion FAQ -->
-<section id="apprenticeship" class="py-20 text-center max-w-4xl mx-auto">
-<h3 class="text-3xl font-bold mb-6">🧑‍🎓 The Path to Mastery</h3>
-<p class="mb-8">Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside nonprofit allies.</p>
-
-<div class="space-y-4 text-left">
-    <details class="bg-stone-700 rounded p-4">
-    <summary class="cursor-pointer font-semibold">What skills will I acquire?</summary>
-    <p class="pt-5">You'll learn software development, leadership, and real-world problem-solving.</p>
-    </details>
-    <details class="bg-stone-700 rounded p-4">
-    <summary class="cursor-pointer font-semibold">Who can apply?</summary>
-    <p class="pt-5">Anyone with dedication, passion, and commitment to growth.</p>
-    </details>
-    <details class="bg-stone-700 rounded p-4">
-    <summary class="cursor-pointer font-semibold">What projects will I work on?</summary>
-    <p class="pt-5">Real-world initiatives benefiting communities and nonprofit organizations.</p>
-    </details>
-</div>
-
-<a href="#" class="inline-block mt-8 bg-red-600 py-3 px-6 rounded hover:bg-red-700">🛡️ Seek Apprenticeship</a>
+  </div>
 </section>
 
 <!-- Guild Virtues -->
-<section id="virtues" class="py-20 bg-stone-800 px-6">
-<div class="max-w-4xl mx-auto">
-    <h3 class="text-3xl font-bold text-center mb-12">🛡️ Our Virtues</h3>
+<section id="virtues" class="py-20 px-6 bg-stone-900">
+  <div class="max-w-4xl mx-auto">
+    <h3 class="text-3xl font-bold text-center mb-12">{{ virtues.title }}</h3>
     <div class="space-y-6">
-    <div class="flex bg-stone-700 rounded p-6 shadow">
-        <div class="text-4xl mr-4">⚒️</div>
-        <div>
-        <h4 class="text-xl font-bold">Craftsmanship</h4>
-        <p>Excellence in every detail.</p>
+      {{ for item of virtues.items }}
+        <div class="flex items-start bg-stone-700 rounded p-6 shadow">
+          <div class="text-3xl sm:text-4xl mr-4 shrink-0">{{ item.icon }}</div>
+          <div>
+            <h4 class="text-xl font-bold">{{ item.title }}</h4>
+            <p class="mt-1">{{ item.description }}</p>
+          </div>
         </div>
+      {{ /for }}
     </div>
-    <div class="flex bg-stone-700 rounded p-6 shadow">
-        <div class="text-4xl mr-4">🤝</div>
-        <div>
-        <h4 class="text-xl font-bold">Fellowship</h4>
-        <p>United through humility and purpose.</p>
-        </div>
-    </div>
-    <div class="flex bg-stone-700 rounded p-6 shadow">
-        <div class="text-4xl mr-4">🧑‍🏫</div>
-        <div>
-        <h4 class="text-xl font-bold">Mentorship</h4>
-        <p>Wisdom passed generously.</p>
-        </div>
-    </div>
-    <div class="flex bg-stone-700 rounded p-6 shadow">
-        <div class="text-4xl mr-4">🕰️</div>
-        <div>
-        <h4 class="text-xl font-bold">Reliability</h4>
-        <p>Proven dependability.</p>
-        </div>
-    </div>
-    </div>
-</div>
+  </div>
 </section>
 
-<!-- Contact -->
-<section id="contact" class="py-20 max-w-4xl mx-auto text-center">
-<h4 class="text-3xl font-bold mb-6">📜 Contact the Guild</h4>
-<p class="mb-6">Send your inquiries or quests: <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a></p>
-<form class="space-y-4">
-    <input type="text" placeholder="Your Name" class="w-full rounded p-3">
-    <input type="email" placeholder="Your Email" class="w-full rounded p-3">
-    <textarea placeholder="Your Message" class="w-full rounded p-3" rows="4"></textarea>
-    <button class="bg-red-600 py-3 px-6 rounded hover:bg-red-700">Send Message</button>
-</form>
+<!-- Apprenticeship -->
+<section id="apprenticeship" class="p-8 sm:p-14 text-center max-w-4xl mx-auto bg-stone-800 rounded">
+  <h3 class="text-3xl font-bold mb-6">{{ apprenticeship.title }}</h3>
+  <p class="mb-8">{{ apprenticeship.subtitle }}</p>
+
+  <div class="space-y-4 text-left">
+    {{ for faq of apprenticeship.faqs }}
+      <details class="bg-stone-700 rounded p-4">
+        <summary class="cursor-pointer font-semibold">{{ faq.question }}</summary>
+        <p class="pt-4">{{ faq.answer }}</p>
+      </details>
+    {{ /for }}
+  </div>
+
+  <a href="{{ apprenticeship.cta.url }}" class="inline-block mt-8 bg-red-600 py-3 px-6 rounded hover:bg-red-700">{{ apprenticeship.cta.text }}</a>
+</section>
+
+<!-- Inquiries -->
+<section id="inquiries" class="py-20 px-6 max-w-4xl mx-auto text-center">
+  <h4 class="text-3xl font-bold mb-6">{{ contact.title }}</h4>
+  <p class="mb-6 text-base sm:text-lg">{{ contact.subtitle }}</p>
+  <form class="space-y-4 text-left">
+    <input type="text" placeholder="Your Name" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700">
+    <input type="email" placeholder="Your Email" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700">
+    <textarea placeholder="Your Message" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" rows="4"></textarea>
+    <button class="bg-red-600 py-3 px-6 rounded hover:bg-red-700 w-full sm:w-auto">Send Message</button>
+  </form>
+</section>
+
+<!-- Creed -->
+<section class="bg-red-800 text-center py-20 sm:py-24 px-6">
+  <blockquote class="italic text-xl sm:text-2xl max-w-3xl mx-auto">{{ creed.text }}</blockquote>
 </section>
 
 <!-- Footer -->
-<footer class="bg-stone-900 py-8 text-center">
-<p class="text-sm">&copy; 2025 Will Craft Software. All rights reserved.</p>
-<nav class="mt-2 space-x-4">
-    <a href="#about" class="hover:text-red-500">About</a>
-    <a href="#specializations" class="hover:text-red-500">Specializations</a>
-    <a href="#apprenticeship" class="hover:text-red-500">Apprenticeship</a>
-    <a href="#virtues" class="hover:text-red-500">Virtues</a>
-    <a href="#contact" class="hover:text-red-500">Contact</a>
-</nav>
+<footer class="bg-stone-900 py-10 text-center text-sm">
+  <p class="mb-4">{{ footer.text }}</p>
 </footer>
