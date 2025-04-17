@@ -1,0 +1,13 @@
+# humanstxt.org
+
+/* TEAM */
+
+Nap Joseph Calub
+https://napjose.ph/
+https://keybase.io/njncalub
+Makati City, Metro Manila, Philippines.
+
+/* TECH */
+
+Language: JavaScript/TypeScript handled by Deno (https://deno.com/)
+Software: Lume (https://lume.land/)
