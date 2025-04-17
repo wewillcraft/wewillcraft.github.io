@@ -23,9 +23,6 @@ hero:
     - text: 🔨 Commission the Guild
       url: "#inquiries"
       extra_class: "bg-stone-700 py-3 px-6 rounded hover:bg-stone-600"
-about:
-  title: 🔥 Forged by Experience. United in Mastery.
-  subtitle: "We are <strong>Will Craft Software</strong>, an elite guild of passionate creators, dedicated apprentices, and seasoned masters who bring ideas to life through disciplined practice and enduring skill."
 specializations:
   title: ❤️‍🔥 Our Specializations
   items:
@@ -70,4 +67,4 @@ contact:
 creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
 footer:
-  text: &copy; 2025 Will Craft Software. All rights reserved.
+  text: © 2025 Will Craft Software. All rights reserved.
