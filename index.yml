@@ -51,10 +51,10 @@ virtues:
       title: Legacy
       description: "Our work is a testament to our craft, leaving a lasting impact on the world."
 apprenticeship:
-  title: 🧑‍🎓 The Path to Mastery
+  title: 🧑‍🎓 The Path of the Apprentice
   subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside nonprofit allies."
   faqs:
-    - question: "What is the apprenticeship?"
+    - question: "What is this apprenticeship?"
       answer: "A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors."
     - question: "Who can apply?"
       answer: "Anyone with a passion for technology and a desire to learn. We welcome all backgrounds and skill levels."
@@ -64,9 +64,6 @@ apprenticeship:
       answer: "The apprenticeship lasts 6 months, with flexible schedules to accommodate your needs."
     - question: "What projects will I work on?"
       answer: "You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions."
-  cta:
-    text: 🛡️ Seek Apprenticeship
-    url: "#"
 contact:
   title: 📜 Contact the Guild
   subtitle: 'Send your inquiries or quests to <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'

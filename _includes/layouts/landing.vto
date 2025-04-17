@@ -38,10 +38,10 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 </section>
 
 <!-- Specializations -->
-<section id="specializations" class="py-20 bg-stone-800 px-6">
-  <div class="max-w-6xl mx-auto text-center">
+<section id="specializations" class="py-20 bg-stone-800">
+  <div class="max-w-4xl mx-auto text-center">
     <h3 class="text-3xl font-bold mb-12">{{ specializations.title }}</h3>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mx-6 md:gap-8 md:mx-0">
       {{ for item of specializations.items }}
         <div class="bg-red-700 p-6 rounded shadow-lg text-center">
           <div class="text-4xl mb-4">{{ item.icon }}</div>
@@ -72,24 +72,24 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 </section>
 
 <!-- Apprenticeship -->
-<section id="apprenticeship" class="p-8 sm:p-14 text-center max-w-4xl mx-auto bg-stone-800 rounded">
-  <h3 class="text-3xl font-bold mb-6">{{ apprenticeship.title }}</h3>
-  <p class="mb-8">{{ apprenticeship.subtitle }}</p>
+<section id="apprenticeship" class="bg-stone-800 text-center">
+  <div class="max-w-4xl mx-auto py-20 rounded">
+    <h3 class="text-3xl font-bold mb-6">{{ apprenticeship.title }}</h3>
+    <p class="mb-8">{{ apprenticeship.subtitle }}</p>
 
-  <div class="space-y-4 text-left">
-    {{ for faq of apprenticeship.faqs }}
-      <details class="bg-stone-700 rounded p-4">
-        <summary class="cursor-pointer font-semibold">{{ faq.question }}</summary>
-        <p class="pt-4">{{ faq.answer }}</p>
-      </details>
-    {{ /for }}
+    <div class="space-y-4 text-left mx-6 md:mx-0">
+      {{ for faq of apprenticeship.faqs }}
+        <details class="bg-stone-700 rounded p-4">
+          <summary class="cursor-pointer font-semibold">{{ faq.question }}</summary>
+          <p class="pt-4">{{ faq.answer }}</p>
+        </details>
+      {{ /for }}
+    </div>
   </div>
-
-  <a href="{{ apprenticeship.cta.url }}" class="inline-block mt-8 bg-red-600 py-3 px-6 rounded hover:bg-red-700">{{ apprenticeship.cta.text }}</a>
 </section>
 
 <!-- Inquiries -->
-<section id="inquiries" class="py-20 px-6 max-w-4xl mx-auto text-center">
+<section id="inquiries" class="py-20 max-w-4xl mx-auto text-center">
   <h4 class="text-3xl font-bold mb-6">{{ contact.title }}</h4>
   <p class="mb-6 text-base sm:text-lg">{{ contact.subtitle }}</p>
   <form class="space-y-4 text-left">
