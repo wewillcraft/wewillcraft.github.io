@@ -1,0 +1,13 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [80, 100],
+  "editor.defaultFormatter": "dprint.dprint",
+  "files.associations": {
+    "**/.vscode/*.json": "jsonc"
+  },
+  "prettify-ts.maxDepth": 3,
+  "window.title": "${activeEditorMedium}${separator}${rootName}"
+}
