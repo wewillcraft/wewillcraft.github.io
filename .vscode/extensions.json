@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "denoland.vscode-deno",
+    "donjayamanne.githistory",
+    "dprint.dprint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "mylesmurphy.prettify-ts",
+    "oderwat.indent-rainbow",
+    "oscarotero.vento-syntax",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
