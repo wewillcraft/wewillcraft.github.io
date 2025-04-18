@@ -26,15 +26,24 @@ hero:
 specializations:
   title: ❤️‍🔥 Our Specializations
   items:
-    - icon: 🏰
-      title: Digital Masterpieces
-      description: From nimble prototypes to expansive applications.
-    - icon: 🗝️
-      title: Strategic Consulting
-      description: Guiding you through the labyrinth of technology.
-    - icon: 🧑‍🏫
-      title: Discipleship
-      description: Nurturing the next generation of crafters.
+    - title: Build Missions
+      subtitle: Custom Web & App Development for Non-Profits
+      description: We partner with mission-driven organizations—especially those with little to no budget—to craft digital solutions that help them shine. Whether it's a simple website, a donation platform, or a fully interactive app, our guild of seasoned developers and apprentices builds tools that carry real-world impact. Every project is a chance to bring light where there was once digital darkness.
+    - title: Apprentice Pathways
+      subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
+      description: No bootcamps. No tuition. Just a sacred bond between master and apprentice. Through our Christian-inspired mentorship model, experienced developers guide students and career switchers through real projects, spiritual growth, and skill-building—side by side. Apprentices don't just learn to code—they learn to craft.
+    - title: The Open Codex
+      subtitle: Open-Source Tools for the Greater Good
+      description: Some of our best creations are shared freely, as gifts to the world. Through our public GitHub "Codex," we maintain, contribute, and release open-source tools, components, and platforms that solve common needs in non-profit and ministry tech. Whether it's a prayer scheduler, a food pantry app, or a secure feedback form—we open the forge to all.
+    - title: The Crafting Table
+      subtitle: Design Help for Small Teams Without Designers
+      description: Design shouldn't be a luxury. We offer lightweight design support to mission-driven teams who need help making their tools beautiful, usable, and accessible. Through sketches, wireframes, and empathy-driven audits, we help teams make magic out of the mundane.
+    - title: Living Scrolls
+      subtitle: Documentation & Knowledge Sharing That Outlives Us
+      description: We don't just write code—we tell its story. Our team helps projects stay alive through clear, friendly documentation, so others can pick up the work and keep it going. Whether it's onboarding guides, API docs, or setup walkthroughs, we write like we're leaving a map for the next adventurer.
+    - title: Campfire Talks & Devotions
+      subtitle: Tech + Faith Gatherings for Builders With Heart
+      description: We host regular meetups, fireside talks, and devotions where guild members can share what they're learning—technically and spiritually. From testimony-driven talks to code walkthroughs and themed prayer nights, these events create sacred space for Crafters to rest, reflect, and be refined.
 values:
   title: 🛡️ The Code of the Guild
   items:
@@ -81,7 +90,7 @@ values:
       description: We move at the speed of care. No matter how skilled, fast, or far ahead we are, we slow down for the ones who need help. In this guild, we don't leave anyone behind on the battlefield.
       verse: Galatians 6:2
     - icon:
-        name: wand-magic
+        name: hand-sparkles
         library: fontawesome
         variant: solid
       title: Always Be Crafting 
