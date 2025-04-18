@@ -3,23 +3,21 @@ title_suffix: Will Craft Software
 footer:
   text: © 2025 Will Craft Software. All rights reserved.
   links:
-    - icon: github
-      icon_library: fontawesome
-      icon_variant: brands
+    - icon:
+        name: github
+        library: fontawesome
+        variant: brands
       text: GitHub
       url: https://github.com/wewillcraft
-    - icon: linkedin
-      icon_library: fontawesome
-      icon_variant: brands
-      text: LinkedIn
-      url: https://www.linkedin.com/company/wewillcraft
-    - icon: keybase
-      icon_library: fontawesome
-      icon_variant: brands
-      text: Keybase
-      url: https://keybase.io/wewillcraft
-    - icon: facebook
-      icon_library: fontawesome
-      icon_variant: brands
+    - icon:
+        name: facebook
+        library: fontawesome
+        variant: brands
       text: Facebook
       url: https://facebook.com/wewillcraft
+    - icon:
+        name: instagram
+        library: fontawesome
+        variant: brands
+      text: Instagram
+      url: https://instagram.com/wewillcraft

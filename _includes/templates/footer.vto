@@ -4,8 +4,8 @@
   <nav class="flex flex-wrap justify-center gap-x-6 gap-y-4">
     {{ for link of footer.links }}
       <a href="{{ link.url }}" class="flex items-center gap-2 text-white hover:text-red-500 transition" target="_blank">
-        <img src="{{ link.icon |> icon(link.icon_library, link.icon_variant) }}" class="h-4 w-4" alt="{{ link.text }}" inline />
-        <span class="text-sm">{{ link.text }}</span>
+        <img src="{{ link.icon.name |> icon(link.icon.library, link.icon.variant) }}" class="h-4 w-4" alt="{{ link.text }}" inline />
+        <span class="text-xs uppercase">{{ link.text }}</span>
       </a>
     {{ /for }}
   </nav>
