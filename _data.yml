@@ -1,7 +1,7 @@
 layout: layouts/base.vto
 title_suffix: Will Craft Software
 footer:
-  text: © 2025 Will Craft Software. All rights reserved.
+  text: © 2025 — Will Craft Software. All rights reserved.
   links:
     - icon:
         name: github

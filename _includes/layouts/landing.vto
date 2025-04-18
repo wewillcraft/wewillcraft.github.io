@@ -5,15 +5,16 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 
 <!-- Navbar -->
 <nav class="sticky top-0 z-50 bg-stone-900 py-4 shadow-lg">
-  <div class="max-w-4xl mx-auto flex flex-wrap justify-between items-center">
-    <div class="text-2xl font-bold uppercase mb-4 sm:mb-0 w-full sm:w-auto text-center sm:text-left">
-      <img src="{{ navbar.logo }}" alt="{{ navbar.logo_alt }}" class="h-5 w-5 inline-block mr-1 mb-1">
-      {{ navbar.title }}
+  <div class="max-w-4xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+    <div class="flex items-center gap-2">
+      <img src="{{ navbar.logo }}" alt="{{ navbar.logo_alt }}" class="h-6 w-6">
+      <span class="text-xl font-bold uppercase text-stone-100 tracking-wide">{{ navbar.title }}</span>
     </div>
-    <ul class="flex flex-wrap justify-center sm:justify-end gap-4 w-full sm:w-auto">
+
+    <ul class="flex flex-wrap justify-center md:justify-end gap-4 text-sm sm:text-base text-stone-300">
       {{ for link of navbar.links }}
         <li>
-          <a href="{{ link.url }}" class="hover:text-red-500 text-sm sm:text-base">{{ link.text }}</a>
+          <a href="{{ link.url }}" class="hover:text-red-400 transition-colors duration-200">{{ link.text }}</a>
         </li>
       {{ /for }}
     </ul>
@@ -21,20 +22,22 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 </nav>
 
 <!-- Hero -->
-<header class="py-32 sm:py-48 text-center px-6">
-  <h1 class="text-6xl font-bold mb-4">{{ hero.title }}</h1>
-  <p class="italic text-lg sm:text-xl">{{ hero.subtitle }}</p>
-  <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
-    {{ for link of hero.links }}
-      <a href="{{ link.url }}" class="{{ link.extra_class }}">{{ link.text }}</a>
-    {{ /for }}
+<header class="py-32 sm:py-48 text-center">
+  <div class="max-w-4xl mx-auto px-6">
+    <h1 class="text-6xl font-bold mb-4">{{ hero.title }}</h1>
+    <p class="italic text-lg sm:text-xl">{{ hero.subtitle }}</p>
+    <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+      {{ for link of hero.links }}
+        <a href="{{ link.url }}" class="{{ link.extra_class }}">{{ link.text }}</a>
+      {{ /for }}
+    </div>
   </div>
 </header>
 
 <!-- Guild Code -->
-<section id="values" class="py-20 px-6 bg-stone-800">
-  <div class="max-w-4xl mx-auto">
-    <h3 class="text-3xl md:text-5xl font-bold text-center mb-12">{{ values.title }}</h3>
+<section id="values" class="py-20 bg-stone-800">
+  <div class="max-w-4xl mx-auto px-6">
+    <h3 class="text-3xl md:text-5xl font-bold text-center mb-16">{{ values.title }}</h3>
     <div class="space-y-6">
       {{ for item of values.items }}
         <div class="flex items-start bg-stone-700 rounded p-6 shadow flex-col md:flex-row text-center md:text-left gap-5 transition hover:-translate-y-1 hover:shadow-2xl duration-300">
@@ -54,24 +57,16 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 
 <!-- Specializations -->
 <section id="specializations" class="py-24 bg-gradient-to-b from-stone-950 to-stone-900 text-stone-100">
-  <div class="max-w-4xl mx-auto text-center px-4">
+  <div class="max-w-4xl mx-auto px-6 text-center">
     <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight">
       {{ specializations.title }}
     </h3>
     <div class="grid gap-5 md:grid-cols-2">
       {{ for item of specializations.items }}
-        <div class="bg-stone-800 rounded-2xl p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group">
-          <div class="mb-4">
-            <h4 class="text-2xl font-semibold">
-              {{ item.title }}
-            </h4>
-            <p class="italic text-sm text-stone-400 mt-1">
-              {{ item.subtitle }}
-            </p>
-          </div>
-          <p class="text-base leading-relaxed text-stone-200">
-            {{ item.description }}
-          </p>
+        <div class="bg-stone-800 rounded p-6 shadow-xl border border-red-800 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left">
+          <h4 class="text-2xl font-semibold">{{ item.title }}</h4>
+          <p class="italic text-sm text-red-400 mt-1">{{ item.subtitle }}</p>
+          <p class="text-base leading-relaxed text-stone-200 mt-3">{{ item.description }}</p>
         </div>
       {{ /for }}
     </div>
@@ -79,12 +74,12 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 </section>
 
 <!-- Apprenticeship -->
-<section id="apprenticeship" class="bg-stone-800 text-center">
-  <div class="max-w-4xl mx-auto py-20 rounded">
-    <h3 class="text-3xl md:text-5xl font-bold mb-6">{{ apprenticeship.title }}</h3>
-    <p class="mb-8">{{ apprenticeship.subtitle }}</p>
+<section id="apprenticeship" class="bg-stone-800 py-20 text-center">
+  <div class="max-w-4xl mx-auto px-6">
+    <h3 class="text-3xl md:text-5xl font-bold mb-5">{{ apprenticeship.title }}</h3>
+    <p class="mb-16">{{ apprenticeship.subtitle }}</p>
 
-    <div class="space-y-4 text-left mx-6 md:mx-0">
+    <div class="space-y-4 text-left">
       {{ for faq of apprenticeship.faqs }}
         <details class="bg-stone-700 rounded p-4">
           <summary class="cursor-pointer font-semibold">{{ faq.question }}</summary>
@@ -96,20 +91,22 @@ body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-wh
 </section>
 
 <!-- Inquiries -->
-<section id="inquiries" class="py-20 max-w-4xl mx-auto text-center">
-  <div class="mx-6">
-    <h4 class="text-3xl md:text-5xl font-bold mb-6">{{ contact.title }}</h4>
-    <p class="mb-6 text-base sm:text-lg">{{ contact.subtitle }}</p>
+<section id="inquiries" class="py-20">
+  <div class="max-w-4xl mx-auto px-6 text-center">
+    <h4 class="text-3xl md:text-5xl font-bold mb-5">{{ contact.title }}</h4>
+    <p class="mb-16 text-base sm:text-lg">{{ contact.subtitle }}</p>
     <form class="space-y-4 text-left" target="_blank" action="https://formsubmit.co/{{ contact.email }}" method="POST">
       <input type="text" name="name" placeholder="Your Name" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" required />
       <input type="email" name="email" placeholder="Your Email" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" required />
-      <textarea name="message" placeholder="Your Message" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700" rows="4" required></textarea>
+      <textarea name="message" placeholder="Your Message" class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700 resize-none" rows="6" required></textarea>
       <button type="submit" class="bg-red-600 py-3 px-6 rounded hover:bg-red-700 w-full sm:w-auto">Send Message</button>
     </form>
   </div>
 </section>
 
 <!-- Creed -->
-<section class="bg-red-800 text-center py-20 sm:py-24 px-6">
-  <blockquote class="italic text-xl sm:text-2xl max-w-3xl mx-auto">{{ creed.text }}</blockquote>
+<section class="bg-red-800 py-20 sm:py-24 text-center">
+  <div class="max-w-4xl mx-auto px-6">
+    <blockquote class="italic text-xl sm:text-2xl">{{ creed.text }}</blockquote>
+  </div>
 </section>
