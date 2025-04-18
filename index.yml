@@ -23,27 +23,6 @@ hero:
     - text: 🔨 Commission the Guild
       url: "#inquiries"
       extra_class: "bg-stone-700 py-3 px-6 rounded hover:bg-stone-600"
-specializations:
-  title: ❤️‍🔥 Our Specializations
-  items:
-    - title: Build Missions
-      subtitle: Custom Web & App Development for Non-Profits
-      description: We partner with mission-driven organizations—especially those with little to no budget—to craft digital solutions that help them shine. Whether it's a simple website, a donation platform, or a fully interactive app, our guild of seasoned developers and apprentices builds tools that carry real-world impact. Every project is a chance to bring light where there was once digital darkness.
-    - title: Apprentice Pathways
-      subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
-      description: No bootcamps. No tuition. Just a sacred bond between master and apprentice. Through our Christian-inspired mentorship model, experienced developers guide students and career switchers through real projects, spiritual growth, and skill-building—side by side. Apprentices don't just learn to code—they learn to craft.
-    - title: The Open Codex
-      subtitle: Open-Source Tools for the Greater Good
-      description: Some of our best creations are shared freely, as gifts to the world. Through our public GitHub "Codex," we maintain, contribute, and release open-source tools, components, and platforms that solve common needs in non-profit and ministry tech. Whether it's a prayer scheduler, a food pantry app, or a secure feedback form—we open the forge to all.
-    - title: The Crafting Table
-      subtitle: Design Help for Small Teams Without Designers
-      description: Design shouldn't be a luxury. We offer lightweight design support to mission-driven teams who need help making their tools beautiful, usable, and accessible. Through sketches, wireframes, and empathy-driven audits, we help teams make magic out of the mundane.
-    - title: Living Scrolls
-      subtitle: Documentation & Knowledge Sharing That Outlives Us
-      description: We don't just write code—we tell its story. Our team helps projects stay alive through clear, friendly documentation, so others can pick up the work and keep it going. Whether it's onboarding guides, API docs, or setup walkthroughs, we write like we're leaving a map for the next adventurer.
-    - title: Campfire Talks & Devotions
-      subtitle: Tech + Faith Gatherings for Builders With Heart
-      description: We host regular meetups, fireside talks, and devotions where guild members can share what they're learning—technically and spiritually. From testimony-driven talks to code walkthroughs and themed prayer nights, these events create sacred space for Crafters to rest, reflect, and be refined.
 values:
   title: 🛡️ The Code of the Guild
   items:
@@ -96,6 +75,27 @@ values:
       title: Always Be Crafting 
       description: Our creativity doesn't clock out. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
       verse: Ecclesiastes 9:10
+specializations:
+  title: ❤️‍🔥 Missions That Move Us
+  items:
+    - title: Purpose-Built Software
+      subtitle: Custom Web & App Development for Non-Profits
+      description: We partner with organizations on the frontlines of change—those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. Our guild shows up where digital impact meets real-world need.
+    - title: Path of the Apprentice
+      subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
+      description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school—it's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience—they gain belonging, confidence, and calling.
+    - title: Codex of the Commons
+      subtitle: Open-Source Tools for the Greater Good
+      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. From prayer schedulers to donation systems, we maintain a codex of solutions for others to freely build upon.
+    - title: System Support Quests
+      subtitle: Technical Help & Platform Setup for Small Teams
+      description: Not every mission needs a custom build—sometimes, it just needs someone who knows what button to press. We assist purpose-driven teams with tech setup, third-party tools, automation, and guidance on how to stitch systems together. Think of us as the support clerics—quietly enabling others to shine.
+    - title: Eternal Lore
+      subtitle: Documentation & Knowledge Sharing That Outlives Us
+      description: When the mission is bigger than us, we write for those who come after. Our documentation practice ensures codebases, workflows, and onboarding guides live on—even when team members move on. We write so others can continue the quest without getting lost in the woods.
+    - title: Fireside Fellowship
+      subtitle: Tech + Faith Gatherings for Builders With Heart
+      description: Around the virtual fire, we gather for more than just code. We share testimonies, trade wisdom, study scripture, and recharge. Whether you're a master crafter or a new apprentice, the campfire is a place of warmth, worship, and witness. This is where builders become family.
 apprenticeship:
   title: 🧑‍🎓 Applying as an Apprentice
   subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors."
