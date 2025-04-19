@@ -767,6 +767,12 @@ This setup is ideal for folks who don't want to memorize HTML, CSS, or Deno APIs
 
 Start small. Try edits. Break stuff. Then fix it with prompts. That's how you learn.
 
-If you want to see a full example or have me help build your resume with you – just ask.
+If you want to see a full example, I added a Lume theme called [pro-file](https://github.com/wewillcraft/pro-file). You can check it at [lume.land/theme/pro-file](https://lume.land/theme/pro-file/).
+
+To use it in an empty project, you can do:
+
+```bash
+deno run -A https://lume.land/init.ts --theme=pro-file
+```
 
 Happy building!
