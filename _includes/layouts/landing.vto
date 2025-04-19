@@ -58,7 +58,7 @@ body_class: "bg-stone-900 text-white"
     </h3>
     <div class="grid gap-5 md:grid-cols-2">
       {{ for item of specializations.items }}
-        <div class="bg-stone-800 rounded p-6 shadow-xl border border-red-800 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left">
+        <div class="bg-stone-800 rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left">
           <h4 class="text-2xl font-semibold">{{ item.title }}</h4>
           <p class="italic text-sm text-red-400 mt-1">{{ item.subtitle }}</p>
           <p class="text-base leading-relaxed text-stone-200 mt-3">
@@ -130,6 +130,61 @@ body_class: "bg-stone-900 text-white"
         Send Message
       </button>
     </form>
+  </div>
+</section>
+
+<!-- Articles -->
+<section id="articles" class="py-24 bg-stone-800 text-white">
+  <div class="max-w-6xl mx-auto px-6 text-center">
+    <h3 class="text-3xl md:text-5xl font-bold mb-4">{{ posts.title }}</h3>
+    <p class="mb-16 text-base sm:text-lg italic">{{ posts.subtitle }}</p>
+    <div class="grid gap-8 text-left">
+      {{
+        for post of search.pages("type=post")
+        |> slice(0, posts.items_to_show)
+      }}
+        <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group">
+          <h2 class="text-2xl font-semibold mb-1">
+            <a
+              href="{{ post.url }}"
+              class="text-white hover:text-red-300 transition"
+            >
+              {{ post.title }}
+            </a>
+          </h2>
+          <p class="text-stone-300 mb-2 flex flex-row gap-1">
+            <span>Written by</span>
+            <a
+              href="{{ post.author.url }}"
+              class="underline hover:text-red-400 transition duration-300"
+            >{{ post.author.name }}</a>
+            <span>on</span>
+            <span class="italic">{{ post.date |> date("MMMM d, yyyy") }}</span>
+          </p>
+
+          {{ if post.tags }}
+            <div class="mb-4 flex flex-wrap gap-2">
+              {{ for tag of post.tags }}
+                <span class="bg-red-900 text-white font-medium px-3 py-1">
+                  {{ tag }}
+                </span>
+              {{ /for }}
+            </div>
+          {{ /if }}
+
+          <p class="text-stone-200 leading-relaxed">
+            {{ post.excerpt }}
+          </p>
+
+          <a
+            href="{{ post.url }}"
+            class="inline-block mt-4 text-red-400 font-semibold hover:underline transition duration-300"
+          >
+            Read more →
+          </a>
+        </div>
+      {{ /for }}
+    </div>
   </div>
 </section>
 

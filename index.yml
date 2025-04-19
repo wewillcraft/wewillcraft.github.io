@@ -103,3 +103,7 @@ contact:
   email: we@willcraft.software
 creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
+posts:
+  title: 📝 The Guild's Chronicles
+  subtitle: "Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding."
+  items_to_show: 3

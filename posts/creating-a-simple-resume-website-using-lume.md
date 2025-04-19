@@ -1,6 +1,9 @@
 ---
 title: Creating a Simple Resume Website Using Lume
 date: 2025-04-19
+author:
+  name: Nap Joseph Calub
+  url: https://napjose.ph
 excerpt: Learn how to build a sleek resume site using Lume, Tailwind, and Vento – with the help of ChatGPT. No coding experience needed!
 tags:
   - Lume
