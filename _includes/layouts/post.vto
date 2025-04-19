@@ -6,20 +6,25 @@ body_class: "bg-stone-900 text-white"
   <div class="max-w-6xl mx-auto px-6">
     <header class="mb-12">
       <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ title }}</h1>
+      <p class="text-stone-300 mb-2 flex flex-row gap-1">
+        <span>Written by</span>
+        <a
+          href="{{ author.url }}"
+          class="underline hover:text-red-400 transition duration-300"
+        >{{ author.name }}</a>
+        <span>on</span>
+        <span class="italic">{{ date |> date("MMMM d, yyyy") }}</span>
+      </p>
+
       {{ if tags }}
-        <div class="mt-4 flex flex-wrap gap-2 mb-4">
+        <div class="mb-4 flex flex-wrap gap-2">
           {{ for tag of tags }}
-            <span
-              class="bg-red-900 text-white text-xs font-medium px-3 py-1 rounded-full"
-            >
+            <span class="bg-red-900 text-white font-medium px-3 py-1">
               {{ tag }}
             </span>
           {{ /for }}
         </div>
       {{ /if }}
-      <p class="text-stone-400 italic text-sm">
-        {{ date |> date("MMMM d, yyyy") }}
-      </p>
     </header>
 
     <div class="prose prose-invert prose-stone max-w-none">
