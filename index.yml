@@ -1,18 +1,5 @@
 layout: layouts/landing.vto
 title: Software as a Craft
-navbar:
-  logo: /logo-white.svg
-  logo_alt: Will Craft Software
-  title: Will Craft Software
-  links:
-    - text: Values
-      url: "#values"
-    - text: Specializations
-      url: "#specializations"
-    - text: Apprenticeship
-      url: "#apprenticeship"
-    - text: Inquiries
-      url: "#inquiries"
 hero:
   title: ⚔️ We are a Collective of Crafters
   subtitle: A Guild of Makers Tackling Real-World Challenges
@@ -72,7 +59,7 @@ values:
         name: hand-sparkles
         library: fontawesome
         variant: solid
-      title: Always Be Crafting 
+      title: Always Be Crafting
       description: Our creativity doesn't clock out. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
       verse: Ecclesiastes 9:10
 specializations:

@@ -1,31 +1,7 @@
 ---
 layout: ./base.vto
-body_class: "bg-gradient-to-br from-stone-950 via-stone-900 to-stone-950 text-white"
+body_class: "bg-stone-900 text-white"
 ---
-
-<!-- Navbar -->
-<nav class="sticky top-0 z-50 bg-stone-900 py-4 shadow-lg">
-  <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
-    <div class="flex items-center gap-2">
-      <img src="{{ navbar.logo }}" alt="{{ navbar.logo_alt }}" class="h-6 w-6">
-      <span class="text-xl font-bold uppercase text-stone-100 tracking-wide">{{
-        navbar.title
-      }}</span>
-    </div>
-
-    <ul class="flex flex-wrap justify-center md:justify-end gap-4 text-sm sm:text-base text-stone-300">
-      {{ for link of navbar.links }}
-        <li>
-          <a
-            href="{{ link.url }}"
-            class="hover:text-red-400 transition-colors duration-200"
-          >{{ link.text }}</a>
-        </li>
-      {{ /for }}
-    </ul>
-  </div>
-</nav>
-
 <!-- Hero -->
 <header class="py-32 sm:py-48 text-center">
   <div class="max-w-6xl mx-auto px-6">

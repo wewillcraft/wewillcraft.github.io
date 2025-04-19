@@ -1,0 +1,22 @@
+---
+layout: ./base.vto
+body_class: "bg-stone-900 text-white"
+---
+<article class="py-24">
+  <div class="max-w-6xl mx-auto px-6">
+    <header class="mb-12">
+      <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ title }}</h1>
+      <p class="text-stone-400 italic text-sm">
+        {{ date |> date("MMMM d, yyyy") }}
+      </p>
+    </header>
+
+    <div class="prose prose-invert prose-stone max-w-none">
+      {{ content }}
+    </div>
+
+    <footer class="mt-16 text-center">
+      <a href="/posts" class="text-red-400 hover:underline">← Back to posts</a>
+    </footer>
+  </div>
+</article>

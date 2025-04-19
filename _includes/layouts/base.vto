@@ -18,9 +18,8 @@
     <link rel="author" href="humans.txt" />
   </head>
   <body class="{{ body_class }}">
+    {{ include "templates/navbar.vto" }}
     {{ content }}
-
-    <!-- Footer -->
     {{ include "templates/footer.vto" }}
   </body>
 </html>
