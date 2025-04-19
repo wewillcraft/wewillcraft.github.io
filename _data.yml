@@ -1,5 +1,19 @@
 layout: layouts/base.vto
 title_suffix: Will Craft Software
+navbar:
+  logo: /logo-white.svg
+  logo_alt: Will Craft Software
+  logo_url: /
+  title: Will Craft Software
+  links:
+    - text: Values
+      url: "#values"
+    - text: Specializations
+      url: "#specializations"
+    - text: Apprenticeship
+      url: "#apprenticeship"
+    - text: Inquiries
+      url: "#inquiries"
 footer:
   text: © 2025 — Will Craft Software. All rights reserved.
   links:
