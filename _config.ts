@@ -11,6 +11,7 @@ import prism from "lume/plugins/prism.ts";
 import "npm:prismjs@1.29.0/components/prism-bash.js";
 import "npm:prismjs@1.29.0/components/prism-typescript.js";
 import "npm:prismjs@1.29.0/components/prism-yaml.js";
+import "npm:prismjs@1.29.0/components/prism-diff.js";
 
 const site = lume();
 
@@ -33,6 +34,7 @@ site.use(lightningCss());
 
 site.ignore("README.md");
 
+site.copy("uploads");
 site.copy("static", ".");
 
 export default site;
