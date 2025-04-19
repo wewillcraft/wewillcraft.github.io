@@ -6,6 +6,17 @@ body_class: "bg-stone-900 text-white"
   <div class="max-w-6xl mx-auto px-6">
     <header class="mb-12">
       <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ title }}</h1>
+      {{ if tags }}
+        <div class="mt-4 flex flex-wrap gap-2 mb-4">
+          {{ for tag of tags }}
+            <span
+              class="bg-red-900 text-white text-xs font-medium px-3 py-1 rounded-full"
+            >
+              {{ tag }}
+            </span>
+          {{ /for }}
+        </div>
+      {{ /if }}
       <p class="text-stone-400 italic text-sm">
         {{ date |> date("MMMM d, yyyy") }}
       </p>
@@ -16,7 +27,8 @@ body_class: "bg-stone-900 text-white"
     </div>
 
     <footer class="mt-16 text-center">
-      <a href="/posts" class="text-red-400 hover:underline">← Back to posts</a>
+      <a href="/posts" class="text-red-400 hover:underline"
+      >← Back to all posts</a>
     </footer>
   </div>
 </article>

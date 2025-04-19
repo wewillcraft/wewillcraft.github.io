@@ -6,5 +6,5 @@ navbar:
   logo_url: /
   title: Will Craft Software
   links:
-    - text: Posts
+    - text: All Posts
       url: "/posts"

@@ -1,6 +1,7 @@
 import lume from "lume/mod.ts";
 import favicon from "lume/plugins/favicon.ts";
 import inline from "lume/plugins/inline.ts";
+import date from "lume/plugins/date.ts";
 import icons from "lume/plugins/icons.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import typography from "npm:@tailwindcss/typography";
@@ -17,6 +18,7 @@ const site = lume();
 
 site.use(favicon());
 site.use(icons());
+site.use(date());
 site.use(inline());
 site.use(prism({
   theme: {
