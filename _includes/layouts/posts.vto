@@ -18,20 +18,20 @@ body_class: "bg-stone-900 text-white"
               {{ post.title }}
             </a>
           </h2>
-          <p class="text-stone-300 mb-2 flex flex-row gap-1">
-            <span>Written by</span>
+          <p class="text-stone-300 mb-2">
+            <span>Written by</span>{{ " " }}
             <a
               href="{{ post.author.url }}"
               class="underline hover:text-red-400 transition duration-300"
-            >{{ post.author.name }}</a>
-            <span>on</span>
+            >{{ post.author.name }}</a>{{ " " }}
+            <span>on</span>{{ " " }}
             <span class="italic">{{ post.date |> date("MMMM d, yyyy") }}</span>
           </p>
 
           {{ if post.tags }}
             <div class="mb-4 flex flex-wrap gap-2">
               {{ for tag of post.tags }}
-                <span class="bg-red-900 text-white font-medium px-3 py-1">
+                <span class="bg-red-800 text-white font-medium px-3 py-1">
                   {{ tag }}
                 </span>
               {{ /for }}
