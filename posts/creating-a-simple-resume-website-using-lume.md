@@ -9,11 +9,14 @@ tags:
   - Lume
   - Lume CMS
   - Tailwind CSS
+  - GitHub Pages
+  - Vento
+  - ChatGPT
 ---
 
 ## Overview
 
-This article provides a step-by-step guide to creating a simple resume website using **Lume**, a static site generator. We'll set up the project, create layouts with **Vento**, style it with **TailwindCSS**, manage content using **lumecms**, and deploy it to **GitHub Pages**. The final result is a clean, professional-looking resume site you can customize and update easily. Low coding knowledge required – just your curiosity and the ability to use ChatGPT.
+This article provides a step-by-step guide to creating a simple resume website using **Lume**, a static site generator. We'll set up the project, create layouts with **Vento**, style it with **Tailwind CSS**, manage content using **LumeCMS**, and deploy it to **GitHub Pages**. The final result is a clean, professional-looking resume site you can customize and update easily. Low coding knowledge required – just your curiosity and the ability to use ChatGPT.
 
 ---
 
@@ -96,9 +99,9 @@ Create a new file called `base.vto` inside the `layouts` folder. This file will 
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
     {{ content }}
@@ -344,8 +347,9 @@ If it goes well, it should generate something like this:
     </style>
   </head>
   <body class="bg-gray-100 text-gray-900">
-    <main class="max-w-3xl mx-auto my-8 bg-white p-10 shadow-lg rounded-xl print:shadow-none print:p-0 print:rounded-none print:bg-white print:max-w-full print:my-0 print:text-black">
-
+    <main
+      class="max-w-3xl mx-auto my-8 bg-white p-10 shadow-lg rounded-xl print:shadow-none print:p-0 print:rounded-none print:bg-white print:max-w-full print:my-0 print:text-black"
+    >
       <!-- Header -->
       <header class="text-center border-b pb-4 mb-6">
         <h1 class="text-3xl font-bold">{{ profile.name }}</h1>
@@ -353,79 +357,89 @@ If it goes well, it should generate something like this:
         <p class="mt-2 text-sm text-gray-500">{{ profile.summary }}</p>
         <div class="mt-4 text-sm text-gray-600 space-y-1">
           {{ for item of profile.contact }}
-            <div class="flex items-center gap-2">
-              <img src="{{ item.icon.name |> icon(item.icon.library, item.icon.variant) }}" class="h-4 w-4" alt="{{ item.text }}"  />
-              <a href="{{ item.link }}" class="hover:underline text-blue-600" target="_blank">
-                {{ item.text }}
-              </a>
-            </div>
+          <div class="flex items-center gap-2">
+            <img
+              src="{{ item.icon.name |> icon(item.icon.library, item.icon.variant) }}"
+              class="h-4 w-4"
+              alt="{{ item.text }}"
+            />
+            <a
+              href="{{ item.link }}"
+              class="hover:underline text-blue-600"
+              target="_blank"
+            >
+              {{ item.text }}
+            </a>
+          </div>
           {{ /for }}
         </div>
       </header>
 
       <!-- Sections -->
       {{ for section of sections }}
-        <section class="mb-6">
-          <h2 class="text-xl font-semibold border-b pb-1 mb-3 uppercase tracking-wide">{{ section.title }}</h2>
+      <section class="mb-6">
+        <h2
+          class="text-xl font-semibold border-b pb-1 mb-3 uppercase tracking-wide"
+        >
+          {{ section.title }}
+        </h2>
 
-          {{ if section.type === "experience" }}
-            {{ for item of section.items }}
-              <div class="mb-4">
-                <div class="flex justify-between">
-                  <strong class="text-md">{{ item.role }} – {{ item.company }}</strong>
-                  <span class="text-sm text-gray-500">{{ item.period }}</span>
-                </div>
-                <div class="text-sm text-gray-600 italic">{{ item.location }}</div>
-                <p class="text-sm mt-1">{{ item.description }}</p>
-              </div>
-            {{ /for }}
-          {{ /if }}
-
-          {{ if section.type === "education" }}
-            {{ for item of section.items }}
-              <div class="mb-4">
-                <div class="flex justify-between">
-                  <strong class="text-md">{{ item.degree }}</strong>
-                  <span class="text-sm text-gray-500">{{ item.period }}</span>
-                </div>
-                <div class="text-sm text-gray-600 italic">{{ item.school }} – {{ item.location }}</div>
-              </div>
-            {{ /for }}
-          {{ /if }}
-
-          {{ if section.type === "skills" }}
-            <ul class="grid grid-cols-2 gap-1 text-sm list-disc list-inside text-gray-700">
-              {{ for skill of section.items }}
-                <li>{{ skill }}</li>
-              {{ /for }}
-            </ul>
-          {{ /if }}
-
-          {{ if section.type === "projects" }}
-            {{ for project of section.items }}
-              <div class="mb-3">
-                <a href="{{ project.url }}" class="text-blue-700 font-medium hover:underline">{{ project.name }}</a>
-                <p class="text-sm text-gray-600">{{ project.description }}</p>
-              </div>
-            {{ /for }}
-          {{ /if }}
-
-          {{ if section.type === "certifications" }}
-            <ul class="list-disc list-inside text-sm text-gray-700">
-              {{ for cert of section.items }}
-                <li>{{ cert.name }} <span class="text-gray-500">({{ cert.year }})</span></li>
-              {{ /for }}
-            </ul>
-          {{ /if }}
-
-          {{ if section.type === "languages" }}
-            <ul class="list-disc list-inside text-sm text-gray-700">
-              {{ for lang of section.items }}
-                <li>{{ lang.name }} — {{ lang.level }}</li>
-              {{ /for }}
-            </ul>
-          {{ /if }}
-        </section>
+        {{ if section.type === "experience" }} {{ for item of section.items }}
+        <div class="mb-4">
+          <div class="flex justify-between">
+            <strong class="text-md"
+              >{{ item.role }} – {{ item.company }}</strong
+            >
+            <span class="text-sm text-gray-500">{{ item.period }}</span>
+          </div>
+          <div class="text-sm text-gray-600 italic">{{ item.location }}</div>
+          <p class="text-sm mt-1">{{ item.description }}</p>
+        </div>
+        {{ /for }} {{ /if }} {{ if section.type === "education" }} {{ for item
+        of section.items }}
+        <div class="mb-4">
+          <div class="flex justify-between">
+            <strong class="text-md">{{ item.degree }}</strong>
+            <span class="text-sm text-gray-500">{{ item.period }}</span>
+          </div>
+          <div class="text-sm text-gray-600 italic">
+            {{ item.school }} – {{ item.location }}
+          </div>
+        </div>
+        {{ /for }} {{ /if }} {{ if section.type === "skills" }}
+        <ul
+          class="grid grid-cols-2 gap-1 text-sm list-disc list-inside text-gray-700"
+        >
+          {{ for skill of section.items }}
+          <li>{{ skill }}</li>
+          {{ /for }}
+        </ul>
+        {{ /if }} {{ if section.type === "projects" }} {{ for project of
+        section.items }}
+        <div class="mb-3">
+          <a
+            href="{{ project.url }}"
+            class="text-blue-700 font-medium hover:underline"
+            >{{ project.name }}</a
+          >
+          <p class="text-sm text-gray-600">{{ project.description }}</p>
+        </div>
+        {{ /for }} {{ /if }} {{ if section.type === "certifications" }}
+        <ul class="list-disc list-inside text-sm text-gray-700">
+          {{ for cert of section.items }}
+          <li>
+            {{ cert.name }} <span class="text-gray-500">({{ cert.year }})</span>
+          </li>
+          {{ /for }}
+        </ul>
+        {{ /if }} {{ if section.type === "languages" }}
+        <ul class="list-disc list-inside text-sm text-gray-700">
+          {{ for lang of section.items }}
+          <li>{{ lang.name }} — {{ lang.level }}</li>
+          {{ /for }}
+        </ul>
+        {{ /if }}
+      </section>
       {{ /for }}
     </main>
   </body>
@@ -511,11 +525,7 @@ cms.document({
             {
               name: "icon",
               type: "object",
-              fields: [
-                "name: text",
-                "library: text",
-                "variant: text",
-              ],
+              fields: ["name: text", "library: text", "variant: text"],
             },
           ],
         },
@@ -579,11 +589,7 @@ cms.document({
             {
               name: "items",
               type: "object-list",
-              fields: [
-                "name: text",
-                "url: text",
-                "description: text",
-              ],
+              fields: ["name: text", "url: text", "description: text"],
             },
           ],
         },
@@ -595,10 +601,7 @@ cms.document({
             {
               name: "items",
               type: "object-list",
-              fields: [
-                "name: text",
-                "year: text",
-              ],
+              fields: ["name: text", "year: text"],
             },
           ],
         },
@@ -610,10 +613,7 @@ cms.document({
             {
               name: "items",
               type: "object-list",
-              fields: [
-                "name: text",
-                "level: text",
-              ],
+              fields: ["name: text", "level: text"],
             },
           ],
         },
