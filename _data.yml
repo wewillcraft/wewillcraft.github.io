@@ -14,7 +14,7 @@ navbar:
       url: "#apprenticeship"
     - text: Inquiries
       url: "#inquiries"
-    - text: Articles
+    - text: Latest Posts
       url: "#articles"
 footer:
   text: © 2025 — Will Craft Software. All rights reserved.
