@@ -19,9 +19,7 @@ body_class: "bg-stone-900 text-white"
       {{ if tags }}
         <div class="mb-4 flex flex-wrap gap-2">
           {{ for tag of tags }}
-            <span class="bg-red-800 text-white font-medium px-3 py-1">
-              {{ tag }}
-            </span>
+            {{ include "../templates/tag-item.vto" { tag: tag } }}
           {{ /for }}
         </div>
       {{ /if }}

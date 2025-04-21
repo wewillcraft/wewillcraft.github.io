@@ -1,0 +1,42 @@
+<div class="grid gap-8">
+  {{ for post of allPosts }}
+    <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group">
+      <h2 class="text-2xl font-semibold mb-1">
+        <a
+          href="{{ post.url }}"
+          class="text-white hover:text-red-300 transition"
+        >
+          {{ post.title }}
+        </a>
+      </h2>
+      <p class="text-stone-300 mb-2">
+        <span>Written by</span>{{ " " }}
+        <a
+          href="{{ post.author.url }}"
+          class="underline hover:text-red-400 transition duration-300"
+        >{{ post.author.name }}</a>{{ " " }}
+        <span>on</span>{{ " " }}
+        <span class="italic">{{ post.date |> date("MMMM d, yyyy") }}</span>
+      </p>
+
+      {{ if post.tags }}
+        <div class="mb-4 flex flex-wrap gap-2">
+          {{ for tag of post.tags }}
+            {{ include "./tag-item.vto" { tag: tag } }}
+          {{ /for }}
+        </div>
+      {{ /if }}
+
+      <p class="text-stone-200 leading-relaxed">
+        {{ post.excerpt }}
+      </p>
+
+      <a
+        href="{{ post.url }}"
+        class="inline-block mt-4 text-red-400 font-semibold hover:underline transition duration-300"
+      >
+        Read more →
+      </a>
+    </div>
+  {{ /for }}
+</div>
