@@ -4,7 +4,7 @@ hero:
   title: ⚔️ We are a Collective of Crafters
   subtitle: A Guild of Makers Tackling Real-World Challenges
   links:
-    - text: 🛡️ Seek Apprenticeship
+    - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
       extra_class: "bg-red-800 py-3 px-6 rounded hover:bg-red-600"
     - text: 🔨 Commission the Guild
