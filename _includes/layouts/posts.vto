@@ -7,49 +7,16 @@ body_class: "bg-stone-900 text-white"
     <h1 class="text-4xl sm:text-6xl font-bold text-center mb-16">
       {{ title }}
     </h1>
-    <div class="grid gap-8">
-      {{ for post of search.pages("type=post") }}
-        <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group">
-          <h2 class="text-2xl font-semibold mb-1">
-            <a
-              href="{{ post.url }}"
-              class="text-white hover:text-red-300 transition"
-            >
-              {{ post.title }}
-            </a>
-          </h2>
-          <p class="text-stone-300 mb-2">
-            <span>Written by</span>{{ " " }}
-            <a
-              href="{{ post.author.url }}"
-              class="underline hover:text-red-400 transition duration-300"
-            >{{ post.author.name }}</a>{{ " " }}
-            <span>on</span>{{ " " }}
-            <span class="italic">{{ post.date |> date("MMMM d, yyyy") }}</span>
-          </p>
 
-          {{ if post.tags }}
-            <div class="mb-4 flex flex-wrap gap-2">
-              {{ for tag of post.tags }}
-                <span class="bg-red-800 text-white font-medium px-3 py-1">
-                  {{ tag }}
-                </span>
-              {{ /for }}
-            </div>
-          {{ /if }}
-
-          <p class="text-stone-200 leading-relaxed">
-            {{ post.excerpt }}
-          </p>
-
-          <a
-            href="{{ post.url }}"
-            class="inline-block mt-4 text-red-400 font-semibold hover:underline transition duration-300"
-          >
-            Read more →
-          </a>
-        </div>
+    <div class="mb-10">
+      <h2 class="font-bold text-3xl mb-3">Tags</h2>
+      <div class="mb-4 flex flex-wrap gap-2">
+      {{ for tag of search.values("tags") }}
+        {{ include "../templates/tag-item.vto" { tag: tag } }}
       {{ /for }}
+      </div>
     </div>
+
+    {{ include "../templates/post-list.vto" { allPosts: search.pages("type=post") } }}
   </div>
 </section>
