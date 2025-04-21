@@ -6,12 +6,12 @@ hero:
   links:
     - text: 🛡️ Seek Apprenticeship
       url: "#apprenticeship"
-      extra_class: "bg-red-600 py-3 px-6 rounded hover:bg-red-700"
+      extra_class: "bg-red-800 py-3 px-6 rounded hover:bg-red-600"
     - text: 🔨 Commission the Guild
       url: "#inquiries"
       extra_class: "bg-stone-700 py-3 px-6 rounded hover:bg-stone-600"
 values:
-  title: 🛡️ The Code of the Guild
+  title: 🛡️ The Values of the Guild
   items:
     - icon:
         name: hammer
@@ -63,7 +63,7 @@ values:
       description: Our creativity doesn't clock out. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
       verse: Ecclesiastes 9:10
 specializations:
-  title: ❤️‍🔥 Missions That Move Us
+  title: ❤️‍🔥 What We Do
   items:
     - title: Purpose-Built Software
       subtitle: Custom Web & App Development for Non-Profits
@@ -84,7 +84,7 @@ specializations:
       subtitle: Tech + Faith Gatherings for Builders With Heart
       description: Around the virtual fire, we gather for more than just code. We share testimonies, trade wisdom, study scripture, and recharge. Whether you're a master crafter or a new apprentice, the campfire is a place of warmth, worship, and witness. This is where builders become family.
 apprenticeship:
-  title: 🧑‍🎓 Applying as an Apprentice
+  title: 🤺 Applying as an Apprentice
   subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors."
   faqs:
     - question: "What is this apprenticeship?"
@@ -104,6 +104,6 @@ contact:
 creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
 posts:
-  title: 📝 The Guild's Chronicles
+  title: 📚 The Guild's Chronicles
   subtitle: "Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding."
   items_to_show: 3
