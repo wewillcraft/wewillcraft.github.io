@@ -2,7 +2,7 @@ layout: layouts/landing.vto
 title: Software as a Craft
 hero:
   title: ⚔️ We are a Collective of Crafters
-  subtitle: A Guild of Makers Tackling Real-World Challenges
+  subtitle: We build purposeful software and mentor the next generation, guided by faith, fellowship, and craft.
   links:
     - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
@@ -19,85 +19,78 @@ values:
         variant: solid
       title: Forge With Purpose
       description: We don't build for vanity—we build for vision. Our code is shaped with intention and crafted for people who need it most. We see every bug fix and commit as sacred work, bringing light into chaos. This is our calling, not just our craft.
-      verse: Colossians 3:23
     - icon:
         name: fire
         library: fontawesome
         variant: solid
       title: Pass the Flame
-      description: We teach, mentor, and disciple—not to make fans, but to raise up future masters. Like a blacksmith handing off the forge, we share what we know so others can craft even better. Our legacy is not in lines of code, but in lives changed through them.
-      verse: 2 Timothy 2:2
+      description: We teach, mentor, and disciple—not for applause, but to raise up future masters. Like a blacksmith handing off the forge, we share what we know so others can craft even better. Our legacy is not in lines of code, but in lives changed through them.
     - icon:
         name: compass
         library: fontawesome
         variant: regular
-      title: Build Altars, Not Thrones
-      description: We're not here to be the hero of every story. Our work honors the mission, not our own ego. In the guild, humility is power, and true builders lay down status to lift up others.
-      verse: Philippians 2:3
+      title: Raise Altars, Not Pedestals
+      description: This story isn't about us. Our work honors the mission, not our own ego. In the guild, humility is power, and true builders lay down status to lift up others.
     - icon:
         name: shield
         library: fontawesome
         variant: solid
       title: Guard the Heart
-      description: Integrity is our armor. We protect this community from pride, burnout, and toxicity by checking our hearts first. What flows out of us in code or comment reveals the real us. Clean hearts, clean commits.
-      verse: Proverbs 4:23
+      description: Integrity is our armor. We protect this community from pride, burnout, and toxicity by checking our hearts first. What flows out of us in code or comment reveals the real us. Pure hearts, purposeful code.
     - icon:
         name: users
         library: fontawesome
         variant: solid
       title: Party Up
-      description: We don't solo this mission. Collaboration, shared quests, and co-op coding are at the heart of who we are. Fellowship is more than a feature—it's the engine of our impact.
-      verse: Ecclesiastes 4:9-10
+      description: We don't solo this mission. Collaboration, shared quests, and co-op coding are at the heart of who we are. Fellowship fuels the fire behind everything we build.
     - icon:
         name: hands-holding
         library: fontawesome
         variant: solid
       title: Leave No Party Member Behind
-      description: We move at the speed of care. No matter how skilled, fast, or far ahead we are, we slow down for the ones who need help. In this guild, we don't leave anyone behind on the battlefield.
-      verse: Galatians 6:2
+      description: We journey with compassion, not just momentum. No matter our pace or prowess, we match stride with those who need support. In this guild, no one is left in the shadows—we carry one another through every battlefield.
     - icon:
         name: hand-sparkles
         library: fontawesome
         variant: solid
       title: Always Be Crafting
-      description: Our creativity doesn't clock out. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
-      verse: Ecclesiastes 9:10
+      description: We were made to make—even when no one's watching. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
 specializations:
   title: ❤️‍🔥 What We Do
   items:
     - title: Purpose-Built Software
       subtitle: Custom Web & App Development for Non-Profits
       description: We partner with organizations on the frontlines of change—those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. Our guild shows up where digital impact meets real-world need.
-    - title: Path of the Apprentice
+    - title: Forge Future Disciples
       subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
       description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school—it's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience—they gain belonging, confidence, and calling.
-    - title: Codex of the Commons
+    - title: The Open Vault
       subtitle: Open-Source Tools for the Greater Good
-      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. From prayer schedulers to donation systems, we maintain a codex of solutions for others to freely build upon.
+      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. We maintain a codex of solutions for others to freely build upon.
     - title: Fireside Fellowship
       subtitle: Tech + Faith Gatherings for Builders With Heart
       description: Around the virtual fire, we gather for more than just code. We share testimonies, trade wisdom, study scripture, and recharge. Whether you're a master crafter or a new apprentice, the campfire is a place of warmth, worship, and witness. This is where builders become family.
 apprenticeship:
   title: 🤺 Applying as an Apprentice
-  subtitle: "Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors."
+  subtitle: Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors.
   faqs:
-    - question: "What is this apprenticeship?"
-      answer: "A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors."
-    - question: "Who can apply?"
-      answer: "Anyone with a passion for technology and a desire to learn. We welcome all backgrounds and skill levels."
-    - question: "What will I learn?"
-      answer: "You will gain practical skills in software development, project management, and teamwork, preparing you for a successful career."
-    - question: "How long is the program?"
-      answer: "The apprenticeship lasts 6 months, with flexible schedules to accommodate your needs."
-    - question: "What projects will I work on?"
-      answer: "You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions."
+    - question: What is this apprenticeship?
+      answer: A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors.
+    - question: Who can apply?
+      answer: Anyone with a passion for technology and a desire to learn. We welcome all backgrounds and skill levels.
+    - question: What will I learn?
+      answer: You will gain practical skills in software development, project management, and teamwork, preparing you for a successful career.
+    - question: How long is the program?
+      answer: The apprenticeship lasts 6 months, with flexible schedules to accommodate your needs.
+    - question: What projects will I work on?
+      answer: You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions.
 contact:
   title: 📜 Contact the Guild
   subtitle: 'Send your inquiries or quests to <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
   email: we@willcraft.software
 creed:
-  text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
+  text: In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary.
 posts:
   title: 📖 The Guild's Chronicles
-  subtitle: "Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding."
+  subtitle: Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding.
   items_to_show: 3
