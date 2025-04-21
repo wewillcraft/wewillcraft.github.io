@@ -74,12 +74,6 @@ specializations:
     - title: Codex of the Commons
       subtitle: Open-Source Tools for the Greater Good
       description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. From prayer schedulers to donation systems, we maintain a codex of solutions for others to freely build upon.
-    - title: System Support Quests
-      subtitle: Technical Help & Platform Setup for Small Teams
-      description: Not every mission needs a custom build—sometimes, it just needs someone who knows what button to press. We assist purpose-driven teams with tech setup, third-party tools, automation, and guidance on how to stitch systems together. Think of us as the support clerics—quietly enabling others to shine.
-    - title: Eternal Lore
-      subtitle: Documentation & Knowledge Sharing That Outlives Us
-      description: When the mission is bigger than us, we write for those who come after. Our documentation practice ensures codebases, workflows, and onboarding guides live on—even when team members move on. We write so others can continue the quest without getting lost in the woods.
     - title: Fireside Fellowship
       subtitle: Tech + Faith Gatherings for Builders With Heart
       description: Around the virtual fire, we gather for more than just code. We share testimonies, trade wisdom, study scripture, and recharge. Whether you're a master crafter or a new apprentice, the campfire is a place of warmth, worship, and witness. This is where builders become family.
@@ -104,6 +98,6 @@ contact:
 creed:
   text: "In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary."
 posts:
-  title: 📚 The Guild's Chronicles
+  title: 📖 The Guild's Chronicles
   subtitle: "Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding."
   items_to_show: 3
