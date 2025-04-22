@@ -5,13 +5,29 @@ body_class: "bg-stone-900 text-white"
 <!-- Hero -->
 <header class="py-32 sm:py-48 text-center">
   <div class="max-w-6xl mx-auto px-6">
-    <h1 class="text-6xl font-bold mb-4">{{ hero.title }}</h1>
-    <p class="italic text-lg sm:text-xl">{{ hero.subtitle }}</p>
+    <h1 class="text-6xl font-bold mb-4"
+      data-animate="animate-fade-up"
+      data-animate-duration="500"
+      data-animate-delay="100"
+    >
+      {{ hero.title }}
+    </h1>
+    <p class="italic text-lg sm:text-xl"
+      data-animate="animate-fade-up"
+      data-animate-duration="1000"
+      data-animate-delay="300"
+    >
+      {{ hero.subtitle }}
+    </p>
     <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
       {{ for link of hero.links }}
-        <a href="{{ link.url }}" class="{{ link.extra_class }}">{{
-          link.text
-        }}</a>
+        <a href="{{ link.url }}" class="{{ link.extra_class }}"
+          data-animate="animate-fade-up"
+          data-animate-duration="1000"
+          data-animate-delay="500"
+        >
+          {{ link.text }}
+        </a>
       {{ /for }}
     </div>
   </div>
@@ -58,11 +74,11 @@ body_class: "bg-stone-900 text-white"
       {{ specializations.title }}
     </h3>
     <div class="grid gap-5 md:grid-cols-2">
-      {{ for item of specializations.items }}
+      {{ for index, item of specializations.items }}
         <div class="bg-stone-800 rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left opacity-0"
           data-animate="animate-fade-up"
           data-animate-duration="500"
-          data-animate-delay="100"
+          data-animate-delay="{{ index * 200 }}"
         >
           <h4 class="text-2xl font-semibold">{{ item.title }}</h4>
           <p class="italic text-sm text-red-400 mt-1">{{ item.subtitle }}</p>
