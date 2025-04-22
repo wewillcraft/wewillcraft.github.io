@@ -72,6 +72,7 @@
     "npm:satori@0.12.1": "0.12.1",
     "npm:sharp@0.33.5": "0.33.5",
     "npm:svg2png-wasm@1.4.1": "1.4.1",
+    "npm:tailwindcss-animated@*": "2.0.0_tailwindcss@3.4.17__postcss@8.4.49",
     "npm:tailwindcss@3.4.17": "3.4.17_postcss@8.4.49",
     "npm:unidecode@1.1.0": "1.1.0",
     "npm:unified@11.0.5": "11.0.5"
@@ -2185,6 +2186,12 @@
     },
     "svg2png-wasm@1.4.1": {
       "integrity": "sha512-ZFy1NtwZVAsslaTQoI+/QqX2sg0vjmgJ/jGAuLZZvYcRlndI54hLPiwLC9JzXlFBerfxN5JiS7kpEUG0mrXS3Q=="
+    },
+    "tailwindcss-animated@2.0.0_tailwindcss@3.4.17__postcss@8.4.49": {
+      "integrity": "sha512-anNNGpxNgjydD8p1lcJjxxH+XbjW6KR8Xs29owTrbcf3tOJ6IRblpyFob43HBkfxFJJTAfFQqugoEG2b1EsR0A==",
+      "dependencies": [
+        "tailwindcss"
+      ]
     },
     "tailwindcss@3.4.17_postcss@8.4.49": {
       "integrity": "sha512-w33E2aCvSDP0tW9RZuNXadXlkHXqFzSkQew/aIa2i/Sj8fThxwovwlXHSPXTbAHwEIhBFXAedUhP2tueAKP8Og==",

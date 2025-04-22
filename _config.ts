@@ -5,6 +5,7 @@ import date from "lume/plugins/date.ts";
 import icons from "lume/plugins/icons.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import typography from "npm:@tailwindcss/typography";
+import tailwindcssAnimated from "npm:tailwindcss-animated";
 import postcss from "lume/plugins/postcss.ts";
 import lightningCss from "lume/plugins/lightningcss.ts";
 import prism from "lume/plugins/prism.ts";
@@ -20,17 +21,21 @@ site.use(favicon());
 site.use(icons());
 site.use(date());
 site.use(inline());
-site.use(prism({
-  theme: {
-    name: "okaidia",
-    cssFile: "/styles.css",
-  },
-}));
-site.use(tailwindcss({
-  options: {
-    plugins: [typography],
-  },
-}));
+site.use(
+  prism({
+    theme: {
+      name: "okaidia",
+      cssFile: "/styles.css",
+    },
+  })
+);
+site.use(
+  tailwindcss({
+    options: {
+      plugins: [typography, tailwindcssAnimated],
+    },
+  })
+);
 site.use(postcss());
 site.use(lightningCss());
 
