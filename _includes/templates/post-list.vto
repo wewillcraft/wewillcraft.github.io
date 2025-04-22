@@ -1,6 +1,10 @@
 <div class="grid gap-8">
   {{ for post of allPosts }}
-    <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group">
+    <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group opacity-0"
+      data-animate="animate-fade-up"
+      data-animate-duration="500"
+      data-animate-delay="100"
+    >
       <h2 class="text-2xl font-semibold mb-1">
         <a
           href="{{ post.url }}"
