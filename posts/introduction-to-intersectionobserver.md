@@ -4,7 +4,7 @@ date: 2025-04-23
 author:
   name: Nap Joseph Calub
   url: https://napjose.ph
-excerpt: A Beginner's Guide to Adding Animations in Web Development.
+excerpt: The IntersectionObserver API lets you trigger code when elements enter or exit the viewport, improving both performance and user experience. In this post, I explain how to use it for adding animations to HTML elements, demonstrating how I implemented it in my Vento template with Tailwind CSS.
 tags:
   - JavaScript
   - IntersectionObserver
