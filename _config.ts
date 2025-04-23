@@ -9,6 +9,7 @@ import tailwindcssAnimated from "npm:tailwindcss-animated";
 import postcss from "lume/plugins/postcss.ts";
 import lightningCss from "lume/plugins/lightningcss.ts";
 import prism from "lume/plugins/prism.ts";
+import mermaid from "lume_mermaid";
 
 import "npm:prismjs@1.29.0/components/prism-bash.js";
 import "npm:prismjs@1.29.0/components/prism-typescript.js";
@@ -21,20 +22,31 @@ site.use(favicon());
 site.use(icons());
 site.use(date());
 site.use(inline());
+site.use(mermaid({
+  theme: "dark",
+  config: {
+    startOnLoad: true,
+    themeVariables: {
+      primaryColor: "#ff69b4",
+      edgeLabelBackground: "#222",
+      background: "#111",
+    },
+  },
+}));
 site.use(
   prism({
     theme: {
       name: "okaidia",
       cssFile: "/styles.css",
     },
-  })
+  }),
 );
 site.use(
   tailwindcss({
     options: {
       plugins: [typography, tailwindcssAnimated],
     },
-  })
+  }),
 );
 site.use(postcss());
 site.use(lightningCss());
