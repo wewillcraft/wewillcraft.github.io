@@ -8,10 +8,10 @@ hero:
   links:
     - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
-      extra_class: "bg-[#eb4e3b] hover:bg-[#f69b39] py-3 px-6 rounded text-white transition duration-300"
+      extra_class: "bg-[#eb4e3b] hover:bg-[#f69b39] py-3 px-6 rounded text-white transition duration-300 opacity-0"
     - text: 🔨 Commission the Guild
       url: "#inquiries"
-      extra_class: "bg-stone-700 hover:bg-stone-600 py-3 px-6 rounded text-white transition duration-300"
+      extra_class: "bg-stone-700 hover:bg-stone-600 py-3 px-6 rounded text-white transition duration-300 opacity-0"
 values:
   title: 🛡️ The Values of the Guild
   items:
@@ -86,9 +86,11 @@ apprenticeship:
       answer: The apprenticeship lasts 6 months, with flexible schedules to accommodate your needs.
     - question: What projects will I work on?
       answer: You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions.
+    - question: How do I apply?
+      answer: Send an email below and indicate why you want to become an apprentice.
 contact:
   title: 📜 Contact the Guild
-  subtitle: 'Send your inquiries or quests to <a class="underline" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
+  subtitle: 'Send your inquiries or quests to <a class="underline text-white hover:text-[#eb4e3b] transition duration-300" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
   email: we@willcraft.software
 creed:
   text: In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary.

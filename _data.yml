@@ -8,8 +8,8 @@ navbar:
   links:
     - text: Values
       url: "#values"
-    - text: What We Do
-      url: "#specializations"
+    - text: Activities
+      url: "#activities"
     - text: Apprenticeship
       url: "#apprenticeship"
     - text: Inquiries
@@ -37,3 +37,9 @@ footer:
         variant: brands
       text: Instagram
       url: https://instagram.com/wewillcraft
+    - icon:
+        name: linkedin
+        library: fontawesome
+        variant: brands
+      text: LinkedIn
+      url: https://linkedin.com/company/wewillcraft
