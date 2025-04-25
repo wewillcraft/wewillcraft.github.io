@@ -1,7 +1,7 @@
 layout: layouts/base.vto
 title_suffix: Will Craft Software
 navbar:
-  logo: /logo-white.svg
+  logo: /logo.svg
   logo_alt: Will Craft Software
   logo_url: /
   title: Will Craft Software

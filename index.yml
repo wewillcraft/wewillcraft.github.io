@@ -1,15 +1,17 @@
 layout: layouts/landing.vto
 title: Software as a Craft
 hero:
-  title: ⚔️ We are a Collective of Crafters
+  logo: /favicon-big.png
+  logo_alt: Will Craft Software
+  title: We are a Collective of Crafters
   subtitle: We build purposeful software and mentor the next generation, guided by faith, fellowship, and craft.
   links:
     - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
-      extra_class: "bg-red-800 py-3 px-6 rounded hover:bg-red-600"
+      extra_class: "bg-[#eb4e3b] hover:bg-[#f69b39] py-3 px-6 rounded text-white transition duration-300"
     - text: 🔨 Commission the Guild
       url: "#inquiries"
-      extra_class: "bg-stone-700 py-3 px-6 rounded hover:bg-stone-600"
+      extra_class: "bg-stone-700 hover:bg-stone-600 py-3 px-6 rounded text-white transition duration-300"
 values:
   title: 🛡️ The Values of the Guild
   items:
