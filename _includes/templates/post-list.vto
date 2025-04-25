@@ -1,6 +1,7 @@
 <div class="grid gap-8">
   {{ for post of allPosts }}
-    <div class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group opacity-0"
+    <div
+      class="bg-stone-700 border border-stone-600 rounded p-6 shadow hover:-translate-y-1 hover:shadow-2xl transition duration-300 group opacity-0"
       data-animate="animate-fade-up"
       data-animate-duration="500"
       data-animate-delay="100"
@@ -8,7 +9,7 @@
       <h2 class="text-2xl font-semibold mb-1">
         <a
           href="{{ post.url }}"
-          class="text-white hover:text-red-300 transition"
+          class="text-white hover:text-[#eb4e3b] transition duration-300"
         >
           {{ post.title }}
         </a>
@@ -17,7 +18,7 @@
         <span>Written by</span>{{ " " }}
         <a
           href="{{ post.author.url }}"
-          class="underline hover:text-red-400 transition duration-300"
+          class="underline text-white hover:text-[#eb4e3b] transition duration-300"
         >{{ post.author.name }}</a>{{ " " }}
         <span>on</span>{{ " " }}
         <span class="italic">{{ post.date |> date("MMMM d, yyyy") }}</span>
@@ -37,7 +38,7 @@
 
       <a
         href="{{ post.url }}"
-        class="inline-block mt-4 text-red-400 font-semibold hover:underline transition duration-300"
+        class="inline-block mt-4 text-[#eb4e3b] font-semibold hover:underline transition duration-300"
       >
         Read more →
       </a>

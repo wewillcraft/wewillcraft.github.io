@@ -1,15 +1,12 @@
-<nav class="sticky top-0 z-50 bg-stone-900 py-4 shadow-lg">
+<nav class="sticky top-0 z-50 bg-[#292562] py-4 shadow-lg">
   <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
     <a href="{{ navbar.logo_url }}" title="{{ navbar.title }}">
       <div class="flex items-center gap-2">
         <img
           src="{{ navbar.logo }}"
           alt="{{ navbar.logo_alt }}"
-          class="h-6 w-6"
+          class="h-6"
         >
-        <span
-          class="text-xl font-bold uppercase text-stone-100 tracking-wide"
-        >{{ navbar.title }}</span>
       </div>
     </a>
 
@@ -18,7 +15,7 @@
         <li>
           <a
             href="{{ link.url }}"
-            class="hover:text-red-400 transition-colors duration-200"
+            class="hover:text-[#9d77b5] transition-colors duration-200"
           >{{ link.text }}</a>
         </li>
       {{ /for }}

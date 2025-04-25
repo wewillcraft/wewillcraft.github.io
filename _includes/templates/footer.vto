@@ -1,11 +1,11 @@
-<footer class="bg-stone-900 py-24 px-5 text-center text-xl">
+<footer class="bg-[#292562] py-48 px-5 text-center text-xl text-white">
   <p class="mb-6">{{ footer.text }}</p>
 
   <nav class="flex flex-wrap justify-center gap-x-6 gap-y-4">
     {{ for link of footer.links }}
       <a
         href="{{ link.url }}"
-        class="flex items-center gap-2 text-white hover:text-red-500 transition"
+        class="flex items-center gap-2 hover:text-red-500 duration-300"
         target="_blank"
       >
         <img

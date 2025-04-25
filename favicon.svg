@@ -1,4 +1,107 @@
-<svg width="691" height="691" viewBox="0 0 691 691" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M161.117 493.703L23 168.259H92.0587L184.685 390.153C193.637 370.064 212.309 328.132 215.378 321.119C218.447 314.106 217.753 310.161 217.022 309.066C205.147 282.95 179.423 224.472 171.531 199.488C163.639 174.505 178.839 154.014 187.426 146.891L340.341 28L492.161 145.796L443.381 183.6C412.506 158.945 349.768 108.978 345.822 106.348C341.876 103.718 337.966 105.252 336.505 106.348C303.62 132.098 237.192 184.367 234.561 187.435C231.93 190.503 233.465 195.653 234.561 197.845C263.427 261.947 323.241 394.974 331.572 414.26C339.903 433.545 343.447 436.175 344.178 435.079H369.938L391.313 392.892H452.699L434.612 435.079C447.035 435.627 473.745 436.394 481.199 435.079C488.653 433.764 494.536 426.496 496.546 423.026C499.469 417.547 506.192 404.507 509.7 396.179C513.207 387.852 508.238 382.482 505.315 380.839C485.949 369.516 442.285 344.678 434.612 337.556C426.939 330.433 424.198 319.475 428.035 309.613C431.871 299.752 464.208 225.787 477.911 204.419C491.613 183.052 516.825 169.902 537.104 168.259H667L623.701 268.522H560.671L579.854 225.787C568.893 225.604 545.764 225.349 540.94 225.787C536.117 226.225 529.431 232.909 526.69 236.197L496.546 303.039C518.104 314.727 563.85 340.405 574.374 349.609C584.897 358.814 583.508 370.611 581.499 375.36C574.739 393.988 557.931 436.833 544.777 459.186C531.623 481.54 502.026 491.512 488.872 493.703H299.783L252.1 390.153L204.416 493.703H161.117Z" fill="black"/>
-<path d="M248.263 520.002H169.887L341.437 663L511.892 520.002H432.42C403.736 543.196 345.932 589.912 344.178 591.227C342.424 592.542 339.428 591.775 338.149 591.227L248.263 520.002Z" fill="black"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1500 1500">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient);
+      }
+
+      .st9 {
+        fill: #272661;
+      }
+
+      .st10 {
+        fill: #9d78b5;
+      }
+
+      .st11 {
+        fill: #231f20;
+      }
+
+      .st11, .st12 {
+        display: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="430.37" y1="801.56" x2="1069.63" y2="1440.81" gradientTransform="translate(0 1502) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcef44"/>
+      <stop offset=".04" stop-color="#fee627"/>
+      <stop offset=".12" stop-color="#fdd519"/>
+      <stop offset=".2" stop-color="#fccb14"/>
+      <stop offset=".28" stop-color="#fdc713"/>
+      <stop offset=".67" stop-color="#f29140"/>
+      <stop offset=".89" stop-color="#ed683c"/>
+      <stop offset="1" stop-color="#e93f3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="609.37" y1="773.88" x2="890.63" y2="1055.15" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="1005.69" y1="456.86" x2="1005.69" y2="1342.62" gradientTransform="translate(0 1502) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#9370ab"/>
+      <stop offset=".08" stop-color="#926faa"/>
+      <stop offset=".28" stop-color="#884f87"/>
+      <stop offset=".39" stop-color="#86437a"/>
+      <stop offset=".5" stop-color="#653870"/>
+      <stop offset=".62" stop-color="#4b306a"/>
+      <stop offset=".74" stop-color="#372964"/>
+      <stop offset=".87" stop-color="#2a2761"/>
+      <stop offset="1" stop-color="#272661"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="353.67" y1="102.56" x2="353.67" y2="1121.19" xlink:href="#linear-gradient2"/>
+    <linearGradient id="linear-gradient4" x1="826.7" y1="14" x2="826.7" y2="929.28" xlink:href="#linear-gradient2"/>
+    <linearGradient id="linear-gradient5" x1="676.3" y1="820.22" x2="853.19" y2="820.22" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient6" x1="676.3" y1="743.62" x2="764.73" y2="743.62" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient7" x1="764.73" y1="743.62" x2="853.19" y2="743.62" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_7">
+    <g>
+      <polygon class="st8" points="750 11.75 110.75 380.81 238.61 454.61 750 159.38 1261.39 454.61 1389.25 380.81 750 11.75"/>
+      <polygon class="st9" points="750 159.38 750 307.01 366.44 528.44 366.44 971.31 238.61 1045.14 238.61 454.61 750 159.38"/>
+      <path class="st0" d="M754.98,309.87"/>
+      <polygon class="st2" points="750 425.09 468.73 587.48 596.6 661.32 750 572.72 903.4 661.32 1031.27 587.48 750 425.09"/>
+      <polygon class="st1" points="750 307.01 1133.56 528.44 1133.56 971.31 1261.39 1045.14 1261.39 454.61 750 159.38 750 307.01"/>
+      <polygon class="st3" points="468.73 587.48 468.73 1177.98 238.61 1045.14 238.61 454.61 110.75 380.81 110.75 1118.94 238.61 1192.74 596.6 1399.44 596.6 661.32 468.73 587.48"/>
+      <polygon class="st9" points="1261.39 454.61 1261.39 1045.14 1031.27 1177.98 1031.27 587.48 903.4 661.32 903.4 1399.44 1261.39 1192.74 1389.25 1118.94 1389.25 380.81 1261.39 454.61"/>
+      <polygon class="st10" points="366.44 971.31 468.73 1030.38 468.73 1177.98 238.61 1045.14 366.44 971.31"/>
+      <polygon class="st10" points="1031.27 1177.98 1261.39 1045.14 1133.56 971.31 1031.27 1030.38 1031.27 1177.98"/>
+      <polygon class="st9" points="596.6 1399.44 750 1488 750 572.72 596.6 661.32 596.6 1399.44"/>
+      <polygon class="st7" points="903.4 1399.44 750 1488 750 572.72 903.4 661.32 903.4 1399.44"/>
+    </g>
+    <g class="st12">
+      <polygon class="st6" points="676.3 681.78 764.73 732.86 853.19 681.78 764.73 630.7 676.3 681.78"/>
+      <polygon class="st4" points="764.73 834.98 676.3 783.91 676.3 681.78 764.73 732.86 764.73 834.98"/>
+      <polygon class="st5" points="853.19 783.91 764.73 834.98 764.73 732.86 853.19 681.78 853.19 783.91"/>
+    </g>
+    <polygon class="st11" points="602.57 571.13 543.59 537.1 543.59 281.74 764.73 154.07 985.86 281.74 985.86 537.1 926.92 571.13 926.92 315.8 764.73 222.17 602.57 315.8 602.57 571.13"/>
+  </g>
 </svg>

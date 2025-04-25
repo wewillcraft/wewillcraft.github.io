@@ -7,11 +7,13 @@ body_class: "bg-stone-900 text-white"
     <h1 class="text-4xl sm:text-6xl font-bold text-center mb-16">
       {{ title }}
     </h1>
-    {{ include "../templates/post-list.vto" { allPosts: search.pages(search_query) } }}
+    {{
+      include "../templates/post-list.vto" { allPosts: search.pages(search_query) }
+    }}
   </div>
 
   <footer class="mt-16 text-center">
-    <a href="/posts" class="text-red-400 hover:underline"
+    <a href="/posts" class="text-[#9d77b5] hover:underline"
     >← Back to all posts</a>
   </footer>
 </section>

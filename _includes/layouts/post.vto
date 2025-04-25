@@ -10,7 +10,7 @@ body_class: "bg-stone-900 text-white"
         <span>Written by</span>{{ " " }}
         <a
           href="{{ author.url }}"
-          class="underline hover:text-red-400 transition duration-300"
+          class="underline text-white hover:text-[#eb4e3b] transition duration-300"
         >{{ author.name }}</a>{{ " " }}
         <span>on</span>{{ " " }}
         <span class="italic">{{ date |> date("MMMM d, yyyy") }}</span>
@@ -30,7 +30,7 @@ body_class: "bg-stone-900 text-white"
     </div>
 
     <footer class="mt-16 text-center">
-      <a href="/posts" class="text-red-400 hover:underline"
+      <a href="/posts" class="text-[#9d77b5] hover:underline"
       >← Back to all posts</a>
     </footer>
   </div>

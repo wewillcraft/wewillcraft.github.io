@@ -131,7 +131,7 @@ Now, let’s look at how I’ve integrated this into my Vento template for a rea
         data-animate-delay="{{ index * 200 }}"
       >
         <h4 class="text-2xl font-semibold">{{ item.title }}</h4>
-        <p class="italic text-sm text-red-400 mt-1">{{ item.subtitle }}</p>
+        <p class="italic text-sm text-[#9d77b5] mt-1">{{ item.subtitle }}</p>
         <p class="text-base leading-relaxed text-stone-200 mt-3">
           {{ item.description }}
         </p>

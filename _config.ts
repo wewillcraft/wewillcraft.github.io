@@ -18,35 +18,60 @@ import "npm:prismjs@1.29.0/components/prism-diff.js";
 
 const site = lume();
 
-site.use(favicon());
+site.use(
+  favicon({
+    favicons: [
+      {
+        url: "/favicon.ico",
+        size: [48],
+        rel: "icon",
+        format: "ico",
+      },
+      {
+        url: "/apple-touch-icon.png",
+        size: [180],
+        rel: "apple-touch-icon",
+        format: "png",
+      },
+      {
+        url: "/favicon-big.png",
+        size: [500],
+        rel: "favicon-big",
+        format: "png",
+      },
+    ],
+  })
+);
 site.use(icons());
 site.use(date());
 site.use(inline());
-site.use(mermaid({
-  theme: "dark",
-  config: {
-    startOnLoad: true,
-    themeVariables: {
-      primaryColor: "#ff69b4",
-      edgeLabelBackground: "#222",
-      background: "#111",
+site.use(
+  mermaid({
+    theme: "dark",
+    config: {
+      startOnLoad: true,
+      themeVariables: {
+        primaryColor: "#ff69b4",
+        edgeLabelBackground: "#222",
+        background: "#111",
+      },
     },
-  },
-}));
+  })
+);
 site.use(
   prism({
     theme: {
       name: "okaidia",
       cssFile: "/styles.css",
     },
-  }),
+  })
 );
 site.use(
   tailwindcss({
     options: {
       plugins: [typography, tailwindcssAnimated],
     },
-  }),
+  })
 );
 site.use(postcss());
 site.use(lightningCss());
