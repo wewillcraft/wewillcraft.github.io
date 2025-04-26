@@ -13,7 +13,7 @@ body_class: "bg-stone-900 text-white"
       data-animate-duration="500"
     >
     <h1
-      class="text-6xl font-bold mb-4 opacity-0"
+      class="text-4xl inline-block sm:text-6xl break-words font-bold my-4 opacity-0 text-white bg-[#292562] p-5"
       data-animate="animate-fade-up"
       data-animate-duration="500"
       data-animate-delay="100"
@@ -45,7 +45,7 @@ body_class: "bg-stone-900 text-white"
 </header>
 
 <!-- Values -->
-<section id="values" class="py-20 bg-stone-800">
+<section id="values" class="py-20 bg-white text-gray-800">
   <div class="max-w-6xl mx-auto px-6">
     <h3 class="text-3xl md:text-5xl font-bold text-center mb-16">
       {{ values.title }}
@@ -79,23 +79,25 @@ body_class: "bg-stone-900 text-white"
 <!-- Activities -->
 <section
   id="activities"
-  class="py-20 bg-gradient-to-b from-stone-950 to-stone-900 text-stone-100"
+  class="py-20 bg-[#292562]"
 >
   <div class="max-w-6xl mx-auto px-6 text-center">
-    <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight">
+    <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight text-white">
       {{ specializations.title }}
     </h3>
-    <div class="grid gap-5 md:grid-cols-2">
+    <div class="grid gap-5 md:grid-cols-2 text-black">
       {{ for index, item of specializations.items }}
         <div
-          class="bg-stone-800 rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left opacity-0"
+          class="bg-[#eb4e3b] rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left opacity-0"
           data-animate="animate-fade-up"
           data-animate-duration="500"
           data-animate-delay="{{ index * 200 }}"
         >
-          <h4 class="text-2xl font-semibold">{{ item.title }}</h4>
-          <p class="italic text-sm text-[#eb4e3b] mt-1">{{ item.subtitle }}</p>
-          <p class="text-base leading-relaxed text-stone-200 mt-3">
+          <h4 class="text-2xl font-semibold text-white">
+            {{ item.title }}
+          </h4>
+          <p class="italic text-sm mt-1 text-[#f1c40f]">{{ item.subtitle }}</p>
+          <p class="text-base leading-relaxed mt-3 text-white">
             {{ item.description }}
           </p>
         </div>
@@ -105,25 +107,38 @@ body_class: "bg-stone-900 text-white"
 </section>
 
 <!-- Apprenticeship -->
-<section id="apprenticeship" class="bg-stone-800 py-20 text-center">
+<section id="apprenticeship" class="bg-white py-20 text-center">
   <div class="max-w-6xl mx-auto px-6">
-    <h3 class="text-3xl md:text-5xl font-bold mb-5">
+    <h3 class="text-3xl md:text-5xl font-bold mb-5 text-gray-800">
       {{ apprenticeship.title }}
     </h3>
-    <p class="mb-16">{{ apprenticeship.subtitle }}</p>
+    <p class="mb-16 text-gray-800">{{ apprenticeship.subtitle }}</p>
 
     <div class="space-y-4 text-left">
       {{ for faq of apprenticeship.faqs }}
         <details
-          class="bg-stone-700 rounded p-4 opacity-0"
+          class="group bg-white outline outline-gray-800 text-gray-800 opacity-0"
           data-animate="animate-fade-up"
           data-animate-duration="500"
           data-animate-delay="100"
         >
-          <summary class="cursor-pointer font-semibold">
-            {{ faq.question }}
+          <summary class="cursor-pointer outline outline-gray-800 font-semibold hover:bg-[#f1c40f] transition duration-300 p-4 flex items-center justify-between list-none appearance-none">
+            <span>{{ faq.question }}</span>
+            <svg
+              class="w-4 h-4 ml-2 shrink-0 transition-transform duration-300 group-open:rotate-180"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M19 9l-7 7-7-7"
+              />
+            </svg>
           </summary>
-          <p class="pt-4">{{ faq.answer }}</p>
+          <p class="p-4">{{ faq.answer }}</p>
         </details>
       {{ /for }}
     </div>
@@ -131,7 +146,7 @@ body_class: "bg-stone-900 text-white"
 </section>
 
 <!-- Inquiries -->
-<section id="inquiries" class="py-20">
+<section id="inquiries" class="py-20 bg-[#292562]">
   <div class="max-w-6xl mx-auto px-6 text-center">
     <h4 class="text-3xl md:text-5xl font-bold mb-5">{{ contact.title }}</h4>
     <p class="mb-16 text-base sm:text-lg">{{ contact.subtitle }}</p>
@@ -145,20 +160,20 @@ body_class: "bg-stone-900 text-white"
         type="text"
         name="name"
         placeholder="Your Name"
-        class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700"
+        class="w-full rounded p-3 bg-white text-gray-800 border border-stone-700"
         required
       />
       <input
         type="email"
         name="email"
         placeholder="Your Email"
-        class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700"
+        class="w-full rounded p-3 bg-white text-gray-800 border border-stone-700"
         required
       />
       <textarea
         name="message"
         placeholder="Your Message"
-        class="w-full rounded p-3 bg-stone-800 text-white border border-stone-700 resize-none"
+        class="w-full rounded p-3 bg-white text-gray-800 border border-stone-700 resize-none"
         rows="6"
         required
       ></textarea>
@@ -173,7 +188,7 @@ body_class: "bg-stone-900 text-white"
 </section>
 
 <!-- Articles -->
-<section id="articles" class="py-24 bg-stone-800 text-white">
+<section id="articles" class="py-24 bg-white text-gray-800">
   <div class="max-w-6xl mx-auto px-6">
     <h3 class="text-3xl md:text-5xl font-bold mb-4 text-center">
       {{ posts.title }}
@@ -186,12 +201,11 @@ body_class: "bg-stone-900 text-white"
         allPosts: search.pages("type=post").slice(0, posts.items_to_show),
       }
     }}
-  </div>
-</section>
-
-<!-- Creed -->
-<section class="bg-[#eb4e3b] py-20 sm:py-24 text-center">
-  <div class="max-w-6xl mx-auto px-6">
-    <blockquote class="italic text-xl sm:text-2xl">{{ creed.text }}</blockquote>
+    <div class="text-center mt-10">
+      <a
+        href="/posts"
+        class="text-[#eb4e3b] hover:underline transition duration-300"
+      >Show all posts →</a>
+    </div>
   </div>
 </section>

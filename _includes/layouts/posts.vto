@@ -1,6 +1,6 @@
 ---
 layout: ./base.vto
-body_class: "bg-stone-900 text-white"
+body_class: "bg-white text-gray-800"
 ---
 <section class="py-24">
   <div class="max-w-6xl mx-auto px-6">
@@ -11,12 +11,14 @@ body_class: "bg-stone-900 text-white"
     <div class="mb-10">
       <h2 class="font-bold text-3xl mb-3">Tags</h2>
       <div class="mb-4 flex flex-wrap gap-2">
-      {{ for tag of search.values("tags") }}
-        {{ include "../templates/tag-item.vto" { tag: tag } }}
-      {{ /for }}
+        {{ for tag of search.values("tags") }}
+          {{ include "../templates/tag-item.vto" { tag: tag } }}
+        {{ /for }}
       </div>
     </div>
 
-    {{ include "../templates/post-list.vto" { allPosts: search.pages("type=post") } }}
+    {{
+      include "../templates/post-list.vto" { allPosts: search.pages("type=post") }
+    }}
   </div>
 </section>
