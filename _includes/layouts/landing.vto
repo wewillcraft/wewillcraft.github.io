@@ -14,7 +14,7 @@ body_class: "bg-stone-900 text-white"
       inline
     >
     <h1
-      class="text-4xl inline-block sm:text-6xl break-words font-bold my-4 opacity-0 text-white bg-[#292562] p-5"
+      class="text-4xl inline-block sm:text-5xl break-words font-bold my-4 opacity-0 text-white bg-[#292562] p-5"
       data-animate="animate-fade-up"
       data-animate-duration="500"
       data-animate-delay="100"
@@ -84,10 +84,10 @@ body_class: "bg-stone-900 text-white"
 >
   <div class="max-w-6xl mx-auto px-6 text-center">
     <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight text-white">
-      {{ specializations.title }}
+      {{ activities.title }}
     </h3>
     <div class="grid gap-5 md:grid-cols-2 text-black">
-      {{ for index, item of specializations.items }}
+      {{ for index, item of activities.items }}
         <div
           class="bg-[#eb4e3b] rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left opacity-0"
           data-animate="animate-fade-up"
