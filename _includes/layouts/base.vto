@@ -25,14 +25,22 @@
     />
     <meta
       property="og:url"
-      content="{{ url || canonical_url || site_url }}"
+      content="{{ metas.domain_full }}{{ url || canonical_url || site_url }}"
     />
     <meta
       property="og:image"
-      content="{{ og_image || metas.default_image_url }}"
+      content="{{ metas.domain_full }}{{ og_image || metas.default_image_url }}"
     />
 
     <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:domain"
+      content="{{ metas.domain_base }}"
+    />
+    <meta
+      property="twitter:url"
+      content="{{ metas.domain_full }}{{ url || canonical_url || site_url }}"
+    />
     <meta
       name="twitter:title"
       content="{{ og_title || title || title_suffix }}"
@@ -43,7 +51,7 @@
     />
     <meta
       name="twitter:image"
-      content="{{ twitter_image || og_image || metas.default_image_url }}"
+      content="{{ metas.domain_full }}{{ og_image || metas.default_image_url }}"
     />
     <meta name="twitter:site" content="{{ metas.twitter_handle }}" />
 
