@@ -18,6 +18,7 @@ export default function* ({ search }) {
     yield {
       url: `/tags/${tag}/`,
       title: `Tagged "${tag}"`,
+      excerpt: `All posts from tagged ${tag}.`,
       type: "tag",
       search_query: `type=post '${tag}'`,
       tag,
