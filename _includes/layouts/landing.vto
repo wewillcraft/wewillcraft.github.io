@@ -199,7 +199,11 @@ body_class: "bg-stone-900 text-white"
     </p>
     {{
       include "../templates/post-list.vto" {
-        allPosts: search.pages("type=post").slice(0, posts.items_to_show),
+        allPosts: search.pages(
+          "type=post",
+          "date=desc",
+          posts.items_to_show,
+        ),
       }
     }}
     <div class="text-center mt-10">

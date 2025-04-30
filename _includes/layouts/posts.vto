@@ -18,7 +18,12 @@ body_class: "bg-white text-gray-800"
     </div>
 
     {{
-      include "../templates/post-list.vto" { allPosts: search.pages("type=post") }
+      include "../templates/post-list.vto" {
+        allPosts: search.pages(
+          "type=post",
+          "date=desc",
+        ),
+      }
     }}
   </div>
 </section>
