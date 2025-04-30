@@ -3,8 +3,8 @@ title: Software as a Craft
 hero:
   logo: /logo-colored.svg
   logo_alt: Will Craft Software
-  title: We are a Collective of Crafters
-  subtitle: We build purposeful software and mentor the next generation, guided by faith, fellowship, and craft.
+  title: We believe technology finds meaning when it serves the people doing the work that truly matters.
+  subtitle: So we put our hands to the craft—building tools that make a difference, teaching those who will surpass us, and supporting missions greater than ourselves.
   links:
     - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
@@ -20,58 +20,58 @@ values:
         library: fontawesome
         variant: solid
       title: Forge With Purpose
-      description: We don't build for vanity—we build for vision. Our code is shaped with intention and crafted for people who need it most. We see every bug fix and commit as sacred work, bringing light into chaos. This is our calling, not just our craft.
+      description: We create what counts—tools that empower, systems that uplift, and code that supports people, not just products. We build with the belief that technology should advance the greater good—serving missions that matter and people who make a difference. In the guild, every build begins with purpose and ends with impact.
     - icon:
         name: fire
         library: fontawesome
         variant: solid
       title: Pass the Flame
-      description: We teach, mentor, and disciple—not for applause, but to raise up future masters. Like a blacksmith handing off the forge, we share what we know so others can craft even better. Our legacy is not in lines of code, but in lives changed through them.
+      description: We don't just teach—we entrust. To shape the future, we walk with those who will one day lead it, sharing not only our skills, but our passion, our convictions, and the reason we build. Like a blacksmith passing down the forge, we hand off more than tools—we hand off the will to carry the craft forward. This isn't fast work. It's faithful work. And it's how the flame endures—burning brighter in those who come next.
     - icon:
-        name: compass
-        library: fontawesome
-        variant: regular
-      title: Raise Altars, Not Pedestals
-      description: This story isn't about us. Our work honors the mission, not our own ego. In the guild, humility is power, and true builders lay down status to lift up others.
-    - icon:
-        name: shield
+        name: crosshairs
         library: fontawesome
         variant: solid
-      title: Guard the Heart
-      description: Integrity is our armor. We protect this community from pride, burnout, and toxicity by checking our hearts first. What flows out of us in code or comment reveals the real us. Pure hearts, purposeful code.
+      title: Aim Higher Than Ourselves
+      description: In the guild, we build for something greater—for missions that matter, for people we may never meet, for outcomes that outlast our names. Success isn't measured by recognition, but by the impact left behind. Whether our work is praised or unseen, we craft with the conviction that the highest aim is to lift others higher. If our part fades from the credits, but someone else stands taller because of it—that's the win.
     - icon:
-        name: users
+        name: arrow-up-right-dots
         library: fontawesome
         variant: solid
-      title: Party Up
-      description: We don't solo this mission. Collaboration, shared quests, and co-op coding are at the heart of who we are. Fellowship fuels the fire behind everything we build.
+      title: Level Up Continuously
+      description: Every line of code, challenge, or teammate teaches us something—if we're willing to learn. In the guild, we press on—not to be perfect, but to be better than yesterday. Learning is a lifelong quest, and we level up with every step. We honor the process, knowing that who we're becoming matters as much as what we build.
+    - icon:
+        name: gift
+        library: fontawesome
+        variant: solid
+      title: Share the Bounty
+      description: Not all treasure is meant to be kept. Whether it's hard-won knowledge, helpful tools, or lessons from the last quest—we give what we've gained. In the guild, generosity isn't optional; it's how we multiply impact. What blesses one can bless many. What we give may seem small, but in the right hands, it becomes part of something far bigger than us.
     - icon:
         name: hands-holding
         library: fontawesome
         variant: solid
-      title: Leave No Party Member Behind
-      description: We journey with compassion, not just momentum. No matter our pace or prowess, we match stride with those who need support. In this guild, no one is left in the shadows—we carry one another through every battlefield.
+      title: Carry Each Other
+      description: This isn't a solo campaign. We watch each other's backs, patch wounds, and match pace with those who need it. In the guild, we carry burdens like gear—shared across the party, so no one falls alone. Sometimes that means offering advice; other times, it means just sitting with someone in the hard parts. Strength isn't just in what you can lift, but in what you're willing to carry for someone else.
     - icon:
         name: hand-sparkles
         library: fontawesome
         variant: solid
       title: Always Be Crafting
-      description: We were made to make—even when no one's watching. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. Crafting isn't just something we do—it's who we are.
-specializations:
+      description: We were made to make—even when no one's watching. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. We don't wait for the perfect moment or ideal conditions. We build because it's woven into who we are—and because every small act of creation carries the potential to serve, shape, and spark something greater.
+activities:
   title: ❤️‍🔥 What We Do
   items:
     - title: Purpose-Built Software
       subtitle: Custom Web & App Development for Non-Profits
-      description: We partner with organizations on the frontlines of change—those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. Our guild shows up where digital impact meets real-world need.
+      description: We partner with organizations on the frontlines of change—those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. Our guild shows up where digital impact meets real-world need. We don't just write code—we listen deeply, build intentionally, and shape tools that empower the work of justice, mercy, and restoration. Your mission becomes our mission, and your impact becomes our craft.
     - title: Forge Future Disciples
       subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
-      description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school—it's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience—they gain belonging, confidence, and calling.
+      description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school—it's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience—they gain belonging, confidence, and calling. In the guild, mentorship isn't a transaction—it's a sacred trust. We raise up builders of both software and character, equipping them to serve with integrity wherever they're called.
+    - title: The Network of Crafters
+      subtitle: Connecting Builders, Sharing Stories, Growing Together
+      description: We connect student orgs, tech clubs, nonprofits, and mission-driven makers into one living network—a guild without walls. Through talks, meetups, and shared quests, we pass along what we've learned and listen deeply to each other's stories. This is more than networking—it's fellowship with purpose. Together, we're building a growing library of wisdom, experience, and mentorship—a place where aspiring crafters can ask real professionals for guidance, share a meal, or light the next spark of inspiration. Because when we grow together, we craft a better world.
     - title: The Open Vault
       subtitle: Open-Source Tools for the Greater Good
-      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. We maintain a codex of solutions for others to freely build upon.
-    - title: Fireside Fellowship
-      subtitle: Tech + Faith Gatherings for Builders With Heart
-      description: Around the virtual fire, we gather for more than just code. We share testimonies, trade wisdom, study scripture, and recharge. Whether you're a master crafter or a new apprentice, the campfire is a place of warmth, worship, and witness. This is where builders become family.
+      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. We maintain a codex of solutions for others to freely build upon. These aren't just side projects—they're offerings. Code with a conscience. A legacy of collaboration, so no builder has to start from scratch. What we've learned, we leave behind as blessing.
 apprenticeship:
   title: 🤺 Applying as an Apprentice
   subtitle: Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors.
