@@ -4,6 +4,49 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title ? `${title} | ${title_suffix}` : title_suffix }}</title>
+
+    <meta
+      name="description"
+      content="{{ excerpt || meta_description || metas.default_description }}"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:locale"
+      content="{{ metas.locale }}"
+    />
+    <meta
+      property="og:title"
+      content="{{ og_title || title || title_suffix }}"
+    />
+    <meta
+      property="og:description"
+      content="{{ excerpt || og_description || meta_description || metas.default_description }}"
+    />
+    <meta
+      property="og:url"
+      content="{{ url || canonical_url || site_url }}"
+    />
+    <meta
+      property="og:image"
+      content="{{ og_image || metas.default_image_url }}"
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="{{ og_title || title || title_suffix }}"
+    />
+    <meta
+      name="twitter:description"
+      content="{{ excerpt || og_description || meta_description || metas.default_description }}"
+    />
+    <meta
+      name="twitter:image"
+      content="{{ twitter_image || og_image || metas.default_image_url }}"
+    />
+    <meta name="twitter:site" content="{{ metas.twitter_handle }}" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
