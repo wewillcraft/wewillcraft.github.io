@@ -4,7 +4,7 @@ metas:
   locale: en_US
   domain_base: willcraft.software
   domain_full: https://willcraft.software
-  default_description: We believe technology should serve the people doing the work that truly matters. So we put our hands to the craft—building tools that make a difference, teaching those who will surpass us, and supporting missions greater than ourselves.
+  default_description: We champion the causes that bring out the best in humanity. We devote our craft to missions greater than ourselves—by building tools that empower those who bring them to life and passing that will to the next generation.
   default_image_url: /og.png
   twitter_handle: "@wewillcraft"
 navbar:
