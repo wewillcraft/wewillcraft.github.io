@@ -8,3 +8,13 @@ summary::-webkit-details-marker {
 summary::marker {
   display: none;
 }
+
+.circle-hover-gradient::before {
+  content: "";
+  @apply absolute inset-0 rounded-full bg-gradient-to-b from-[#eb4e3b] to-[#f69b39] opacity-0 transition-opacity duration-300;
+  z-index: 0;
+}
+
+.group:hover .circle-hover-gradient::before {
+  opacity: 1;
+}
