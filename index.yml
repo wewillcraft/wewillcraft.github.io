@@ -84,8 +84,18 @@ apprenticeship:
       answer: You will gain practical skills in software development, project management, and teamwork, preparing you for a successful career.
     - question: What projects will I work on?
       answer: You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions.
-    - question: How do I apply?
-      answer: Send an email below and indicate why you want to become an apprentice.
+    - question: Is this a paid program?
+      answer: No, this is a volunteer-based learning experience. Our reward is growth, impact, and shared purpose—not profit. That said, some projects may open up paid opportunities as you grow.
+    - question: Do I need to be a Christian to join?
+      answer: No. While some mentors include prayer and scripture in their sessions, apprentices from all beliefs (or none) are welcome. We simply ask for openness, mutual respect, and a willingness to reflect on purpose.
+    - question: Will I get a certificate or credential?
+      answer: While we don't offer formal certificates, your work and progress will be documented. You'll finish the program with real-world projects, mentor feedback, and a clearer path forward in your craft.
+    - question: What happens after the apprenticeship?
+      answer: Graduates may continue building, mentor others, or join future guild missions. This program is meant to equip you for more than one season—it's a foundation for lifelong craftsmanship.
+    - question: How are apprentices selected?
+      answer: We review each application for heart, hunger to learn, and alignment with the guild's mission. Skill level matters less than attitude, teachability, and readiness to commit.
+    - question: What happens if I don't get selected?
+      answer: If you're not selected this round, don't be discouraged. It may simply be a matter of timing, project fit, or availability of mentors. We'll keep your application on file and may reach out when new opportunities open. Keep crafting—your journey isn't on pause.
 contact:
   title: 📜 Contact the Guild
   subtitle: 'Send your inquiries or quests to <a class="underline text-white hover:text-[#eb4e3b] transition duration-300" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
