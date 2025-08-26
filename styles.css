@@ -11,7 +11,8 @@ summary::marker {
 
 .circle-hover-gradient::before {
   content: "";
-  @apply absolute inset-0 rounded-full bg-gradient-to-b from-[#eb4e3b] to-[#f69b39] opacity-0 transition-opacity duration-300;
+  @apply absolute inset-0 rounded-full bg-gradient-to-b from-[#eb4e3b]
+    to-[#f69b39] opacity-0 transition-opacity duration-300;
   z-index: 0;
 }
 

@@ -18,7 +18,7 @@ const observer = new IntersectionObserver(
   },
   {
     threshold: 0.5,
-  }
+  },
 );
 
 document.querySelectorAll("[data-animate]").forEach((el, _i) => {
