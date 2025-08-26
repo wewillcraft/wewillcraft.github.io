@@ -1,15 +1,15 @@
 import lume from "lume/mod.ts";
-import favicon from "lume/plugins/favicon.ts";
-import inline from "lume/plugins/inline.ts";
 import date from "lume/plugins/date.ts";
+import favicon from "lume/plugins/favicon.ts";
 import icons from "lume/plugins/icons.ts";
+import inline from "lume/plugins/inline.ts";
+import lightningCss from "lume/plugins/lightningcss.ts";
+import postcss from "lume/plugins/postcss.ts";
+import prism from "lume/plugins/prism.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
+import mermaid from "lume_mermaid";
 import typography from "npm:@tailwindcss/typography";
 import tailwindcssAnimated from "npm:tailwindcss-animated";
-import postcss from "lume/plugins/postcss.ts";
-import lightningCss from "lume/plugins/lightningcss.ts";
-import prism from "lume/plugins/prism.ts";
-import mermaid from "lume_mermaid";
 
 import "npm:prismjs@1.29.0/components/prism-bash.js";
 import "npm:prismjs@1.29.0/components/prism-typescript.js";
@@ -40,7 +40,7 @@ site.use(
         format: "png",
       },
     ],
-  })
+  }),
 );
 site.use(icons());
 site.use(date());
@@ -56,7 +56,7 @@ site.use(
         background: "#111",
       },
     },
-  })
+  }),
 );
 site.use(
   prism({
@@ -64,14 +64,14 @@ site.use(
       name: "okaidia",
       cssFile: "/styles.css",
     },
-  })
+  }),
 );
 site.use(
   tailwindcss({
     options: {
       plugins: [typography, tailwindcssAnimated],
     },
-  })
+  }),
 );
 site.use(postcss());
 site.use(lightningCss());
