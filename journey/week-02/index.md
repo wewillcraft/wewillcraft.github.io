@@ -2,7 +2,7 @@
 title: "Week 2: Finding Your True North 🧭"
 week: 2
 phase: self-discovery
-excerpt: Discovering what you actually care about (hint: it might not be what you think)
+excerpt: "Discovering what you actually care about (hint: it might not be what you think)"
 estimated_time: 15-20 min/day
 ---
 
@@ -19,43 +19,51 @@ You know that feeling when you're torn between options? That confusion usually c
 ## This Week's Adventure
 
 ### Day 1: [What Do You Actually Value?](./01-values-discovery)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Not what you think you should value - what you ACTUALLY value. There's often a gap, and we're going to find it.
 
 ### Day 2: [Finding Your Sweet Spot](./02-ikigai-mapping)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Where your passions, talents, and the world's needs overlap. Spoiler: This is where magic happens.
 
 ### Day 3: [Your Story So Far](./03-life-timeline)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Looking back to understand your patterns. Your past holds clues to your future direction.
 
 ### Day 4: [How Do You Want to be Remembered?](./04-future-eulogy)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 A bit intense, but incredibly clarifying. What legacy do you want to leave?
 
 ### Day 5: [Painting Your Future](./05-vision-creation)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Creating a vision that actually inspires you (not just looks good on paper).
 
 ### Day 6: [Your Tech Purpose](./06-technical-calling)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Why are you in tech? What problems do you want to solve with your skills?
 
 ### Day 7: [Writing Your Manifesto](./07-personal-manifesto)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Pulling it all together into a personal declaration. Your "this is what I stand for" statement.
 
 ## What You'll Walk Away With
 
 By Sunday, you'll have:
+
 - ✅ Your top 5 core values (the ones that are actually true for you)
 - ✅ A clear picture of where your passions and talents align
 - ✅ A vision that genuinely excites you
@@ -76,8 +84,9 @@ Plus, when you're clear on your values, imposter syndrome starts to fade. You're
 ## Your Daily Rhythm
 
 Each day this week:
+
 1. **Read the lesson** (5 minutes)
-2. **Do the exercise** (10-15 minutes) 
+2. **Do the exercise** (10-15 minutes)
 3. **Write one insight** - What surprised you? What felt true?
 
 Keep it simple. The goal is clarity, not perfection.

@@ -1,432 +1,215 @@
 ---
 title: "Energy Management"
-excerpt: Master the art of managing your physical, mental, and emotional energy for sustained resilience.
+description: "Stop running on empty! Learn to fuel up and recharge like your life depends on it"
+excerpt: "Master the four types of energy and create a sustainable system for staying charged throughout demanding days."
+objectives:
+  - Understand the four types of energy (physical, mental, emotional, spiritual)
+  - Identify your energy patterns and vampires that drain you
+  - Build a personal energy management system with boosters and boundaries
+  - Create emergency protocols for when you're running on empty
+estimated_time: 30 minutes
 ---
 
 # Energy Management
 
-**Time:** 50 minutes  
-**Purpose:** Optimize your energy systems to maintain resilience and prevent burnout
+**Time:** 30 minutes  
+**Vibe:** Treating yourself like a phone that needs charging 🔋
 
-## The Four Types of Energy
+You know how your phone gets sluggish when the battery's low? That's you running on fumes! Let's figure out your personal charging system.
 
-Energy isn't just physical. You have four energy systems that need different types of fuel and recovery:
+## The 4 Types of Energy
 
-1. **Physical Energy** - Your body's vitality
-2. **Emotional Energy** - Your feelings and moods
-3. **Mental Energy** - Your focus and cognition
-4. **Spiritual Energy** - Your sense of purpose and meaning
+You're not just physically tired - you've got four different "batteries" that need attention:
 
-## Part 1: Energy Assessment (15 minutes)
+### 🏃‍♀️ Physical Energy
+Your body's fuel tank - affects everything else
 
-### Current Energy Levels
+### 💭 Mental Energy  
+Your brain's processing power - focus, decisions, problem-solving
 
-Rate your typical energy throughout the day (1=depleted, 10=energized):
+### ❤️ Emotional Energy
+Your feelings fuel - how you connect, create, and care
 
-**Morning (6AM-12PM):**
-- Physical: ___/10
-- Emotional: ___/10
-- Mental: ___/10
-- Spiritual: ___/10
+### ✨ Spiritual Energy
+Your purpose battery - what gives your life meaning
 
-**Afternoon (12PM-6PM):**
-- Physical: ___/10
-- Emotional: ___/10
-- Mental: ___/10
-- Spiritual: ___/10
+## Your Energy Check-In
 
-**Evening (6PM-12AM):**
-- Physical: ___/10
-- Emotional: ___/10
-- Mental: ___/10
-- Spiritual: ___/10
+Rate your typical levels (1=dead battery, 10=fully charged):
 
-### Energy Patterns
+**Morning person or night owl?**
+- Morning physical energy: ___/10
+- Morning mental clarity: ___/10
+- Evening physical energy: ___/10
+- Evening mental energy: ___/10
 
-**Best Energy Time:**
-When are you most energized? ___________
+**Your best energy time:** ___________
+**Your worst energy slump:** ___________
 
-**Worst Energy Time:**
-When do you consistently feel drained? ___________
+## What's Draining Your Batteries?
 
-**Energy Zappers:**
-What drains your energy fastest?
-1. ___________
-2. ___________
-3. ___________
+### Energy Vampires 🧛‍♂️
+Check what sucks your energy:
 
-**Energy Boosters:**
-What gives you energy most effectively?
-1. ___________
-2. ___________
-3. ___________
-
-## Part 2: Physical Energy Management (10 minutes)
-
-### Sleep Optimization
-
-**Current Sleep Quality (1-10):** ___/10
-
-**Sleep Challenges:**
-□ Trouble falling asleep
-□ Waking during the night
-□ Waking too early
-□ Not feeling rested
-□ Inconsistent schedule
-□ Screen time before bed
-□ Caffeine too late
-□ Racing thoughts
-
-**Sleep Improvement Plan:**
-
-**Bedtime Routine (Choose 3):**
-□ No screens 1 hour before bed
-□ Reading fiction
-□ Gentle stretching
-□ Meditation/breathing
-□ Journaling
-□ Warm bath/shower
-□ Herbal tea
-□ Room temperature 65-68°F
-
-**My Sleep Routine:**
-1. ___________
-2. ___________
-3. ___________
-
-### Movement & Exercise
-
-**Current Activity Level (1-10):** ___/10
-
-**Energy-Boosting Movement:**
-
-**Daily Movement (Choose 2):**
-□ Morning walk
-□ Desk stretches every hour
-□ Walking meetings
-□ Stairs instead of elevator
-□ Parking farther away
-□ Dancing to music
-□ Yoga breaks
-□ Strength training
-
-**Weekly Exercise (Choose 1-2):**
-□ 3x cardio sessions
-□ 2x strength training
-□ Daily 30-minute walks
-□ Weekend hiking
-□ Sports/recreation
-□ Group fitness classes
-□ Home workouts
-□ Other: ___________
-
-### Nutrition for Energy
-
-**Current Nutrition (1-10):** ___/10
-
-**Energy-Draining Habits:**
-□ Skipping breakfast
+**Physical drains:**
+□ Poor sleep (less than 7 hours)
+□ Junk food crashes
+□ Sitting all day
+□ Dehydration
 □ Too much caffeine
-□ Sugar crashes
-□ Eating when stressed
-□ Large heavy meals
-□ Not drinking enough water
-□ Emotional eating
-□ Irregular eating times
 
-**Energy-Boosting Nutrition Plan:**
-
-**Hydration Goal:** ___ glasses of water daily
-
-**Meal Timing:**
-- Breakfast: ___________
-- Lunch: ___________
-- Dinner: ___________
-- Snacks: ___________
-
-**Energy Foods to Include More:**
-□ Complex carbs (oats, quinoa)
-□ Lean proteins (fish, beans)
-□ Healthy fats (nuts, avocado)
-□ Fruits and vegetables
-□ Green tea
-□ Dark chocolate (70%+)
-□ Nuts and seeds
-□ Other: ___________
-
-## Part 3: Mental Energy Management (10 minutes)
-
-### Cognitive Load Assessment
-
-**Mental Energy Drains:**
+**Mental drains:**
 □ Constant task-switching
-□ Too many decisions
 □ Information overload
-□ Unclear priorities
+□ Decision fatigue
+□ Endless notifications
 □ Perfectionism
-□ Multitasking
-□ Procrastination
-□ Mental clutter
 
-**Peak Mental Performance:**
-When is your brain sharpest? ___________
-
-**Mental Energy Plan:**
-
-**Focus Blocks:**
-Schedule your hardest mental work during peak hours:
-- Peak Time 1: _____ AM/PM for _____minutes
-- Peak Time 2: _____ AM/PM for _____minutes
-
-**Decision Reduction:**
-□ Meal prep on Sundays
-□ Lay out clothes night before
-□ Use templates for routine tasks
-□ Batch similar decisions
-□ Create morning routine
-□ Automate bill payments
-□ Other: ___________
-
-**Information Diet:**
-□ Check email only 3x daily
-□ Unsubscribe from unnecessary lists
-□ Use website blockers during focus time
-□ Limit news consumption
-□ Clear digital clutter
-□ Turn off non-essential notifications
-□ Other: ___________
-
-### Mental Recovery Practices
-
-**Brain Breaks (Choose 3):**
-□ 5-minute meditation
-□ Look out window/nature
-□ Deep breathing exercises
-□ Progressive muscle relaxation
-□ Listen to calming music
-□ Doodle or sketch
-□ Walk without phone
-□ Mindful tea/coffee break
-
-**Weekly Mental Rest (Choose 1):**
-□ Phone-free morning
-□ Nature immersion
-□ Creative hobby time
-□ Reading for pleasure
-□ Puzzles or games
-□ Learning something fun
-□ Other: ___________
-
-## Part 4: Emotional Energy Management (10 minutes)
-
-### Emotional Energy Assessment
-
-**Emotional Drains:**
-□ Toxic relationships
-□ Constant negativity
+**Emotional drains:**
+□ Toxic people
+□ Unresolved conflicts
+□ Saying yes when you mean no
+□ Comparing yourself to others
 □ Suppressing emotions
-□ People-pleasing
-□ Drama/conflict
-□ Comparison to others
-□ Perfectionist pressure
-□ Lack of boundaries
 
-**Emotional Boosters:**
-□ Time with loved ones
-□ Acts of kindness
-□ Creative expression
-□ Laughter
-□ Music
-□ Nature
-□ Physical affection
-□ Accomplishments
+**Spiritual drains:**
+□ Meaningless work
+□ Disconnection from values
+□ No time for what matters
+□ Isolation from community
+□ Lack of growth/challenge
 
-**Emotional Energy Plan:**
-
-**Daily Emotional Care:**
-Choose 2-3 practices:
-□ Morning gratitude (3 things)
-□ Midday mood check-in
-□ Evening emotion processing
-□ Call/text someone you care about
-□ Do something kind for someone
-□ Express feelings through art/music
-□ Physical movement to release emotions
-□ Other: ___________
-
-**Emotional Boundaries:**
-□ Say no to energy-draining people
-□ Limit negative media consumption
-□ Schedule worry time (15 min daily)
-□ Practice self-compassion
-□ Stop trying to fix others
-□ Remove yourself from drama
-□ Other: ___________
-
-**Emotional Recovery:**
-When emotionally drained, I will:
+**Your top 3 energy vampires:**
 1. ___________
 2. ___________
 3. ___________
 
-## Part 5: Spiritual Energy Management (10 minutes)
+## What Charges You Up?
 
-### Purpose & Meaning
+### Energy Boosters ⚡
+What actually gives you life?
 
-**Spiritual Energy Assessment (1-10):** ___/10
-
-**Connection to Purpose:**
-What gives your work meaning?
-___________
-
-What activities make you feel most alive?
-___________
-
-**Spiritual Energy Sources:**
+**Physical boosters:**
+□ Good sleep
+□ Movement/exercise
+□ Healthy food
 □ Time in nature
-□ Meditation/prayer
-□ Helping others
-□ Creative expression
-□ Learning and growth
-□ Deep conversations
-□ Spiritual practices
-□ Values-aligned work
+□ Sunlight
 
-**Spiritual Energy Plan:**
-
-**Daily Connection (Choose 1-2):**
-□ Morning intention setting
-□ Evening gratitude
-□ Brief meditation/prayer
-□ Reading inspiring content
-□ Connecting with nature
-□ Acts of service
-□ Other: ___________
-
-**Weekly Renewal (Choose 1):**
-□ Volunteer work
-□ Spiritual community
-□ Nature immersion
+**Mental boosters:**
+□ Learning new things
 □ Creative projects
-□ Meaningful conversations
-□ Learning aligned with values
-□ Other: ___________
+□ Solving problems
+□ Deep work blocks
+□ Mental breaks
 
-## Your Personal Energy System
+**Emotional boosters:**
+□ Quality time with loved ones
+□ Laughing
+□ Helping others
+□ Celebrating wins
+□ Processing emotions
 
-### Energy Management Principles
+**Spiritual boosters:**
+□ Meaningful work
+□ Personal growth
+□ Contributing to something bigger
+□ Quiet reflection
+□ Values-aligned activities
 
-1. **Match tasks to energy levels**
-   - High mental energy → Complex cognitive work
-   - Low mental energy → Administrative tasks
-   - High physical energy → Exercise, active projects
-   - Low physical energy → Rest, gentle activities
+**Your top 5 energy boosters:**
+1. ___________
+2. ___________
+3. ___________
+4. ___________
+5. ___________
 
-2. **Protect your peak energy**
-   - Schedule most important work during peak times
-   - Guard against energy drains during peak hours
-   - Say no to non-essential commitments
+## Your Personal Energy Management Plan
 
-3. **Plan for energy recovery**
-   - Build in breaks between intense activities
-   - Have different types of rest for different energy drains
-   - Create daily, weekly, and seasonal renewal practices
+### Daily Non-Negotiables
+Pick ONE from each category to do every day:
 
-### Your Energy Schedule
+**Physical:** ___________
+(Examples: 8 hours sleep, 10-minute walk, drink 64oz water)
 
-**Daily Energy Rhythm:**
+**Mental:** ___________  
+(Examples: 5-minute meditation, no phone first hour, single-tasking)
 
-**6-9 AM:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+**Emotional:** ___________
+(Examples: text a friend, gratitude list, say no to one thing)
 
-**9 AM-12 PM:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+**Spiritual:** ___________
+(Examples: 5 minutes in nature, help someone, work on passion project)
 
-**12-3 PM:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+### Energy Rhythm Strategy
 
-**3-6 PM:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+**During your high-energy time:** Do your most important/difficult work
 
-**6-9 PM:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+**During your low-energy time:** Do routine tasks, take breaks, recharge
 
-**9 PM-Sleep:**
-- Energy Level: ___/10
-- Best Activities: ___________
-- Recovery Needed: ___________
+**Your high-energy time:** ___________
+**Best activities then:** ___________
 
-### Weekly Energy Plan
+**Your low-energy time:** ___________
+**Best activities then:** ___________
 
-**Monday:** Focus on ___________ (your strongest energy type)
-**Tuesday:** Focus on ___________ 
-**Wednesday:** Focus on ___________
-**Thursday:** Focus on ___________
-**Friday:** Focus on ___________
-**Saturday:** Focus on recovery and ___________
-**Sunday:** Focus on preparation and ___________
+## Emergency Energy Kit
 
-## Your Energy Emergency Kit
+### When You're Running on Empty:
+**Quick fixes (5 minutes):**
+□ Take 10 deep breaths
+□ Drink a glass of water
+□ Step outside
+□ Listen to your favorite song
+□ Do jumping jacks
 
-When energy is critically low:
+**Medium fixes (15-30 minutes):**
+□ Take a short walk
+□ Have a healthy snack
+□ Call someone who makes you laugh
+□ Do something creative
+□ Take a power nap (if possible)
 
-**Physical Energy Emergency:**
-□ 10-minute nap
-□ Protein snack + water
-□ 5-minute walk outside
-□ Gentle stretching
-□ Other: ___________
+**Full recharge (1+ hour):**
+□ Get proper sleep tonight
+□ Spend time in nature
+□ Do something you love
+□ Connect with your values
+□ Have quality time with someone important
 
-**Mental Energy Emergency:**
-□ Single-task focus
-□ Simplify decisions
-□ Take 5 deep breaths
-□ Clear physical space
-□ Other: ___________
+### Your Personal Emergency Kit:
+When I'm totally drained, I will:
+1. **Immediately:** ___________
+2. **Soon as possible:** ___________
+3. **By end of day:** ___________
 
-**Emotional Energy Emergency:**
-□ Call supportive friend
-□ Listen to uplifting music
-□ Practice self-compassion
-□ Remove from stressful situation
-□ Other: ___________
+## Weekly Energy Review
 
-**Spiritual Energy Emergency:**
-□ Connect with purpose
-□ Read inspiring quote
-□ Brief gratitude practice
-□ Step into nature
-□ Other: ___________
+Every Sunday, ask yourself:
+- What gave me energy this week?
+- What drained me?
+- What do I need more of next week?
+- What do I need less of?
 
-## This Week's Energy Experiment
+## The 90-Day Energy Experiment
 
-Choose ONE energy type to focus on this week:
+**Week 1-2:** Notice your patterns (no judgment, just awareness)
+**Week 3-4:** Eliminate one major energy vampire
+**Week 5-8:** Add one energy booster daily
+**Week 9-12:** Optimize your daily rhythm
 
-**My Focus:** ___________ Energy
+## Remember This
 
-**Daily Practice:**
-What will you do daily? ___________
+You can't pour from an empty cup. Taking care of your energy isn't selfish - it's essential. When you're energized, you show up better for everyone and everything in your life.
 
-**Weekly Goal:**
-What do you want to improve? ___________
+Start small. Pick ONE energy booster and ONE energy vampire to focus on this week. You've got this! 🌟
 
-**Success Metric:**
-How will you measure progress? ___________
-
-## Key Takeaway
-
-Energy is your most valuable resource. Unlike time, energy can be renewed through the right practices. Managing your four energy systems isn't selfish—it's essential for sustained resilience and peak performance.
+**Next up:** Time to create some recovery rituals that actually work →
 
 ---
 
-[← Previous: Stress Signals](/journey/week-10/02-stress-signals/) | [Continue to Recovery Rituals →](/journey/week-10/04-recovery-rituals/)
+---
+
+[← Previous Lesson](/journey/week-10/02-stress-signals/) | [Next Lesson →](/journey/week-10/04-recovery-rituals/)
+
+[← Back to Week 10 Overview](/journey/week-10/)

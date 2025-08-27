@@ -1,325 +1,202 @@
 ---
-title: "Career Vision"
-excerpt: Define your long-term career aspirations and create a compelling vision.
+title: "Day 1: Your Career GPS"
+description: "Design your dream career (without the corporate BS)"
+estimated_time: 45 minutes
+day: 1
+week: 12
 ---
 
-# Career Vision
+## Your Future Self is Waiting 🚀
 
-**Time:** 90 minutes  
-**Purpose:** Create a clear, inspiring vision for your career future
+Ever feel like you're just floating through your career? Like everyone else has this master plan while you're out here winging it? 
 
-## The Power of Vision
+Yeah, same. But here's the thing—most "successful" people don't have it all figured out either. They just got better at pretending and planning.
 
-A career without vision is like driving without a destination—you'll move, but you won't know if you're getting anywhere meaningful. Your career vision becomes your North Star, guiding every decision and opportunity.
+Today we're fixing that. We're going to build you a career vision that's actually yours (not what your parents/professors/society thinks it should be).
 
-## Part 1: Future Visioning (30 minutes)
+## Why Vision Matters (For Real)
 
-### The 10-Year Exercise
+Look, I'm not going to feed you some motivational poster nonsense. Here's the truth:
 
-Close your eyes and imagine it's 10 years from now. You're living your ideal career life.
+**Without a vision, every job feels random.** With one, you start seeing patterns, opportunities, and connections you missed before.
 
-**Your Role:**
-- Job title: ___________
-- Industry/Field: ___________
-- Company type: ___________
-- Team size: ___________
-- Leadership level: ___________
+It's like having GPS for your career instead of just driving around hoping you'll end up somewhere good.
 
-**Your Impact:**
-- Problems you solve: ___________
-- People you serve: ___________
-- Legacy you're building: ___________
-- Industry reputation: ___________
+## The 10-Year Time Machine ⏰
 
-**Your Lifestyle:**
-- Work location: ___________
-- Work schedule: ___________
-- Income level: ___________
-- Travel frequency: ___________
-- Work-life balance: ___________
+This isn't about predicting the future (impossible) or limiting your options (stupid). It's about giving your brain something to work toward.
 
-**Your Growth:**
-- Skills mastered: ___________
-- Expertise areas: ___________
-- Recognition received: ___________
-- Learning pursuits: ___________
+Close your eyes. It's 2034. You're absolutely crushing it career-wise. What does that look like?
 
-### The Obituary Exercise
+### Your Role
+Write the first thing that comes to mind:
+- **Job title:** ___________
+- **Industry:** ___________
+- **Company vibe:** Startup chaos? Corporate stability? Your own thing?
+- **Team size:** Solo? Small squad? Leading an army?
+- **Your influence level:** Behind the scenes? Running the show?
 
-Write your professional obituary (morbid but powerful):
+### Your Daily Reality
+This is where it gets real:
+- **Where you work:** Home? Office? Coffee shops? Different city every month?
+- **Your schedule:** 9-5er? Night owl? Your own hours?
+- **Income range:** Enough to survive? Enough to thrive? Enough to retire early?
+- **Stress level:** Zen master? Controlled chaos? Adrenaline junkie?
 
-"[Your name] was known for ___________. They transformed ___________ by ___________. Their greatest contribution was ___________. They will be remembered for ___________."
+### Your Impact
+What change are you making in the world?
+- **Problems you solve:** ___________
+- **People you help:** ___________
+- **Industry you're disrupting:** ___________
+- **Legacy you're building:** ___________
 
-### The Press Release
+## The Values Reality Check 💯
 
-Write a future press release about your career achievement:
+Here's what nobody tells you: **Your values will change.** What matters to you at 20 might not at 30. That's okay. But knowing your current values helps you make better decisions now.
 
-"HEADLINE: ___________
+### Rank Your Top 5
+Be honest about what actually drives you (not what should):
 
-[Your name] announced today that ___________. This achievement represents ___________. 'I'm most proud of ___________,' said [Your name]. The impact will ___________."
+□ **Autonomy** - "Don't micromanage me"
+□ **Money** - "Let's be real, I have loans"  
+□ **Impact** - "I want to matter"
+□ **Learning** - "Feed me new challenges"
+□ **Recognition** - "I like being seen as good at things"
+□ **Security** - "Stability is underrated"
+□ **Creativity** - "Cookie-cutter work kills my soul"
+□ **Leadership** - "I want to guide others"
+□ **Flexibility** - "Life > work"
+□ **Adventure** - "Routine is death"
 
-## Part 2: Values Alignment (20 minutes)
-
-### Core Career Values
-
-Rank your top 5 (1 = most important):
-
-□ Autonomy
-□ Challenge
-□ Creativity
-□ Impact
-□ Income
-□ Innovation
-□ Leadership
-□ Learning
-□ Recognition
-□ Security
-□ Service
-□ Flexibility
-□ Growth
-□ Expertise
-□ Adventure
-
-**Your Top 5:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
-
-### Values in Action
-
-For each top value, describe what it looks like in practice:
-
-**Value 1:** ___________
-In practice: ___________
-
-**Value 2:** ___________
-In practice: ___________
-
-**Value 3:** ___________
-In practice: ___________
-
-### Non-Negotiables
-
-What you absolutely need in your career:
+**Your top 3:**
 1. ___________
 2. ___________
 3. ___________
 
-What you absolutely won't accept:
-1. ___________
-2. ___________
-3. ___________
+### Your Non-Negotiables
 
-## Part 3: Purpose Discovery (20 minutes)
-
-### Your Why
-
-Complete these statements:
-
-"I work because ___________"
-
-"I'm at my best when ___________"
-
-"I lose track of time when ___________"
-
-"People come to me for ___________"
-
-"I feel most fulfilled when ___________"
-
-### The Intersection
-
-**What you LOVE:**
+**I absolutely need:**
 - ___________
 - ___________
 - ___________
 
-**What you're GOOD AT:**
+**I absolutely won't tolerate:**
 - ___________
 - ___________
 - ___________
 
-**What the world NEEDS:**
-- ___________
+## The Sweet Spot Exercise 🎯
+
+This is stolen from the Japanese concept of ikigai, but made practical for your broke-college-student reality:
+
+### Four Questions
+
+**What do you actually love doing?**
+(Not what looks good on LinkedIn—what makes you lose track of time)
 - ___________
 - ___________
 
-**What you can be PAID FOR:**
-- ___________
+**What are you naturally good at?**
+(The stuff people ask you for help with)
 - ___________
 - ___________
 
-**Your Sweet Spot (where all four overlap):**
+**What problems does the world need solved?**
+(That you actually care about, not just what's trendy)
+- ___________
+- ___________
+
+**What can you realistically get paid for?**
+(Dream big, but also pay rent)
+- ___________
+- ___________
+
+**Your overlap zone:**
+Where these four meet is your career sweet spot. What is it?
 ___________
 
-### Your Purpose Statement
+## Your Vision Statement 📝
 
-"I exist professionally to ___________ so that ___________."
+Forget the corporate formula. Here's how to write a vision that doesn't sound like a robot created it:
 
-## Part 4: Vision Components (20 minutes)
-
-### The Four Dimensions
-
-**Achieving (External Success)**
-- Position: ___________
-- Income: ___________
-- Recognition: ___________
-- Accomplishments: ___________
-
-**Relating (Relationships)**
-- Team dynamics: ___________
-- Mentoring others: ___________
-- Industry network: ___________
-- Collaborations: ___________
-
-**Learning (Growth)**
-- Skills to develop: ___________
-- Experiences to gain: ___________
-- Wisdom to acquire: ___________
-- Expertise to build: ___________
-
-**Being (Identity)**
-- Professional identity: ___________
-- Personal brand: ___________
-- Leadership style: ___________
-- Core strengths: ___________
-
-### Career Themes
-
-What themes emerge from your vision?
-□ Building/Creating
-□ Helping/Serving
-□ Leading/Influencing
-□ Analyzing/Solving
-□ Connecting/Relating
-□ Teaching/Developing
-□ Innovating/Disrupting
-□ Organizing/Optimizing
-
-**Your Primary Theme:** ___________
-**Your Secondary Theme:** ___________
-
-## Part 5: Vision Statement (10 minutes)
-
-### Crafting Your Statement
-
-**Formula:** By [timeframe], I will [achievement] by [method] so that [impact].
+### The Simple Version
+"In 10 years, I want to be __________ so I can __________ while __________."
 
 **Example:**
-"By 2034, I will lead product innovation at a mission-driven tech company by building user-centric solutions that solve real problems, so that technology truly serves humanity while maintaining work-life harmony."
+"In 10 years, I want to be leading product at a climate tech startup so I can help solve the environmental crisis while working with brilliant people who don't take themselves too seriously."
 
-**Your Vision Statement:**
+**Your version:**
 ___________
 
-### Vision Board Elements
+### The Reality Check
+- Does this excite you or bore you?
+- Can you actually see yourself doing this?
+- Does it align with your values?
+- Would 18-year-old you think this is cool?
 
-List 5 images/symbols that represent your vision:
+## Making It Happen (Without Burning Out)
+
+### Milestones That Matter
+- **By graduation:** ___________
+- **Within 2 years:** ___________
+- **By age 30:** ___________
+- **Long-term dream:** ___________
+
+### Three Shifts You Need to Make
+
+**Stop doing:**
 1. ___________
 2. ___________
-3. ___________
-4. ___________
-5. ___________
 
-### Daily Reminder
-
-Write your vision in present tense as if it's already true:
-
-"I am ___________"
-
-## Making It Real
-
-### Near-Term Milestones
-
-**1-Year Milestone:**
-___________
-
-**3-Year Milestone:**
-___________
-
-**5-Year Milestone:**
-___________
-
-**10-Year Vision:**
-___________
-
-### Required Shifts
-
-**Mindset shifts needed:**
-1. From ___________ to ___________
-2. From ___________ to ___________
-
-**Behavior shifts needed:**
-1. Stop ___________
-2. Start ___________
-3. Continue ___________
-
-**Relationship shifts needed:**
-1. Connect with ___________
-2. Distance from ___________
-3. Deepen with ___________
-
-### Vision Accountability
-
-**Who will you share this with?**
-___________
-
-**How will you review it?**
-□ Monthly reflection
-□ Quarterly assessment
-□ Annual revision
-
-**Where will you display it?**
-___________
-
-## Reality Check
-
-### Potential Obstacles
-
-What might prevent this vision?
+**Start doing:**
 1. ___________
 2. ___________
-3. ___________
 
-### Contingency Thinking
+**Who you need to connect with:**
+1. ___________
+2. ___________
 
-"If ___________ happens, I will ___________"
+## The Accountability Plan 📊
 
-"If ___________ doesn't work, I will ___________"
+**Who are you sharing this vision with?**
+Pick someone who'll call you out when you're settling for less.
+___________
 
-### Trade-offs
+**How will you track progress?**
+□ Monthly check-ins with yourself
+□ Quarterly vision reviews
+□ Annual "am I still on track?" sessions
 
-What are you willing to sacrifice?
-- ___________
-- ___________
+**Where will you keep this visible?**
+Not buried in a folder. Somewhere you'll actually see it.
+___________
 
-What are you not willing to sacrifice?
-- ___________
-- ___________
+## When Things Go Sideways 🔄
 
-## Action Steps
+Because they will. Here's how to stay flexible:
 
-### This Week
-1. Share vision with one person
-2. Research one aspect of your vision
-3. Connect with someone living similar vision
+**If the industry changes:** "I'll pivot my skills toward __________"
 
-### This Month
-1. Create visual vision board
-2. Identify first milestone
-3. Join relevant community
-4. Start skill development
+**If the job market tanks:** "I'll focus on __________ to stay valuable"
 
-### This Quarter
-1. Review and refine vision
-2. Make one strategic move
-3. Build supporting habits
-4. Track progress metrics
+**If I change my mind:** "I'll reassess my values and adjust my vision"
 
-## Key Takeaway
+## This Week's Action Steps
 
-A compelling career vision pulls you forward even when the path gets difficult. Make it specific enough to guide decisions but flexible enough to evolve. Most importantly, make it yours—authentic to who you are and who you're becoming.
+Pick ONE:
+1. **Research someone living your vision** - Find them on LinkedIn, read their story
+2. **Share your vision with one person** - Make it real by saying it out loud
+3. **Join one community** - Find your people (online or offline)
+4. **Take one small step** - Apply for something, learn something, connect with someone
+
+## Real Talk Moment
+
+Your career vision isn't set in stone. It's a GPS that recalculates when you take a detour. The goal isn't to predict your future perfectly—it's to move intentionally toward something that matters to you.
+
+Most people drift through their careers and wonder why they feel lost. You're doing the work to be different. That puts you ahead of 90% of people already.
+
+Tomorrow, we'll figure out what skills you need to build to make this vision real. Spoiler: It's probably not what you think.
 
 ---
 
-[Continue to Skill Gap Analysis →](/journey/week-12/02-skill-gap-analysis/)
+[Continue to Day 2: Skill Gap Analysis →](/journey/week-12/02-skill-gap-analysis/)
