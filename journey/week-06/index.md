@@ -1,163 +1,63 @@
 ---
-title: "Week 6: Asking for Help & Building Knowledge"
+title: "Week 6: Ask for Help Like a Pro"
 week: 6
 phase: tool-mastery
 excerpt: Transform from isolated learner to connected community member through strategic help-seeking.
-estimated_time: 8-10 hours total
+estimated_time: 15-20 minutes per day
 ---
 
-## Core Truth
+# Week 6: Ask for Help Like a Pro
 
-**Your network is your net worth—in knowledge, opportunities, and support.**
+Hey friend! 👋
 
-The myth of the lone genius developer is just that—a myth. The most successful developers are skilled at asking for help, building relationships, and contributing to their communities.
+This week is about breaking one of the biggest myths in tech: that you have to figure everything out alone. The truth? The best developers are fantastic at asking for help, building relationships, and tapping into community knowledge. Let's turn you into a pro at getting unstuck quickly.
+
+## Big Picture This Week
+
+You'll learn to:
+- Ask technical questions that actually get helpful answers
+- Find the right communities for different types of help  
+- Build relationships that accelerate your learning
+- Contribute back to the community in meaningful ways
 
 ## This Week's Journey
 
-1. [**The Psychology of Help-Seeking**](./01-help-psychology) (45 min)
+1. [**Day 1: Why Asking for Help is Actually Smart**](./01-help-psychology) (~15 min)
+   Get over the mental barriers and reframe help-seeking as a superpower
 
-   - Overcoming imposter syndrome
-   - Reframing "weakness" as strategy
-   - The reciprocity principle
+2. [**Day 2: Stack Overflow Like a Boss**](./02-stackoverflow-mastery) (~20 min)  
+   Master the art of asking questions that get great answers fast
 
-2. [**Stack Overflow Mastery**](./02-stackoverflow-mastery) (60 min)
+3. [**Day 3: Find Your Developer Tribe**](./03-finding-tribes) (~15 min)
+   Discover communities where you belong and can grow
 
-   - Crafting effective questions
-   - Research before asking
-   - Contributing quality answers
+4. [**Day 4: Connect with Mentors**](./04-mentorship) (~20 min)
+   Find guidance from developers who've been where you want to go
 
-3. [**Finding Your Tribes**](./03-finding-tribes) (75 min)
+5. [**Day 5: Read Docs Like a Detective**](./05-documentation-skills) (~15 min)
+   Turn documentation from confusing walls of text into goldmines
 
-   - Identifying relevant communities
-   - Discord, Reddit, Slack groups
-   - Local meetups and events
+6. [**Day 6: GitHub Community Magic**](./06-github-social) (~20 min)
+   Use GitHub to build relationships and contribute to projects
 
-4. [**Mentorship Navigation**](./04-mentorship) (90 min)
+7. [**Day 7: Reach Out to Experts**](./07-expert-outreach) (~15 min)
+   Connect with experienced developers without being annoying
 
-   - Finding and approaching mentors
-   - Being a valuable mentee
-   - Reverse mentoring opportunities
+8. [**Day 8: Share Your Learning Journey**](./08-building-public) (~20 min)
+   Build your reputation by helping others learn from your experience
 
-5. [**Documentation Deep Dive**](./05-documentation-skills) (60 min)
+## This Week's Big Win
 
-   - Reading docs effectively
-   - Contributing to documentation
-   - Creating your own docs
+By Sunday, you'll have asked one great question online and received helpful answers - proving you can get unstuck faster by leveraging community knowledge.
 
-6. [**GitHub Social Strategies**](./06-github-social) (75 min)
+## Remember: Smart Developers Ask for Help
 
-   - Open source contribution
-   - Issue triage and discussion
-   - Building your developer brand
-
-7. [**Expert Outreach Methods**](./07-expert-outreach) (45 min)
-
-   - Reaching out to developers
-   - Twitter/LinkedIn strategies
-   - Coffee chat requests
-
-8. [**Building in Public**](./08-building-public) (60 min)
-   - Sharing your learning journey
-   - Creating valuable content
-   - Attracting help naturally
-
-## Week 6 Deliverable
-
-By Sunday evening, you'll have:
-
-- **Your Community Map** (where to find help for different topics)
-- **Your Help-Seeking Toolkit** (templates and strategies)
-- **Your First Contribution** (to an open source project or community)
-- **Your Public Learning Record** (blog post, tweet thread, or video)
-
-## Personality-Based Networking Approaches
-
-**For Introverts:**
-
-- Written communication first
-- One-on-one connections
-- Online communities over events
-- Quality over quantity relationships
-
-**For Extraverts:**
-
-- Meetups and conferences
-- Video calls and live interactions
-- Multiple concurrent connections
-- Energy from group activities
-
-**For Thinking Types:**
-
-- Logic-based help requests
-- Technical problem focus
-- Merit-based relationships
-- Direct communication style
-
-**For Feeling Types:**
-
-- Relationship-first approach
-- Personal connection building
-- Value-aligned communities
-- Appreciation and gratitude focus
-
-## The Art of Asking Technical Questions
-
-### The XY Problem
-
-When asking for help:
-
-1. **Don't ask:** "How do I do X?"
-2. **Do ask:** "I'm trying to achieve Y, and I thought X might work. Is there a better approach?"
-
-### The Minimum Reproducible Example
-
-- Isolate the problem
-- Remove unnecessary code
-- Provide clear steps to reproduce
-- Include error messages and expected behavior
-
-### The Research Trail
-
-- Show what you've already tried
-- Link to documentation you've read
-- Explain why existing solutions don't work
-- Demonstrate effort and learning
-
-## Building Your Developer Brand
-
-Your online presence should reflect:
-
-- **Curiosity:** Ask thoughtful questions
-- **Growth:** Share what you're learning
-- **Helpfulness:** Answer others' questions
-- **Authenticity:** Be genuine about your journey
-- **Consistency:** Regular, valuable contributions
-
-## Life Lesson for New Developers
-
-> "If you want to go fast, go alone. If you want to go far, go together." - African Proverb
-
-The developer who learns in isolation will always be limited by their own perspective. The developer who builds connections will have access to collective intelligence.
-
-## Time Investment This Week
-
-- **Community Research:** 2-3 hours
-- **Question/Answer Practice:** 2-3 hours
-- **Relationship Building:** 3-4 hours
-- **Total:** 8-10 hours (spread across 7 days)
-
-## Resources for Going Deeper
-
-- "Never Eat Alone" by Keith Ferrazzi
-- "The Mom Test" by Rob Fitzpatrick (for asking better questions)
-- [Stack Overflow's How to Ask](https://stackoverflow.com/help/how-to-ask)
-- [First Timers Only](https://www.firsttimersonly.com/) for open source
-- [Dev.to](https://dev.to) for developer community
+The myth of the lone genius developer is holding you back. Every successful developer has learned to leverage community knowledge, build relationships, and contribute back to others. This week, you'll join that community.
 
 ## Quick Navigation
 
-**Start Here →** [01: The Psychology of Help-Seeking](./01-help-psychology)
+**Start Here →** [Day 1: Why Asking for Help is Actually Smart](./01-help-psychology)
 
 ---
 
-_Remember: Asking for help is not a sign of weakness—it's a sign of wisdom. The strongest developers are those who know they don't know everything._
+*The best developers aren't the ones who know everything - they're the ones who know how to find answers quickly.*

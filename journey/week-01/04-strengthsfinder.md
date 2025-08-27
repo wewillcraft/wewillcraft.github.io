@@ -1,52 +1,79 @@
 ---
-title: "StrengthsFinder: Your Natural Talents"
-estimated_time: 45 minutes
+title: "Your Natural Superpowers 🦸‍♀️"
+estimated_time: 15 minutes
 objectives:
-  - Identify your top 5 talent themes
-  - Understand how to develop talents into strengths
-  - Apply strengths to your coding practice
-  - Build a strengths-based development plan
+  - Discover what you're naturally gifted at
+  - Learn how to leverage your talents
+  - Stop trying to fix what isn't broken
 ---
 
-## What Is StrengthsFinder?
+## Hey friend! 👋
 
-StrengthsFinder identifies your natural talent patterns—the things you do effortlessly that others find difficult. These aren't skills (which are learned) but innate talents that can be developed into strengths.
+Today we're shifting gears from understanding your mind and motivations to discovering what you're naturally amazing at. Think of it as finding your built-in superpowers!
 
-**Formula:** Talent × Investment = Strength
+## Today's Big Idea 💡
 
-## Taking the Assessment
+You have natural talents - things that feel easy to you but hard to others. Instead of trying to be good at everything, what if you focused on being exceptional at what comes naturally?
 
-### Option 1: Official Assessment (Recommended)
+## Why This Matters
 
-1. Purchase "StrengthsFinder 2.0" book (includes access code)
-2. Or buy access directly at [Gallup StrengthsFinder](https://www.gallup.com/cliftonstrengths/)
-3. Complete the 30-minute assessment
-4. Review your Top 5 Talent Themes
+When you work from your strengths:
+- Tasks feel effortless instead of draining
+- You achieve better results with less effort
+- You feel energized rather than exhausted
+- You contribute your unique value to any team
 
-### Option 2: Free Alternative
+## Your 15-Minute Mission
 
-1. Take the [HIGH5 Test](https://high5test.com) (similar methodology)
-2. Complete the 15-minute assessment
-3. Note your top 5 strengths
+### Step 1: Take a Free Assessment (12 minutes)
+Go to [HIGH5 Test](https://high5test.com) and complete the quick assessment. It's like StrengthsFinder but free!
 
-### Record Your Results
+### Step 2: Write Down Your Top 5 (3 minutes)
+Note your top 5 strengths and which ones felt most accurate.
 
-Add to your `journey-journal.md`:
+## Quick Win ✅
 
-```markdown
-## StrengthsFinder/HIGH5 Results
+**Right now, think about this:** What do people always ask for your help with? What do you do that makes others say "I could never do that"? Those are clues to your natural strengths!
 
-Top 5 Themes:
+## The Magic Formula
 
-1. [Theme Name]: [Brief description]
-2. [Theme Name]: [Brief description]
-3. [Theme Name]: [Brief description]
-4. [Theme Name]: [Brief description]
-5. [Theme Name]: [Brief description]
+**Natural Talent + Time & Practice = Strength**
 
-Initial Reaction:
-[What felt most accurate? What surprised you?]
-```
+You can't create talent, but you can definitely develop it into a superpower.
+
+## Common Strengths in Simple Terms
+
+Here are some strengths you might discover:
+
+**Achiever:** You love checking things off your list
+**Analytical:** You naturally see patterns and ask "why?"
+**Empathy:** You feel what others feel
+**Focus:** You can zero in on what matters most
+**Learner:** You're energized by discovering new things
+**Strategic:** You see the path when others see chaos
+**Communication:** You find the right words to explain things
+**Problem Solving:** Complex challenges excite you
+**Adaptability:** You roll with changes easily
+
+## Real Talk
+
+I used to think everyone could see patterns in data like I could. Turns out, that's actually a strength called "Analytical"! I spent years trying to get better at small talk (not a strength) instead of leveraging my pattern-recognition superpower.
+
+Don't waste time trying to be well-rounded. The world needs your unique combination of strengths, not another mediocre generalist.
+
+## What This Means For You
+
+**Use your strengths intentionally:** Look for ways to apply them in your daily work.
+
+**Partner with others:** Find people whose strengths complement yours.
+
+**Stop fixing weaknesses:** Manage them, don't try to turn them into strengths.
+
+**Invest in your talents:** This is where you'll get the biggest return on your time.
+
+## Today's Takeaway
+
+You're not here to be good at everything. You're here to be extraordinary at the things that come naturally to you. The world needs YOUR unique combination of talents! 🎯
 
 ## The 34 Themes in Tech Context
 

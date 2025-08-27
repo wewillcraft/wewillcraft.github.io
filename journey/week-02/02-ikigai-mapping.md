@@ -1,52 +1,75 @@
 ---
-title: "Ikigai Mapping"
-excerpt: Find your reason for being at the intersection of what you love, what you're good at, what the world needs, and what you can be paid for.
+title: "Finding Your Sweet Spot 🎯"
+estimated_time: 15 minutes
+objectives:
+  - Map where your passions, talents, and opportunities align
+  - Discover your potential career sweet spot
+  - Understand why some work energizes while other work drains
 ---
 
-# Ikigai Mapping
+## Hey friend! 👋
 
-**Time:** 60 minutes
-**Purpose:** Discover your "reason for being" at the intersection of passion, mission, profession, and vocation
+Yesterday you discovered your core values. Today we're finding where your natural interests, talents, and the world's needs all come together. This is where career magic happens!
 
-## What is Ikigai?
+## Today's Big Idea 💡
 
-Ikigai (生き甲斐) is a Japanese concept meaning "reason for being." For developers, it's finding code that:
+**Your ideal career sits at the intersection of what you love, what you're good at, what the world needs, and what pays well.** This Japanese concept called "ikigai" can help you find work that doesn't feel like work.
 
-- **Excites you** to write (Passion)
-- **Leverages your strengths** (Talent)
-- **Solves real problems** (Impact)
-- **Pays the bills** (Sustainability)
+## Why This Matters
 
-When all four align, work doesn't feel like work.
+When you find your ikigai:
+- Work feels energizing instead of draining
+- You naturally excel because you're using your strengths
+- You make a real impact on problems you care about
+- You can build a sustainable career around it
 
-## The Four Circles
+## Your 15-Minute Mission
 
-### Circle 1: What You LOVE (15 minutes)
+### The Four Questions (15 minutes)
 
-**In coding, I love:**
+Draw four overlapping circles and answer these:
 
-- [ ] Building from scratch
-- [ ] Debugging complex problems
-- [ ] Optimizing performance
-- [ ] Designing systems
-- [ ] Creating beautiful UIs
-- [ ] Automating repetitive tasks
-- [ ] Working with data
-- [ ] Learning new technologies
-- [ ] Teaching others
-- [ ] Open source contribution
+**Circle 1: What do you LOVE doing?**
+- What parts of coding/work make you lose track of time?
+- What would you do even if you weren't paid?
+- What are you curious about?
 
-**Types of problems I love solving:**
+**Circle 2: What are you GOOD at?**
+- What do people always ask for your help with?
+- What comes naturally to you?
+- What are your technical strengths?
 
-1.
-2.
-3.
+**Circle 3: What does the world NEED?**
+- What problems frustrate you in daily life?
+- What would make people's lives better?
+- What challenges is society facing?
 
-**Technologies that excite me:**
+**Circle 4: What can you be PAID for?**
+- What skills have market value?
+- What are companies hiring for?
+- What would someone pay you to solve?
 
-1.
-2.
-3.
+## Quick Win ✅
+
+**Right now:** Think about the last project that felt effortless and fulfilling. What elements made it special? That's your ikigai showing up!
+
+## Real Talk
+
+Don't expect to find the perfect intersection immediately. Most people need to experiment and adjust over time. The goal is direction, not perfection.
+
+Also, you might have multiple ikigai areas throughout your life. That's totally normal! Your sweet spot can evolve as you do.
+
+## Common Tech Ikigai Examples
+
+**The Problem Solver:** Loves debugging + Great at analysis + World needs fewer bugs + Companies pay well for this
+
+**The Teacher:** Loves explaining + Good at communication + World needs more education + Online courses pay
+
+**The Builder:** Loves creating + Good at execution + World needs new tools + Startups need this
+
+## Today's Takeaway
+
+Your ikigai isn't a destination you arrive at - it's a direction you move toward. The closer you get to that sweet spot, the more your work will feel like play. 🎯
 
 **I lose track of time when:**
 

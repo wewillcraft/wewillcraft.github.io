@@ -1,52 +1,74 @@
 ---
-title: "Personal Manifesto"
-excerpt: Synthesize everything into a powerful declaration of who you are and what you stand for.
+title: "Writing Your Manifesto 📜"
+estimated_time: 15 minutes
+objectives:
+  - Pull everything together into a personal declaration
+  - Create a document that guides your decisions
+  - Establish your "line in the sand"
 ---
 
-# Personal Manifesto
+## Hey friend! 👋
 
-**Time:** 90 minutes
-**Purpose:** Create your personal declaration of independence—a document that guides every decision
+You've done incredible work this week discovering your values, your sweet spot, and your vision. Today we're pulling it all together into something powerful: your personal manifesto.
 
-## What is a Personal Manifesto?
+## Today's Big Idea 💡
 
-It's your constitution. Your north star. Your line in the sand. A manifesto declares:
+**A manifesto is your personal constitution.** It's a short document that says "This is who I am, what I stand for, and how I'll live." When life gets complicated, your manifesto keeps you centered.
 
-- Who you are
-- What you believe
-- What you will and won't do
-- How you'll live
-- What legacy you'll leave
+## Why This Matters
 
-When life gets complex, your manifesto simplifies decisions.
+A manifesto helps you:
+- Make faster, clearer decisions
+- Stay true to yourself under pressure
+- Communicate what you're about
+- Remember your purpose when things get tough
 
-## Part 1: The Foundation (20 minutes)
+## Your 15-Minute Mission
 
-### Your Core Identity
+### Write Your Simple Manifesto
 
-Complete each statement:
+Keep it short - one page max. Use this framework:
 
-**I AM:**
-(Not what you do, but who you ARE at your core)
+**I am...**
+[Who you are at your core - not your job title, but your essence]
 
----
+**I believe...**
+[2-3 fundamental truths that guide you]
 
-**I BELIEVE:**
-(Your fundamental truths about life/work/technology)
+**I value...**
+[Your top 3-5 values from earlier this week]
 
----
+**I will...**
+[3-4 commitments you're making to yourself]
 
-**I VALUE:**
-(Your top 5 from earlier, restated as principles)
+**I won't...**
+[2-3 things you refuse to compromise on]
 
-1.
-2.
-3.
-4.
-5.
+## Quick Win ✅
 
-**I EXIST TO:**
-(Your purpose statement)
+**Right now:** Complete this sentence: "No matter what happens, I will never..." That's one of your non-negotiables!
+
+## Real Talk
+
+Your manifesto doesn't need to be perfect or permanent. Think of it as a living document that evolves as you do. The power is in having something written down that you can refer to.
+
+Don't make it too long or complicated. The best manifestos are simple, clear, and easy to remember.
+
+## Example Mini-Manifesto
+
+*I am a builder who creates solutions that matter.*
+
+*I believe technology should serve humanity, not the other way around. I believe in continuous learning and authentic relationships.*
+
+*I value creativity, integrity, balance, growth, and connection.*
+
+*I will work on problems I care about with people I respect. I will keep learning and stay curious. I will maintain my health and relationships.*
+
+*I won't sacrifice my values for money. I won't work on projects that harm others. I won't pretend to be someone I'm not.*
+
+## Today's Takeaway
+
+Your manifesto is your personal operating system. When decisions get tough, it's your guide. When opportunities arise, it's your filter. When life gets noisy, it's your clarity. 🎯
 
 ---
 

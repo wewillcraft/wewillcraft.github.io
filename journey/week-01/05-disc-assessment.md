@@ -1,60 +1,81 @@
 ---
-title: "DISC Communication Style"
-excerpt: Understand your communication preferences and work style to improve team dynamics.
+title: "How You Show Up In The World 🌟"
+estimated_time: 15 minutes
+objectives:
+  - Discover your natural communication style
+  - Learn how to connect better with others
+  - Understand why some people energize or drain you
 ---
 
-# DISC Communication Style
+## Hey friend! 👋
 
-**Time:** 30 minutes\
-**Purpose:** Understand your communication and work style preferences
+So far we've explored your thinking style and motivations. Today we're looking at how you naturally show up when you're with other people. Think of it as your communication DNA!
 
-## What is DISC?
+## Today's Big Idea 💡
 
-DISC measures how you prefer to:
+Your DISC style shows how you naturally communicate and work with others. Understanding this helps you connect better with teammates and explains why some people just "click" while others feel harder to work with.
 
-- **D**ominance: Handle problems and challenges
-- **I**nfluence: Interact with and influence others
-- **S**teadiness: Pace yourself and respond to change
-- **C**onscientiousness: Respond to rules and procedures
+## Why This Matters
 
-Unlike MBTI (how you think) or Enneagram (why you act), DISC reveals **how you communicate and work**.
+When you know your communication style:
+- You understand why certain people energize or drain you
+- You can adapt your approach to connect with different personalities
+- Team conflicts make more sense (and become easier to resolve)
+- You communicate in ways that actually get heard
 
-## Take the Assessment
+## Your 15-Minute Mission
 
-**Free Option:** [Tony Robbins DISC Assessment](https://www.tonyrobbins.com/disc/)
+### Step 1: Take the Assessment (10 minutes)
+Go to [Tony Robbins DISC Assessment](https://www.tonyrobbins.com/disc/) and complete the quick test.
 
-- Takes 10 minutes
-- Provides immediate results
-- Focus on workplace scenarios
+### Step 2: Note Your Style (5 minutes)
+Write down your highest letter and what resonated most.
 
-**Alternative:** [123Test DISC](https://www.123test.com/disc-personality-test/)
+## Quick Win ✅
 
-- Quick and straightforward
-- Good basic overview
+**Right now, think about this:** Who was the last person you had a great conversation with? Who was the last person you found exhausting to talk to? Your DISC style will help explain why!
 
-## Understanding Your Style
+## The Four Styles (You're Probably A Mix!)
 
-### High D (Dominance)
+**D - Driver:** "Let's get it done!"
+- Direct, results-focused, loves challenges
+- Communicates: Fast, bottom-line first
+- Needs: Control and quick decisions
 
-**In Code Reviews:**
+**I - Influencer:** "Let's make it fun!"
+- Enthusiastic, people-focused, loves variety
+- Communicates: Stories, excitement, big picture
+- Needs: Social interaction and recognition
 
-- Direct, results-focused feedback
-- Appreciates efficiency over diplomacy
-- Prefers: "This breaks. Fix it here."
+**S - Supporter:** "Let's make sure everyone's okay"
+- Steady, relationship-focused, loves harmony
+- Communicates: Gentle, considerate, thorough
+- Needs: Stability and appreciation
 
-**Team Dynamic:**
+**C - Careful:** "Let's make sure it's right"
+- Accurate, task-focused, loves quality
+- Communicates: Details, facts, questions
+- Needs: Information and time to decide
 
-- Takes charge in ambiguous situations
-- Pushes for quick decisions
-- May seem impatient with process
+## Real Talk
 
-**Developer Strengths:**
+I used to get frustrated with people who wanted to chat before getting to work (I'm high C). Then I realized they weren't wasting time - they were connecting, which actually helped them work better! Understanding DISC helped me appreciate different styles instead of judging them.
 
-- Ships fast, iterates quickly
-- Tackles hard problems head-on
-- Great at unblocking teams
+No style is better than another. We need all types to build great things together.
 
-### High I (Influence)
+## What This Means For You
+
+**If you're high D:** Others might see you as pushy. Practice pausing to hear their perspective.
+
+**If you're high I:** Others might see you as scattered. Practice following through on commitments.
+
+**If you're high S:** Others might see you as slow. Practice sharing your thoughts even when you're not 100% sure.
+
+**If you're high C:** Others might see you as critical. Practice highlighting what's working before suggesting improvements.
+
+## Today's Takeaway
+
+There's no wrong way to be human. Understanding your communication style helps you connect authentically with others while being true to yourself. 🎯
 
 **In Code Reviews:**
 

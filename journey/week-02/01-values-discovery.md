@@ -1,30 +1,70 @@
 ---
-title: "Values Discovery Exercise"
-excerpt: Discover your core values through a systematic card sort process and understand what truly drives you.
+title: "What Do You Actually Value? 🎯"
+estimated_time: 15 minutes
+objectives:
+  - Discover your true core values (not the ones you think you should have)
+  - Understand why some decisions feel easy while others feel impossible
+  - Get clear on what drives your choices
 ---
 
-# Values Discovery Exercise
+## Hey friend! 👋
 
-**Time:** 90 minutes
-**Purpose:** Identify your top 5 core values that guide your decisions and define success
+Ever find yourself stuck between two good options, not knowing which to choose? Today we're going to fix that by discovering what you truly value deep down (which might surprise you!).
 
-## Why Values Matter for Developers
+## Today's Big Idea 💡
 
-Your values determine:
+**Your values are your decision-making shortcut.** When you're clear on what matters most to you, choices become obvious. No more endless pros and cons lists!
 
-- **Which companies** you'll thrive at (startup vs. enterprise)
-- **Which roles** will fulfill you (IC vs. management)
-- **Which technologies** you'll pursue (bleeding edge vs. stable)
-- **Which teams** you'll excel in (competitive vs. collaborative)
-- **Which decisions** you'll make (security vs. freedom)
+## Why This Matters
 
-When your work aligns with your values, Monday mornings feel different.
+When you know your values:
+- Job searches become clearer (you know what to look for)
+- Career decisions feel less scary
+- You stop trying to please everyone
+- You understand why certain things bug you so much
 
-## Part 1: The Values Card Sort (45 minutes)
+## Your 15-Minute Mission
 
-### Step 1: Initial Sort
+### Step 1: Quick Values Check (10 minutes)
+Look at this list and circle the words that make you think "YES, that's important to me":
 
-Review this comprehensive list and mark ALL values that resonate with you:
+**Achievement, Adventure, Beauty, Balance, Challenge, Community, Connection, Creativity, Excellence, Family, Freedom, Growth, Helping Others, Impact, Independence, Innovation, Integrity, Learning, Love, Mastery, Peace, Recognition, Security, Stability, Variety**
+
+Don't overthink it - go with your gut reaction.
+
+### Step 2: The Hard Choices (5 minutes)  
+From your circled words, pick your top 5. If you had to choose between them, which ones would you never give up?
+
+## Quick Win ✅
+
+**Right now:** Think about the last time you felt really frustrated or angry. What value of yours was being violated? That's one of your core values showing up!
+
+## Real Talk
+
+I used to think I valued "security" because that's what seemed responsible. But when I looked at my actual choices, I always picked the risky, creative option. My real value was "adventure," not security. 
+
+Don't choose values that sound good - choose the ones that are actually true for you.
+
+## Common Value Conflicts in Tech
+
+**Security vs. Adventure:** Stable job vs. startup risk
+**Excellence vs. Speed:** Perfect code vs. shipping fast  
+**Independence vs. Community:** Solo work vs. team collaboration
+**Innovation vs. Stability:** Latest tech vs. proven solutions
+
+There's no right answer - just YOUR answer.
+
+## What Your Values Mean
+
+**If you chose Freedom:** You need autonomy and flexibility
+**If you chose Learning:** You thrive with new challenges and growth
+**If you chose Impact:** You want to make a meaningful difference
+**If you chose Excellence:** Quality matters more than speed
+**If you chose Connection:** Relationships energize you
+
+## Today's Takeaway
+
+Your values aren't suggestions - they're requirements. When you honor them, life flows. When you ignore them, everything feels harder than it should. 🎯
 
 ```
 □ Achievement        □ Adventure         □ Aesthetics

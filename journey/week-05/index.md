@@ -2,143 +2,118 @@
 title: "Week 5: Focus in the Age of Distraction"
 week: 5
 phase: tool-mastery
-excerpt: Master deep work and attention management in a world designed to scatter your focus.
-estimated_time: 8-10 hours total
+excerpt: Master deep work and attention management in a world designed to scatter your focus
+estimated_time: 15-20 min/day
 ---
 
-## Core Truth
+## Hey there, focus warrior! 👋
 
-**Attention is the currency of the 21st century.**
+Welcome to Week 5! Ever feel like your brain is like a browser with 47 tabs open, three of which are playing music, and you can't figure out which ones? Yeah, you're not alone. In our always-on, notification-heavy world, the ability to focus deeply has become a rare superpower.
 
-Your ability to focus deeply is becoming increasingly rare—and therefore increasingly valuable. This week, you'll build systems to protect and direct your attention like the precious resource it is.
+This week, we're taking your attention back.
 
-## This Week's Journey
+## The Big Idea 💡
 
-1. [**The Neuroscience of Focus**](./01-focus-neuroscience) (45 min)
-   - Understanding your attention system
-   - The cost of context switching
-   - Your brain's default mode network
+**Attention is your most valuable resource—and everyone wants a piece of it.**
 
-2. [**Digital Minimalism Setup**](./02-digital-minimalism) (90 min)
-   - Phone and app configuration
-   - Notification management
-   - Creating focus environments
+Every app, notification, and "urgent" message is designed to capture and monetize your focus. But here's the thing: deep, sustained attention is where all meaningful work happens. Master your focus, and you master your results.
 
-3. [**Deep Work Rituals**](./03-deep-work-rituals) (60 min)
-   - Designing your focus sessions
-   - Pre-work routines and cues
-   - Environment optimization
+## This Week's Adventure
 
-4. [**Attention Restoration**](./04-attention-restoration) (45 min)
-   - Active recovery techniques
-   - Nature-based restoration
-   - Meditation and mindfulness
+### Day 1: [The Neuroscience of Focus](./01-focus-neuroscience)
+*Time: 15 minutes*
 
-5. [**The Pomodoro+ System**](./05-pomodoro-plus) (75 min)
-   - Enhanced time-blocking
-   - Energy-based scheduling
-   - Personality-matched rhythms
+Understand how your brain actually works when it comes to attention. Spoiler: multitasking is a myth, and context switching is expensive.
 
-6. [**Distraction Proofing**](./06-distraction-proofing) (60 min)
-   - Identifying your kryptonite
-   - Creating friction for bad habits
-   - Emergency focus protocols
+### Day 2: [Digital Minimalism Setup](./02-digital-minimalism)
+*Time: 20 minutes*
 
-7. [**Flow State Engineering**](./07-flow-state) (75 min)
-   - Conditions for deep focus
-   - Challenge-skill balance
-   - Triggering flow regularly
+Turn your devices from distraction machines into focus tools. We'll tame notifications and create environments that support deep work.
 
-8. [**Focus Metrics & Tracking**](./08-focus-tracking) (30 min)
-   - Measuring deep work hours
-   - Quality vs. quantity metrics
-   - Continuous improvement loops
+### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
+*Time: 15 minutes*
 
-## Week 5 Deliverable
+Design your personal focus sessions. Every master craftsperson has rituals—now you will too.
 
-By Sunday evening, you'll have created:
+### Day 4: [Attention Restoration](./04-attention-restoration)
+*Time: 15 minutes*
 
-- **Your Focus Environment** (physical and digital spaces)
-- **Your Deep Work Ritual** (pre-work routine)
-- **Your Distraction Defense System** (blocks and barriers)
-- **Your Flow State Triggers** (conditions and cues)
+Learn how to truly recharge your mental energy. Scrolling Instagram doesn't count as rest (sorry!).
 
-## Personality-Based Focus Strategies
+### Day 5: [The Pomodoro+ System](./05-pomodoro-plus)
+*Time: 20 minutes*
 
-**For High Sensitivity (HSP):**
+Take the classic Pomodoro Technique and supercharge it with your personal energy patterns and working style.
 
-- Noise-canceling headphones
-- Controlled lighting
-- Minimal visual distractions
+### Day 6: [Distraction Proofing](./06-distraction-proofing)
+*Time: 15 minutes*
 
-**For ADHD Tendencies:**
+Identify your focus kryptonite and build systems to protect yourself from your own worst habits.
 
-- Body doubling sessions
-- Fidget tools for thinking
-- Shorter focus intervals
+### Day 7: [Flow State Engineering](./07-flow-state)
+*Time: 15 minutes*
 
-**For Anxious Types:**
+Create the conditions where time disappears and your best work emerges naturally.
 
-- Worry time scheduling
-- Stress-reducing rituals
-- Clear stopping points
+### Day 8: [Focus Tracking](./08-focus-tracking)
+*Time: 20 minutes*
 
-**For Perfectionist Types:**
+Measure and improve your attention patterns. You can't optimize what you don't track.
 
-- "Good enough" timers
-- Progress over perfection
-- Done lists, not just to-do lists
+## What You'll Walk Away With
 
-**For Social Types:**
+By Sunday night, you'll have:
+- ✅ A distraction-free work environment
+- ✅ Personalized deep work rituals that actually stick
+- ✅ Systems to protect your attention from constant interruption
+- ✅ The ability to enter flow state on command
+- ✅ Recovery techniques that actually restore your mental energy
 
-- Focus buddy systems
-- Quiet co-working spaces
-- Scheduled social breaks
+## Real Talk 💬
 
-## The Developer's Focus Challenge
+Look, improving your focus isn't about becoming a monk or throwing your phone in a drawer. It's about being intentional with your attention instead of letting it be pulled in a million directions.
 
-Modern development requires deep focus for:
+The goal isn't perfect focus 24/7. It's about having deep focus available when you need it most.
 
-- **Complex problem-solving** (debugging, architecture)
-- **Learning new technologies** (frameworks, languages)
-- **Creative coding** (innovative solutions)
-- **Code review** (careful analysis)
+## Daily Rhythm
 
-Yet the industry promotes:
+**Morning (2 min)**: Quick attention check. How's your mental clarity today?
 
-- Constant Slack notifications
-- "Agile" interruptions
-- Open office environments
-- Meeting-heavy cultures
+**Main Session (15-20 min)**: Complete that day's focus system builder. Small changes, big impact.
 
-This week, you'll learn to thrive despite these challenges.
+**Evening (3 min)**: Reflect on your focus quality today. What supported deep work? What scattered it?
 
-## Life Lesson for 20-Somethings
+## Your Week 5 Toolkit
 
-> "The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly valuable in our economy." - Cal Newport
+### 📱 Essential Apps
+- **Focus/Do Not Disturb**: Built-in phone features (free)
+- **Forest or Freedom**: Distraction blockers
+- **Timer app**: For focused sessions
 
-Your generation faces unprecedented distraction. Your ability to focus deeply will be your competitive advantage.
+### 🎧 Optional Companions
+- **Noise-canceling headphones**: Create instant focus zones
+- **Instrumental music playlist**: Background focus fuel
+- **Desk organization**: Physical clutter = mental clutter
 
-## Time Investment This Week
+## Quick Start Challenge
 
-- **System Setup:** 3-4 hours
-- **Ritual Development:** 2-3 hours
-- **Practice & Refinement:** 2-3 hours
-- **Total:** 8-10 hours (spread across 7 days)
+**Right now, before you read another word:**
 
-## Resources for Going Deeper
+1. Put your phone in airplane mode for the next hour
+2. Notice how many times you instinctively reach for it
+3. Set a timer for 25 minutes and do ONE focused task
+4. Write down how it felt different from your normal work
 
-- "Deep Work" by Cal Newport
-- "Digital Minimalism" by Cal Newport
-- "The Shallows" by Nicholas Carr
-- "Peak Performance" by Brad Stulberg
-- [RescueTime](https://www.rescuetime.com/) for tracking
-- [Freedom](https://freedom.to/) for blocking distractions
+That's it. You've just experienced what focused work feels like. Now let's make it your default mode! 🧠✨
 
-## Quick Navigation
+## A Friendly Reminder
 
-**Start Here →** [01: The Neuroscience of Focus](./01-focus-neuroscience)
+Your attention is not broken. It's just been trained by an environment that profits from distraction. This week, we're retraining it to serve your goals instead of everyone else's agenda.
+
+## Questions?
+
+Write them down! Curiosity is attention's best friend. Every question is your brain asking to go deeper.
 
 ---
 
-_Remember: Focus is not about willpower. It's about design. You're designing an environment and system that makes deep work inevitable._
+**Ready to reclaim your focus?** → [Day 1: The Neuroscience of Focus](./01-focus-neuroscience)
