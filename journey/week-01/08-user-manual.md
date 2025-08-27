@@ -1,53 +1,85 @@
 ---
-title: "Creating Your User Manual"
-excerpt: Synthesize everything into a practical guide that helps others work with you effectively.
+title: "Your Personal README 📋"
+estimated_time: 15 minutes
+objectives:
+  - Create a simple guide for working with you
+  - Help others understand your needs and preferences
+  - Build better working relationships from day one
 ---
 
-# Creating Your Personal User Manual
+## Hey friend! 👋
 
-**Time:** 90 minutes
-**Purpose:** Create a practical guide for working with you effectively
+Congratulations! You've completed Week 1 and learned so much about yourself. Today we're creating something practical - a simple guide that helps others work with you effectively.
 
-## What is a Personal User Manual?
+## Today's Big Idea 💡
 
-A Personal User Manual is a document that helps others understand:
+Just like code has documentation, you need documentation too! A personal "README" helps teammates, managers, and collaborators understand how to bring out your best work.
 
-- How you work best
-- What motivates and energizes you
-- Your communication preferences
-- Your strengths and growth areas
-- How to get the best from you
+## Why This Matters
 
-Think of it as README.md for humans.
+When others understand how you work best:
+- Projects run smoother
+- Fewer misunderstandings occur
+- Trust builds faster
+- You get to be yourself without explaining constantly
 
-## Why Developers Need This
+## Your 15-Minute Mission
 
-- **Reduces friction** in team collaboration
-- **Speeds up** manager relationships
-- **Prevents misunderstandings** before they happen
-- **Accelerates trust** building
-- **Optimizes** your work environment
+Create a simple guide using the template below. Keep it short - one page maximum!
 
-## Your User Manual Template
+## Quick Win ✅
 
-Copy this template and fill it in with your assessment results and insights:
+**Right now:** Think of one person you work with regularly. What would you want them to know about working with you? That's the heart of your user manual!
+
+## Simple User Manual Template
+
+Copy and customize this:
 
 ---
 
-# [Your Name]'s User Manual
+# Hi, I'm [Your Name]! 👋
 
-_Last Updated: [Date]_
+## The Basics
+- **How I recharge:** [Alone time / Social time / Mix]
+- **My peak hours:** [When you do your best work]
+- **Communication style:** [Direct / Detailed / Casual / Formal]
 
-## Quick Start Guide
+## I do my best work when...
+- [Environment, conditions, or setup you need]
+- [Type of collaboration you prefer]
+- [How you like to receive feedback]
 
-### My Personality Stack
+## I might struggle with...
+- [Things that drain or frustrate you]
+- [Areas where you need extra support]
 
-- **MBTI:** [Your type] - [One-line description]
-- **Enneagram:** Type [X] - [Core motivation]
-- **Top Strengths:** [List top 3]
-- **DISC Style:** High [Letter] - [Communication preference]
+## If you need something from me...
+- **Urgent:** [How to reach you for real emergencies]
+- **Normal:** [Your preferred communication method]
+- **Feedback:** [How you like to receive input]
 
-### TL;DR - Working With Me
+## Random facts
+- [A few personal touches - hobbies, interesting facts, or quirks]
+
+---
+
+## Real Talk
+
+I used to think sharing my working preferences was demanding or high-maintenance. But when I finally created my user manual, my manager said, "I wish everyone did this! It makes my job so much easier."
+
+People WANT to work well with you - they just don't always know how. A user manual gives them permission to adjust their approach.
+
+## Keep It Simple
+
+Your user manual doesn't need to be perfect or comprehensive. Start with the basics:
+- When you work best
+- How you communicate
+- What you need to succeed
+- What typically trips you up
+
+## Today's Takeaway
+
+You've spent this week discovering who you are at your core. Now you have the tools to communicate that clearly to others, creating better working relationships wherever you go. Well done! 🎯
 
 In one paragraph, here's what you need to know about working with me:
 [Write 3-4 sentences that capture your essence]

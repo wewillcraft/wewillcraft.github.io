@@ -1,105 +1,87 @@
 ---
-title: "Week 2: Your Values, Mission, and Calling"
+title: "Week 2: Finding Your True North 🧭"
 week: 2
 phase: self-discovery
-excerpt: When you know your WHY, you can endure any HOW. Discover your core values and create your personal mission.
-estimated_time: 8-10 hours total
+excerpt: Discovering what you actually care about (hint: it might not be what you think)
+estimated_time: 15-20 min/day
 ---
 
-## Core Truth
+## Hey friend! 👋
 
-**When you know your WHY, you can endure any HOW.**
+Last week you discovered WHO you are. This week we're diving into WHAT you care about at your deepest level. Think of it as finding your internal GPS - that inner compass that points toward what truly matters to you.
 
-This week, you'll dig deep into what truly matters to you. Values aren't just nice words—they're your decision-making framework, your motivation source, and your north star when things get tough.
+## The Big Idea 💡
 
-## This Week's Journey
+**When you're clear on what matters most, decisions become easier.**
 
-1. [**Values Discovery Exercise**](./01-values-discovery) (90 min)
+You know that feeling when you're torn between options? That confusion usually comes from unclear values. Once you know what you truly care about, choices become obvious. You stop second-guessing yourself and start living with more confidence and purpose.
 
-   - Values card sort to find your top 5
-   - Understanding values vs. aspirations
-   - Values in conflict and harmony
+## This Week's Adventure
 
-2. [**Ikigai Mapping**](./02-ikigai-mapping) (60 min)
+### Day 1: [What Do You Actually Value?](./01-values-discovery)
+*Time: 15 minutes*
 
-   - What you love
-   - What you're good at
-   - What the world needs
-   - What you can be paid for
+Not what you think you should value - what you ACTUALLY value. There's often a gap, and we're going to find it.
 
-3. [**Life Timeline Analysis**](./03-life-timeline) (45 min)
+### Day 2: [Finding Your Sweet Spot](./02-ikigai-mapping)
+*Time: 15 minutes*
 
-   - Mapping peaks and valleys
-   - Identifying when values were honored/violated
-   - Pattern recognition in your story
+Where your passions, talents, and the world's needs overlap. Spoiler: This is where magic happens.
 
-4. [**Future Eulogy Exercise**](./04-future-eulogy) (30 min)
+### Day 3: [Your Story So Far](./03-life-timeline)
+*Time: 20 minutes*
 
-   - What legacy do you want?
-   - How do you want to be remembered?
-   - Reverse engineering your life
+Looking back to understand your patterns. Your past holds clues to your future direction.
 
-5. [**5-Year Vision Creation**](./05-vision-creation) (60 min)
+### Day 4: [How Do You Want to be Remembered?](./04-future-eulogy)
+*Time: 15 minutes*
 
-   - Where you see yourself
-   - Who you're serving
-   - What impact you're making
+A bit intense, but incredibly clarifying. What legacy do you want to leave?
 
-6. [**Finding Your Technical Calling**](./06-technical-calling) (45 min)
+### Day 5: [Painting Your Future](./05-vision-creation)
+*Time: 20 minutes*
 
-   - Problems you want to solve with code
-   - The developer you want to become
-   - Your unique contribution to tech
+Creating a vision that actually inspires you (not just looks good on paper).
 
-7. [**Personal Manifesto**](./07-personal-manifesto) (90 min)
-   - Synthesizing everything into a declaration
-   - Your non-negotiables
-   - Your commitment to yourself
+### Day 6: [Your Tech Purpose](./06-technical-calling)
+*Time: 15 minutes*
 
-## Week 2 Deliverable
+Why are you in tech? What problems do you want to solve with your skills?
 
-By Sunday evening, you'll have created:
+### Day 7: [Writing Your Manifesto](./07-personal-manifesto)
+*Time: 15 minutes*
 
-- **Your Core Values List** (top 5 with definitions)
-- **Your Ikigai Diagram** (sweet spot identification)
-- **Your 5-Year Vision** (detailed and inspiring)
-- **Your Personal Manifesto** (1-page declaration)
+Pulling it all together into a personal declaration. Your "this is what I stand for" statement.
 
-## Values in Tech Context
+## What You'll Walk Away With
 
-Common developer values and their expressions:
+By Sunday, you'll have:
+- ✅ Your top 5 core values (the ones that are actually true for you)
+- ✅ A clear picture of where your passions and talents align
+- ✅ A vision that genuinely excites you
+- ✅ Your personal manifesto - your "line in the sand"
 
-- **Craftsmanship** → Clean code, continuous improvement
-- **Innovation** → Cutting-edge tech, creative solutions
-- **Impact** → User-focused, solving real problems
-- **Freedom** → Remote work, open source, autonomy
-- **Learning** → New technologies, continuous growth
-- **Community** → Collaboration, mentoring, sharing
-- **Security** → Stable job, established companies
-- **Excellence** → High standards, best practices
+## Real Talk 💬
 
-## Life Lesson for 20-Somethings
+Values work can feel abstract or touchy-feely. But here's the thing - unclear values are the root of most career unhappiness. When you take a job that conflicts with what you really care about, you'll feel it every single day.
 
-> "Don't ask what the world needs. Ask what makes you come alive, and go do it. Because what the world needs is people who have come alive." - Howard Thurman
+This isn't about finding the "perfect" values. It's about getting honest about what's already driving your decisions (whether you realize it or not).
 
-## Time Investment This Week
+## Why This Matters Right Now
 
-- **Values Work:** 3-4 hours
-- **Vision Creation:** 2-3 hours
-- **Manifesto Writing:** 1.5-2 hours
-- **Total:** 8-10 hours (spread across 7 days)
+In a world of infinite options, values are your filter. They help you say no to good opportunities so you can say yes to great ones. They give you a reason to get up on hard days. They connect you with like-minded people and meaningful work.
 
-## Resources for Going Deeper
+Plus, when you're clear on your values, imposter syndrome starts to fade. You're not trying to be someone else - you're being authentically you.
 
-- "Start With Why" by Simon Sinek
-- "Man's Search for Meaning" by Viktor Frankl
-- "The 7 Habits of Highly Effective People" by Stephen Covey
-- [Values in Action Survey](https://www.viacharacter.org/)
+## Your Daily Rhythm
 
-## Quick Navigation
+Each day this week:
+1. **Read the lesson** (5 minutes)
+2. **Do the exercise** (10-15 minutes) 
+3. **Write one insight** - What surprised you? What felt true?
 
-**Start Here →** [01: Values Discovery Exercise](./01-values-discovery)
+Keep it simple. The goal is clarity, not perfection.
 
 ---
 
-_Remember: Your values are already within you. This week is about excavation, not invention. You're discovering what's always been there._
+**Ready to find your true north?** → [Day 1: What Do You Actually Value?](./01-values-discovery)

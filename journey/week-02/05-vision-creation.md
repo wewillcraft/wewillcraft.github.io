@@ -1,215 +1,57 @@
 ---
-title: "5-Year Vision Creation"
-excerpt: Paint a vivid picture of your future that pulls you forward every single day.
+title: "Day 5: Your Future Self Is Calling"
+excerpt: Hey friend! Ready to paint a picture so vivid it literally pulls you forward? Today we're designing the future version of yourself.
 ---
 
-# 5-Year Vision Creation
+# Day 5: Your Future Self Is Calling
 
-**Time:** 60 minutes
-**Purpose:** Create a compelling vision that makes today's sacrifices worth it
+Hey friend! 👋
 
-## Why 5 Years?
+## Today's Big Idea 💡
 
-- **Far enough** to dream big
-- **Close enough** to feel real
-- **Long enough** for transformation
-- **Short enough** to maintain urgency
+Imagine if your future self could text you right now with the exact blueprint of who you become. Today we're creating that blueprint - a 5-year vision so clear and exciting that it makes every sacrifice worth it.
 
-Five years ago, you were different. Five years from now, you'll be unrecognizable—if you design it intentionally.
+## Why This Matters
 
-## Part 1: The Vision Visualization (20 minutes)
+Think about five years ago. You were probably a completely different person, right? Well, five years from now, you'll be unrecognizable again - the question is whether that transformation happens by accident or by design. We're choosing design.
 
-Close your eyes. It's 5 years from now. You wake up on a typical Tuesday.
+## Your 15-20 Minute Mission
 
-### Your Morning
+Close your eyes. It's exactly 5 years from today. You wake up on a Tuesday morning in your ideal life.
 
-**Where do you wake up?**
+### Step 1: Picture Your Morning (5 minutes)
+- Where do you wake up? (City, home type, view)
+- Who's there with you?
+- What's your morning routine?
+- How do you FEEL as your day starts?
 
-- City/Location: **\*\***\_**\*\***
-- Type of home: **\*\***\_**\*\***
-- View from window: **\*\***\_**\*\***
+### Step 2: Envision Your Work (5 minutes)
+- What's your role/title?
+- Where do you work? (Company, location, setup)
+- What problem are you solving today?
+- What technologies are you using?
+- How many people does your work impact?
 
-**Who's there with you?**
+### Step 3: Design Your Evening (5 minutes)
+- How do you unwind after work?
+- Who do you spend time with?
+- What fills you with satisfaction?
+- What are you grateful for as you go to sleep?
 
----
+### Step 4: Write Your Day (5 minutes)
+Write 3-4 sentences describing a typical day in this future life. Start with "I wake up feeling..." and end with "I go to sleep knowing..."
 
-**Your morning routine:**
+## Quick Win ✅
 
----
+Right now, finish this sentence: "In 5 years, people will come to me when they need help with..."
 
-**How do you feel as you start your day?**
+This reveals what expertise you're building toward.
 
----
+## Real Talk 💬
 
-### Your Work
+Here's the thing about vision - most people skip this step and wonder why they feel lost. Your vision isn't just a nice-to-have; it's your GPS. Without it, you're just driving around hoping you'll end up somewhere good.
 
-**Where do you work?**
-
-- Company/Your company: **\*\***\_**\*\***
-- Office/Remote/Hybrid: **\*\***\_**\*\***
-- Your workspace looks like: **\*\***\_**\*\***
-
-**Your role:**
-
-- Title: **\*\***\_**\*\***
-- Responsibilities: **\*\***\_**\*\***
-- Team size: **\*\***\_**\*\***
-- Impact scope: **\*\***\_**\*\***
-
-**Current project:**
-
----
-
-**Technologies you're using:**
-
----
-
-**Problems you're solving:**
-
----
-
-### Your Day
-
-**9 AM:** You're **\*\***\_**\*\***
-**12 PM:** You're **\*\***\_**\*\***
-**3 PM:** You're **\*\***\_**\*\***
-**6 PM:** You're **\*\***\_**\*\***
-**9 PM:** You're **\*\***\_**\*\***
-
-### Your Evening
-
-**How do you unwind?**
-
----
-
-**Who do you spend time with?**
-
----
-
-**Before bed, you think:**
-
----
-
-## Part 2: The Vision Metrics (15 minutes)
-
-### Professional Metrics
-
-**Technical Mastery:**
-
-- Languages mastered: **\*\***\_**\*\***
-- Systems built: **\*\***\_**\*\***
-- Users impacted: **\*\***\_**\*\***
-- Open source contributions: **\*\***\_**\*\***
-
-**Career Position:**
-
-- Level/Title: **\*\***\_**\*\***
-- Salary: $**\*\***\_**\*\***
-- Equity/Ownership: **\*\***\_**\*\***
-- Industry reputation: **\*\***\_**\*\***
-
-**Impact Created:**
-
-- Problems solved: **\*\***\_**\*\***
-- People mentored: **\*\***\_**\*\***
-- Products shipped: **\*\***\_**\*\***
-- Legacy building: **\*\***\_**\*\***
-
-### Personal Metrics
-
-**Relationships:**
-
-- Partner status: **\*\***\_**\*\***
-- Friend circle size: **\*\***\_**\*\***
-- Family connections: **\*\***\_**\*\***
-- Professional network: **\*\***\_**\*\***
-
-**Health & Energy:**
-
-- Physical fitness: **\*\***\_**\*\***
-- Mental health: **\*\***\_**\*\***
-- Energy levels: **\*\***\_**\*\***
-- Sleep quality: **\*\***\_**\*\***
-
-**Growth & Learning:**
-
-- Books read: **\*\***\_**\*\***
-- Skills developed: **\*\***\_**\*\***
-- Experiences had: **\*\***\_**\*\***
-- Comfort zone expansions: **\*\***\_**\*\***
-
-**Financial Freedom:**
-
-- Net worth: $**\*\***\_**\*\***
-- Monthly passive income: $**\*\***\_**\*\***
-- Emergency fund: **\*\***\_**\*\***
-- Investment portfolio: **\*\***\_**\*\***
-
-## Part 3: The Vision Story (15 minutes)
-
-Write your 5-year vision as a story:
-
-### "A Day in My Life - [Date 5 Years From Now]"
-
-Write in present tense, as if it's happening:
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## Part 4: The Four Quadrants (10 minutes)
-
-### Have (External/Material)
-
-**What you own/possess:**
-
--
--
--
--
-
-### Do (Activities/Experiences)
-
-**What you regularly do:**
-
--
--
--
--
-
-### Be (Internal/Character)
-
-**Who you've become:**
-
--
--
--
--
-
-### Give (Contribution/Service)
-
-**How you serve others:**
-
--
--
--
--
+Don't worry about getting it "perfect." Your vision will evolve. The point is to have direction so you can start making daily choices that compound in the right direction.
 
 ## The Vision Board
 
@@ -392,12 +234,6 @@ Trust me,
 
 Notice the gap. That's your growth edge.
 
-## Key Takeaway
+## Today's Takeaway
 
-Your 5-year vision isn't a prediction—it's a decision. Every day you either move toward it or away from it. There's no standing still. Make your vision so compelling that your daily decisions become obvious.
-
----
-
-**Ready to find your technical calling?**
-
-[Continue to Finding Your Technical Calling →](/journey/week-02/06-technical-calling/)
+Your vision isn't a prediction - it's a decision. Every day, you either move toward it or away from it. There's no neutral.
