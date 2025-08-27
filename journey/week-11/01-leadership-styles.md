@@ -1,412 +1,206 @@
 ---
 title: "Leadership Styles"
-excerpt: Discover your natural leadership style and learn to adapt your approach for maximum effectiveness.
+description: "Find your leadership superpower and learn when to flex different styles"
+excerpt: "Discover your natural leadership style and learn to adapt different approaches for maximum impact."
+objectives:
+  - Identify your natural leadership style and its strengths
+  - Learn to recognize different leadership styles in others
+  - Practice adapting your style to different situations and team needs
+  - Build confidence in your leadership abilities across various contexts
+estimated_time: 30 minutes
 ---
 
 # Leadership Styles
 
-**Time:** 50 minutes  
-**Purpose:** Identify your leadership strengths and develop flexibility to lead effectively in different situations
+**Time:** 25 minutes  
+**Vibe:** Discovering your inner leader (yes, you have one!) 👑
 
-## Leadership Is Influence, Not Title
+Here's the thing about leadership: it's not about having a fancy title or bossing people around. It's about influence, and you're already influencing people every day - your friends, family, classmates, coworkers. Let's figure out your natural leadership style so you can use it intentionally!
 
-Leadership isn't about having authority over others—it's about having influence with others. Whether you're leading a team, a project, or just yourself, understanding your leadership style helps you maximize your impact and effectiveness.
+## Leadership Myth-Busting
 
-## Part 1: Leadership Style Assessment (15 minutes)
+**Myth:** "Leaders are born, not made"  
+**Truth:** Leadership is a skill you can absolutely develop
 
-### Core Leadership Approaches
+**Myth:** "You need authority to lead"  
+**Truth:** The best leaders often lead without any formal power
 
-Rate how naturally each style fits you (1=never, 5=always):
+**Myth:** "There's one 'best' leadership style"  
+**Truth:** Different situations need different approaches
 
-**Commanding/Directive**
-- I take charge in unclear situations: ___/5
-- I give clear, specific instructions: ___/5
-- I make decisions quickly: ___/5
-- I expect immediate compliance: ___/5
+## Find Your Leadership Style
+
+Rate how naturally each style fits you (1=not me at all, 5=totally me):
+
+### 🎯 The Commander
+- I take charge when things are unclear: ___/5
+- I make decisions quickly and stick to them: ___/5  
+- I'm comfortable giving direct instructions: ___/5
 - I thrive in crisis situations: ___/5
-**Total:** ___/25
 
-**Coaching/Developmental**
-- I focus on developing others' skills: ___/5
+**Total:** ___/20
+
+### 🎓 The Coach
+- I love helping others learn and grow: ___/5
 - I ask questions rather than give answers: ___/5
-- I provide feedback for growth: ___/5
-- I'm patient with learning curves: ___/5
-- I help others find their own solutions: ___/5
-**Total:** ___/25
+- I'm patient when people are figuring things out: ___/5
+- I give feedback to help people improve: ___/5
 
-**Affiliative/Supportive**
-- I prioritize team harmony: ___/5
-- I focus on people's emotional needs: ___/5
-- I build strong personal connections: ___/5
-- I avoid conflict when possible: ___/5
-- I praise and encourage frequently: ___/5
-**Total:** ___/25
+**Total:** ___/20
 
-**Democratic/Participative**
-- I seek input before making decisions: ___/5
-- I value everyone's opinions: ___/5
-- I build consensus whenever possible: ___/5
-- I facilitate team discussions: ___/5
-- I share decision-making authority: ___/5
-**Total:** ___/25
+### 🤝 The Supporter  
+- I prioritize team harmony and relationships: ___/5
+- I focus on people's feelings and needs: ___/5
+- I build personal connections with everyone: ___/5
+- I celebrate and encourage people regularly: ___/5
 
-**Pacesetting/Achievement**
-- I set high performance standards: ___/5
-- I model the behavior I expect: ___/5
-- I focus intensely on results: ___/5
-- I work faster than most people: ___/5
-- I expect others to match my pace: ___/5
-**Total:** ___/25
+**Total:** ___/20
 
-**Visionary/Inspirational**
-- I paint pictures of compelling futures: ___/5
-- I connect work to larger purpose: ___/5
-- I inspire others to achieve more: ___/5
-- I'm comfortable with ambiguity: ___/5
-- I focus on "why" before "how": ___/5
-**Total:** ___/25
+### 🗳️ The Collaborator
+- I always ask for input before making decisions: ___/5
+- I value everyone's opinions equally: ___/5
+- I try to build consensus and get buy-in: ___/5
+- I share decision-making with the team: ___/5
 
-### Your Leadership Profile
+**Total:** ___/20
 
-**Primary Style** (highest score): ___________
+### 🏃‍♂️ The Achiever  
+- I set high standards for myself and others: ___/5
+- I lead by example and work really hard: ___/5
+- I focus intensely on getting results: ___/5
+- I expect others to match my pace and energy: ___/5
 
-**Secondary Style** (second highest): ___________
+**Total:** ___/20
 
-**Least Natural Style** (lowest score): ___________
+### 🌟 The Visionary
+- I love painting pictures of exciting futures: ___/5
+- I connect daily tasks to bigger purposes: ___/5  
+- I inspire others to dream bigger: ___/5
+- I'm comfortable with uncertainty and change: ___/5
 
-### Leadership Strengths and Challenges
+**Total:** ___/20
 
-**My Primary Style Strengths:**
-□ Clear communication
-□ Quick decision making
-□ People development
-□ Team building
-□ High standards
-□ Inspiring vision
-□ Collaboration
-□ Flexibility
-□ Problem solving
-□ Results focus
+## Your Leadership Profile
 
-**My Primary Style Challenges:**
-□ Can be too directive
-□ May move too slowly
-□ Might avoid tough decisions
-□ Could overwhelm others
-□ May seem impersonal
-□ Might lack structure
-□ Could create dependency
-□ May avoid conflict
+**Primary style** (highest score): ___________
+**Secondary style** (second highest): ___________
+**Least natural style** (lowest score): ___________
 
-**Top 3 Leadership Strengths:**
+### What This Means:
+
+**Commander:** You're great in crises and when clear direction is needed. Watch out for being too controlling.
+
+**Coach:** You develop people really well but might be too slow when quick decisions are needed.
+
+**Supporter:** You build amazing team culture but might avoid difficult conversations.
+
+**Collaborator:** You get great buy-in but can get stuck in analysis paralysis.
+
+**Achiever:** You drive results but might overwhelm people with your pace.
+
+**Visionary:** You inspire big dreams but might lack follow-through on details.
+
+**Your primary style strengths:** ___________
+
+**Your primary style potential blind spots:** ___________
+
+## When to Use Different Styles
+
+**Use Commander when:**
+- Crisis situations need immediate action
+- Team is new and needs clear direction
+- Safety or compliance issues are involved
+
+**Use Coach when:**
+- People have potential but need development
+- Performance issues need addressing
+- Long-term skill building is the goal
+
+**Use Supporter when:**
+- Team morale is low
+- People are stressed or going through changes
+- Relationships need healing
+
+**Use Collaborator when:**
+- Team has valuable expertise
+- Buy-in is crucial for success
+- Multiple perspectives would improve the outcome
+
+**Use Achiever when:**
+- Team is highly skilled and motivated
+- Challenging goals need to be met
+- Standards of excellence matter
+
+**Use Visionary when:**
+- Change or transformation is needed
+- Team lacks direction or motivation
+- Innovation and creativity are required
+
+## Leadership in Your Life Right Now
+
+### Where You're Already Leading:
+□ Group projects at school
+□ Part-time job responsibilities
+□ Family decisions
+□ Friend group activities  
+□ Volunteer work
+□ Sports teams or clubs
+□ Online communities
+□ Side hustles or passion projects
+
+**Your current leadership opportunities:**
 1. ___________
 2. ___________
 3. ___________
 
-**Top 2 Leadership Growth Areas:**
-1. ___________
-2. ___________
-
-## Part 2: Situational Leadership (15 minutes)
-
-### Matching Style to Situation
-
-Different situations call for different leadership approaches:
-
-**When to Use Commanding/Directive:**
-□ Crisis situations requiring immediate action
-□ Team members are new or inexperienced
-□ Clear standards and procedures are essential
-□ Time pressure doesn't allow for consultation
-□ Safety or compliance issues are at stake
-
-**When to Use Coaching/Developmental:**
-□ Team members have potential but need growth
-□ Performance issues need addressing
-□ Long-term development is the goal
-□ You have time to invest in teaching
-□ Innovation and learning are priorities
-
-**When to Use Affiliative/Supportive:**
-□ Team morale is low
-□ Trust needs to be rebuilt
-□ Personal relationships are strained
-□ People are dealing with stress or change
-□ Collaboration needs strengthening
-
-**When to Use Democratic/Participative:**
-□ Team has valuable expertise to contribute
-□ Buy-in and commitment are crucial
-□ Multiple perspectives would improve decisions
-□ Team development through involvement is desired
-□ You don't have all the answers
-
-**When to Use Pacesetting/Achievement:**
-□ Team is highly competent and motivated
-□ Challenging goals need to be achieved
-□ Quick results are essential
-□ Team members are self-directed
-□ Standards of excellence matter
-
-**When to Use Visionary/Inspirational:**
-□ Change or transformation is needed
-□ Team lacks direction or purpose
-□ Motivation and engagement are low
-□ Innovation and creativity are required
-□ Long-term goals need clarification
-
-### Your Situational Analysis
-
-**Current Leadership Challenges:**
-1. ___________
-2. ___________
-3. ___________
-
-**For Each Challenge, What Style Would Be Most Effective?**
-1. Challenge: ___________ → Best Style: ___________
-2. Challenge: ___________ → Best Style: ___________
-3. Challenge: ___________ → Best Style: ___________
-
-**Leadership Situations You Handle Well:**
-___________
-
-**Leadership Situations You Struggle With:**
-___________
-
-**Style You Need to Develop Most:**
-___________
-
-## Part 3: Leadership Development Plan (10 minutes)
-
-### Expanding Your Leadership Range
-
-**Comfort Zone Expansion:**
-
-**My Natural Style:** ___________
-- Strengths to leverage: ___________
-- Overuse risks to watch: ___________
-
-**Style to Develop:** ___________
-- Key behaviors to practice: ___________
-- Situations to try it in: ___________
-
-### Leadership Skill Building
-
-**Communication Skills:**
-□ Active listening
-□ Clear instruction giving
-□ Inspiring storytelling
-□ Difficult conversations
-□ Public speaking
-□ Written communication
-□ Nonverbal awareness
-□ Question asking
-
-**Decision-Making Skills:**
-□ Problem analysis
-□ Stakeholder consultation
-□ Risk assessment
-□ Timely decisions
-□ Communicating decisions
-□ Implementation planning
-□ Course correction
-□ Learning from outcomes
-
-**People Skills:**
-□ Emotional intelligence
-□ Conflict resolution
-□ Team building
-□ Individual development
-□ Performance management
-□ Motivation techniques
-□ Delegation
-□ Empowerment
-
-**Strategic Skills:**
-□ Vision creation
-□ Goal setting
-□ Priority management
-□ Resource allocation
-□ Change management
-□ Innovation fostering
-□ System thinking
-□ Future planning
-
-**Your Top 3 Skills to Develop:**
-1. ___________
-2. ___________
-3. ___________
-
-### Leadership Practice Opportunities
-
-**Formal Leadership:**
-□ Team lead on projects
-□ Committee chair roles
-□ Mentoring assignments
-□ Training facilitation
-□ Process improvement lead
-□ Cross-functional team roles
-
-**Informal Leadership:**
-□ Peer collaboration
-□ Knowledge sharing
-□ Problem-solving initiatives
-□ Culture building activities
-□ Innovation projects
-□ Community involvement
-
-**Your Next Leadership Opportunity:**
-___________
-
-**Skills You'll Practice:**
-1. ___________
-2. ___________
-3. ___________
-
-## Part 4: Leadership in Action (10 minutes)
-
-### Daily Leadership Practices
-
-**Morning Leadership Intention:**
-Each morning, ask: "How will I lead today?"
-□ What style does today's situation require?
-□ Who can I develop or support?
-□ What decisions need my attention?
-□ How can I model the behavior I want to see?
-
-**Evening Leadership Reflection:**
-Each evening, reflect:
-□ How effective was my leadership today?
-□ What style did I use most?
-□ What would I do differently?
-□ What did I learn about leading others?
-
-**Weekly Leadership Goals:**
-□ Try a new leadership style
-□ Have a development conversation
-□ Make a difficult decision
-□ Recognize someone's contribution
-□ Resolve a conflict or tension
-□ Share a vision or inspire others
-
-**Your Weekly Leadership Goal:**
-___________
-
-### Leading Without Authority
-
-**Influence Strategies:**
-□ Build relationships and trust first
-□ Find shared goals and interests
-□ Provide value before asking for value
-□ Use questions to guide thinking
-□ Share information and expertise
-□ Create win-win solutions
-□ Model the behavior you want
-□ Recognize and appreciate others
-
-**Your Influence Challenge:**
-Think of someone you need to influence but have no authority over:
-
-**Person/Situation:** ___________
-
-**Their interests/needs:** ___________
-
-**Your value proposition:** ___________
-
-**Influence strategy to try:** ___________
-
-### Leadership Self-Care
-
-**Preventing Leadership Burnout:**
-□ Set boundaries on your availability
-□ Delegate appropriately
-□ Build your own support network
-□ Continue learning and growing
-□ Take care of physical health
-□ Maintain perspective and humor
-□ Celebrate wins along the way
-□ Ask for help when needed
-
-**Your Leadership Self-Care Plan:**
-1. **Daily:** ___________
-2. **Weekly:** ___________
-3. **Monthly:** ___________
-
-## Your Leadership Development Plan
-
-### 30-Day Leadership Focus
-
-**Primary Style to Strengthen:**
-___________
-
-**Secondary Style to Develop:**
-___________
-
-**Daily Practice:**
-___________
-
-**Weekly Challenge:**
-___________
-
-**Progress Measures:**
-- Self-assessment: Rate leadership effectiveness daily (1-10)
-- 360 feedback: Ask colleagues for input
-- Results tracking: Monitor team/project outcomes
-- Learning log: Record insights and lessons
-
-### Leadership Learning Resources
-
-**Books/Articles:**
-□ Leadership books in your development area
-□ Case studies in your industry
-□ Biographies of leaders you admire
-
-**Experiences:**
-□ Leadership courses or workshops
-□ Mentoring (giving and receiving)
-□ Cross-functional projects
-□ Stretch assignments
-
-**People:**
-□ Leadership mentors
-□ Peer leadership group
-□ Executive coaching
-□ Leadership role models
-
-**Your Learning Plan:**
-- **This month:** ___________
-- **Next 3 months:** ___________
-- **This year:** ___________
-
-### Success Metrics
-
-**How will you know your leadership is improving?**
-
-**Quantitative Measures:**
-□ Team performance metrics
-□ Employee engagement scores
-□ Project success rates
-□ Feedback survey results
-□ Promotion/advancement
-□ Responsibility expansion
-
-**Qualitative Measures:**
-□ Feedback from team members
-□ Peer recognition
-□ Increased influence
-□ More leadership opportunities
-□ Personal confidence growth
-□ Better relationships
-
-**Your Success Indicators:**
-1. ___________
-2. ___________
-3. ___________
-
-## Key Takeaway
-
-Leadership isn't about being perfect—it's about being effective. Your natural leadership style is your strength, but developing flexibility to use other styles when appropriate makes you a more complete leader. Focus on expanding your range while staying true to your authentic leadership voice.
+### Your Leadership Growth Plan
+
+**Style you want to develop:** ___________
+
+**Where you'll practice it:** ___________
+
+**One behavior you'll try this week:** ___________
+
+## Leading Without Authority
+
+Most of your leadership will happen without formal power. Here's how:
+
+**Build relationships first** - People follow people they trust
+**Find shared goals** - Unite around common interests  
+**Add value before asking for value** - Help others succeed
+**Ask great questions** - Guide thinking instead of commanding
+**Share credit generously** - Make others look good
+**Model the behavior you want** - Be the change you want to see
+
+## Your Daily Leadership Practice
+
+**Morning question:** "How will I lead today?"
+**Evening reflection:** "How did I influence others today?"
+
+### This Week's Leadership Challenge
+
+Pick one:
+□ Step up in a group project
+□ Help a friend solve a problem (coaching style)
+□ Bring people together for something fun (supporter style)
+□ Ask for everyone's input on a decision (collaborator style)
+□ Lead by example on something important to you (achiever style)
+□ Share an exciting vision or idea with others (visionary style)
+
+**Your choice:** ___________
+
+## Remember This
+
+Leadership isn't about being perfect or having all the answers. It's about caring enough to step up and help make things better.
+
+Your natural leadership style is your starting point, not your limitation. The best leaders can flex between different styles depending on what the situation needs.
+
+You don't have to wait for permission to lead. You don't need a title. You just need to start where you are, with what you have, and make a positive difference in whatever way you can.
+
+The world needs your unique brand of leadership! 🌟
+
+**Next up:** Let's talk about emotional intelligence - the secret sauce of great leaders →
 
 ---
 
-[← Previous: Week 10](/journey/week-10/) | [Continue to Emotional Intelligence →](/journey/week-11/02-emotional-intelligence/)
+[Continue to Emotional Intelligence →](/journey/week-11/02-emotional-intelligence/)
