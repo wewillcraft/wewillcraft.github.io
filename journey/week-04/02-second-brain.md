@@ -1,7 +1,5 @@
 ---
 title: "Building Your Second Brain"
-lesson: 2
-week: 4
 excerpt: Create a knowledge management system that captures, organizes, and connects your learning.
 ---
 
@@ -628,4 +626,5 @@ Track these indicators:
 ## Next Steps
 
 With your second brain established, you'll learn advanced techniques for long-term retention using spaced repetition. Your knowledge system will become the source material for building permanent memory of key technical concepts.
-```
+
+[← Previous: Learning Style Optimization](/journey/week-04/01-learning-style/) | [Continue to Spaced Repetition System →](/journey/week-04/03-spaced-repetition/)

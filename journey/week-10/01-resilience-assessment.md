@@ -1,271 +1,265 @@
 ---
 title: "Resilience Assessment"
-excerpt: Evaluate your current resilience patterns and identify areas for growth.
+excerpt: Evaluate your current resilience levels and identify areas for strengthening.
 ---
 
 # Resilience Assessment
 
-**Time:** 90 minutes  
-**Purpose:** Understand your baseline resilience capacity and natural stress responses
+**Time:** 60 minutes  
+**Purpose:** Understand your resilience baseline and create a personalized development plan
 
-## The Resilience Foundation
+## What Is Resilience?
 
-Resilience isn't a fixed trait—it's a skill you can develop. Today we'll assess where you are now so we can build a personalized plan for growth.
+Resilience isn't about being tough or never feeling stress. It's about bouncing back, adapting, and growing stronger through challenges. Think of it as your psychological immune system.
 
-## Part 1: Stress Response Assessment (30 minutes)
+## Part 1: The Five Pillars Assessment (20 minutes)
 
-### Your Stress Signature
+Rate yourself 1-10 on each dimension:
 
-Think about the last major stressful situation you faced. Rate yourself (1-5) on how you handled each dimension:
+### Mental Resilience
+- I can focus despite distractions: ___/10
+- I maintain perspective during crises: ___/10
+- I learn from failures quickly: ___/10
+- I adapt my thinking when needed: ___/10
+**Average:** ___/10
 
-**Physical Response:**
-- Sleep quality during stress: ___
-- Appetite changes: ___  
-- Energy levels: ___
-- Physical symptoms (headaches, tension): ___
+### Emotional Resilience
+- I recover from setbacks quickly: ___/10
+- I manage difficult emotions well: ___/10
+- I stay optimistic during challenges: ___/10
+- I can self-soothe when stressed: ___/10
+**Average:** ___/10
 
-**Emotional Response:**
-- Emotional stability: ___
-- Mood regulation: ___
-- Anxiety levels: ___
-- Irritability control: ___
+### Physical Resilience
+- I maintain energy throughout the day: ___/10
+- I recover well from physical stress: ___/10
+- I prioritize sleep and rest: ___/10
+- I use movement to manage stress: ___/10
+**Average:** ___/10
 
-**Cognitive Response:**
-- Decision-making quality: ___
-- Focus and concentration: ___
-- Problem-solving clarity: ___
-- Memory function: ___
+### Social Resilience
+- I seek support when needed: ___/10
+- I maintain relationships under stress: ___/10
+- I contribute to others' wellbeing: ___/10
+- I set healthy boundaries: ___/10
+**Average:** ___/10
 
-**Behavioral Response:**
-- Productivity maintenance: ___
-- Relationship interactions: ___
-- Healthy habit consistency: ___
-- Communication effectiveness: ___
+### Spiritual Resilience
+- I have clear sense of purpose: ___/10
+- I find meaning in difficulties: ___/10
+- I maintain hope for the future: ___/10
+- I connect to something greater: ___/10
+**Average:** ___/10
 
-### Stress Trigger Inventory
+## Part 2: Stress Response Patterns (15 minutes)
 
-**Rate your stress level (1-10) for each situation:**
+### Your Default Stress Response
 
-- Tight deadlines: ___
-- Unclear requirements: ___
-- Technical challenges: ___
-- Code reviews/feedback: ___
-- Team conflicts: ___
-- Public speaking: ___
-- Job interviews: ___
-- Financial pressure: ___
-- Relationship issues: ___
-- Health concerns: ___
-- Family expectations: ___
-- Career uncertainty: ___
+When faced with significant stress, I typically:
 
-## Part 2: Resilience Skills Audit (30 minutes)
+**Fight Response:**
+□ Become argumentative
+□ Feel angry or irritated
+□ Want to confront the problem
+□ Get competitive
 
-### Core Resilience Competencies
+**Flight Response:**
+□ Want to escape the situation
+□ Feel anxious or panicked
+□ Avoid dealing with it
+□ Distract myself
 
-Rate your current ability (1-5) in each area:
+**Freeze Response:**
+□ Feel paralyzed
+□ Can't make decisions
+□ Procrastinate
+□ Feel numb
 
-**Emotional Regulation:**
-- Managing intense emotions: ___
-- Bouncing back from disappointment: ___
-- Staying calm under pressure: ___
-- Processing difficult feelings: ___
+**Fawn Response:**
+□ Please others to avoid conflict
+□ Over-apologize
+□ Sacrifice my needs
+□ Seek approval
 
-**Cognitive Flexibility:**
-- Seeing multiple perspectives: ___
-- Adapting to change: ___
-- Learning from failure: ___
-- Challenging negative thoughts: ___
+**Your Primary Response:** ___________
+**Your Secondary Response:** ___________
 
-**Social Connection:**
-- Seeking support when needed: ___
-- Maintaining relationships during stress: ___
-- Communicating needs effectively: ___
-- Offering support to others: ___
+### Resilience Recovery Time
 
-**Self-Care:**
-- Maintaining healthy habits: ___
-- Setting boundaries: ___
-- Taking breaks and rest: ___
-- Engaging in recovery activities: ___
+After a major setback, I typically need:
+- □ Hours to bounce back
+- □ Days to bounce back
+- □ Weeks to bounce back
+- □ Months to bounce back
 
-**Meaning-Making:**
-- Finding purpose in challenges: ___
-- Maintaining optimism: ___
-- Seeing growth opportunities: ___
-- Connecting to bigger values: ___
+What affects your recovery time?
+- ___________
+- ___________
+- ___________
 
-## Part 3: Recovery Pattern Analysis (30 minutes)
+## Part 3: Resilience Assets & Gaps (15 minutes)
 
-### Your Recovery History
+### Your Resilience Assets
 
-Think of 3 major challenges you've overcome. For each, note:
-
-**Challenge 1:** _________________
-- How long did recovery take?
-- What helped most?
-- What hindered recovery?
-- What did you learn?
-
-**Challenge 2:** _________________
-- How long did recovery take?
-- What helped most?
-- What hindered recovery?
-- What did you learn?
-
-**Challenge 3:** _________________
-- How long did recovery take?
-- What helped most?
-- What hindered recovery?
-- What did you learn?
-
-### Recovery Resource Inventory
-
-**Current Support System:**
-- Mentors/advisors: ___________
-- Close friends: ___________
-- Family support: ___________
-- Professional help: ___________
-- Peer networks: ___________
-
-**Recovery Activities:**
-Which activities genuinely restore you? (Check all that apply)
-
-□ Physical exercise  
-□ Nature/outdoors  
-□ Creative pursuits  
-□ Reading/learning  
-□ Social connection  
-□ Meditation/mindfulness  
-□ Music/arts  
-□ Gaming/entertainment  
-□ Sleep/rest  
-□ Journaling/reflection  
-□ Problem-solving  
-□ Helping others  
-
-## Part 4: Personality-Based Resilience Style
-
-### Your Natural Resilience Approach
-
-**Introversion vs. Extraversion:**
-- Do you recover better alone or with others?
-- Do you process internally or by talking?
-- Do you prefer quiet reflection or active distraction?
-
-**Sensing vs. Intuition:**
-- Do you focus on immediate practical steps or big picture meaning?
-- Do you prefer concrete solutions or exploring possibilities?
-- Do you trust experience or instinct more?
-
-**Thinking vs. Feeling:**
-- Do you analyze problems logically or consider emotional impact?
-- Do you prefer objective criteria or personal values?
-- Do you focus on fixing or supporting?
-
-**Judging vs. Perceiving:**
-- Do you want structure and plans or flexibility and options?
-- Do you prefer quick decisions or keeping options open?
-- Do you like closure or ongoing exploration?
-
-## Assessment Results Summary
-
-### Your Resilience Strengths
-Based on your responses, identify your top 3 resilience strengths:
+**Past Victories:**
+List 3 major challenges you've overcome:
 1. ___________
 2. ___________
 3. ___________
 
-### Your Growth Areas
-Identify your top 3 areas for resilience development:
+What strengths did you use?
+- ___________
+- ___________
+- ___________
+
+### Your Support System
+
+**Inner Circle** (call in crisis):
 1. ___________
 2. ___________
 3. ___________
 
-### Your Recovery Style
-Complete this statement:
-"I recover best when I can ______________ and have access to ______________."
+**Professional Support** (therapist, coach, mentor):
+1. ___________
+2. ___________
 
-### Your Stress Warning Signs
-List 5 early signs that indicate you're approaching your stress limit:
+**Community Support** (groups, organizations):
+1. ___________
+2. ___________
+
+### Your Coping Toolkit
+
+**Healthy Coping Strategies I Use:**
+□ Exercise/movement
+□ Meditation/mindfulness
+□ Creative expression
+□ Time in nature
+□ Talking to friends
+□ Journaling
+□ Music
+□ Reading
+□ Helping others
+□ Spiritual practices
+
+**Unhealthy Patterns I Default To:**
+□ Isolation
+□ Overworking
+□ Substance use
+□ Overeating/undereating
+□ Excessive screen time
+□ Rumination
+□ Procrastination
+□ Aggression
+□ People-pleasing
+□ Perfectionism
+
+## Part 4: Resilience Obstacles (10 minutes)
+
+### Internal Obstacles
+
+Rate how much these limit your resilience (1-5):
+
+- Fear of failure: ___/5
+- Perfectionism: ___/5
+- Negative self-talk: ___/5
+- Fixed mindset: ___/5
+- Comparison to others: ___/5
+- Need for control: ___/5
+- Imposter syndrome: ___/5
+- Past trauma: ___/5
+
+### External Obstacles
+
+- Toxic relationships: ___/5
+- Financial stress: ___/5
+- Work demands: ___/5
+- Family obligations: ___/5
+- Health challenges: ___/5
+- Lack of support: ___/5
+- Time constraints: ___/5
+- Environmental stress: ___/5
+
+**Top 3 Obstacles to Address:**
 1. ___________
 2. ___________
 3. ___________
-4. ___________
-5. ___________
 
-## Creating Your Resilience Profile
+## Your Resilience Profile
 
-**My Resilience Type:** ___________  
-(Examples: "Analytical Problem-Solver", "Social Support Seeker", "Creative Processor", "Action-Oriented Doer")
+### Strengths (Scores 7+)
+These are your resilience superpowers:
+- ___________
+- ___________
+- ___________
 
-**My Core Recovery Needs:**
-1. ___________
-2. ___________
-3. ___________
+### Growth Areas (Scores 4-6)
+These need some attention:
+- ___________
+- ___________
+- ___________
 
-**My Emergency Resilience Kit:**
-- Quick 5-minute strategy: ___________
-- 30-minute reset strategy: ___________
-- Full recovery strategy: ___________
+### Critical Gaps (Scores 1-3)
+These need immediate focus:
+- ___________
+- ___________
+- ___________
 
-## Developer-Specific Resilience Factors
+## Your Resilience Development Plan
 
-### Technical Stress Patterns
+### Week 10 Focus Areas
 
-**Rate your resilience (1-5) for:**
-- Debugging complex issues: ___
-- Learning new technologies: ___
-- Code not working as expected: ___
-- Imposter syndrome moments: ___
-- Technical interviews: ___
-- Code review feedback: ___
-- Production issues: ___
-- Changing requirements: ___
+**Primary Focus:**
+Choose your lowest-scoring pillar: ___________
 
-### Career Resilience Assessment
+**Secondary Focus:**
+Choose your most impactful obstacle: ___________
 
-**Rate your current ability (1-5) to handle:**
-- Job market uncertainty: ___
-- Skill obsolescence fears: ___
-- Workplace politics: ___
-- Work-life balance challenges: ___
-- Burnout prevention: ___
-- Career pivot decisions: ___
-- Networking and relationships: ___
-- Financial stability concerns: ___
+### Quick Wins (Can start today)
 
-## Action Planning
+1. **Morning Ritual:**
+One thing to start each day: ___________
 
-### This Week's Focus
-Based on your assessment, choose one area to focus on improving this week:
+2. **Evening Practice:**
+One thing to end each day: ___________
 
-**Target Area:** ___________
+3. **Crisis Protocol:**
+One thing to do when stressed: ___________
 
-**Specific Goal:** ___________
+### 30-Day Challenges
 
-**Daily Practice:** ___________
+Choose one:
+□ Daily 5-minute meditation
+□ Weekly therapy/coaching session
+□ Exercise 4x per week
+□ Journal every night
+□ No devices first hour of day
+□ Weekly friend check-ins
+□ Daily gratitude practice
+□ 8 hours sleep nightly
 
-**Success Metric:** ___________
+### Support Structure
 
-### Monthly Resilience Goals
+**Accountability Partner:**
+Who will support this journey? ___________
 
-**Month 1:** Strengthen ___________
+**Check-in Schedule:**
+When will you review progress? ___________
 
-**Month 2:** Develop ___________
+**Reward System:**
+How will you celebrate wins? ___________
 
-**Month 3:** Master ___________
+## Reflection Questions
 
-## Key Takeaways
+1. What surprised you about your assessment?
+2. What patterns do you notice?
+3. What's one small change that would make the biggest difference?
+4. Who can you ask for support?
+5. What past victory gives you confidence?
 
-Resilience is not about being tough all the time—it's about knowing how to recover effectively. Your assessment reveals your unique patterns and provides the foundation for building a personalized resilience system.
+## Key Takeaway
 
-**Remember:**
-- Everyone has different resilience strengths
-- Recovery looks different for different personality types
-- Small, consistent practices build resilience over time
-- It's okay to need support—resilience includes knowing when to ask for help
+Resilience is built, not born. Every small practice strengthens your ability to bounce back. Start with your biggest gap, leverage your strongest asset, and remember: the goal isn't to never fall—it's to always get back up.
 
 ---
 
-[Continue to Lesson 2: Stress Signals →](/journey/week-10/02-stress-signals)
+[Continue to Stress Signals →](/journey/week-10/02-stress-signals/)
