@@ -1,7 +1,5 @@
 ---
 title: "Learning Style Optimization"
-lesson: 1
-week: 4
 excerpt: Discover and optimize your unique learning preferences and cognitive processing style.
 ---
 
@@ -403,3 +401,5 @@ Success Triggers: [What makes it click]
 ## Next Steps
 
 With your learning style identified and optimized methods designed, you're ready to build systems that capture and organize knowledge effectively. In the next lesson, you'll create your "Second Brain" - an external knowledge management system that complements your natural learning preferences.
+
+[← Previous: Week 3](/journey/week-03/) | [Continue to Building Your Second Brain →](/journey/week-04/02-second-brain/)

@@ -1,403 +1,432 @@
 ---
 title: "Energy Management"
-excerpt: Master your energy patterns and design systems for sustainable high performance.
+excerpt: Master the art of managing your physical, mental, and emotional energy for sustained resilience.
 ---
 
 # Energy Management
 
-**Time:** 90 minutes  
-**Purpose:** Map your energy patterns and build systems for sustainable peak performance
+**Time:** 50 minutes  
+**Purpose:** Optimize your energy systems to maintain resilience and prevent burnout
 
-## The Energy Revolution
+## The Four Types of Energy
 
-Time management is dead. Energy management is the future. You can't create more hours in the day, but you can dramatically improve your energy quality and allocation.
+Energy isn't just physical. You have four energy systems that need different types of fuel and recovery:
 
-## Part 1: Understanding Your Energy Types (25 minutes)
+1. **Physical Energy** - Your body's vitality
+2. **Emotional Energy** - Your feelings and moods
+3. **Mental Energy** - Your focus and cognition
+4. **Spiritual Energy** - Your sense of purpose and meaning
 
-### The Four Types of Energy
+## Part 1: Energy Assessment (15 minutes)
 
-**Physical Energy**
-- Body's capacity for activity
-- Influenced by sleep, nutrition, exercise, recovery
-- Foundation for all other energy types
-- Most obvious and measurable
+### Current Energy Levels
 
-**Emotional Energy**  
-- Your mood, feelings, and emotional resilience
-- Affected by relationships, stress, fulfillment
-- Can energize or drain dramatically
-- Often overlooked but crucial
+Rate your typical energy throughout the day (1=depleted, 10=energized):
 
-**Mental Energy**
-- Cognitive capacity for focus and decision-making
-- Limited daily supply (decision fatigue is real)
-- Quality varies throughout the day
-- Essential for complex work
+**Morning (6AM-12PM):**
+- Physical: ___/10
+- Emotional: ___/10
+- Mental: ___/10
+- Spiritual: ___/10
 
-**Spiritual Energy**
-- Sense of purpose, meaning, and connection
-- Driven by values alignment and contribution
-- Can sustain you through physical exhaustion
-- Most renewable when aligned
+**Afternoon (12PM-6PM):**
+- Physical: ___/10
+- Emotional: ___/10
+- Mental: ___/10
+- Spiritual: ___/10
 
-### Your Energy Audit
+**Evening (6PM-12AM):**
+- Physical: ___/10
+- Emotional: ___/10
+- Mental: ___/10
+- Spiritual: ___/10
 
-Rate your current levels (1-10) at this moment:
+### Energy Patterns
 
-**Physical Energy:** ___  
-**Emotional Energy:** ___  
-**Mental Energy:** ___  
-**Spiritual Energy:** ___
+**Best Energy Time:**
+When are you most energized? ___________
 
-**Total Energy Score:** ___/40
+**Worst Energy Time:**
+When do you consistently feel drained? ___________
 
-### Energy Interdependence
-
-How do these energy types affect each other for you?
-
-**When my physical energy is low, my mental energy:**
-□ Drops significantly  
-□ Drops somewhat  
-□ Stays the same  
-□ Actually improves (rare)
-
-**When my emotional energy is high, my physical energy:**
-□ Increases dramatically  
-□ Increases somewhat  
-□ Stays the same  
-□ Actually decreases
-
-**When I'm spiritually energized, my mental energy:**
-□ Becomes laser-focused  
-□ Improves significantly  
-□ Stays the same  
-□ Gets scattered with excitement
-
-## Part 2: Mapping Your Daily Energy Patterns (30 minutes)
-
-### Chronotype and Energy Rhythms
-
-**When do you naturally feel most energized?**
-□ Early morning (5-9 AM)  
-□ Mid-morning (9 AM-12 PM)  
-□ Afternoon (12-4 PM)  
-□ Early evening (4-8 PM)  
-□ Late evening/night (8 PM+)
-
-### Detailed Energy Tracking
-
-For the past week (or best recollection), rate your energy levels (1-10) at different times:
-
-**Monday:**
-- 6 AM: P___ E___ M___ S___
-- 9 AM: P___ E___ M___ S___
-- 12 PM: P___ E___ M___ S___
-- 3 PM: P___ E___ M___ S___
-- 6 PM: P___ E___ M___ S___
-- 9 PM: P___ E___ M___ S___
-
-**Tuesday through Sunday:** (Track similarly if possible)
-
-### Pattern Recognition
-
-**My highest energy time is typically:** ___________
-
-**My lowest energy time is typically:** ___________
-
-**My mental energy peaks around:** ___________
-
-**My creative energy flows best:** ___________
-
-**My social energy is highest:** ___________
-
-### Energy-Draining vs. Energy-Giving Activities
-
-**Major Energy Drains:**
+**Energy Zappers:**
+What drains your energy fastest?
 1. ___________
 2. ___________
 3. ___________
-4. ___________
-5. ___________
 
-**Major Energy Sources:**
+**Energy Boosters:**
+What gives you energy most effectively?
 1. ___________
 2. ___________
 3. ___________
-4. ___________
-5. ___________
 
-## Part 3: Developer Energy Patterns (20 minutes)
+## Part 2: Physical Energy Management (10 minutes)
 
-### Coding Energy Requirements
+### Sleep Optimization
 
-Different types of programming work require different energy combinations:
+**Current Sleep Quality (1-10):** ___/10
 
-**Deep Problem Solving** (Complex algorithms, architecture)
-- High mental energy
-- Low interruption tolerance
-- Extended focus periods
-- Best time: ___________
+**Sleep Challenges:**
+□ Trouble falling asleep
+□ Waking during the night
+□ Waking too early
+□ Not feeling rested
+□ Inconsistent schedule
+□ Screen time before bed
+□ Caffeine too late
+□ Racing thoughts
 
-**Creative Coding** (New features, experimentation)
-- High mental + emotional energy
-- Openness to exploration
-- Moderate focus periods
-- Best time: ___________
+**Sleep Improvement Plan:**
 
-**Maintenance Tasks** (Bug fixes, refactoring)
-- Moderate mental energy
-- High attention to detail
-- Can handle interruptions
-- Best time: ___________
+**Bedtime Routine (Choose 3):**
+□ No screens 1 hour before bed
+□ Reading fiction
+□ Gentle stretching
+□ Meditation/breathing
+□ Journaling
+□ Warm bath/shower
+□ Herbal tea
+□ Room temperature 65-68°F
 
-**Learning/Research** (New technologies, documentation)
-- High mental + spiritual energy
-- Curiosity and patience
-- Various focus periods
-- Best time: ___________
+**My Sleep Routine:**
+1. ___________
+2. ___________
+3. ___________
 
-**Code Reviews** (Collaboration, feedback)
-- Moderate mental + high emotional energy
-- Social interaction capacity
-- Critical thinking
-- Best time: ___________
+### Movement & Exercise
 
-**Meetings/Communication** (Standups, planning)
-- High emotional + moderate mental energy
-- Social stamina
-- Quick context switching
-- Best time: ___________
+**Current Activity Level (1-10):** ___/10
 
-### Your Ideal Coding Schedule
+**Energy-Boosting Movement:**
 
-**High Energy Block (2-4 hours):** ___________
-- Best for: ___________
+**Daily Movement (Choose 2):**
+□ Morning walk
+□ Desk stretches every hour
+□ Walking meetings
+□ Stairs instead of elevator
+□ Parking farther away
+□ Dancing to music
+□ Yoga breaks
+□ Strength training
 
-**Medium Energy Block (1-2 hours):** ___________
-- Best for: ___________
+**Weekly Exercise (Choose 1-2):**
+□ 3x cardio sessions
+□ 2x strength training
+□ Daily 30-minute walks
+□ Weekend hiking
+□ Sports/recreation
+□ Group fitness classes
+□ Home workouts
+□ Other: ___________
 
-**Low Energy Block (30-60 minutes):** ___________
-- Best for: ___________
+### Nutrition for Energy
 
-### Energy-Impacted Performance Indicators
+**Current Nutrition (1-10):** ___/10
 
-**When my energy is optimal, I:**
-□ Write cleaner code  
-□ Spot bugs faster  
-□ Think more creatively  
-□ Collaborate better  
-□ Learn more efficiently  
-□ Handle stress better  
-□ Make better decisions  
-□ Communicate more clearly
+**Energy-Draining Habits:**
+□ Skipping breakfast
+□ Too much caffeine
+□ Sugar crashes
+□ Eating when stressed
+□ Large heavy meals
+□ Not drinking enough water
+□ Emotional eating
+□ Irregular eating times
 
-**When my energy is low, I:**
-□ Make more mistakes  
-□ Get frustrated easily  
-□ Procrastinate more  
-□ Avoid difficult tasks  
-□ Have poor code quality  
-□ Struggle with focus  
-□ Communicate poorly  
-□ Make bad decisions
+**Energy-Boosting Nutrition Plan:**
 
-## Part 4: Energy Investment vs. Return Analysis (15 minutes)
+**Hydration Goal:** ___ glasses of water daily
 
-### High-ROI Energy Investments
+**Meal Timing:**
+- Breakfast: ___________
+- Lunch: ___________
+- Dinner: ___________
+- Snacks: ___________
 
-Activities that give you MORE energy than they consume:
+**Energy Foods to Include More:**
+□ Complex carbs (oats, quinoa)
+□ Lean proteins (fish, beans)
+□ Healthy fats (nuts, avocado)
+□ Fruits and vegetables
+□ Green tea
+□ Dark chocolate (70%+)
+□ Nuts and seeds
+□ Other: ___________
 
-**Physical Energy Investments:**
-□ Quality sleep (7-9 hours)
-□ Regular exercise
-□ Healthy nutrition
-□ Adequate hydration
-□ Natural light exposure
-□ Fresh air/nature time
+## Part 3: Mental Energy Management (10 minutes)
 
-**Emotional Energy Investments:**
-□ Meaningful relationships
-□ Gratitude practices
+### Cognitive Load Assessment
+
+**Mental Energy Drains:**
+□ Constant task-switching
+□ Too many decisions
+□ Information overload
+□ Unclear priorities
+□ Perfectionism
+□ Multitasking
+□ Procrastination
+□ Mental clutter
+
+**Peak Mental Performance:**
+When is your brain sharpest? ___________
+
+**Mental Energy Plan:**
+
+**Focus Blocks:**
+Schedule your hardest mental work during peak hours:
+- Peak Time 1: _____ AM/PM for _____minutes
+- Peak Time 2: _____ AM/PM for _____minutes
+
+**Decision Reduction:**
+□ Meal prep on Sundays
+□ Lay out clothes night before
+□ Use templates for routine tasks
+□ Batch similar decisions
+□ Create morning routine
+□ Automate bill payments
+□ Other: ___________
+
+**Information Diet:**
+□ Check email only 3x daily
+□ Unsubscribe from unnecessary lists
+□ Use website blockers during focus time
+□ Limit news consumption
+□ Clear digital clutter
+□ Turn off non-essential notifications
+□ Other: ___________
+
+### Mental Recovery Practices
+
+**Brain Breaks (Choose 3):**
+□ 5-minute meditation
+□ Look out window/nature
+□ Deep breathing exercises
+□ Progressive muscle relaxation
+□ Listen to calming music
+□ Doodle or sketch
+□ Walk without phone
+□ Mindful tea/coffee break
+
+**Weekly Mental Rest (Choose 1):**
+□ Phone-free morning
+□ Nature immersion
+□ Creative hobby time
+□ Reading for pleasure
+□ Puzzles or games
+□ Learning something fun
+□ Other: ___________
+
+## Part 4: Emotional Energy Management (10 minutes)
+
+### Emotional Energy Assessment
+
+**Emotional Drains:**
+□ Toxic relationships
+□ Constant negativity
+□ Suppressing emotions
+□ People-pleasing
+□ Drama/conflict
+□ Comparison to others
+□ Perfectionist pressure
+□ Lack of boundaries
+
+**Emotional Boosters:**
+□ Time with loved ones
 □ Acts of kindness
 □ Creative expression
-□ Celebrating wins
-□ Boundary maintenance
+□ Laughter
+□ Music
+□ Nature
+□ Physical affection
+□ Accomplishments
 
-**Mental Energy Investments:**
-□ Meditation/mindfulness
-□ Learning (in areas of interest)
-□ Problem-solving (when not forced)
-□ Single-tasking practice
-□ Information diet
-□ Decision-making systems
+**Emotional Energy Plan:**
 
-**Spiritual Energy Investments:**
-□ Purpose-aligned work
-□ Values-based decisions
-□ Contributing to others
-□ Personal growth
-□ Connection to something larger
-□ Meaningful challenges
+**Daily Emotional Care:**
+Choose 2-3 practices:
+□ Morning gratitude (3 things)
+□ Midday mood check-in
+□ Evening emotion processing
+□ Call/text someone you care about
+□ Do something kind for someone
+□ Express feelings through art/music
+□ Physical movement to release emotions
+□ Other: ___________
 
-### Energy Drains to Minimize
+**Emotional Boundaries:**
+□ Say no to energy-draining people
+□ Limit negative media consumption
+□ Schedule worry time (15 min daily)
+□ Practice self-compassion
+□ Stop trying to fix others
+□ Remove yourself from drama
+□ Other: ___________
 
-**Unavoidable Drains** (manage better):
-- Difficult people
-- Boring tasks
-- Conflicting priorities
-- Technical debt
-- Unclear requirements
-
-**Avoidable Drains** (eliminate):
-- Energy vampire relationships
-- Perfectionism on low-stakes tasks
-- Over-commitment
-- Poor boundaries
-- Information overload
-
-## Creating Your Personal Energy Management System
-
-### Energy Optimization Strategies
-
-**Physical Energy Optimization:**
-- Sleep schedule: ___________
-- Exercise routine: ___________
-- Nutrition timing: ___________
-- Recovery practices: ___________
-
-**Emotional Energy Optimization:**
-- Mood boosters: ___________
-- Stress relievers: ___________
-- Relationship boundaries: ___________
-- Fulfillment activities: ___________
-
-**Mental Energy Optimization:**
-- Focus practices: ___________
-- Decision-making systems: ___________
-- Cognitive load reduction: ___________
-- Learning strategies: ___________
-
-**Spiritual Energy Optimization:**
-- Purpose reminders: ___________
-- Values alignment check: ___________
-- Meaning-making practices: ___________
-- Contribution activities: ___________
-
-### Daily Energy Management Routine
-
-**Morning Energy Ritual (15-30 minutes):**
+**Emotional Recovery:**
+When emotionally drained, I will:
 1. ___________
 2. ___________
 3. ___________
 
-**Midday Energy Reset (5-15 minutes):**
-1. ___________
-2. ___________
-3. ___________
+## Part 5: Spiritual Energy Management (10 minutes)
 
-**Evening Energy Recovery (15-45 minutes):**
-1. ___________
-2. ___________
-3. ___________
+### Purpose & Meaning
 
-### Weekly Energy Planning
+**Spiritual Energy Assessment (1-10):** ___/10
 
-**Sunday Energy Planning Session:**
-1. Review last week's energy patterns
-2. Identify upcoming energy challenges
-3. Plan high-energy activities for peak times
-4. Schedule recovery periods
-5. Adjust commitments based on energy budget
+**Connection to Purpose:**
+What gives your work meaning?
+___________
 
-**Daily Energy Check-ins:**
-- Morning: What's my energy budget today?
-- Midday: How am I spending my energy?
-- Evening: How can I recover for tomorrow?
+What activities make you feel most alive?
+___________
 
-## Energy-Based Task Scheduling
+**Spiritual Energy Sources:**
+□ Time in nature
+□ Meditation/prayer
+□ Helping others
+□ Creative expression
+□ Learning and growth
+□ Deep conversations
+□ Spiritual practices
+□ Values-aligned work
 
-### The Energy-Task Matrix
+**Spiritual Energy Plan:**
 
-**High Energy + High Importance:**
-- Complex problem solving
-- Creative work
-- Important decisions
-- Challenging learning
+**Daily Connection (Choose 1-2):**
+□ Morning intention setting
+□ Evening gratitude
+□ Brief meditation/prayer
+□ Reading inspiring content
+□ Connecting with nature
+□ Acts of service
+□ Other: ___________
 
-**High Energy + Low Importance:**
-- Optimization (can be procrastination)
-- Over-engineering
-- Perfectionism on minor tasks
-- Busy work during peak hours
+**Weekly Renewal (Choose 1):**
+□ Volunteer work
+□ Spiritual community
+□ Nature immersion
+□ Creative projects
+□ Meaningful conversations
+□ Learning aligned with values
+□ Other: ___________
 
-**Low Energy + High Importance:**
-- Important but routine tasks
-- Administrative necessities
-- Maintenance work
-- Following up on commitments
+## Your Personal Energy System
 
-**Low Energy + Low Importance:**
-- Email processing
-- Social media
-- Casual reading
-- Organizing/cleaning
+### Energy Management Principles
 
-### Your Energy-Optimized Schedule Template
+1. **Match tasks to energy levels**
+   - High mental energy → Complex cognitive work
+   - Low mental energy → Administrative tasks
+   - High physical energy → Exercise, active projects
+   - Low physical energy → Rest, gentle activities
 
-**Peak Energy Block:** ___________
-Task types: ___________
+2. **Protect your peak energy**
+   - Schedule most important work during peak times
+   - Guard against energy drains during peak hours
+   - Say no to non-essential commitments
 
-**Good Energy Block:** ___________
-Task types: ___________
+3. **Plan for energy recovery**
+   - Build in breaks between intense activities
+   - Have different types of rest for different energy drains
+   - Create daily, weekly, and seasonal renewal practices
 
-**Moderate Energy Block:** ___________
-Task types: ___________
+### Your Energy Schedule
 
-**Low Energy Block:** ___________
-Task types: ___________
+**Daily Energy Rhythm:**
 
-**Recovery Block:** ___________
-Activities: ___________
+**6-9 AM:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-## Advanced Energy Strategies
+**9 AM-12 PM:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-### Energy Stacking
+**12-3 PM:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-Combine activities that reinforce each other:
-- Walking meetings (physical + social + work)
-- Learning while exercising
-- Coding with inspiring music
-- Pair programming with energizing people
+**3-6 PM:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-### Energy Borrowing
+**6-9 PM:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-Sometimes you need to "borrow" energy for important tasks:
-- Use caffeine strategically
-- Leverage deadlines for urgency energy
-- Work with high-energy people
-- Change environment for stimulation
+**9 PM-Sleep:**
+- Energy Level: ___/10
+- Best Activities: ___________
+- Recovery Needed: ___________
 
-### Energy Protection
+### Weekly Energy Plan
 
-Guard your energy like the precious resource it is:
-- Say no to energy drains
-- Batch similar tasks
-- Minimize context switching
-- Protect your peak hours
-- Build buffer time around draining activities
+**Monday:** Focus on ___________ (your strongest energy type)
+**Tuesday:** Focus on ___________ 
+**Wednesday:** Focus on ___________
+**Thursday:** Focus on ___________
+**Friday:** Focus on ___________
+**Saturday:** Focus on recovery and ___________
+**Sunday:** Focus on preparation and ___________
 
-## Key Takeaways
+## Your Energy Emergency Kit
 
-**Energy is your most valuable resource.** Unlike time, energy quality varies dramatically. Managing energy well multiplies your effectiveness.
+When energy is critically low:
 
-**Everyone has a unique energy profile.** Your patterns are different from others. What energizes you might drain someone else.
+**Physical Energy Emergency:**
+□ 10-minute nap
+□ Protein snack + water
+□ 5-minute walk outside
+□ Gentle stretching
+□ Other: ___________
 
-**Energy compounds.** Good energy management creates an upward spiral. Poor energy management creates a downward spiral.
+**Mental Energy Emergency:**
+□ Single-task focus
+□ Simplify decisions
+□ Take 5 deep breaths
+□ Clear physical space
+□ Other: ___________
 
-**Recovery is not optional.** You can't manage energy without planning for energy restoration.
+**Emotional Energy Emergency:**
+□ Call supportive friend
+□ Listen to uplifting music
+□ Practice self-compassion
+□ Remove from stressful situation
+□ Other: ___________
 
-**Small changes, big impact.** Minor adjustments to energy patterns can dramatically improve performance and satisfaction.
+**Spiritual Energy Emergency:**
+□ Connect with purpose
+□ Read inspiring quote
+□ Brief gratitude practice
+□ Step into nature
+□ Other: ___________
+
+## This Week's Energy Experiment
+
+Choose ONE energy type to focus on this week:
+
+**My Focus:** ___________ Energy
+
+**Daily Practice:**
+What will you do daily? ___________
+
+**Weekly Goal:**
+What do you want to improve? ___________
+
+**Success Metric:**
+How will you measure progress? ___________
+
+## Key Takeaway
+
+Energy is your most valuable resource. Unlike time, energy can be renewed through the right practices. Managing your four energy systems isn't selfish—it's essential for sustained resilience and peak performance.
 
 ---
 
-[Continue to Lesson 4: Recovery Rituals →](/journey/week-10/04-recovery-rituals)
+[← Previous: Stress Signals](/journey/week-10/02-stress-signals/) | [Continue to Recovery Rituals →](/journey/week-10/04-recovery-rituals/)
