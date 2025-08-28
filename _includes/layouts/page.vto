@@ -1,22 +1,47 @@
 ---
-layout: layouts/base.vto
-body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
+layout: ./base.vto
+body_class: "bg-stone-900 text-white"
 ---
-
-<main class="flex-1 container mx-auto px-6 py-8 max-w-6xl">
-  <article class="prose prose-invert prose-pink max-w-none">
+<article class="py-24">
+  <div class="max-w-6xl mx-auto px-6">
     {{ if title }}
-      <h1 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-8 pb-1">
-        {{ title }}
-      </h1>
+      <header class="mb-12">
+        <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ title }}</h1>
+        
+        {{ if description }}
+          <p class="text-stone-300 text-xl mb-4">{{ description }}</p>
+        {{ /if }}
+        
+        {{ if effective_date || last_updated }}
+          <div class="text-stone-400 text-sm space-y-1">
+            {{ if effective_date }}
+              <p>
+                <span class="font-semibold">Effective Date:</span>
+                <span class="italic">{{ effective_date |> date("MMMM d, yyyy") }}</span>
+              </p>
+            {{ /if }}
+            {{ if last_updated }}
+              <p>
+                <span class="font-semibold">Last Updated:</span>
+                <span class="italic">{{ last_updated |> date("MMMM d, yyyy") }}</span>
+              </p>
+            {{ /if }}
+          </div>
+        {{ /if }}
+      </header>
     {{ /if }}
 
-    {{ if description }}
-      <p class="text-xl text-gray-400 mb-8">{{ description }}</p>
-    {{ /if }}
-
-    <div class="content">
+    <div class="prose prose-invert prose-stone max-w-none text-xl">
       {{ content }}
     </div>
-  </article>
-</main>
+
+    {{ if url != "/about" }}
+      <footer class="mt-16 text-center">
+        <a
+          href="/"
+          class="text-[#eb4e3b] hover:underline transition duration-300"
+        >← Back to home</a>
+      </footer>
+    {{ /if }}
+  </div>
+</article>

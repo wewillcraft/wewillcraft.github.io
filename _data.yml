@@ -53,6 +53,8 @@ footer:
   legal_links:
     - text: About
       url: /about
+    - text: Get Involved
+      url: /getting-involved
     - text: Code of Conduct
       url: /code-of-conduct
     - text: Disclaimer

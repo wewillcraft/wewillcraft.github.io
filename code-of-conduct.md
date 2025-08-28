@@ -2,6 +2,8 @@
 title: "Code of Conduct"
 description: "Community guidelines and expectations for Will Craft Software programs and spaces"
 layout: layouts/page.vto
+effective_date: 2025-08-28
+last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
@@ -13,10 +15,6 @@ navbar:
     - text: All Posts
       url: "/posts"
 ---
-
-# Code of Conduct
-
-**Effective Date: August 28, 2025**
 
 ## Our Pledge
 
@@ -223,7 +221,8 @@ the community.
 
 If you have questions about this Code of Conduct, please contact:
 
-**Email:** we@willcraft.software **Website:** https://willcraft.software
+- **Email:** [we@willcraft.software](mailto:we@willcraft.software)
+- **Website:** [willcraft.software](https://willcraft.software)
 
 ## Our Commitment
 
@@ -234,7 +233,3 @@ purposeful software and mentoring the next generation.
 
 Together, we can create an environment where everyone can learn, grow, and
 contribute their best.
-
----
-
-_Last updated: August 2025_

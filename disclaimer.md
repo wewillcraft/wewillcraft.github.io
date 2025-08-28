@@ -2,6 +2,8 @@
 title: "Disclaimer"
 description: "Important disclaimers about Will Craft Software content and services"
 layout: layouts/page.vto
+effective_date: 2025-08-28
+last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
@@ -13,10 +15,6 @@ navbar:
     - text: All Posts
       url: "/posts"
 ---
-
-# Disclaimer
-
-**Effective Date: August 28, 2025**
 
 ## 1. General Information
 
@@ -247,7 +245,8 @@ However:
 If you have questions about this disclaimer or find errors in our content,
 please contact us:
 
-**Email:** we@willcraft.software **Website:** https://willcraft.software
+- **Email:** [we@willcraft.software](mailto:we@willcraft.software)
+- **Website:** [willcraft.software](https://willcraft.software)
 
 We appreciate feedback and corrections from our community.
 
@@ -267,8 +266,6 @@ effective immediately upon posting. Continued use of our Site after changes
 constitutes acceptance of the updated disclaimer.
 
 ---
-
-_Last updated: August 2025_
 
 **Remember:** Your journey is your own. While we're here to support and guide,
 your success depends on your efforts, choices, and circumstances. Use our

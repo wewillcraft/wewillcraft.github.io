@@ -2,6 +2,8 @@
 title: "Cookie Policy"
 description: "How Will Craft Software uses cookies and similar technologies"
 layout: layouts/page.vto
+effective_date: 2025-08-28
+last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
@@ -15,8 +17,6 @@ navbar:
 ---
 
 # Cookie Policy
-
-**Effective Date: August 28, 2025**
 
 ## 1. Introduction
 
@@ -228,7 +228,7 @@ For users in the European Economic Area (EEA), our legal basis for processing
 information collected through cookies depends on the cookie type:
 
 - **Essential cookies**: Legitimate interest (website functionality)
-- passionate cookies\*\*: Consent
+- **Functional cookies**: Consent
 - **Analytics cookies**: Consent
 - **Marketing cookies**: Consent (when used)
 
@@ -251,7 +251,3 @@ Depending on your location, you may have certain rights regarding cookies:
 - Right to non-discrimination
 
 To exercise these rights, please contact us using the information above.
-
----
-
-_Last updated: August 2025_
