@@ -7,11 +7,14 @@ week: 7
 
 ## Hey friend! 👋
 
-Time for a sustainability audit. Let's honestly assess how your current developer lifestyle is working and build systems that support a long, fulfilling career in tech.
+Time for a sustainability audit. Let's honestly assess how your current
+developer lifestyle is working and build systems that support a long, fulfilling
+career in tech.
 
 ## The Big Idea 💡
 
-**What got you here won't get you there. Your early-career survival tactics need to evolve into mid-career sustainability systems.**
+**What got you here won't get you there. Your early-career survival tactics need
+to evolve into mid-career sustainability systems.**
 
 This audit helps you spot potential problems before they become crises.
 
@@ -69,9 +72,9 @@ Rate each area honestly (1-10, where 10 = "I've got this dialed in"):
 
 ### Step 2: Identify Your Sustainability Risks (5 minutes)
 
-**High Risk (scores 1-4):** These need immediate attention
-**Medium Risk (scores 5-7):** These need a plan and monitoring
-**Low Risk (scores 8-10):** These are working well, maintain them
+**High Risk (scores 1-4):** These need immediate attention **Medium Risk (scores
+5-7):** These need a plan and monitoring **Low Risk (scores 8-10):** These are
+working well, maintain them
 
 Write down your highest risk areas. These are your sustainability threats.
 
@@ -93,7 +96,9 @@ Small improvements compound into big changes.
 
 This audit might reveal some uncomfortable truths. That's the point.
 
-The developers who have 20+ year careers didn't just get lucky—they built systems that support longevity. They prioritized sustainability over heroics, systems over motivation, and balance over intensity.
+The developers who have 20+ year careers didn't just get lucky—they built
+systems that support longevity. They prioritized sustainability over heroics,
+systems over motivation, and balance over intensity.
 
 Your future self is depending on the choices you make in this lesson.
 
@@ -121,11 +126,11 @@ Based on your audit:
 
 ## Sustainability Myths to Abandon
 
-❌ **"I'll focus on sustainability later"** → Problems compound over time
-❌ **"I'm young, I can handle anything"** → Bad habits are harder to break later
-❌ **"Successful developers work 80-hour weeks"** → Correlation ≠ causation
-❌ **"I don't have time for self-care"** → Self-care IS performance optimization
-❌ **"This pace is only temporary"** → Nothing is more permanent than temporary
+❌ **"I'll focus on sustainability later"** → Problems compound over time ❌
+**"I'm young, I can handle anything"** → Bad habits are harder to break later ❌
+**"Successful developers work 80-hour weeks"** → Correlation ≠ causation ❌ **"I
+don't have time for self-care"** → Self-care IS performance optimization ❌
+**"This pace is only temporary"** → Nothing is more permanent than temporary
 
 ## Emergency Sustainability Protocol
 
@@ -153,12 +158,18 @@ I am building a career that I can maintain and enjoy for decades."
 
 ## Key Takeaway
 
-Sustainability isn't about being lazy—it's about being strategic. The most successful developers optimize for the long game. They build systems that support consistent high performance without burning out. Your audit is the first step toward that sustainability.
+Sustainability isn't about being lazy—it's about being strategic. The most
+successful developers optimize for the long game. They build systems that
+support consistent high performance without burning out. Your audit is the first
+step toward that sustainability.
 
 ---
 
-**This week you've learned to prevent burnout, manage energy, set boundaries, build motivation systems, handle stress, integrate work and life, and audit your sustainability. You're now equipped for the long game.**
+**This week you've learned to prevent burnout, manage energy, set boundaries,
+build motivation systems, handle stress, integrate work and life, and audit your
+sustainability. You're now equipped for the long game.**
 
-**Next week: Leadership skills—because every great developer eventually needs to influence, guide, and inspire others.**
+**Next week: Leadership skills—because every great developer eventually needs to
+influence, guide, and inspire others.**
 
 → [Week 8: Leadership Development](../week-08/)

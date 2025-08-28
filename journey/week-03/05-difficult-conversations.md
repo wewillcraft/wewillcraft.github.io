@@ -11,13 +11,17 @@ objectives:
 
 ## The Conversations We Avoid 😬
 
-You know the ones. That coworker who takes credit for your work. The code review that got personal. The manager who keeps changing requirements. The teammate who... doesn't actually do any work.
+You know the ones. That coworker who takes credit for your work. The code review
+that got personal. The manager who keeps changing requirements. The teammate
+who... doesn't actually do any work.
 
 We need to talk about them. in this lesson, we learn how.
 
 ## Why We Avoid Conflict
 
-Real talk - conflict feels dangerous because your brain literally thinks it is. Same fight-or-flight response as seeing a tiger, except the tiger is Bob from DevOps.
+Real talk - conflict feels dangerous because your brain literally thinks it is.
+Same fight-or-flight response as seeing a tiger, except the tiger is Bob from
+DevOps.
 
 **Common avoidance tactics:**
 
@@ -53,8 +57,7 @@ Reality: Everyone's the hero of their own story. Find the human.
 
 ### The SBI Model
 
-**S**ituation: When and where
-**B**ehavior: What specifically happened\
+**S**ituation: When and where **B**ehavior: What specifically happened\
 **I**mpact: The actual effect
 
 ```
@@ -79,29 +82,36 @@ Boom. Non-threatening. Clear intent. Opens dialogue.
 
 ### "You took credit for my work"
 
-"In the presentation, the auth system I built was presented as your work. I'm sure that wasn't intentional, but I'd like credit for my contributions. How can we handle this going forward?"
+"In the presentation, the auth system I built was presented as your work. I'm
+sure that wasn't intentional, but I'd like credit for my contributions. How can
+we handle this going forward?"
 
 ### "Your code reviews are harsh"
 
-"I value your technical expertise, and I'm finding the tone of recent reviews demotivating. Could we discuss how to keep feedback constructive?"
+"I value your technical expertise, and I'm finding the tone of recent reviews
+demotivating. Could we discuss how to keep feedback constructive?"
 
 ### "You're not pulling your weight"
 
-"I've noticed I'm handling most of the sprint tasks. Can we talk about workload distribution? I want to make sure we're both set up for success."
+"I've noticed I'm handling most of the sprint tasks. Can we talk about workload
+distribution? I want to make sure we're both set up for success."
 
 ### "Stop micromanaging me"
 
-"I work best with some autonomy. Could we agree on checkpoints that give you the visibility you need while giving me space to work?"
+"I work best with some autonomy. Could we agree on checkpoints that give you the
+visibility you need while giving me space to work?"
 
 ## When Things Get Heated
 
 ### The Circuit Breaker
 
-"I'm getting emotional and want to have a productive conversation. Can we take 5 minutes/revisit this tomorrow?"
+"I'm getting emotional and want to have a productive conversation. Can we take 5
+minutes/revisit this tomorrow?"
 
 ### The Repeat-Back
 
-"Let me make sure I understand. You're saying that... [repeat their point]. Is that right?"
+"Let me make sure I understand. You're saying that... [repeat their point]. Is
+that right?"
 
 ### The Common Ground
 
@@ -180,17 +190,17 @@ Let me know if I missed anything."
 
 ## Common Mistakes
 
-**The Ambush:** "We need to talk" with no context
-**Better:** "Could we chat about the sprint planning process?"
+**The Ambush:** "We need to talk" with no context **Better:** "Could we chat
+about the sprint planning process?"
 
-**The Kitchen Sink:** Bringing up everything ever
-**Better:** Focus on ONE issue at a time
+**The Kitchen Sink:** Bringing up everything ever **Better:** Focus on ONE issue
+at a time
 
-**The Mind Reader:** "You obviously think..."
-**Better:** "It seems like..." or "I'm perceiving..."
+**The Mind Reader:** "You obviously think..." **Better:** "It seems like..." or
+"I'm perceiving..."
 
-**The Ultimatum:** "Fix this or else"
-**Better:** "Here's what I need to be successful..."
+**The Ultimatum:** "Fix this or else" **Better:** "Here's what I need to be
+successful..."
 
 ## Practice Scenarios
 
@@ -217,18 +227,23 @@ Keep these in your back pocket:
 
 ## Remember This
 
-Difficult conversations are like debugging - the anticipation is worse than the reality. Most people are reasonable when approached with respect and genuine intent to solve problems.
+Difficult conversations are like debugging - the anticipation is worse than the
+reality. Most people are reasonable when approached with respect and genuine
+intent to solve problems.
 
-You don't need to be perfect. You just need to be honest, respectful, and clear about what you need.
+You don't need to be perfect. You just need to be honest, respectful, and clear
+about what you need.
 
 The cost of avoiding difficult conversations is always higher than having them.
 
-Next lesson: Mastering the art of feedback - giving it, receiving it, and not taking it personally.
+Next lesson: Mastering the art of feedback - giving it, receiving it, and not
+taking it personally.
 
 ---
 
 ---
 
-[← Previous Lesson](/journey/week-09/04-verbal-communication/) | [Next Lesson →](/journey/week-09/06-feedback-skills/)
+[← Previous Lesson](/journey/week-09/04-verbal-communication/) |
+[Next Lesson →](/journey/week-09/06-feedback-skills/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

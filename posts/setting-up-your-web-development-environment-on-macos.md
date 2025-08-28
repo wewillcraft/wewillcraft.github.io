@@ -10,18 +10,29 @@ tags:
   - macOS
 ---
 
-Got a new Mac and want to get it ready for web development? This guide walks you through everything you need to install and configure a powerful development environment using modern tools.
+Got a new Mac and want to get it ready for web development? This guide walks you
+through everything you need to install and configure a powerful development
+environment using modern tools.
 
 ---
 
 ## 🛠️ What We'll Be Installing
 
-- **Shell & Plugins**: [zsh](https://www.zsh.org/), [oh-my-zsh](https://ohmyz.sh/), [powerlevel10k](https://github.com/romkatv/powerlevel10k), [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- **Secrets & GPG**: [Keybase](https://keybase.io/) (used for secure GPG key management)
-- **Languages**: Node.js (via [nvm](https://github.com/nvm-sh/nvm)), [Deno](https://deno.com/), Python (via [uv](https://docs.astral.sh/uv/)), Go
-- **Tools**: [Docker](https://www.docker.com/), [byobu](https://www.byobu.org/), [direnv](https://direnv.net/), [bat](https://github.com/sharkdp/bat), [stow](https://www.gnu.org/software/stow/)
+- **Shell & Plugins**: [zsh](https://www.zsh.org/),
+  [oh-my-zsh](https://ohmyz.sh/),
+  [powerlevel10k](https://github.com/romkatv/powerlevel10k),
+  [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions),
+  [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- **Secrets & GPG**: [Keybase](https://keybase.io/) (used for secure GPG key
+  management)
+- **Languages**: Node.js (via [nvm](https://github.com/nvm-sh/nvm)),
+  [Deno](https://deno.com/), Python (via [uv](https://docs.astral.sh/uv/)), Go
+- **Tools**: [Docker](https://www.docker.com/), [byobu](https://www.byobu.org/),
+  [direnv](https://direnv.net/), [bat](https://github.com/sharkdp/bat),
+  [stow](https://www.gnu.org/software/stow/)
 - **Package Manager**: [Homebrew](https://brew.sh/)
-- **Code Editors**: [VS Code](https://code.visualstudio.com/), [SpaceVim](https://spacevim.org/)
+- **Code Editors**: [VS Code](https://code.visualstudio.com/),
+  [SpaceVim](https://spacevim.org/)
 - **Xcode Command Line Tools** (needed for compiling things)
 
 ---
@@ -34,7 +45,8 @@ First, make sure you have the basic developer tools installed:
 xcode-select --install
 ```
 
-You should get a popup. Click "Install" and let it finish. You can confirm the install with:
+You should get a popup. Click "Install" and let it finish. You can confirm the
+install with:
 
 ```bash
 xcode-select -p
@@ -80,7 +92,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k"
 ```
 
-Open `~/.zshrc`, find the line that sets `ZSH_THEME`, and change its value to `"powerlevel10k/powerlevel10k"`.
+Open `~/.zshrc`, find the line that sets `ZSH_THEME`, and change its value to
+`"powerlevel10k/powerlevel10k"`.
 
 Restart your terminal and follow the guided config.
 
@@ -193,7 +206,8 @@ brew install --cask docker
 open /Applications/Docker.app
 ```
 
-Make sure to go into Docker settings and enable it to launch on startup if you use it often.
+Make sure to go into Docker settings and enable it to launch on startup if you
+use it often.
 
 ### byobu
 

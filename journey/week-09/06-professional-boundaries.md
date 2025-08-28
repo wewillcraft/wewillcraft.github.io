@@ -11,11 +11,17 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Professional boundaries aren't career limiters—they're career enablers. They help you focus on high-impact work, build respect with colleagues, and avoid the burnout that derails promising careers. The most successful professionals aren't those who say yes to everything; they're those who say yes to the right things.
+Professional boundaries aren't career limiters—they're career enablers. They
+help you focus on high-impact work, build respect with colleagues, and avoid the
+burnout that derails promising careers. The most successful professionals aren't
+those who say yes to everything; they're those who say yes to the right things.
 
 ## Why This Matters
 
-Without clear professional boundaries, you become the person everyone dumps extra work on, the one who stays late to fix other people's problems, and the one who never gets promoted because you're too busy being indispensable in your current role. Boundaries help you work strategically, not just hard.
+Without clear professional boundaries, you become the person everyone dumps
+extra work on, the one who stays late to fix other people's problems, and the
+one who never gets promoted because you're too busy being indispensable in your
+current role. Boundaries help you work strategically, not just hard.
 
 ## Your 15-20 Minute Mission
 
@@ -64,19 +70,24 @@ Without clear professional boundaries, you become the person everyone dumps extr
 
 **For Scope Creep:**
 
-- "I'd love to help, but adding this would impact my ability to deliver X on time"
+- "I'd love to help, but adding this would impact my ability to deliver X on
+  time"
 - "Let's discuss priorities—what should I deprioritize to take this on?"
-- "This seems like it requires different expertise. Have you considered [appropriate person]?"
+- "This seems like it requires different expertise. Have you considered
+  [appropriate person]?"
 
 **For Unrealistic Deadlines:**
 
-- "I want to deliver quality work. Based on the scope, I need X days to do this well"
-- "I can deliver a quick version by Friday or a comprehensive version by next Wednesday"
+- "I want to deliver quality work. Based on the scope, I need X days to do this
+  well"
+- "I can deliver a quick version by Friday or a comprehensive version by next
+  Wednesday"
 - "Let me break this down into phases so we can deliver value incrementally"
 
 **For Career Protection:**
 
-- "I'm focusing on [specific goal] this quarter to develop my skills in that area"
+- "I'm focusing on [specific goal] this quarter to develop my skills in that
+  area"
 - "I'd prefer to take on projects that align with my growth goals"
 - "I want to make sure I'm adding value in the most strategic way"
 
@@ -86,21 +97,33 @@ Choose one professional boundary to implement this week:
 
 **Options:**
 
-1. **Scope Guardian**: Before accepting any request, ask "How does this align with my core responsibilities?"
-2. **Quality Standards**: Define "good enough" criteria for routine vs. strategic work
-3. **Growth Filter**: Only take on extra work that builds skills you want to develop
+1. **Scope Guardian**: Before accepting any request, ask "How does this align
+   with my core responsibilities?"
+2. **Quality Standards**: Define "good enough" criteria for routine vs.
+   strategic work
+3. **Growth Filter**: Only take on extra work that builds skills you want to
+   develop
 4. **Time Protection**: Block 2 hours daily for your most important project
 
 Communicate this boundary clearly and stick to it consistently.
 
 ## Real Talk 💬
 
-Setting professional boundaries can feel risky, especially early in your career. You might worry about being seen as difficult or uncommitted. Here's the reality: clear, professional boundaries actually build respect and trust. People know what to expect from you, and they value your thoughtful approach to work.
+Setting professional boundaries can feel risky, especially early in your career.
+You might worry about being seen as difficult or uncommitted. Here's the
+reality: clear, professional boundaries actually build respect and trust. People
+know what to expect from you, and they value your thoughtful approach to work.
 
-The people who push back on your professional boundaries are often those who benefited from your lack of boundaries. That's not your problem to solve. Your job is to do excellent work within appropriate limits, not to be endlessly available for everyone else's priorities.
+The people who push back on your professional boundaries are often those who
+benefited from your lack of boundaries. That's not your problem to solve. Your
+job is to do excellent work within appropriate limits, not to be endlessly
+available for everyone else's priorities.
 
-Remember: you teach people how to treat you professionally. If you always say yes, they'll always ask.
+Remember: you teach people how to treat you professionally. If you always say
+yes, they'll always ask.
 
 ## Key Takeaway
 
-Strong professional boundaries don't limit your career—they focus it. When you're clear about your role, standards, and priorities, you can excel at what matters most while building the reputation and skills that lead to advancement.
+Strong professional boundaries don't limit your career—they focus it. When
+you're clear about your role, standards, and priorities, you can excel at what
+matters most while building the reputation and skills that lead to advancement.

@@ -7,9 +7,12 @@ excerpt: Create meaningful professional relationships that align with your perso
 
 ## Core Truth
 
-**Your network is your net worth, but only if it's built on authentic relationships.**
+**Your network is your net worth, but only if it's built on authentic
+relationships.**
 
-Networking isn't about collecting business cards or LinkedIn connections. It's about building genuine relationships with people who share your interests, values, and professional goals.
+Networking isn't about collecting business cards or LinkedIn connections. It's
+about building genuine relationships with people who share your interests,
+values, and professional goals.
 
 ## This Week's Journey
 
@@ -23,7 +26,8 @@ Networking isn't about collecting business cards or LinkedIn connections. It's a
    - Identifying network gaps
    - Strategic relationship planning
 
-3. [**Personality-Based Networking Strategies**](./03-networking-by-type) (75 min)
+3. [**Personality-Based Networking Strategies**](./03-networking-by-type) (75
+   min)
    - Introvert vs. extravert approaches
    - Online vs. offline preferences
    - Energy-preserving techniques
@@ -66,26 +70,34 @@ By Sunday evening, you'll have created:
 
 **For Introverts:**
 
-- **Strengths:** Deep one-on-one conversations, thoughtful follow-up, quality relationships
-- **Strategies:** Coffee chats over cocktail parties, online communities, small group events
-- **Energy Management:** Shorter interactions, preparation time, recovery periods
+- **Strengths:** Deep one-on-one conversations, thoughtful follow-up, quality
+  relationships
+- **Strategies:** Coffee chats over cocktail parties, online communities, small
+  group events
+- **Energy Management:** Shorter interactions, preparation time, recovery
+  periods
 
 **For Extraverts:**
 
 - **Strengths:** Meeting new people easily, group energy, enthusiasm
 - **Strategies:** Conference networking, large events, group activities
-- **Energy Management:** Variety of interactions, social stimulation, group environments
+- **Energy Management:** Variety of interactions, social stimulation, group
+  environments
 
 **For Thinking Types:**
 
-- **Strengths:** Professional focus, logical connection-making, competency-based relationships
-- **Strategies:** Industry expertise sharing, problem-solving collaborations, skill-based networking
-- **Connection Points:** Technical discussions, career advancement, project collaborations
+- **Strengths:** Professional focus, logical connection-making, competency-based
+  relationships
+- **Strategies:** Industry expertise sharing, problem-solving collaborations,
+  skill-based networking
+- **Connection Points:** Technical discussions, career advancement, project
+  collaborations
 
 **For Feeling Types:**
 
 - **Strengths:** Relationship building, empathy, supportive connections
-- **Strategies:** Value-aligned communities, personal story sharing, collaborative projects
+- **Strategies:** Value-aligned communities, personal story sharing,
+  collaborative projects
 - **Connection Points:** Shared values, personal growth, team dynamics
 
 ## The Developer's Networking Landscape
@@ -126,7 +138,8 @@ By Sunday evening, you'll have created:
 
 1. **Identify what you can offer** (skills, knowledge, connections)
 2. **Find people you can help** (research their challenges and goals)
-3. **Make specific, helpful introductions** (connect people who should know each other)
+3. **Make specific, helpful introductions** (connect people who should know each
+   other)
 4. **Share valuable resources** (articles, tools, opportunities)
 5. **Ask thoughtful questions** (show genuine interest in their work)
 
@@ -210,9 +223,11 @@ By Sunday evening, you'll have created:
 
 ## Life Lesson for Career Growth
 
-> "Your network is not just who you know. It's who knows what you're capable of." - Reid Hoffman
+> "Your network is not just who you know. It's who knows what you're capable
+> of." - Reid Hoffman
 
-The relationships you build in your twenties will open doors throughout your career. Invest in people, not just skills.
+The relationships you build in your twenties will open doors throughout your
+career. Invest in people, not just skills.
 
 ## Time Investment This Week
 
@@ -232,8 +247,11 @@ The relationships you build in your twenties will open doors throughout your car
 
 ## Quick Navigation
 
-**Start Here →** [01: Authentic Networking Assessment](./01-networking-assessment)
+**Start Here →**
+[01: Authentic Networking Assessment](./01-networking-assessment)
 
 ---
 
-_Remember: Networking is not about using people. It's about building mutually beneficial relationships. Focus on how you can help others, and help will come back to you._
+_Remember: Networking is not about using people. It's about building mutually
+beneficial relationships. Focus on how you can help others, and help will come
+back to you._

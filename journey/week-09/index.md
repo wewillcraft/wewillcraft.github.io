@@ -11,7 +11,8 @@ Hey friend! 👋
 
 **Boundaries aren't walls—they're gates with you as the gatekeeper.**
 
-Healthy boundaries create sustainable ways to engage with the world that honor your needs, values, and energy patterns.
+Healthy boundaries create sustainable ways to engage with the world that honor
+your needs, values, and energy patterns.
 
 ## This Week's Journey
 
@@ -57,9 +58,10 @@ Healthy boundaries create sustainable ways to engage with the world that honor y
 ## Boundary Styles Quick Reference
 
 **People Pleaser:** Need to practice saying no in low-stakes situations first.
-**Rigid Controller:** Can benefit from strategic flexibility in safe relationships.
-**Inconsistent Fluctuator:** Focus on one consistent boundary to build confidence.
-**Healthy Balancer:** Fine-tune existing boundaries for maximum effectiveness.
+**Rigid Controller:** Can benefit from strategic flexibility in safe
+relationships. **Inconsistent Fluctuator:** Focus on one consistent boundary to
+build confidence. **Healthy Balancer:** Fine-tune existing boundaries for
+maximum effectiveness.
 
 ## Developer-Specific Boundary Challenges
 
@@ -70,19 +72,22 @@ Healthy boundaries create sustainable ways to engage with the world that honor y
 
 ## Essential Boundary Phrases
 
-**Time:** "I check email at 10 AM and 3 PM daily."
-**Energy:** "I need 15 minutes between meetings to transition."
-**Professional:** "I'm at capacity until next month, but here's what I can do..."
+**Time:** "I check email at 10 AM and 3 PM daily." **Energy:** "I need 15
+minutes between meetings to transition." **Professional:** "I'm at capacity
+until next month, but here's what I can do..."
 
 ## The Boundary Paradox
 
-**Counterintuitive Truth:** The clearer your boundaries, the better your relationships become.
+**Counterintuitive Truth:** The clearer your boundaries, the better your
+relationships become.
 
-People respect those who respect themselves. Clear boundaries create trust, reduce resentment, and enable authentic connection.
+People respect those who respect themselves. Clear boundaries create trust,
+reduce resentment, and enable authentic connection.
 
 ## Life Lesson
 
-Your boundaries teach people how to treat you. The patterns you establish in your twenties will follow you throughout your career.
+Your boundaries teach people how to treat you. The patterns you establish in
+your twenties will follow you throughout your career.
 
 ## Quick Navigation
 
@@ -90,4 +95,5 @@ Your boundaries teach people how to treat you. The patterns you establish in you
 
 ---
 
-_Boundaries aren't selfish—they're sustainable. They protect your ability to show up fully in what matters most._
+_Boundaries aren't selfish—they're sustainable. They protect your ability to
+show up fully in what matters most._

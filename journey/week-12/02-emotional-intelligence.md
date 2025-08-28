@@ -14,7 +14,10 @@ objectives:
 **Time:** 30 minutes\
 **Purpose:** Learn to understand and manage emotions like a boss (literally!)
 
-Hey friend! Remember that classmate who always seemed to know exactly what to say? Or that professor who could calm down even the most heated discussion? They probably had high emotional intelligence (EQ). In this lesson we're going to build yours too! 🎯
+Hey friend! Remember that classmate who always seemed to know exactly what to
+say? Or that professor who could calm down even the most heated discussion? They
+probably had high emotional intelligence (EQ). In this lesson we're going to
+build yours too! 🎯
 
 ## What's Emotional Intelligence Anyway?
 
@@ -25,7 +28,9 @@ Think of EQ as your emotional GPS. It helps you:
 - Build better relationships
 - Lead with confidence
 
-Here's the cool part: research shows EQ matters more than IQ for success. Smart people with low EQ often struggle, while emotionally intelligent people thrive! 🌟
+Here's the cool part: research shows EQ matters more than IQ for success. Smart
+people with low EQ often struggle, while emotionally intelligent people thrive!
+🌟
 
 ## The Four EQ Superpowers
 
@@ -77,23 +82,15 @@ Don't worry if you scored low - EQ is totally learnable! 💪
 
 We all have them. Here are common college triggers:
 
-**Academic Pressure Triggers:**
-□ Getting a bad grade on something you studied hard for
-□ Comparing yourself to that "naturally smart" classmate
-□ Procrastination guilt spirals
-□ Group project drama
+**Academic Pressure Triggers:** □ Getting a bad grade on something you studied
+hard for □ Comparing yourself to that "naturally smart" classmate □
+Procrastination guilt spirals □ Group project drama
 
-**Social Triggers:**
-□ Feeling left out of plans
-□ Roommate conflicts
-□ Dating stress
-□ Family expectations
+**Social Triggers:** □ Feeling left out of plans □ Roommate conflicts □ Dating
+stress □ Family expectations
 
-**Life Triggers:**
-□ Money worries
-□ Future uncertainty
-□ Imposter syndrome moments
-□ Overwhelming schedules
+**Life Triggers:** □ Money worries □ Future uncertainty □ Imposter syndrome
+moments □ Overwhelming schedules
 
 **Your Top 3 Triggers:**
 
@@ -105,7 +102,8 @@ We all have them. Here are common college triggers:
 
 ### When You're Stressed:
 
-- **The 5-4-3-2-1 Technique:** Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste
+- **The 5-4-3-2-1 Technique:** Name 5 things you see, 4 you can touch, 3 you
+  hear, 2 you smell, 1 you taste
 - **Box Breathing:** In for 4, hold for 4, out for 4, hold for 4
 - **Call a Friend:** Sometimes you just need to vent to your person
 
@@ -119,7 +117,8 @@ We all have them. Here are common college triggers:
 
 - **Control vs. Can't Control:** Make two lists - focus only on the first one
 - **Future Self Check:** "Will this matter in 5 years? 5 months? 5 days?"
-- **Positive Self-Talk:** Replace "I can't handle this" with "I'm figuring this out"
+- **Positive Self-Talk:** Replace "I can't handle this" with "I'm figuring this
+  out"
 
 ## Reading the Room (Social Awareness Level Up)
 
@@ -147,44 +146,41 @@ We all have them. Here are common college triggers:
 
 ### This Week's EQ Challenges:
 
-**Monday: Emotion Check-ins**
-Set 3 phone reminders. When they go off, ask: "How am I feeling right now and why?"
+**Monday: Emotion Check-ins** Set 3 phone reminders. When they go off, ask: "How
+am I feeling right now and why?"
 
-**Wednesday: Empathy Exercise**
-In every conversation, try to identify the emotion behind what the person is saying.
+**Wednesday: Empathy Exercise** In every conversation, try to identify the
+emotion behind what the person is saying.
 
-**Friday: Conflict Practice**
-If you have ANY disagreement (even small ones), practice the formula:
-"I feel [emotion] when [specific behavior] because [impact]. Can we talk about it?"
+**Friday: Conflict Practice** If you have ANY disagreement (even small ones),
+practice the formula: "I feel [emotion] when [specific behavior] because
+[impact]. Can we talk about it?"
 
 ### Real-Life EQ Scenarios:
 
 **Scenario 1:** Your study group partner keeps showing up unprepared.
 
 - **Low EQ Response:** "You never come prepared! This is so unfair!"
-- **High EQ Response:** "I've noticed we might be on different pages about prep work. Can we figure out a system that works for both of us?"
+- **High EQ Response:** "I've noticed we might be on different pages about prep
+  work. Can we figure out a system that works for both of us?"
 
 **Scenario 2:** You got a lower grade than expected.
 
 - **Low EQ Response:** Spiral into self-doubt or blame the professor
-- **High EQ Response:** Feel the disappointment, then ask "What can I learn from this?"
+- **High EQ Response:** Feel the disappointment, then ask "What can I learn from
+  this?"
 
 ## Your EQ Growth Plan
 
-**This Month, I Want to Get Better At:**
-□ Staying calm during stress
-□ Reading people's emotions
-□ Having difficult conversations
-□ Managing my anxiety
-□ Building stronger friendships
-□ Being a better teammate
+**This Month, I Want to Get Better At:** □ Staying calm during stress □ Reading
+people's emotions □ Having difficult conversations □ Managing my anxiety □
+Building stronger friendships □ Being a better teammate
 
-**My Daily EQ Practice:**
-Morning: "How do I want to show up in this lesson emotionally?"
-Evening: "What emotional experiences did I have in this lesson?"
+**My Daily EQ Practice:** Morning: "How do I want to show up in this lesson
+emotionally?" Evening: "What emotional experiences did I have in this lesson?"
 
-**My EQ Accountability Partner:** ________________
-(Pick someone who can give you honest feedback!)
+**My EQ Accountability Partner:** ________________ (Pick someone who can give
+you honest feedback!)
 
 ## The EQ Advantage
 
@@ -207,6 +203,10 @@ People with high EQ:
 
 ## Remember This
 
-Emotional intelligence isn't about being touchy-feely or overly emotional. It's about being smart with feelings - yours and others'. You're not trying to be perfect; you're trying to be aware and intentional.
+Emotional intelligence isn't about being touchy-feely or overly emotional. It's
+about being smart with feelings - yours and others'. You're not trying to be
+perfect; you're trying to be aware and intentional.
 
-Every interaction is practice. Every difficult moment is a chance to grow your EQ muscles. And trust me, future you will thank present you for developing this superpower! 🌟
+Every interaction is practice. Every difficult moment is a chance to grow your
+EQ muscles. And trust me, future you will thank present you for developing this
+superpower! 🌟

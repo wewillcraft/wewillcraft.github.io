@@ -10,27 +10,32 @@ objectives:
 
 ## The Truth Nobody Tells You
 
-Applying to 100 jobs online is like fishing in an empty pond. You're exhausted, discouraged, and still unemployed.
+Applying to 100 jobs online is like fishing in an empty pond. You're exhausted,
+discouraged, and still unemployed.
 
-Meanwhile, someone with half your skills just got hired because their friend's cousin knew someone.
+Meanwhile, someone with half your skills just got hired because their friend's
+cousin knew someone.
 
 Is that fair? No. Is that reality? Yes.
 
-So let's play the game that actually works: **Quality connections over quantity applications.**
+So let's play the game that actually works: **Quality connections over quantity
+applications.**
 
 ## Your Imposter Syndrome Is Lying
 
 Before we dive into strategy, let's address the elephant in the room:
 
-"I'm not qualified enough to reach out to people."
-"Why would anyone want to help me?"
-"Everyone else seems to have it figured out."
+"I'm not qualified enough to reach out to people." "Why would anyone want to
+help me?" "Everyone else seems to have it figured out."
 
-**News flash:** Everyone feels this way. Even the senior devs. Even the CTOs. Especially when job hunting.
+**News flash:** Everyone feels this way. Even the senior devs. Even the CTOs.
+Especially when job hunting.
 
-The difference between people who get hired and people who don't? The ones who get hired apply anyway, reach out anyway, show up anyway.
+The difference between people who get hired and people who don't? The ones who
+get hired apply anyway, reach out anyway, show up anyway.
 
-Your imposter syndrome is not a bug - it's a feature. It means you're pushing yourself into growth territory. Good.
+Your imposter syndrome is not a bug - it's a feature. It means you're pushing
+yourself into growth territory. Good.
 
 ## The 10-10-10 Strategy
 
@@ -38,7 +43,8 @@ Forget the 100 applications. Here's what actually works:
 
 ### 10 Target Companies
 
-Companies you genuinely want to work for. Not 50. Not "anywhere that'll hire me." Ten.
+Companies you genuinely want to work for. Not 50. Not "anywhere that'll hire
+me." Ten.
 
 **Your Dream 5:**
 
@@ -96,14 +102,17 @@ That's it. 10-10-10. Manageable, focused, effective.
 
 "Networking" sounds gross. Like you're using people. Let's reframe it:
 
-**You're building genuine professional relationships with people whose work interests you.**
+**You're building genuine professional relationships with people whose work
+interests you.**
 
 ### The Coffee Chat Formula
 
 Stop asking for jobs. Start asking for stories.
 
-**The approach that works:**
-"Hi [Name], I've been following your work on [specific thing]. Your approach to [specific detail] really resonated with me. I'm early in my career in [field] and would love to hear about your journey. Could I buy you coffee (virtual or real) for 20 minutes of your time?"
+**The approach that works:** "Hi [Name], I've been following your work on
+[specific thing]. Your approach to [specific detail] really resonated with me.
+I'm early in my career in [field] and would love to hear about your journey.
+Could I buy you coffee (virtual or real) for 20 minutes of your time?"
 
 **Why this works:**
 
@@ -116,14 +125,15 @@ Stop asking for jobs. Start asking for stories.
 
 After every conversation:
 
-**Within 24 hours:** Send a thank you
-"Thanks for your time yesterday. Your point about [specific thing] really stuck with me. I'm going to [specific action based on their advice]."
+**Within 24 hours:** Send a thank you "Thanks for your time yesterday. Your
+point about [specific thing] really stuck with me. I'm going to [specific action
+based on their advice]."
 
-**Within 2 weeks:** Show progress
-"Hey [Name], wanted to let you know I followed your advice about [thing]. [Result]. Thanks again!"
+**Within 2 weeks:** Show progress "Hey [Name], wanted to let you know I followed
+your advice about [thing]. [Result]. Thanks again!"
 
-**Every few months:** Stay visible
-Share an article they'd like, congratulate them on wins, update them on your progress.
+**Every few months:** Stay visible Share an article they'd like, congratulate
+them on wins, update them on your progress.
 
 This is how "networking" becomes "having professional friends."
 
@@ -221,14 +231,13 @@ It will. Here's your emergency kit:
 
 ### The Perspective Shift
 
-**Instead of:** "Why would they hire me?"
-**Think:** "How can I help them?"
+**Instead of:** "Why would they hire me?" **Think:** "How can I help them?"
 
-**Instead of:** "Everyone's more qualified"
-**Think:** "I bring a unique perspective"
+**Instead of:** "Everyone's more qualified" **Think:** "I bring a unique
+perspective"
 
-**Instead of:** "I don't deserve this role"
-**Think:** "I'll grow into this role"
+**Instead of:** "I don't deserve this role" **Think:** "I'll grow into this
+role"
 
 ## Your Job Search Tracker
 
@@ -252,8 +261,12 @@ Keep it simple. Track only what matters:
 
 ## Remember This
 
-The best job search strategy isn't about being the most qualified candidate. It's about being the most memorable candidate who showed genuine interest and made it easy to say yes.
+The best job search strategy isn't about being the most qualified candidate.
+It's about being the most memorable candidate who showed genuine interest and
+made it easy to say yes.
 
-Quality beats quantity. Relationships beat resumes. Authenticity beats perfection.
+Quality beats quantity. Relationships beat resumes. Authenticity beats
+perfection.
 
-And yes, you belong in those rooms you're afraid to enter. The only way to prove it to yourself is to walk through the door. 💪
+And yes, you belong in those rooms you're afraid to enter. The only way to prove
+it to yourself is to walk through the door. 💪

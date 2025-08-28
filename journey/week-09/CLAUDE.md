@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-Week 9 deep-dives into boundaries - the foundation of sustainable success. Many students struggle with boundaries due to culture, family expectations, or impostor syndrome.
+Week 9 deep-dives into boundaries - the foundation of sustainable success. Many
+students struggle with boundaries due to culture, family expectations, or
+impostor syndrome.
 
 ## Specific Tone for This Week
 
@@ -161,10 +163,9 @@ Boundary practice:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Understand your boundary style"
-**Wednesday (Lesson 3-4)**: "Set practical boundaries"
-**Friday (Lesson 5-6)**: "Professional boundaries"
-**Weekend (Lesson 7-8)**: "Maintain and evolve"
+**Monday (Lesson 1-2)**: "Understand your boundary style" **Wednesday (Lesson
+3-4)**: "Set practical boundaries" **Friday (Lesson 5-6)**: "Professional
+boundaries" **Weekend (Lesson 7-8)**: "Maintain and evolve"
 
 ## Success Metrics
 
@@ -237,7 +238,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-09/02-identifying-boundaries/` for all navigation links.
+Use full relative paths like `/journey/week-09/02-identifying-boundaries/` for
+all navigation links.
 
 Example navigation section:
 
@@ -246,7 +248,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Boundary Assessment](/journey/week-09/01-boundary-assessment/) | [Next: Saying No](/journey/week-09/03-saying-no/) →
+← [Previous: Boundary Assessment](/journey/week-09/01-boundary-assessment/) |
+[Next: Saying No](/journey/week-09/03-saying-no/) →
 
 [← Back to Week 9 Overview](/journey/week-09/)
 ```

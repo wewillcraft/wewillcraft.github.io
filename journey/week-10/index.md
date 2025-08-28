@@ -9,7 +9,9 @@ excerpt: Align your career trajectory with your deepest values and long-term lif
 
 **Purpose is not a destination - it's a direction.**
 
-Career satisfaction comes not from finding the "perfect" job, but from aligning your work with your values, using your strengths, and making progress toward meaningful goals.
+Career satisfaction comes not from finding the "perfect" job, but from aligning
+your work with your values, using your strengths, and making progress toward
+meaningful goals.
 
 ## This Week's Journey
 
@@ -23,7 +25,8 @@ Career satisfaction comes not from finding the "perfect" job, but from aligning 
    - Impact you want to make
    - Legacy you want to leave
 
-3. [**Strengths-Based Career Planning**](./03-strengths-career-planning) (75 min)
+3. [**Strengths-Based Career Planning**](./03-strengths-career-planning) (75
+   min)
    - Leveraging your natural talents
    - Complementing weaknesses with strengths
    - Career paths that energize you
@@ -161,7 +164,8 @@ By Sunday evening, you'll have created:
 **Traditional Path Evolution:**
 
 - Junior → Senior → Lead → Manager → Director
-- **Alternative:** Individual contributor → Staff → Principal → Distinguished Engineer
+- **Alternative:** Individual contributor → Staff → Principal → Distinguished
+  Engineer
 
 **Emerging Opportunities:**
 
@@ -213,7 +217,8 @@ By Sunday evening, you'll have created:
 
 **Navigation Questions for Decision Making:**
 
-1. **Values Alignment:** Does this opportunity align with what matters most to me?
+1. **Values Alignment:** Does this opportunity align with what matters most to
+   me?
 2. **Strengths Utilization:** Will I get to use and develop my natural talents?
 3. **Growth Potential:** Will this challenge me and help me grow?
 4. **Purpose Connection:** Does this contribute to something I find meaningful?
@@ -227,9 +232,11 @@ By Sunday evening, you'll have created:
 
 ## Life Lesson for Career Fulfillment
 
-> "The two most important days in your life are the day you are born and the day you find out why." - Mark Twain
+> "The two most important days in your life are the day you are born and the day
+> you find out why." - Mark Twain
 
-Your career will span 40+ years. The time you invest now in understanding your purpose will pay dividends for decades to come.
+Your career will span 40+ years. The time you invest now in understanding your
+purpose will pay dividends for decades to come.
 
 ## Time Investment This Week
 
@@ -245,7 +252,8 @@ Your career will span 40+ years. The time you invest now in understanding your p
 - "What Color Is Your Parachute?" by Richard N. Bolles
 - "The Purpose-Driven Life" by Rick Warren
 - "Strengths Finder 2.0" by Tom Rath
-- [O*NET Interest Profiler](https://www.mynextmove.org/explore/ip) for career exploration
+- [O*NET Interest Profiler](https://www.mynextmove.org/explore/ip) for career
+  exploration
 
 ## Quick Navigation
 
@@ -253,4 +261,5 @@ Your career will span 40+ years. The time you invest now in understanding your p
 
 ---
 
-_Remember: There's no single "right" career path. There are only paths that align with who you are and who you want to become. Trust your journey._
+_Remember: There's no single "right" career path. There are only paths that
+align with who you are and who you want to become. Trust your journey._

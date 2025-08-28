@@ -9,7 +9,9 @@ excerpt: Transform your relationship with failure and build personality-matched 
 
 **Failure is data, not destiny.**
 
-Your relationship with failure will determine your ceiling for success. This week, you'll learn to fail forward, build resilience that matches your personality, and turn setbacks into comebacks.
+Your relationship with failure will determine your ceiling for success. This
+week, you'll learn to fail forward, build resilience that matches your
+personality, and turn setbacks into comebacks.
 
 ## This Week's Journey
 
@@ -18,7 +20,8 @@ Your relationship with failure will determine your ceiling for success. This wee
    - Identifying your failure narrative
    - Reframing failure as learning
 
-2. [**Personality-Based Resilience Strategies**](./02-resilience-by-type) (90 min)
+2. [**Personality-Based Resilience Strategies**](./02-resilience-by-type) (90
+   min)
    - How different types process failure
    - Matching recovery methods to your style
    - Building on your natural strengths
@@ -136,7 +139,8 @@ By Sunday evening, you'll have created:
 - **Bad hires** and improved judgment
 - **Technical debt** and architectural lessons
 
-Your failures are your credentials. They prove you've taken risks and learned from them.
+Your failures are your credentials. They prove you've taken risks and learned
+from them.
 
 ## Building Psychological Safety
 
@@ -166,9 +170,11 @@ Your failures are your credentials. They prove you've taken risks and learned fr
 
 ## Life Lesson for Young Professionals
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "Success is not final, failure is not fatal: it is the courage to continue
+> that counts." - Winston Churchill
 
-Your twenties are the perfect time to fail fast, learn quickly, and build the resilience that will serve you for decades.
+Your twenties are the perfect time to fail fast, learn quickly, and build the
+resilience that will serve you for decades.
 
 ## Time Investment This Week
 
@@ -192,4 +198,5 @@ Your twenties are the perfect time to fail fast, learn quickly, and build the re
 
 ---
 
-_Remember: The goal isn't to avoid failure. It's to fail better. Every failure is a stepping stone to success if you know how to use it._
+_Remember: The goal isn't to avoid failure. It's to fail better. Every failure
+is a stepping stone to success if you know how to use it._

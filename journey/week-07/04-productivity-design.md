@@ -14,11 +14,17 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Most productivity systems fail because they're one-size-fits-all solutions for people who are anything but one-size-fits-all. In this lesson we're designing a system that works with your personality, energy patterns, and natural rhythms instead of fighting against them.
+Most productivity systems fail because they're one-size-fits-all solutions for
+people who are anything but one-size-fits-all. In this lesson we're designing a
+system that works with your personality, energy patterns, and natural rhythms
+instead of fighting against them.
 
 ## Why This Matters
 
-You've probably tried a bunch of productivity systems that worked for a week and then fell apart. That's not because you lack discipline - it's because those systems weren't designed for YOU. When you create a system that matches how your brain actually works, productivity becomes natural.
+You've probably tried a bunch of productivity systems that worked for a week and
+then fell apart. That's not because you lack discipline - it's because those
+systems weren't designed for YOU. When you create a system that matches how your
+brain actually works, productivity becomes natural.
 
 ## Your 15-20 Minute Mission
 
@@ -60,14 +66,19 @@ Pick productivity tools that match your style:
 
 ## Quick Win ✅
 
-Right now, block out your peak energy hours on your calendar for tomorrow. Protect that time for your most important work - treat it as non-negotiable.
+Right now, block out your peak energy hours on your calendar for tomorrow.
+Protect that time for your most important work - treat it as non-negotiable.
 
 ## Real Talk 💬
 
-Here's the truth: there's no perfect productivity system, only systems that fit you better than others. You might be a morning person trying to use an evening person's system, or a detail-oriented person trying to use a big-picture system.
+Here's the truth: there's no perfect productivity system, only systems that fit
+you better than others. You might be a morning person trying to use an evening
+person's system, or a detail-oriented person trying to use a big-picture system.
 
-Stop trying to force yourself into someone else's productivity box. Design your own.
+Stop trying to force yourself into someone else's productivity box. Design your
+own.
 
 ## Key Takeaway
 
-The best productivity system is the one that works with your nature, not against it.
+The best productivity system is the one that works with your nature, not against
+it.

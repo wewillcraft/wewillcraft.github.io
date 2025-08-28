@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-Week 3 focuses on communication basics - the hidden superpower in tech. This week addresses both technical and interpersonal communication with warmth and practical guidance.
+Week 3 focuses on communication basics - the hidden superpower in tech. This
+week addresses both technical and interpersonal communication with warmth and
+practical guidance.
 
 ## Specific Tone for This Week
 
@@ -161,10 +163,9 @@ Communication practice:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Know your style"
-**Wednesday (Lesson 3-4)**: "Build core skills"
-**Friday (Lesson 5-6)**: "Navigate challenges"
-**Weekend (Lesson 7-8)**: "Connect and practice"
+**Monday (Lesson 1-2)**: "Know your style" **Wednesday (Lesson 3-4)**: "Build
+core skills" **Friday (Lesson 5-6)**: "Navigate challenges" **Weekend (Lesson
+7-8)**: "Connect and practice"
 
 ## Success Metrics
 
@@ -236,7 +237,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-03/02-communication-basics/` for all navigation links.
+Use full relative paths like `/journey/week-03/02-communication-basics/` for all
+navigation links.
 
 Example navigation section:
 
@@ -245,7 +247,9 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Communication Assessment](/journey/week-09/01-communication-assessment/) | [Next: Active Listening](/journey/week-09/03-active-listening/) →
+←
+[Previous: Communication Assessment](/journey/week-09/01-communication-assessment/)
+| [Next: Active Listening](/journey/week-09/03-active-listening/) →
 
 [← Back to Week 9 Overview](/journey/week-09/)
 ```

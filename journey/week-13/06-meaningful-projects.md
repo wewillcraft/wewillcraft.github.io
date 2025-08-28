@@ -11,11 +11,17 @@ objectives:
 
 ## Code With a Cause
 
-Here's what they don't teach in tutorials: the most fulfilling code you'll ever write might not be for your job or your portfolio.
+Here's what they don't teach in tutorials: the most fulfilling code you'll ever
+write might not be for your job or your portfolio.
 
-It might be the website you build for your mom's small business. The app that helps your friend track their medication. The bot that makes your community's life easier.
+It might be the website you build for your mom's small business. The app that
+helps your friend track their medication. The bot that makes your community's
+life easier.
 
-When your code solves real problems for real people, everything changes. Suddenly, bugs matter because people are counting on you. Features matter because they improve actual lives. Your work matters because it makes a difference.
+When your code solves real problems for real people, everything changes.
+Suddenly, bugs matter because people are counting on you. Features matter
+because they improve actual lives. Your work matters because it makes a
+difference.
 
 ## Finding Problems Worth Solving
 
@@ -186,7 +192,8 @@ Meaningful projects require different thinking:
 
 ## The MVP of Impact
 
-Your first version doesn't need every feature. It needs to solve one problem well.
+Your first version doesn't need every feature. It needs to solve one problem
+well.
 
 ### Week 1: Research
 
@@ -282,39 +289,45 @@ Choose tools that maximize impact, not resume:
 
 ## Try This Now (30 minutes)
 
-1. **Identify Three Problems**
-   List three problems you've heard people complain about this week.
+1. **Identify Three Problems** List three problems you've heard people complain
+   about this week.
 
-2. **Pick the Smallest**
-   Which could you solve in a weekend?
+2. **Pick the Smallest** Which could you solve in a weekend?
 
 3. **Sketch the Solution**
    - One page/screen
    - One core feature
    - One happy path
 
-4. **Find Your First User**
-   Text someone right now: "I'm building something to help with [problem]. Can I show you next week?"
+4. **Find Your First User** Text someone right now: "I'm building something to
+   help with [problem]. Can I show you next week?"
 
-5. **Start Building**
-   Open your editor. Create the project. Write the first line.
+5. **Start Building** Open your editor. Create the project. Write the first
+   line.
 
 ## The Ripple Effect
 
-That recipe website for your mom? She shares it with friends. They share family recipes. A community forms. Traditions are preserved. Connections are made.
+That recipe website for your mom? She shares it with friends. They share family
+recipes. A community forms. Traditions are preserved. Connections are made.
 
-That symptom tracker? Someone identifies a pattern. They get proper treatment. They share it with their support group. Lives improve.
+That symptom tracker? Someone identifies a pattern. They get proper treatment.
+They share it with their support group. Lives improve.
 
-That study group finder? Students connect. Grades improve. Friendships form. Careers launch.
+That study group finder? Students connect. Grades improve. Friendships form.
+Careers launch.
 
 Your code creates ripples you'll never fully see.
 
 ## Remember This
 
-The best portfolio piece isn't the one with the cleanest code or the most impressive tech stack. It's the one where you can say, "This helped 50 people find mental health resources" or "This saved a nonprofit $10,000 a year."
+The best portfolio piece isn't the one with the cleanest code or the most
+impressive tech stack. It's the one where you can say, "This helped 50 people
+find mental health resources" or "This saved a nonprofit $10,000 a year."
 
 Impact beats impressiveness. Every time.
 
-You don't need venture capital to change lives. You don't need a million users to matter. You just need one person whose day gets a little easier because of something you built.
+You don't need venture capital to change lives. You don't need a million users
+to matter. You just need one person whose day gets a little easier because of
+something you built.
 
 **Your skills are a superpower. Use them for good.**

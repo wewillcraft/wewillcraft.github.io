@@ -9,11 +9,17 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Stack Overflow isn't just a Q&A site—it's your gateway to the global developer hive mind. Master the art of asking questions that get answered fast and providing answers that build your reputation as someone who actually knows their stuff.
+Stack Overflow isn't just a Q&A site—it's your gateway to the global developer
+hive mind. Master the art of asking questions that get answered fast and
+providing answers that build your reputation as someone who actually knows their
+stuff.
 
 ## Why This Matters
 
-Every developer hits walls. The difference between struggling alone for hours and getting unstuck in minutes? Knowing how to leverage Stack Overflow effectively. Plus, helping others builds your professional reputation and deepens your own understanding.
+Every developer hits walls. The difference between struggling alone for hours
+and getting unstuck in minutes? Knowing how to leverage Stack Overflow
+effectively. Plus, helping others builds your professional reputation and
+deepens your own understanding.
 
 ## Your 15-20 Minute Mission
 
@@ -43,7 +49,8 @@ app.listen(3000);
 
 Before posting, ensure your question has:
 
-- **Clear title**: "JavaScript async/await not catching Promise rejection" (not "JS not working")
+- **Clear title**: "JavaScript async/await not catching Promise rejection" (not
+  "JS not working")
 - **Problem context**: What you're trying to do and what's happening instead
 - **Research shown**: What you've tried and why it didn't work
 - **Specific tags**: Use 2-5 relevant tags that connect with expert communities
@@ -76,10 +83,19 @@ This 10-minute exercise will calibrate your understanding of quality content.
 
 ## Real Talk 💬
 
-Stack Overflow can feel intimidating - especially when you see your question get downvoted or closed. Here's the thing: even experienced developers had to learn how to ask good questions. The community standards exist because they work. Focus on providing value (either through great questions or helpful answers) rather than just getting quick fixes.
+Stack Overflow can feel intimidating - especially when you see your question get
+downvoted or closed. Here's the thing: even experienced developers had to learn
+how to ask good questions. The community standards exist because they work.
+Focus on providing value (either through great questions or helpful answers)
+rather than just getting quick fixes.
 
-Also, remember that contributing answers is often more valuable than asking questions. Teaching others solidifies your own knowledge and builds your professional reputation.
+Also, remember that contributing answers is often more valuable than asking
+questions. Teaching others solidifies your own knowledge and builds your
+professional reputation.
 
 ## Key Takeaway
 
-Stack Overflow mastery is about understanding that you're contributing to a knowledge base that will help thousands of future developers. Whether you're asking or answering, always think: "Will this be useful to someone facing this problem six months from now?"
+Stack Overflow mastery is about understanding that you're contributing to a
+knowledge base that will help thousands of future developers. Whether you're
+asking or answering, always think: "Will this be useful to someone facing this
+problem six months from now?"

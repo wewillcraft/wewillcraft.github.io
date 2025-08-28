@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-Week 11 focuses on career planning and job search strategies for students transitioning into tech. This is often their most anxious topic, so extra warmth and practicality are essential.
+Week 11 focuses on career planning and job search strategies for students
+transitioning into tech. This is often their most anxious topic, so extra warmth
+and practicality are essential.
 
 ## Specific Tone for This Week
 
@@ -145,10 +147,10 @@ Not:
 
 ## Weekly Encouragement Arc
 
-**Monday (Lesson 1-2)**: "You have more to offer than you think"
-**Wednesday (Lesson 3-4)**: "The right opportunity is out there"
-**Friday (Lesson 5-6)**: "You're worth investing in"
-**Weekend (Lesson 7-8)**: "Your career is a marathon, not a sprint"
+**Monday (Lesson 1-2)**: "You have more to offer than you think" **Wednesday
+(Lesson 3-4)**: "The right opportunity is out there" **Friday (Lesson 5-6)**:
+"You're worth investing in" **Weekend (Lesson 7-8)**: "Your career is a
+marathon, not a sprint"
 
 ## Success Metrics
 
@@ -192,7 +194,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-11/02-skills-inventory/` for all navigation links.
+Use full relative paths like `/journey/week-11/02-skills-inventory/` for all
+navigation links.
 
 Example navigation section:
 
@@ -201,7 +204,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Self Assessment](/journey/week-11/01-self-assessment/) | [Next: Portfolio Review](/journey/week-11/03-portfolio-review/) →
+← [Previous: Self Assessment](/journey/week-11/01-self-assessment/) |
+[Next: Portfolio Review](/journey/week-11/03-portfolio-review/) →
 
 [← Back to Week 11 Overview](/journey/week-11/)
 ```

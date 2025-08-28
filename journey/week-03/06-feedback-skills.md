@@ -11,9 +11,11 @@ objectives:
 
 ## The Feedback Paradox 🔄
 
-We all want to grow, but feedback feels like an attack. We want to help others improve, but we're terrified of hurting feelings.
+We all want to grow, but feedback feels like an attack. We want to help others
+improve, but we're terrified of hurting feelings.
 
-Result? Vague compliments, ignored problems, and everyone wondering why nothing changes.
+Result? Vague compliments, ignored problems, and everyone wondering why nothing
+changes.
 
 Let's fix your relationship with feedback.
 
@@ -52,17 +54,14 @@ This buys you time, gets clarity, and shows you're taking it seriously.
 
 ### The Feedback Sandwich is Dead
 
-Stop doing this:
-"You're great! But this sucks. Keep up the good work!"
+Stop doing this: "You're great! But this sucks. Keep up the good work!"
 
 Nobody's fooled. It dilutes everything.
 
 ### The SBI-I Framework
 
-**S**ituation: When and where
-**B**ehavior: What specifically happened
-**I**mpact: The effect it had
-**I**ntent: Check their intention
+**S**ituation: When and where **B**ehavior: What specifically happened
+**I**mpact: The effect it had **I**ntent: Check their intention
 
 ```
 "In the code review yesterday (S),
@@ -73,9 +72,9 @@ What were you hoping I'd understand? (I)"
 
 ### Positive Feedback That Matters
 
-Vague: "Good job!"
-Better: "Great work on the API!"
-Best: "Your error handling in the API saved us from a production issue. The way you anticipated edge cases was excellent."
+Vague: "Good job!" Better: "Great work on the API!" Best: "Your error handling
+in the API saved us from a production issue. The way you anticipated edge cases
+was excellent."
 
 Be specific. Make it stick.
 
@@ -84,17 +83,14 @@ Be specific. Make it stick.
 ### The Good Review
 
 ```markdown
-Line 42: Consider using `Promise.all` here for better performance.
-Here's an example: [code snippet]
-This would reduce execution time from O(n) to O(1).
+Line 42: Consider using `Promise.all` here for better performance. Here's an
+example: [code snippet] This would reduce execution time from O(n) to O(1).
 ```
 
 ### The Bad Review
 
 ```markdown
-This is inefficient.
-Wrong approach.
-Why would you do this?
+This is inefficient. Wrong approach. Why would you do this?
 ```
 
 See the difference? One teaches, one just criticizes.
@@ -133,19 +129,18 @@ See the difference? One teaches, one just criticizes.
 
 ### For Regular Feedback
 
-"Hey, got 5 minutes for some feedback on the presentation?"
-[Wait for consent]
+"Hey, got 5 minutes for some feedback on the presentation?" [Wait for consent]
 "I noticed X, which had Y impact. What do you think?"
 
 ### For Tough Feedback
 
-"I need to share some difficult feedback. When's a good time?"
-[Schedule it]
-"I care about your success, which is why I'm sharing this..."
+"I need to share some difficult feedback. When's a good time?" [Schedule it] "I
+care about your success, which is why I'm sharing this..."
 
 ### For Urgent Feedback
 
-"Quick feedback: that message to the client might be misinterpreted. Specifically, the part about deadlines. Want to revisit it together?"
+"Quick feedback: that message to the client might be misinterpreted.
+Specifically, the part about deadlines. Want to revisit it together?"
 
 ## Creating a Feedback Culture
 
@@ -173,49 +168,51 @@ End each week with:
 
 ## Common Feedback Fails
 
-**The Drive-By:** Dropping feedback and running
-**Fix:** Schedule time to discuss
+**The Drive-By:** Dropping feedback and running **Fix:** Schedule time to
+discuss
 
-**The Pile-On:** Everyone giving the same feedback
-**Fix:** Check what's already been said
+**The Pile-On:** Everyone giving the same feedback **Fix:** Check what's already
+been said
 
-**The Too Late:** Feedback on something from months ago
-**Fix:** Give feedback within 48 hours
+**The Too Late:** Feedback on something from months ago **Fix:** Give feedback
+within 48 hours
 
-**The Public Shame:** Negative feedback in front of others
-**Fix:** Praise public, correct private
+**The Public Shame:** Negative feedback in front of others **Fix:** Praise
+public, correct private
 
 ## Your Feedback Scripts
 
 ### Asking for Feedback
 
-"I'm working on improving my [skill]. Could you watch for [specific thing] and let me know how I'm doing?"
+"I'm working on improving my [skill]. Could you watch for [specific thing] and
+let me know how I'm doing?"
 
 ### Rejecting Bad Feedback
 
-"I've thought about your feedback, and I don't think it applies here because [reason]. But I appreciate you looking out for [intention]."
+"I've thought about your feedback, and I don't think it applies here because
+[reason]. But I appreciate you looking out for [intention]."
 
 ### Following Up on Feedback
 
-"Last week you mentioned [feedback]. I've been working on [change]. Have you noticed any improvement?"
+"Last week you mentioned [feedback]. I've been working on [change]. Have you
+noticed any improvement?"
 
 ## The Growth Mindset Shift
 
-**Fixed Mindset:** "They're attacking me"
-**Growth Mindset:** "They're helping me level up"
+**Fixed Mindset:** "They're attacking me" **Growth Mindset:** "They're helping
+me level up"
 
-**Fixed Mindset:** "I shouldn't need feedback"
-**Growth Mindset:** "Blind spots are normal"
+**Fixed Mindset:** "I shouldn't need feedback" **Growth Mindset:** "Blind spots
+are normal"
 
-**Fixed Mindset:** "Good developers don't make mistakes"
-**Growth Mindset:** "Good developers learn from mistakes"
+**Fixed Mindset:** "Good developers don't make mistakes" **Growth Mindset:**
+"Good developers learn from mistakes"
 
 ## Practice This Week
 
-**Monday:** Ask for one specific piece of feedback
-**Tuesday:** Give one positive feedback with specifics
-**Wednesday:** Practice receiving feedback without defending
-**Thursday:** Give one constructive feedback using SBI-I
+**Monday:** Ask for one specific piece of feedback **Tuesday:** Give one
+positive feedback with specifics **Wednesday:** Practice receiving feedback
+without defending **Thursday:** Give one constructive feedback using SBI-I
 **Friday:** Thank someone for past feedback that helped you
 
 ## The Feedback Bank
@@ -231,9 +228,11 @@ Review quarterly. Watch yourself grow.
 
 ## Remember This
 
-Feedback is data, not judgment. It's someone's perception, not absolute truth. You get to decide what to do with it.
+Feedback is data, not judgment. It's someone's perception, not absolute truth.
+You get to decide what to do with it.
 
-The best developers aren't the ones who never get negative feedback—they're the ones who seek it out, learn from it, and help others do the same.
+The best developers aren't the ones who never get negative feedback—they're the
+ones who seek it out, learn from it, and help others do the same.
 
 Make friends with feedback. It's the fastest way to grow.
 
@@ -243,6 +242,7 @@ Next lesson: Networking without the awkwardness.
 
 ---
 
-[← Previous Lesson](/journey/week-09/05-difficult-conversations/) | [Next Lesson →](/journey/week-09/07-networking/)
+[← Previous Lesson](/journey/week-09/05-difficult-conversations/) |
+[Next Lesson →](/journey/week-09/07-networking/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

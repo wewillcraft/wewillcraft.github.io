@@ -12,7 +12,9 @@ objectives:
 
 Holy shit. Seriously.
 
-14 weeks ago, you started this journey. You've shown up, done the work, faced the hard stuff. Before we talk about where you're going, let's acknowledge where you are.
+14 weeks ago, you started this journey. You've shown up, done the work, faced
+the hard stuff. Before we talk about where you're going, let's acknowledge where
+you are.
 
 **You're here. That's success.**
 
@@ -44,13 +46,12 @@ Which one actually matters to you?
 
 Traditional metrics are boring. Try these:
 
-**Instead of salary:** "Can I afford my life without panic?"
-**Instead of title:** "Am I learning and growing?"
-**Instead of company prestige:** "Do I like my coworkers?"
-**Instead of promotions:** "Am I solving interesting problems?"
+**Instead of salary:** "Can I afford my life without panic?" **Instead of
+title:** "Am I learning and growing?" **Instead of company prestige:** "Do I
+like my coworkers?" **Instead of promotions:** "Am I solving interesting
+problems?"
 
-**Your career success metric:**
-"I'm successful when ___________"
+**Your career success metric:** "I'm successful when ___________"
 
 ### Life Success (The Real Stuff)
 
@@ -67,8 +68,8 @@ If these are above 6, you're winning. Seriously.
 
 ### Learning Success (Progress Not Perfection)
 
-**Old metric:** "I must know everything"
-**New metric:** "I know more than yesterday"
+**Old metric:** "I must know everything" **New metric:** "I know more than
+yesterday"
 
 **This week, I learned:**
 
@@ -89,14 +90,11 @@ Look back 14 weeks. You probably:
 
 **Week 1 You vs. Week 14 You:**
 
-Week 1: ___________
-Week 14: ___________
+Week 1: ___________ Week 14: ___________
 
-Week 1: ___________
-Week 14: ___________
+Week 1: ___________ Week 14: ___________
 
-Week 1: ___________
-Week 14: ___________
+Week 1: ___________ Week 14: ___________
 
 See the gap? That's success accumulating.
 
@@ -106,21 +104,17 @@ See the gap? That's success accumulating.
 
 Define YOUR success metrics:
 
-**Daily Success:**
-"in this lesson was successful if I ___________"
-Example: "Learned one thing, helped one person, took one break"
+**Daily Success:** "in this lesson was successful if I ___________" Example:
+"Learned one thing, helped one person, took one break"
 
-**Weekly Success:**
-"This week was successful if I ___________"
-Example: "Made progress on my project, connected with friends, moved my body"
+**Weekly Success:** "This week was successful if I ___________" Example: "Made
+progress on my project, connected with friends, moved my body"
 
-**Monthly Success:**
-"This month was successful if I ___________"
-Example: "Grew in some way, maintained relationships, didn't burn out"
+**Monthly Success:** "This month was successful if I ___________" Example: "Grew
+in some way, maintained relationships, didn't burn out"
 
-**Yearly Success:**
-"This year was successful if I ___________"
-Example: "I'm healthier and happier than last year"
+**Yearly Success:** "This year was successful if I ___________" Example: "I'm
+healthier and happier than last year"
 
 ## The Anti-Metrics (What NOT to Measure)
 
@@ -181,8 +175,8 @@ You're not supposed to see daily progress. You're supposed to trust the process.
 
 ## Your Success Inventory
 
-**List 10 successes from the past 14 weeks:**
-(Yes, sleeping counts. So does showing up.)
+**List 10 successes from the past 14 weeks:** (Yes, sleeping counts. So does
+showing up.)
 
 1. ---
 2. ---
@@ -203,8 +197,7 @@ The more you chase external success metrics, the less successful you feel.
 
 The more you focus on personal growth metrics, the more successful you become.
 
-**External chase:** Never enough
-**Internal growth:** Always progressing
+**External chase:** Never enough **Internal growth:** Always progressing
 
 ## Weekly Success Ritual
 
@@ -220,33 +213,39 @@ Write it down. Watch it accumulate.
 
 ## The Success Reframe
 
-**Old:** "I'm not successful until I..."
-**New:** "I'm already successful because I..."
+**Old:** "I'm not successful until I..." **New:** "I'm already successful
+because I..."
 
-**Old:** "Success is a destination"
-**New:** "Success is showing up"
+**Old:** "Success is a destination" **New:** "Success is showing up"
 
-**Old:** "Success means beating others"
-**New:** "Success means beating yesterday's me"
+**Old:** "Success means beating others" **New:** "Success means beating
+yesterday's me"
 
 ## Your Success Manifesto
 
 Complete this:
 
-"Success to me means ___________. I don't need ___________ to be successful. I measure my success by ___________, not by ___________. I am already successful because ___________."
+"Success to me means ___________. I don't need ___________ to be successful. I
+measure my success by ___________, not by ___________. I am already successful
+because ___________."
 
 ## Remember This
 
-You've completed 14 weeks of growth. That's roughly 100 days of showing up, learning, trying, failing, and trying again.
+You've completed 14 weeks of growth. That's roughly 100 days of showing up,
+learning, trying, failing, and trying again.
 
-Most people don't finish online courses. Most people don't stick with development programs. Most people don't do the inner work.
+Most people don't finish online courses. Most people don't stick with
+development programs. Most people don't do the inner work.
 
 You did.
 
 That's not just success. That's extraordinary.
 
-Your metrics don't need to impress anyone else. They need to matter to you. And when you measure what matters to you, you realize you're already more successful than you thought.
+Your metrics don't need to impress anyone else. They need to matter to you. And
+when you measure what matters to you, you realize you're already more successful
+than you thought.
 
-Keep measuring what matters. Keep celebrating small wins. Keep defining success on your terms.
+Keep measuring what matters. Keep celebrating small wins. Keep defining success
+on your terms.
 
 You've got this. Hell, you've already got it. 🎯

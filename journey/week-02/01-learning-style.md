@@ -10,24 +10,33 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever wonder why some learning methods feel like swimming upstream while others just click? In this lesson we're solving that mystery by discovering your personal learning style.
+Ever wonder why some learning methods feel like swimming upstream while others
+just click? In this lesson we're solving that mystery by discovering your
+personal learning style.
 
 ## The Big Idea 💡
 
-**Your brain has a preferred learning language. Once you know it, everything gets easier.**
+**Your brain has a preferred learning language. Once you know it, everything
+gets easier.**
 
-Think about it: you wouldn't try to have a conversation in a language you don't speak, right? Yet most of us try to learn using methods that don't match how our brains naturally process information.
+Think about it: you wouldn't try to have a conversation in a language you don't
+speak, right? Yet most of us try to learn using methods that don't match how our
+brains naturally process information.
 
 ## Why This Matters
 
 Meet Sarah and Jake. Both learning React:
 
 - **Sarah** (visual learner) tries to learn from podcasts → struggles for weeks
-- **Jake** (auditory learner) tries to learn from tutorials → gives up frustrated
+- **Jake** (auditory learner) tries to learn from tutorials → gives up
+  frustrated
 
-Then they switched methods. Sarah used visual diagrams and code examples. Jake found a React podcast and joined study groups. Both mastered React in half the time.
+Then they switched methods. Sarah used visual diagrams and code examples. Jake
+found a React podcast and joined study groups. Both mastered React in half the
+time.
 
-**The lesson?** It's not about working harder. It's about working with your brain, not against it.
+**The lesson?** It's not about working harder. It's about working with your
+brain, not against it.
 
 ## Your 15-Minute Mission
 
@@ -107,24 +116,31 @@ Based on your style, pick ONE method to try this week:
 
 ## Quick Win ✅
 
-Right now, open your notes app and write:
-"My learning style is: _______
-This week I'll try: _______"
+Right now, open your notes app and write: "My learning style is: _______ This
+week I'll try: _______"
 
 That's it! You've just identified your learning superpower.
 
 ## Real Talk
 
-You might be thinking, "But what if I'm a mix of styles?" Great question! Most people are. The key is knowing your PRIMARY style so you can lean into it when learning gets tough.
+You might be thinking, "But what if I'm a mix of styles?" Great question! Most
+people are. The key is knowing your PRIMARY style so you can lean into it when
+learning gets tough.
 
-Also, your learning style might be different from what school taught you. That's totally normal. You're not broken. You just haven't been learning in your native language.
+Also, your learning style might be different from what school taught you. That's
+totally normal. You're not broken. You just haven't been learning in your native
+language.
 
 ## Key Takeaway
 
-Stop fighting your brain's natural preferences. When you align your learning methods with how your brain actually works, everything becomes easier and more enjoyable.
+Stop fighting your brain's natural preferences. When you align your learning
+methods with how your brain actually works, everything becomes easier and more
+enjoyable.
 
-Tomorrow, we'll build your "second brain" to capture and organize all this learning. But for now, just celebrate knowing yourself a little better.
+Tomorrow, we'll build your "second brain" to capture and organize all this
+learning. But for now, just celebrate knowing yourself a little better.
 
 ---
 
-**Your learning style is your superpower. Time to use it!** → [Tomorrow: Build Your Second Brain](./02-second-brain)
+**Your learning style is your superpower. Time to use it!** →
+[Tomorrow: Build Your Second Brain](./02-second-brain)

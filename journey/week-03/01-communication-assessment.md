@@ -11,11 +11,15 @@ objectives:
 
 ## Real Talk About Communication 💬
 
-Ever wonder why some conversations flow like butter while others feel like pulling teeth? Or why that "simple" Slack message somehow started World War 3 in your team chat?
+Ever wonder why some conversations flow like butter while others feel like
+pulling teeth? Or why that "simple" Slack message somehow started World War 3 in
+your team chat?
 
 Yeah, we're going there in this lesson.
 
-Here's what nobody tells you about communication: **You're probably doing it wrong half the time, and that's totally normal.** The good news? Once you know your style, you can fix it.
+Here's what nobody tells you about communication: **You're probably doing it
+wrong half the time, and that's totally normal.** The good news? Once you know
+your style, you can fix it.
 
 ## Your Communication DNA
 
@@ -53,31 +57,35 @@ Rate yourself (1-5) on these scales:
 
 ### High Direct + Low Emotion = The Commander
 
-You get stuff done. People know exactly where they stand with you. But sometimes folks think you're mean when you're just being efficient.
+You get stuff done. People know exactly where they stand with you. But sometimes
+folks think you're mean when you're just being efficient.
 
-**Your superpower:** Crystal clear communication
-**Your kryptonite:** Coming across as cold or harsh
+**Your superpower:** Crystal clear communication **Your kryptonite:** Coming
+across as cold or harsh
 
 ### High Direct + High Emotion = The Motivator
 
-You're the hype person everyone needs! You get people fired up and moving. But sometimes you can be... a lot.
+You're the hype person everyone needs! You get people fired up and moving. But
+sometimes you can be... a lot.
 
-**Your superpower:** Inspiring action
-**Your kryptonite:** Overwhelming quieter teammates
+**Your superpower:** Inspiring action **Your kryptonite:** Overwhelming quieter
+teammates
 
 ### Low Direct + High Emotion = The Peacemaker
 
-Everyone loves you because you make them feel heard. But sometimes you take forever to get to the point.
+Everyone loves you because you make them feel heard. But sometimes you take
+forever to get to the point.
 
-**Your superpower:** Building trust and safety
-**Your kryptonite:** Avoiding necessary conflict
+**Your superpower:** Building trust and safety **Your kryptonite:** Avoiding
+necessary conflict
 
 ### Low Direct + Low Emotion = The Analyst
 
-You think things through. Your decisions are solid. But people sometimes wonder if you're even engaged.
+You think things through. Your decisions are solid. But people sometimes wonder
+if you're even engaged.
 
-**Your superpower:** Thoughtful, risk-free decisions
-**Your kryptonite:** Analysis paralysis
+**Your superpower:** Thoughtful, risk-free decisions **Your kryptonite:**
+Analysis paralysis
 
 ## The Context Switch
 
@@ -108,12 +116,12 @@ Here's where it gets spicy. You need different styles for different situations:
 
 We all have them. Check which ones hit close to home:
 
-□ **The Assumption Monster** - "They should just know what I mean"
-□ **The Jargon Junkie** - Using tech speak with non-tech humans
-□ **The Emotion Dodger** - Pretending feelings don't exist at work
-□ **The Context Skipper** - Jumping to solutions without explaining why
-□ **The Digital Hider** - Avoiding face-to-face conversations
-□ **The One-Trick Pony** - Using the same style with everyone
+□ **The Assumption Monster** - "They should just know what I mean" □ **The
+Jargon Junkie** - Using tech speak with non-tech humans □ **The Emotion
+Dodger** - Pretending feelings don't exist at work □ **The Context Skipper** -
+Jumping to solutions without explaining why □ **The Digital Hider** - Avoiding
+face-to-face conversations □ **The One-Trick Pony** - Using the same style with
+everyone
 
 ## Quick Fixes That Actually Work
 
@@ -144,7 +152,8 @@ This week, ask three people this one question:
 
 > "What's one thing I could do to communicate better with you?"
 
-Don't defend. Don't explain. Just listen and say thanks. You'll be shocked at what you learn.
+Don't defend. Don't explain. Just listen and say thanks. You'll be shocked at
+what you learn.
 
 ## Communication Energy Check
 
@@ -155,7 +164,8 @@ When do you communicate best?
 - In meetings or in writing?
 - One-on-one or in groups?
 
-**Pro tip:** Schedule important conversations during your peak times. Save routine stuff for when you're running on fumes.
+**Pro tip:** Schedule important conversations during your peak times. Save
+routine stuff for when you're running on fumes.
 
 ## Your Action Plan
 
@@ -168,7 +178,8 @@ Pick ONE thing to practice this week:
 
 ## The Real Secret
 
-Here's what took me years to figure out: **Good communication isn't about being perfect. It's about being aware.**
+Here's what took me years to figure out: **Good communication isn't about being
+perfect. It's about being aware.**
 
 When you know your style, you can:
 
@@ -179,9 +190,13 @@ When you know your style, you can:
 
 ## Remember This
 
-Your communication style is like your coding style—it's personal, it evolved for good reasons, and it can always improve. The goal isn't to become someone else; it's to become a more flexible version of yourself.
+Your communication style is like your coding style—it's personal, it evolved for
+good reasons, and it can always improve. The goal isn't to become someone else;
+it's to become a more flexible version of yourself.
 
-Next lesson, we'll dive into adapting your style for different personality types. Spoiler: Your INTJ boss and your ENFP designer need VERY different approaches.
+Next lesson, we'll dive into adapting your style for different personality
+types. Spoiler: Your INTJ boss and your ENFP designer need VERY different
+approaches.
 
 ---
 

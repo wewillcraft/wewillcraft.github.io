@@ -12,9 +12,13 @@ objectives:
 
 "Where do you see yourself in 5 years?"
 
-Ugh. That question, right? Here's a secret: The person asking probably doesn't even know where THEY'LL be in 5 years.
+Ugh. That question, right? Here's a secret: The person asking probably doesn't
+even know where THEY'LL be in 5 years.
 
-Life happens. Industries change. New roles get invented. The job you'll have in 10 years might not even exist yet. So let's stop pretending we can predict the future and focus on something way more useful: **Where do you want to be next year?**
+Life happens. Industries change. New roles get invented. The job you'll have in
+10 years might not even exist yet. So let's stop pretending we can predict the
+future and focus on something way more useful: **Where do you want to be next
+year?**
 
 ## The 1-2 Year Sweet Spot
 
@@ -25,11 +29,13 @@ Here's why short-term vision actually works better:
 - You can pivot without feeling like a failure
 - It reduces that overwhelming "rest of my life" pressure
 
-Think of it like this: You're not planning your whole career. You're just picking your next adventure.
+Think of it like this: You're not planning your whole career. You're just
+picking your next adventure.
 
 ## What Matters to You RIGHT NOW?
 
-Not in 10 years. Not when you're 40. in this lesson. This year. What do you actually care about?
+Not in 10 years. Not when you're 40. in this lesson. This year. What do you
+actually care about?
 
 ### Quick Priority Check (Pick Your Top 3)
 
@@ -44,11 +50,13 @@ Not in 10 years. Not when you're 40. in this lesson. This year. What do you actu
 □ Having creative freedom\
 □ Job security for now
 
-**Your top 3:** These are your compass for the next year. Everything else? Nice to have, not essential.
+**Your top 3:** These are your compass for the next year. Everything else? Nice
+to have, not essential.
 
 ## The Paths Nobody Talks About
 
-Everyone assumes you want the traditional route: graduate → entry-level job → climb ladder → management → retire.
+Everyone assumes you want the traditional route: graduate → entry-level job →
+climb ladder → management → retire.
 
 But what about:
 
@@ -58,23 +66,28 @@ Build projects → Freelance → Pick your clients → Maybe never get a "real j
 
 ### The Learn-and-Leap Path
 
-Bootcamp/self-teach → Junior role → Learn everything → Jump to better role in 18 months
+Bootcamp/self-teach → Junior role → Learn everything → Jump to better role in 18
+months
 
 ### The Side-Project Path
 
-Day job that pays bills → Passion project on the side → Eventually it becomes the main thing
+Day job that pays bills → Passion project on the side → Eventually it becomes
+the main thing
 
 ### The Apprentice Path
 
-Find someone doing cool work → Offer to help for free/cheap → Learn by doing → Become indispensable
+Find someone doing cool work → Offer to help for free/cheap → Learn by doing →
+Become indispensable
 
 ### The Startup Chaos Path
 
-Join early-stage startup → Wear 10 hats → Learn 10x faster → Use that experience anywhere
+Join early-stage startup → Wear 10 hats → Learn 10x faster → Use that experience
+anywhere
 
 ### The Big Company Cushion Path
 
-Join established company → Learn their processes → Save money → Use that stability to plan next move
+Join established company → Learn their processes → Save money → Use that
+stability to plan next move
 
 **Which path feels most "you" right now?** (You can change your mind later!)
 
@@ -97,8 +110,7 @@ Learning _____________ (main skill you want to develop)
 -
 -
 
-**What success looks like in 18 months:**
-"I'll know I'm on track when..."
+**What success looks like in 18 months:** "I'll know I'm on track when..."
 
 ## The "Good Enough for Now" Test
 
@@ -121,19 +133,25 @@ Let's be super clear: Taking a non-traditional path doesn't mean you're:
 - Taking the easy way out
 - Missing out on success
 
-It means you're being honest about what works for YOU. And that's actually harder than following someone else's playbook.
+It means you're being honest about what works for YOU. And that's actually
+harder than following someone else's playbook.
 
 ## Try This Now (5 minutes)
 
 Write your "next chapter" statement:
 
-"In the next year, I want to _____________ so I can _____________ while _____________."
+"In the next year, I want to _____________ so I can _____________ while
+_____________."
 
 Examples:
 
-- "In the next year, I want to **freelance part-time** so I can **build my portfolio** while **keeping my current job for stability**."
-- "In the next year, I want to **join a small startup** so I can **learn everything about product development** while **working with people who inspire me**."
-- "In the next year, I want to **focus on open source** so I can **build my reputation** while **learning from amazing developers**."
+- "In the next year, I want to **freelance part-time** so I can **build my
+  portfolio** while **keeping my current job for stability**."
+- "In the next year, I want to **join a small startup** so I can **learn
+  everything about product development** while **working with people who inspire
+  me**."
+- "In the next year, I want to **focus on open source** so I can **build my
+  reputation** while **learning from amazing developers**."
 
 **Your turn:** _____________
 
@@ -151,19 +169,23 @@ You have permission to:
 
 ## The Direction Check
 
-You don't need the perfect plan. You just need to know: **Am I moving toward something or away from something?**
+You don't need the perfect plan. You just need to know: **Am I moving toward
+something or away from something?**
 
 Moving toward: Growth, learning, excitement, alignment with values
 
 Moving away: Boredom, burnout, misalignment, stuff that makes you feel icky
 
-As long as you're moving toward something (even if you're not 100% sure what it is), you're doing great.
+As long as you're moving toward something (even if you're not 100% sure what it
+is), you're doing great.
 
 ## Remember This
 
-Your first job won't be your last job. Your second job won't be your last job. Honestly, your fifth job probably won't be your last job either.
+Your first job won't be your last job. Your second job won't be your last job.
+Honestly, your fifth job probably won't be your last job either.
 
-Each role is just teaching you what you like, what you don't, and what you're good at. The only "wrong" choice is not choosing at all.
+Each role is just teaching you what you like, what you don't, and what you're
+good at. The only "wrong" choice is not choosing at all.
 
 You've got this. One year from now, you'll be amazed at how far you've come. 🎯
 

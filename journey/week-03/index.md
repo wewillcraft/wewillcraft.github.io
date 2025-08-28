@@ -9,7 +9,9 @@ excerpt: Master the art of authentic communication that builds relationships and
 
 **How you communicate is more important than what you communicate.**
 
-Your technical skills might get you hired, but your communication skills will determine how far you go. This week, you'll develop a communication style that's both authentic to your personality and effective in professional settings.
+Your technical skills might get you hired, but your communication skills will
+determine how far you go. This week, you'll develop a communication style that's
+both authentic to your personality and effective in professional settings.
 
 ## This Week's Journey
 
@@ -33,7 +35,8 @@ Your technical skills might get you hired, but your communication skills will de
    - Presentation techniques
    - One-on-one conversation skills
 
-5. [**Difficult Conversations Framework**](./05-difficult-conversations) (90 min)
+5. [**Difficult Conversations Framework**](./05-difficult-conversations) (90
+   min)
    - Preparing for challenging discussions
    - Managing emotions and conflict
    - Finding win-win solutions
@@ -79,14 +82,17 @@ By Sunday evening, you'll have created:
 **Thinking-Based Communication:**
 
 - **Strengths:** Logical arguments, objective analysis, direct feedback
-- **Challenges:** May seem harsh, overlooks emotional impact, impatience with feelings
+- **Challenges:** May seem harsh, overlooks emotional impact, impatience with
+  feelings
 - **Growth:** Consider emotional context, soften delivery, acknowledge feelings
 
 **Feeling-Based Communication:**
 
 - **Strengths:** Empathy, relationship focus, considers impact on people
-- **Challenges:** Avoiding difficult truths, taking things personally, indirect communication
-- **Growth:** Practice directness, separate person from problem, state needs clearly
+- **Challenges:** Avoiding difficult truths, taking things personally, indirect
+  communication
+- **Growth:** Practice directness, separate person from problem, state needs
+  clearly
 
 ## The Developer's Communication Challenge
 
@@ -167,9 +173,12 @@ Your professional voice should be:
 
 ## Life Lesson for Career Growth
 
-> "The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
+> "The single biggest problem in communication is the illusion that it has taken
+> place." - George Bernard Shaw
 
-In tech, many brilliant people fail to advance because they can't communicate their brilliance effectively. Your ideas are only as good as your ability to share them.
+In tech, many brilliant people fail to advance because they can't communicate
+their brilliance effectively. Your ideas are only as good as your ability to
+share them.
 
 ## Time Investment This Week
 
@@ -189,8 +198,10 @@ In tech, many brilliant people fail to advance because they can't communicate th
 
 ## Quick Navigation
 
-**Start Here →** [01: Communication Style Assessment](./01-communication-assessment)
+**Start Here →**
+[01: Communication Style Assessment](./01-communication-assessment)
 
 ---
 
-_Remember: Great communication isn't about being perfect—it's about being clear, authentic, and willing to improve. Every conversation is a chance to practice._
+_Remember: Great communication isn't about being perfect—it's about being clear,
+authentic, and willing to improve. Every conversation is a chance to practice._

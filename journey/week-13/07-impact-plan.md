@@ -11,9 +11,12 @@ objectives:
 
 ## Impact Is a System, Not a Sprint
 
-Here's what nobody tells you about giving back: Random acts of kindness are nice, but systematic contribution changes the world.
+Here's what nobody tells you about giving back: Random acts of kindness are
+nice, but systematic contribution changes the world.
 
-You don't need to quit your job and join a nonprofit. You don't need to code 40 hours of free work. You need a sustainable system that lets you contribute consistently without burning out.
+You don't need to quit your job and join a nonprofit. You don't need to code 40
+hours of free work. You need a sustainable system that lets you contribute
+consistently without burning out.
 
 Because small, consistent impact beats grand gestures that flame out.
 
@@ -80,8 +83,7 @@ Sustainable impact balances four areas:
 - Debugging code
 - Reviewing resumes
 
-**Time:** 1-2 hours/week
-**Impact:** Deep but narrow
+**Time:** 1-2 hours/week **Impact:** Deep but narrow
 
 ### 2. Community Building (Multiplied Impact)
 
@@ -92,8 +94,7 @@ Sustainable impact balances four areas:
 - Facilitating introductions
 - Building safe spaces
 
-**Time:** 2-4 hours/week
-**Impact:** Network effects
+**Time:** 2-4 hours/week **Impact:** Network effects
 
 ### 3. Content Creation (Scaled Impact)
 
@@ -104,8 +105,7 @@ Sustainable impact balances four areas:
 - Creating resources
 - Building tools
 
-**Time:** 3-5 hours/week
-**Impact:** Broad and lasting
+**Time:** 3-5 hours/week **Impact:** Broad and lasting
 
 ### 4. Systemic Change (Structural Impact)
 
@@ -116,8 +116,7 @@ Sustainable impact balances four areas:
 - Inclusive design
 - Accessibility improvements
 
-**Time:** Variable
-**Impact:** Foundational
+**Time:** Variable **Impact:** Foundational
 
 ## Your Personal Impact Formula
 
@@ -125,7 +124,8 @@ Not everyone should do everything. Find your mix:
 
 ### The Mentor Model (70% Direct, 30% Other)
 
-You love one-on-one connection. Your impact comes through deep relationships and personal guidance.
+You love one-on-one connection. Your impact comes through deep relationships and
+personal guidance.
 
 **Weekly Schedule:**
 
@@ -155,7 +155,8 @@ You love making things. Your impact comes through tools that solve problems.
 
 ### The Connector Model (70% Community, 30% Other)
 
-You love bringing people together. Your impact comes through fostering connections.
+You love bringing people together. Your impact comes through fostering
+connections.
 
 **Weekly Schedule:**
 
@@ -241,14 +242,10 @@ What gets measured gets done:
 ```markdown
 ## Week of [Date]
 
-**Time Invested:** ___ hours
-**People Helped:** ___
-**Content Created:** ___
+**Time Invested:** ___ hours **People Helped:** ___ **Content Created:** ___
 **Contributions Made:** ___
 
-**Win of the Week:**
-**Challenge Faced:**
-**Next Week's Focus:**
+**Win of the Week:** **Challenge Faced:** **Next Week's Focus:**
 ```
 
 ### Monthly Review
@@ -256,13 +253,11 @@ What gets measured gets done:
 ```markdown
 ## Month: [Month]
 
-**Total Hours:** ___
-**Total People Impacted:** ___
-**Most Meaningful Moment:** ___
+**Total Hours:** ___ **Total People Impacted:** ___ **Most Meaningful Moment:**
 
-**What's Working:**
-**What's Not:**
-**Next Month's Experiment:**
+---
+
+**What's Working:** **What's Not:** **Next Month's Experiment:**
 ```
 
 ### Annual Impact Report
@@ -277,9 +272,7 @@ What gets measured gets done:
 - Content views/uses: ___
 - Projects contributed to: ___
 
-**Key Achievements:**
-**Lessons Learned:**
-**Next Year's Vision:**
+**Key Achievements:** **Lessons Learned:** **Next Year's Vision:**
 ```
 
 ## Avoiding Impact Burnout
@@ -314,8 +307,7 @@ Giving back shouldn't burn you out:
    - 1% = 1.68 hours
    - When could you give this?
 
-2. **Pick One Action**
-   Choose one for this week:
+2. **Pick One Action** Choose one for this week:
    - Answer 3 beginner questions online
    - Write about something you learned
    - Help someone debug their code
@@ -327,11 +319,10 @@ Giving back shouldn't burn you out:
    - Label it "Impact Time"
    - Set a reminder
 
-4. **Make It Public**
-   Post somewhere: "I'm committing to [specific action] every [frequency]. Who wants to join me?"
+4. **Make It Public** Post somewhere: "I'm committing to [specific action] every
+   [frequency]. Who wants to join me?"
 
-5. **Track It**
-   Start a simple note:
+5. **Track It** Start a simple note:
    ```
    Impact Log
    ----------
@@ -343,23 +334,31 @@ Giving back shouldn't burn you out:
 
 ## The Legacy Lens
 
-Every day, you're building your legacy. Not through grand gestures, but through consistent small acts:
+Every day, you're building your legacy. Not through grand gestures, but through
+consistent small acts:
 
 - Every question answered adds to collective knowledge
 - Every person mentored extends your impact
 - Every contribution improves something forever
 - Every connection creates new possibilities
 
-In 10 years, you won't remember the Netflix shows you watched or the social media you scrolled. But you'll remember the person who messaged you saying your tutorial changed their career. The project you contributed to that's still helping people. The community you helped build that's still thriving.
+In 10 years, you won't remember the Netflix shows you watched or the social
+media you scrolled. But you'll remember the person who messaged you saying your
+tutorial changed their career. The project you contributed to that's still
+helping people. The community you helped build that's still thriving.
 
 ## Remember This
 
 Impact isn't about being a hero. It's about being helpful, consistently.
 
-You don't need to save the world. You just need to make your corner of it a little better. Help one person. Solve one problem. Share one insight. Build one useful thing.
+You don't need to save the world. You just need to make your corner of it a
+little better. Help one person. Solve one problem. Share one insight. Build one
+useful thing.
 
-Do that consistently, and you'll look back amazed at the compound impact of your "small" contributions.
+Do that consistently, and you'll look back amazed at the compound impact of your
+"small" contributions.
 
-Your future self will thank you. But more importantly, so will all the people whose lives you've touched along the way.
+Your future self will thank you. But more importantly, so will all the people
+whose lives you've touched along the way.
 
 **Start small. Stay consistent. Create lasting impact.**

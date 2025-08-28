@@ -14,7 +14,9 @@ objectives:
 **Time:** 30 minutes\
 **Vibe:** Putting it all together into your personal resilience masterpiece 🎨
 
-This is it! Time to create your personalized resilience system using everything you've learned this week. Think of this as your "resilience cheat sheet" - your go-to guide when life gets tough.
+This is it! Time to create your personalized resilience system using everything
+you've learned this week. Think of this as your "resilience cheat sheet" - your
+go-to guide when life gets tough.
 
 ## Your Resilience Profile Quick Reference
 
@@ -28,7 +30,8 @@ This is it! Time to create your personalized resilience system using everything 
 
 ---
 
-**How to leverage these:** When stress hits, lean on your strengths first. They're your resilience superpowers!
+**How to leverage these:** When stress hits, lean on your strengths first.
+They're your resilience superpowers!
 
 ### Your Growth Areas (from Day 1)
 
@@ -40,7 +43,8 @@ This is it! Time to create your personalized resilience system using everything 
 
 ---
 
-**Focus for the next 30 days:** Pick ONE growth area to work on. Small progress is still progress!
+**Focus for the next 30 days:** Pick ONE growth area to work on. Small progress
+is still progress!
 
 ### Your Primary Stress Response (from Day 1)
 
@@ -60,21 +64,18 @@ This is it! Time to create your personalized resilience system using everything 
 
 ### Your Stress Traffic Light
 
-**🟢 Green Zone feels like:** ___________
-**🟡 Yellow Zone warning signs:** ___________
-**🔴 Red Zone emergency signals:** ___________
+**🟢 Green Zone feels like:** ___________ **🟡 Yellow Zone warning signs:**
+___________ **🔴 Red Zone emergency signals:** ___________
 
 ### When You Notice Warning Signals:
 
-**Yellow Zone action:** ___________
-**Red Zone action:** ___________
+**Yellow Zone action:** ___________ **Red Zone action:** ___________
 
 ## Your Energy Management System
 
 ### Your Energy Profile (from Day 3)
 
-**Best energy time:** ___________
-**Worst energy slump:** ___________
+**Best energy time:** ___________ **Worst energy slump:** ___________
 
 ### Your Top 3 Energy Vampires:
 
@@ -94,17 +95,15 @@ This is it! Time to create your personalized resilience system using everything 
 
 ### Daily Energy Plan:
 
-**High energy time - do:** ___________
-**Low energy time - do:** ___________
+**High energy time - do:** ___________ **Low energy time - do:** ___________
 
 ## Your Recovery Toolkit
 
 ### Your Go-To Recovery Activities (from Day 4):
 
-**Micro-recovery (2-5 min):** ___________
-**Mini-recovery (15-30 min):** ___________
-**Major recovery (1+ hour):** ___________
-**Crisis recovery (half day+):** ___________
+**Micro-recovery (2-5 min):** ___________ **Mini-recovery (15-30 min):**
+___________ **Major recovery (1+ hour):** ___________ **Crisis recovery (half
+day+):** ___________
 
 ### Your Evening Recovery Routine:
 
@@ -118,8 +117,7 @@ This is it! Time to create your personalized resilience system using everything 
 
 ### Your Chosen Mindfulness Approach (from Day 5):
 
-**Daily practice:** ___________
-**When stressed, you'll use:** ___________
+**Daily practice:** ___________ **When stressed, you'll use:** ___________
 
 ### Your Self-Compassion Phrase:
 
@@ -141,9 +139,7 @@ This is it! Time to create your personalized resilience system using everything 
 
 ### Your Burnout Prevention Actions:
 
-**Daily:** ___________
-**Weekly:** ___________
-**Monthly check:** ___________
+**Daily:** ___________ **Weekly:** ___________ **Monthly check:** ___________
 
 ### Your Burnout Prevention Mantra:
 
@@ -175,9 +171,8 @@ This is it! Time to create your personalized resilience system using everything 
 
 ### Your Crisis Response Plan:
 
-**Immediate (0-48 hours):** ___________
-**First week:** ___________
-**First month:** ___________
+**Immediate (0-48 hours):** ___________ **First week:** ___________ **First
+month:** ___________
 
 ### Your Crisis Mantra:
 
@@ -185,31 +180,20 @@ This is it! Time to create your personalized resilience system using everything 
 
 ## Your Daily Resilience Routine
 
-**Morning (5 minutes):**
-□ Check energy level (green/yellow/red)
-□ Set resilience intention for the day
+**Morning (5 minutes):** □ Check energy level (green/yellow/red) □ Set
+resilience intention for the day □ Do: ___________
+
+**Midday (2 minutes):** □ Stress signal check-in □ Take micro-recovery if needed
 □ Do: ___________
 
-**Midday (2 minutes):**
-□ Stress signal check-in
-□ Take micro-recovery if needed
-□ Do: ___________
-
-**Evening (5 minutes):**
-□ Recovery ritual
-□ Note what drained/energized you
-□ Do: ___________
+**Evening (5 minutes):** □ Recovery ritual □ Note what drained/energized you □
+Do: ___________
 
 ## Your Weekly Resilience Habits
 
-**Weekly practices:**
-□ One major recovery activity
-□ Energy vampire audit
-□ Stress pattern review
-□ Connection with support person
-□ Practice mindfulness consistently
-□ One act of self-compassion
-□ Say no to at least one thing
+**Weekly practices:** □ One major recovery activity □ Energy vampire audit □
+Stress pattern review □ Connection with support person □ Practice mindfulness
+consistently □ One act of self-compassion □ Say no to at least one thing
 
 **Your weekly priority:** ___________
 
@@ -239,24 +223,19 @@ This is it! Time to create your personalized resilience system using everything 
 
 ## Your 30-Day Resilience Challenge
 
-**Week 1:** Focus on daily routine consistency
-**Week 2:** Practice your chosen mindfulness approach\
-**Week 3:** Address one energy vampire
-**Week 4:** Strengthen one support relationship
+**Week 1:** Focus on daily routine consistency **Week 2:** Practice your chosen
+mindfulness approach\
+**Week 3:** Address one energy vampire **Week 4:** Strengthen one support
+relationship
 
 **Your specific 30-day goal:** ___________
 
 ## Your Resilience Mantras
 
-**Choose 3 that resonate:**
-□ "I am stronger than I know"
-□ "This is temporary, I can handle this"
-□ "I don't have to do this alone"
-□ "Rest is not weakness, it's wisdom"
-□ "I've survived difficult things before"
-□ "One step at a time"
-□ "My worth isn't measured by my productivity"
-□ "It's okay to not be okay"
+**Choose 3 that resonate:** □ "I am stronger than I know" □ "This is temporary,
+I can handle this" □ "I don't have to do this alone" □ "Rest is not weakness,
+it's wisdom" □ "I've survived difficult things before" □ "One step at a time" □
+"My worth isn't measured by my productivity" □ "It's okay to not be okay"
 
 **Your top 3:**
 
@@ -272,11 +251,8 @@ This is it! Time to create your personalized resilience system using everything 
 
 ---
 
-**How will you check progress?**
-□ Weekly self-check
-□ Monthly friend check-in
-□ Quarterly plan review
-□ Other: ___________
+**How will you check progress?** □ Weekly self-check □ Monthly friend check-in □
+Quarterly plan review □ Other: ___________
 
 **Your accountability method:** ___________
 
@@ -296,10 +272,15 @@ This is it! Time to create your personalized resilience system using everything 
 
 ## Remember This
 
-This plan is alive - it should grow and change with you. Don't aim for perfection; aim for progress. Some days you'll nail it, some days you'll forget everything. That's human.
+This plan is alive - it should grow and change with you. Don't aim for
+perfection; aim for progress. Some days you'll nail it, some days you'll forget
+everything. That's human.
 
-The fact that you've created this plan means you're already taking resilience seriously. That's huge!
+The fact that you've created this plan means you're already taking resilience
+seriously. That's huge!
 
-Resilience isn't about being unbreakable - it's about knowing how to put yourself back together when life breaks you apart. You've got the tools now. Trust yourself to use them. 🌟
+Resilience isn't about being unbreakable - it's about knowing how to put
+yourself back together when life breaks you apart. You've got the tools now.
+Trust yourself to use them. 🌟
 
 **You've completed Week 10! Amazing work building your resilience foundation.**

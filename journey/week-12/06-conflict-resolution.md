@@ -14,21 +14,24 @@ objectives:
 **Time:** 25 minutes\
 **Purpose:** Turn disagreements into growth opportunities (without the drama!)
 
-Hey there! Let's talk about something most of us would rather avoid: conflict. Whether it's roommate drama, group project tension, or family disagreements, conflict is everywhere. But here's the secret: handled well, conflict can actually make relationships stronger and solutions better! Let's learn how. 🌟
+Hey there! Let's talk about something most of us would rather avoid: conflict.
+Whether it's roommate drama, group project tension, or family disagreements,
+conflict is everywhere. But here's the secret: handled well, conflict can
+actually make relationships stronger and solutions better! Let's learn how. 🌟
 
 ## First, Let's Change How You Think About Conflict
 
-**Old mindset:** Conflict = bad, avoid at all costs
-**New mindset:** Conflict = different perspectives trying to find the best solution
+**Old mindset:** Conflict = bad, avoid at all costs **New mindset:** Conflict =
+different perspectives trying to find the best solution
 
-Think about it: some of your best ideas probably came from friendly debates or brainstorming with people who saw things differently!
+Think about it: some of your best ideas probably came from friendly debates or
+brainstorming with people who saw things differently!
 
 ## Your Conflict Style Quiz
 
 **Which one sounds most like you?**
 
-**The Competitor** 🥊
-"I need to win this argument and prove my point!"
+**The Competitor** 🥊 "I need to win this argument and prove my point!"
 
 - Great when: Quick decisions needed, you're definitely right
 - Problems when: Damages relationships, shuts down other ideas
@@ -36,25 +39,24 @@ Think about it: some of your best ideas probably came from friendly debates or b
 **The People-Pleaser** 😊\
 "I'll just agree to keep everyone happy"
 
-- Great when: Issue isn't important to you, preserving relationships matters most
+- Great when: Issue isn't important to you, preserving relationships matters
+  most
 - Problems when: Your needs get ignored, resentment builds up
 
-**The Avoider** 🙈
-"If I ignore it, maybe it'll go away"
+**The Avoider** 🙈 "If I ignore it, maybe it'll go away"
 
 - Great when: You need time to cool off, issue is genuinely trivial
 - Problems when: Problems get worse, others feel ignored
 
-**The Compromiser** 🤝
-"Let's meet in the middle"
+**The Compromiser** 🤝 "Let's meet in the middle"
 
 - Great when: Time is short, both sides have valid points
 - Problems when: Nobody gets what they really need
 
-**The Problem-Solver** 🧩
-"Let's figure out what everyone really needs"
+**The Problem-Solver** 🧩 "Let's figure out what everyone really needs"
 
-- Great when: Relationships and outcomes both matter (which is most of the time!)
+- Great when: Relationships and outcomes both matter (which is most of the
+  time!)
 - Problems when: Takes more time and energy
 
 **My primary style:** ________________
@@ -65,12 +67,14 @@ Think about it: some of your best ideas probably came from friendly debates or b
 
 ### The Group Project Disaster
 
-**The situation:** One person isn't pulling their weight, deadline is approaching
+**The situation:** One person isn't pulling their weight, deadline is
+approaching
 
 **Avoider response:** Do their work yourself, complain to friends
-**People-pleaser response:** "It's fine, don't worry about it" (while internally screaming)
-**Competitor response:** "You're being unfair and letting us all down!"
-**Problem-solver response:** "I've noticed we're behind on X. What's going on? How can we make this work for everyone?"
+**People-pleaser response:** "It's fine, don't worry about it" (while internally
+screaming) **Competitor response:** "You're being unfair and letting us all
+down!" **Problem-solver response:** "I've noticed we're behind on X. What's
+going on? How can we make this work for everyone?"
 
 ### The Roommate Wars
 
@@ -78,15 +82,16 @@ Think about it: some of your best ideas probably came from friendly debates or b
 
 **Avoider response:** Leave passive-aggressive notes, avoid common areas
 **Compromiser response:** "I'll clean more if you clean a little"\
-**Problem-solver response:** "Our different styles are causing stress. Let's figure out a system that works for both of us."
+**Problem-solver response:** "Our different styles are causing stress. Let's
+figure out a system that works for both of us."
 
 ### The Friend Group Drama
 
 **The situation:** Two friends are fighting and putting you in the middle
 
-**People-pleaser response:** Agree with whoever you're talking to
-**Avoider response:** "I don't want to get involved"
-**Problem-solver response:** "I care about both of you. Can I help you work this out?"
+**People-pleaser response:** Agree with whoever you're talking to **Avoider
+response:** "I don't want to get involved" **Problem-solver response:** "I care
+about both of you. Can I help you work this out?"
 
 ## The PEACE Method (Your Conflict Resolution Toolkit)
 
@@ -188,23 +193,23 @@ Create solutions together:
 
 ### Mistake #1: Making it personal
 
-**What it sounds like:** "You're so disorganized!"
-**Better approach:** "The missed deadlines are stressing me out"
+**What it sounds like:** "You're so disorganized!" **Better approach:** "The
+missed deadlines are stressing me out"
 
 ### Mistake #2: Bringing up everything
 
-**What it sounds like:** "And another thing, last month you..."
-**Better approach:** Focus on one issue at a time
+**What it sounds like:** "And another thing, last month you..." **Better
+approach:** Focus on one issue at a time
 
 ### Mistake #3: Mind reading
 
-**What it sounds like:** "You don't care about this project"
-**Better approach:** "I'm not sure how you're feeling about the project"
+**What it sounds like:** "You don't care about this project" **Better
+approach:** "I'm not sure how you're feeling about the project"
 
 ### Mistake #4: All-or-nothing thinking
 
-**What it sounds like:** "You never..." or "You always..."
-**Better approach:** "This time..." or "In this situation..."
+**What it sounds like:** "You never..." or "You always..." **Better approach:**
+"This time..." or "In this situation..."
 
 **My biggest conflict mistake:** _______________
 
@@ -269,9 +274,13 @@ This isn't giving up - it's being smart! 🧠
 
 ## The Bottom Line
 
-Conflict isn't the enemy - avoiding it or handling it poorly is. When you learn to navigate disagreements with curiosity, empathy, and creativity, you become someone people trust to handle difficult situations.
+Conflict isn't the enemy - avoiding it or handling it poorly is. When you learn
+to navigate disagreements with curiosity, empathy, and creativity, you become
+someone people trust to handle difficult situations.
 
-This skill will serve you in every relationship, every job, and every leadership role you'll ever have. Plus, life is way less stressful when you know how to work through problems instead of letting them build up! 💪
+This skill will serve you in every relationship, every job, and every leadership
+role you'll ever have. Plus, life is way less stressful when you know how to
+work through problems instead of letting them build up! 💪
 
 **Your conflict resolution goal for this week:**
 
@@ -279,4 +288,5 @@ This skill will serve you in every relationship, every job, and every leadership
 
 ---
 
-[← Previous: Team Dynamics](/journey/week-11/05-team-dynamics/) | [Continue to Influence →](/journey/week-11/07-influence/)
+[← Previous: Team Dynamics](/journey/week-11/05-team-dynamics/) |
+[Continue to Influence →](/journey/week-11/07-influence/)

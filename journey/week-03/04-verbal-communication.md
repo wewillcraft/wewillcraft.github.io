@@ -11,7 +11,9 @@ objectives:
 
 ## Let's Talk About Talking 🎙️
 
-Remember that time you had the PERFECT response... three hours after the meeting ended? Or when you practiced a presentation 50 times but still forgot everything the moment you stood up?
+Remember that time you had the PERFECT response... three hours after the meeting
+ended? Or when you practiced a presentation 50 times but still forgot everything
+the moment you stood up?
 
 Welcome to being human. Let's make speaking less scary.
 
@@ -19,11 +21,11 @@ Welcome to being human. Let's make speaking less scary.
 
 Quick check - which sounds like you?
 
-**The Processor:** "I need a minute to think about that..."
-**The Processor:** Thinks, then speaks. Quality over quantity.
+**The Processor:** "I need a minute to think about that..." **The Processor:**
+Thinks, then speaks. Quality over quantity.
 
-**The Expresser:** "Let me think out loud here..."
-**The Expresser:** Speaks to think. Quantity leads to quality.
+**The Expresser:** "Let me think out loud here..." **The Expresser:** Speaks to
+think. Quantity leads to quality.
 
 Both are valid. Stop trying to be the other one.
 
@@ -50,7 +52,8 @@ No blockers, but I might need Sarah's help later."
 - **E**xample: "Last week's outage wouldn't have happened"
 - **P**oint: "So let's switch to TypeScript"
 
-**The 2-Minute Rule:** If you've been talking for 2 minutes straight, you've lost them. Pause. Check in. Let others speak.
+**The 2-Minute Rule:** If you've been talking for 2 minutes straight, you've
+lost them. Pause. Check in. Let others speak.
 
 ### For Video Calls
 
@@ -101,7 +104,8 @@ Don't present facts. Tell a story:
 - Keep water nearby
 - Find three friendly faces to rotate between
 
-**The Nuclear Option:** "I'm a bit nervous, bear with me" - instantly makes everyone root for you.
+**The Nuclear Option:** "I'm a bit nervous, bear with me" - instantly makes
+everyone root for you.
 
 ## One-on-Ones That Matter
 
@@ -142,15 +146,17 @@ End: "What are the next steps?"
 
 ### Example Script
 
-"Hey, I wanted to talk about the code review yesterday (Facts). I'm hoping we can find a better way to give feedback (Objective). I know you're passionate about code quality (Respect), and I am too (Mutual). Could we try written comments first, then discuss? (Action). Let's check in Friday to see if it's working (Time)."
+"Hey, I wanted to talk about the code review yesterday (Facts). I'm hoping we
+can find a better way to give feedback (Objective). I know you're passionate
+about code quality (Respect), and I am too (Mutual). Could we try written
+comments first, then discuss? (Action). Let's check in Friday to see if it's
+working (Time)."
 
 ## Your Speaking Workout
 
-**Monday:** Speak first in one meeting
-**Tuesday:** Ask one clarifying question
-**Wednesday:** Give one piece of positive feedback verbally
-**Thursday:** Practice PREP with one point
-**Friday:** Have one video call with camera on
+**Monday:** Speak first in one meeting **Tuesday:** Ask one clarifying question
+**Wednesday:** Give one piece of positive feedback verbally **Thursday:**
+Practice PREP with one point **Friday:** Have one video call with camera on
 
 Start small. Build confidence. Compound gains.
 
@@ -186,16 +192,20 @@ Your energy is amazing. Channel it strategically.
 
 ## Remember This
 
-Good verbal communication isn't about being smooth or never stumbling. It's about being clear, being genuine, and making sure your message lands.
+Good verbal communication isn't about being smooth or never stumbling. It's
+about being clear, being genuine, and making sure your message lands.
 
-Everyone's nervous. Everyone says "um." Everyone forgets their point sometimes. The difference is practice and self-compassion.
+Everyone's nervous. Everyone says "um." Everyone forgets their point sometimes.
+The difference is practice and self-compassion.
 
-Next lesson: Having difficult conversations without losing your mind (or your job).
+Next lesson: Having difficult conversations without losing your mind (or your
+job).
 
 ---
 
 ---
 
-[← Previous Lesson](/journey/week-09/03-written-communication/) | [Next Lesson →](/journey/week-09/05-difficult-conversations/)
+[← Previous Lesson](/journey/week-09/03-written-communication/) |
+[Next Lesson →](/journey/week-09/05-difficult-conversations/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

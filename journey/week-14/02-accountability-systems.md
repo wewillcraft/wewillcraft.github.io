@@ -19,7 +19,8 @@ Most accountability systems fail because they're based on shame:
 
 That's not accountability. That's self-abuse with witnesses.
 
-Real accountability is having systems and people that help you show up, especially when you don't feel like it.
+Real accountability is having systems and people that help you show up,
+especially when you don't feel like it.
 
 ## Self-Accountability First
 
@@ -140,8 +141,8 @@ When you find someone, agree on:
 - Permission to adjust
 - Celebration required
 
-**Simple agreement:**
-"Let's check in weekly about [goal]. No judgment, just support."
+**Simple agreement:** "Let's check in weekly about [goal]. No judgment, just
+support."
 
 ## Systems Over Willpower
 
@@ -302,18 +303,25 @@ If this happens:
 
 ## Remember This
 
-Accountability isn't about perfection. It's about showing up more often than not.
+Accountability isn't about perfection. It's about showing up more often than
+not.
 
-The best accountability system is the one you'll actually use. The best accountability partner is the one who gets your journey. The best accountability is the kind that makes you feel supported, not stressed.
+The best accountability system is the one you'll actually use. The best
+accountability partner is the one who gets your journey. The best accountability
+is the kind that makes you feel supported, not stressed.
 
-You've made it through 14 weeks. You've proven you can show up. Now you're just building systems to help you keep showing up.
+You've made it through 14 weeks. You've proven you can show up. Now you're just
+building systems to help you keep showing up.
 
-And when you don't show up? That's okay too. Accountability includes the permission to be human.
+And when you don't show up? That's okay too. Accountability includes the
+permission to be human.
 
-You don't need discipline of steel. You need systems that support you and people who care. That's it. That's enough. 🤝
+You don't need discipline of steel. You need systems that support you and people
+who care. That's it. That's enough. 🤝
 
 ---
 
-[← Previous: Success Metrics](/journey/week-14/01-success-metrics/) | [Next: Continuous Learning →](/journey/week-14/03-continuous-learning/)
+[← Previous: Success Metrics](/journey/week-14/01-success-metrics/) |
+[Next: Continuous Learning →](/journey/week-14/03-continuous-learning/)
 
 [← Back to Week 14 Overview](/journey/week-14/)

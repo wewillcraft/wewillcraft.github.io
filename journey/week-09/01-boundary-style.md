@@ -11,11 +11,18 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Boundaries aren't walls that keep people out—they're bridges that allow healthy connections while protecting what matters to you. Everyone has a boundary style developed through years of experience. Understanding yours is the first step to building a professional life that works for you, not against you.
+Boundaries aren't walls that keep people out—they're bridges that allow healthy
+connections while protecting what matters to you. Everyone has a boundary style
+developed through years of experience. Understanding yours is the first step to
+building a professional life that works for you, not against you.
 
 ## Why This Matters
 
-Poor boundaries lead to burnout, resentment, and constantly feeling overwhelmed. Strong boundaries enable you to do your best work, maintain good relationships, and actually enjoy your career. The most successful developers aren't those who say yes to everything—they're those who protect their ability to excel at what matters most.
+Poor boundaries lead to burnout, resentment, and constantly feeling overwhelmed.
+Strong boundaries enable you to do your best work, maintain good relationships,
+and actually enjoy your career. The most successful developers aren't those who
+say yes to everything—they're those who protect their ability to excel at what
+matters most.
 
 ## Your 15-20 Minute Mission
 
@@ -85,13 +92,12 @@ Poor boundaries lead to burnout, resentment, and constantly feeling overwhelmed.
 
 Signs your boundaries need work:
 
-🚩 **You regularly work late because you couldn't say no to requests**
-🚩 **You feel guilty when not immediately responding to messages**
-🚩 **You do work that's clearly someone else's responsibility**
-🚩 **You avoid difficult conversations and hope issues resolve themselves**
-🚩 **You feel taken advantage of but don't know how to change it**
-🚩 **You're exhausted from helping everyone but yourself**
-🚩 **You agree to unrealistic timelines to avoid confrontation**
+🚩 **You regularly work late because you couldn't say no to requests** 🚩 **You
+feel guilty when not immediately responding to messages** 🚩 **You do work
+that's clearly someone else's responsibility** 🚩 **You avoid difficult
+conversations and hope issues resolve themselves** 🚩 **You feel taken advantage
+of but don't know how to change it** 🚩 **You're exhausted from helping everyone
+but yourself** 🚩 **You agree to unrealistic timelines to avoid confrontation**
 
 ### Your Boundary Strengths and Growth Areas (5 min)
 
@@ -104,10 +110,14 @@ Signs your boundaries need work:
 
 **Common Growth Patterns:**
 
-- **People Pleasers**: Need to learn that disappointing someone temporarily is better than burning out permanently
-- **Rigid Controllers**: Can benefit from strategic flexibility in low-stakes situations
-- **Chameleons**: Need to identify and communicate their authentic needs and limits
-- **Fortress Builders**: Can gradually experiment with more openness and collaboration
+- **People Pleasers**: Need to learn that disappointing someone temporarily is
+  better than burning out permanently
+- **Rigid Controllers**: Can benefit from strategic flexibility in low-stakes
+  situations
+- **Chameleons**: Need to identify and communicate their authentic needs and
+  limits
+- **Fortress Builders**: Can gradually experiment with more openness and
+  collaboration
 
 ## Quick Win ✅
 
@@ -118,16 +128,25 @@ Identify one specific boundary you want to strengthen this week:
 3. Plan one small experiment to practice this boundary
 4. Notice what happens when you try it
 
-Example: "I'll check Slack only at 9am, 1pm, and 4pm instead of constantly throughout the day."
+Example: "I'll check Slack only at 9am, 1pm, and 4pm instead of constantly
+throughout the day."
 
 ## Real Talk 💬
 
-Boundary work can feel uncomfortable at first, especially if you've been a people pleaser your whole life. You might worry that people will think you're selfish or difficult. Here's the truth: people respect clear, consistent boundaries more than you think. They appreciate knowing what to expect from you.
+Boundary work can feel uncomfortable at first, especially if you've been a
+people pleaser your whole life. You might worry that people will think you're
+selfish or difficult. Here's the truth: people respect clear, consistent
+boundaries more than you think. They appreciate knowing what to expect from you.
 
-Also, boundaries aren't about being mean or rigid. They're about being clear and kind. "I can't take on that project right now, but here's what I can do" is much better than "Yes" followed by resentment and poor quality work.
+Also, boundaries aren't about being mean or rigid. They're about being clear and
+kind. "I can't take on that project right now, but here's what I can do" is much
+better than "Yes" followed by resentment and poor quality work.
 
 Remember: boundaries are a skill. They get easier with practice.
 
 ## Key Takeaway
 
-Your boundary style shapes every aspect of your professional life. Understanding your patterns—strengths and challenges—gives you the power to make intentional changes. Strong boundaries don't limit your success; they create the foundation for sustainable excellence.
+Your boundary style shapes every aspect of your professional life. Understanding
+your patterns—strengths and challenges—gives you the power to make intentional
+changes. Strong boundaries don't limit your success; they create the foundation
+for sustainable excellence.

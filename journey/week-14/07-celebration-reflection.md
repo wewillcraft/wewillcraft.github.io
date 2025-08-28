@@ -11,17 +11,22 @@ objectives:
 
 # Look How Far You've Come
 
-_Can we just pause for a moment? You did it. You showed up for 14 weeks. You learned, you grew, you pushed through challenges, and you became someone new._
+_Can we just pause for a moment? You did it. You showed up for 14 weeks. You
+learned, you grew, you pushed through challenges, and you became someone new._
 
-_Do you remember Week 1 You? The person who was nervous, maybe overwhelmed, possibly doubting whether they could do this?_
+_Do you remember Week 1 You? The person who was nervous, maybe overwhelmed,
+possibly doubting whether they could do this?_
 
 _Look at you now._
 
 ## You Deserve to Celebrate This
 
-Seriously. This moment matters. You didn't just consume content or check boxes. You committed to growth, and that commitment changed you.
+Seriously. This moment matters. You didn't just consume content or check boxes.
+You committed to growth, and that commitment changed you.
 
-Too often we rush to the next thing without taking time to appreciate what we've accomplished. But this pause? This reflection? This is where the magic crystallizes.
+Too often we rush to the next thing without taking time to appreciate what we've
+accomplished. But this pause? This reflection? This is where the magic
+crystallizes.
 
 You've earned this celebration.
 
@@ -49,8 +54,8 @@ You've earned this celebration.
 - Financial awareness: ___/10
 - Optimism about the future: ___/10
 
-**Total improvement:** ___/70 points
-(Any improvement is amazing - you did that!)
+**Total improvement:** ___/70 points (Any improvement is amazing - you did
+that!)
 
 ### Your Growth Highlights
 
@@ -93,8 +98,7 @@ You've earned this celebration.
 2. Goal: _____ | How it went: _____ | Completion: ____%
 3. Goal: _____ | How it went: _____ | Completion: ____%
 
-**Surprise accomplishments:**
-Things you achieved that you didn't plan:
+**Surprise accomplishments:** Things you achieved that you didn't plan:
 
 ---
 
@@ -131,8 +135,7 @@ Things you achieved that you didn't plan:
 
 ### Big Realizations
 
-**About yourself:**
-The most important things you discovered about who you are:
+**About yourself:** The most important things you discovered about who you are:
 
 ---
 
@@ -140,8 +143,7 @@ The most important things you discovered about who you are:
 
 ---
 
-**About growing:**
-What you now understand about personal development:
+**About growing:** What you now understand about personal development:
 
 ---
 
@@ -149,8 +151,7 @@ What you now understand about personal development:
 
 ---
 
-**About success:**
-How your definition of success has evolved:
+**About success:** How your definition of success has evolved:
 
 ---
 
@@ -158,8 +159,7 @@ How your definition of success has evolved:
 
 ---
 
-**About relationships:**
-What you've learned about connecting with people:
+**About relationships:** What you've learned about connecting with people:
 
 ---
 
@@ -167,8 +167,7 @@ What you've learned about connecting with people:
 
 ---
 
-**About change:**
-What you now know about making things stick:
+**About change:** What you now know about making things stick:
 
 ---
 
@@ -178,22 +177,20 @@ What you now know about making things stick:
 
 ### Your Personal Rules
 
-**What works for you:**
-Things that consistently help you succeed:
+**What works for you:** Things that consistently help you succeed:
 
 1. When I: _____ | It helps me: _____
 2. When I: _____ | It helps me: _____
 3. When I: _____ | It helps me: _____
 
-**What doesn't work for you:**
-Things you should probably avoid:
+**What doesn't work for you:** Things you should probably avoid:
 
 1. When I: _____ | It usually leads to: _____
 2. When I: _____ | It usually leads to: _____
 3. When I: _____ | It usually leads to: _____
 
-**Your success formula:**
-"I do my best work when I _____ in an environment that _____ while focusing on _____ and supported by _____."
+**Your success formula:** "I do my best work when I _____ in an environment that
+_____ while focusing on _____ and supported by _____."
 
 ### How Your Perspective Changed
 
@@ -222,8 +219,7 @@ Things you should probably avoid:
 - Used to think: _____
 - Now think: _____
 
-**Your new philosophy:**
-"I believe that _____. So I will _____."
+**Your new philosophy:** "I believe that _____. So I will _____."
 
 ### Letter to Week 1 You
 
@@ -317,18 +313,20 @@ Things you should probably avoid:
 
 **Note to someone who helped you:**
 
-"Dear [Name],
-I wanted you to know that during my 14-week growth journey, your [what they did] made a huge difference. When you [specific example], it helped me [how it helped]. I learned [what you learned] because of your support. Thank you for [what you're grateful for].
+"Dear [Name], I wanted you to know that during my 14-week growth journey, your
+[what they did] made a huge difference. When you [specific example], it helped
+me [how it helped]. I learned [what you learned] because of your support. Thank
+you for [what you're grateful for].
 
-With appreciation,
-[Your name]"
+With appreciation, [Your name]"
 
-**Note to your future self:**
-"Dear Future Me,
-You just finished something amazing. I hope you remember [key insight]. When things get tough, remember that you [strength you showed]. The most important thing to keep with you is [key principle]. I'm proud of how you [achievement] and excited to see what you'll [future hope].
+**Note to your future self:** "Dear Future Me, You just finished something
+amazing. I hope you remember [key insight]. When things get tough, remember that
+you [strength you showed]. The most important thing to keep with you is [key
+principle]. I'm proud of how you [achievement] and excited to see what you'll
+[future hope].
 
-With love,
-Current You"
+With love, Current You"
 
 ## Time to Celebrate! (10 minutes)
 
@@ -391,8 +389,10 @@ Current You"
 - Where you'll keep it: _____
 - What it will remind you of: _____
 
-**Your transformation story:**
-"Fourteen weeks ago, I was _____, struggling with _____, and feeling _____. Through this journey, I discovered _____, developed _____, and changed _____. Now I am _____, capable of _____, and committed to _____. The most important thing I learned is _____."
+**Your transformation story:** "Fourteen weeks ago, I was _____, struggling with
+_____, and feeling _____. Through this journey, I discovered _____, developed
+_____, and changed _____. Now I am _____, capable of _____, and committed to
+_____. The most important thing I learned is _____."
 
 ## Sharing Your Story (5 minutes)
 
@@ -430,8 +430,9 @@ Current You"
 - Model of consistent development: _____
 - Evidence that change really happens: _____
 
-**What you'd tell someone thinking about starting their own journey:**
-"If you're thinking about personal development, my advice is to _____. Don't wait for _____, because _____. Start with _____ and remember that _____."
+**What you'd tell someone thinking about starting their own journey:** "If
+you're thinking about personal development, my advice is to _____. Don't wait
+for _____, because _____. Start with _____ and remember that _____."
 
 ### Paying It Forward
 
@@ -442,8 +443,8 @@ Current You"
 - Offering support: _____
 - Building community: _____
 
-**Your growth legacy:**
-"I want people to know that through this journey, I _____ and helped others _____."
+**Your growth legacy:** "I want people to know that through this journey, I
+_____ and helped others _____."
 
 ## Your Celebration Moment
 
@@ -492,13 +493,19 @@ Current You"
 
 This isn't the end - it's fuel for what comes next.
 
-When you take time to celebrate your growth, you're not just being nice to yourself. You're reinforcing all the neural pathways that made change possible. You're creating positive associations with growth that will serve you for life.
+When you take time to celebrate your growth, you're not just being nice to
+yourself. You're reinforcing all the neural pathways that made change possible.
+You're creating positive associations with growth that will serve you for life.
 
-Your story isn't just about you. It's proof to others that growth is possible. That change is real. That ordinary people can do extraordinary things when they commit to becoming better.
+Your story isn't just about you. It's proof to others that growth is possible.
+That change is real. That ordinary people can do extraordinary things when they
+commit to becoming better.
 
-Look at you. You started this journey 14 weeks ago not knowing what you'd discover about yourself. Now look at who you've become.
+Look at you. You started this journey 14 weeks ago not knowing what you'd
+discover about yourself. Now look at who you've become.
 
-You should be proud. You should celebrate. You've earned every bit of recognition and every moment of appreciation.
+You should be proud. You should celebrate. You've earned every bit of
+recognition and every moment of appreciation.
 
 And this is just the beginning.
 

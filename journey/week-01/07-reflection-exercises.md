@@ -11,11 +11,15 @@ objectives:
 
 ## Hey friend! 👋
 
-We've spent the week discovering different parts of yourself. In this lesson we're connecting all those pieces into one clear picture of who you are and how you work best.
+We've spent the week discovering different parts of yourself. In this lesson
+we're connecting all those pieces into one clear picture of who you are and how
+you work best.
 
 ## The Big Idea 💡
 
-You're not a collection of random traits - you're a beautifully designed system with consistent patterns. When you see these patterns clearly, you can leverage them intentionally.
+You're not a collection of random traits - you're a beautifully designed system
+with consistent patterns. When you see these patterns clearly, you can leverage
+them intentionally.
 
 ## Why This Matters
 
@@ -44,7 +48,8 @@ Look for what shows up consistently across different assessments.
 
 ## Quick Win ✅
 
-**Right now:** Look at all your results and ask: "If someone met me for the first time, what would they notice about me?" That's your core pattern showing!
+**Right now:** Look at all your results and ask: "If someone met me for the
+first time, what would they notice about me?" That's your core pattern showing!
 
 ## Common Patterns To Look For
 
@@ -75,7 +80,10 @@ Look for what shows up consistently across different assessments.
 
 ## Real Talk
 
-When I first did this exercise, I felt like a fraud. "Surely I can't be this predictable," I thought. But seeing my patterns clearly wasn't limiting - it was liberating! I finally understood why certain things always felt easy for me while others felt like swimming upstream.
+When I first did this exercise, I felt like a fraud. "Surely I can't be this
+predictable," I thought. But seeing my patterns clearly wasn't limiting - it was
+liberating! I finally understood why certain things always felt easy for me
+while others felt like swimming upstream.
 
 Your patterns aren't a prison - they're your superpowers revealed.
 
@@ -83,29 +91,29 @@ Your patterns aren't a prison - they're your superpowers revealed.
 
 Based on your patterns, complete these sentences:
 
-**"I do my best work when..."**
-(Think about environment, timing, collaboration style)
+**"I do my best work when..."** (Think about environment, timing, collaboration
+style)
 
-**"I struggle when..."**
-(What consistently drains or frustrates you?)
+**"I struggle when..."** (What consistently drains or frustrates you?)
 
-**"Others should know that I..."**
-(What do you want people to understand about working with you?)
+**"Others should know that I..."** (What do you want people to understand about
+working with you?)
 
-**"I bring unique value through..."**
-(What's your special contribution to any team or project?)
+**"I bring unique value through..."** (What's your special contribution to any
+team or project?)
 
 ## Key Takeaway
 
-You're not random. You're not broken. You're not "too much" or "not enough." You're a unique combination of strengths, motivations, and preferences that the world needs exactly as you are. 🎯
+You're not random. You're not broken. You're not "too much" or "not enough."
+You're a unique combination of strengths, motivations, and preferences that the
+world needs exactly as you are. 🎯
 
 - MBTI:
 - Enneagram:
 - Strengths:
 - DISC:
 
-Theme 3: [Third pattern if applicable]
-Evidence:
+Theme 3: [Third pattern if applicable] Evidence:
 
 - MBTI:
 - Enneagram:
@@ -139,36 +147,28 @@ Based on Gay Hendricks' model, map your abilities:
 Things you're bad at that others do better.
 ```
 
-In coding:
-In work:
-In life:
+In coding: In work: In life:
 
 ```
 **Zone of Competence**
 Things you can do but others do just as well.
 ```
 
-In coding:
-In work:
-In life:
+In coding: In work: In life:
 
 ```
 **Zone of Excellence**
 Things you're very good at but don't love.
 ```
 
-In coding:
-In work:
-In life:
+In coding: In work: In life:
 
 ```
 **Zone of Genius**
 Things you're uniquely great at AND love doing.
 ```
 
-In coding:
-In work:
-In life:
+In coding: In work: In life:
 
 ```
 ### Your Genius Statement

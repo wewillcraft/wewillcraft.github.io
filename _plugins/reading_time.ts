@@ -125,7 +125,9 @@ function formatReadingTime(minutes: number): string {
       return hours === 1 ? "1 hour" : `${hours} hours`;
     } else {
       const hourText = hours === 1 ? "1 hour" : `${hours} hours`;
-      const minuteText = remainingMinutes === 1 ? "1 minute" : `${remainingMinutes} minutes`;
+      const minuteText = remainingMinutes === 1
+        ? "1 minute"
+        : `${remainingMinutes} minutes`;
       return `${hourText} ${minuteText}`;
     }
   }

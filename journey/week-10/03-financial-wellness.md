@@ -32,8 +32,7 @@ No judgment. Just facts. Where are you really?
 - Side gigs: $___
 - Parents help: $___ (no shame!)
 - Financial aid refund: $___
-- Random hustles: $___
-  **Total in:** $___
+- Random hustles: $___ **Total in:** $___
 
 **Monthly money out:**
 
@@ -42,8 +41,7 @@ No judgment. Just facts. Where are you really?
 - Transportation: $___
 - Phone: $___
 - Subscriptions (that you forgot about): $___
-- Fun (yes, this matters): $___
-  **Total out:** $___
+- Fun (yes, this matters): $___ **Total out:** $___
 
 **The gap:** $___
 
@@ -107,8 +105,8 @@ You can afford:
 ### Student Loans: The Elephant
 
 **Federal loans:** Generally okay debt (low interest, flexible repayment)
-**Private loans:** Higher priority to pay off
-**Parent PLUS loans:** Talk to your parents now
+**Private loans:** Higher priority to pay off **Parent PLUS loans:** Talk to
+your parents now
 
 **The strategy:**
 
@@ -130,7 +128,8 @@ You can afford:
 
 ### The "Good Debt" Myth
 
-All debt costs money. Some is just more expensive than others. Your goal: minimize the expensive stuff.
+All debt costs money. Some is just more expensive than others. Your goal:
+minimize the expensive stuff.
 
 ## Your First Real Paycheck Plan
 
@@ -154,9 +153,8 @@ That first tech job paycheck hits different. Here's how not to blow it:
 
 ### The Lifestyle Creep Prevention Plan
 
-**Month 1-3:** Live on 50% of new income
-**Month 4-6:** Live on 70% of new income
-**Month 7+:** Find your sustainable level
+**Month 1-3:** Live on 50% of new income **Month 4-6:** Live on 70% of new
+income **Month 7+:** Find your sustainable level
 
 **The saved money goes to:**
 
@@ -169,11 +167,8 @@ That first tech job paycheck hits different. Here's how not to blow it:
 
 **The No-Shame Money Move**
 
-Pick ONE:
-□ Check your bank balance (even if scary)
-□ Cancel one subscription you don't use
-□ Find one bill you can reduce
-□ Sign up for one student discount
+Pick ONE: □ Check your bank balance (even if scary) □ Cancel one subscription
+you don't use □ Find one bill you can reduce □ Sign up for one student discount
 □ Move $10 to savings (or even $1)
 
 Do it now. Seriously. Small moves compound.
@@ -209,19 +204,23 @@ Do it now. Seriously. Small moves compound.
 
 ### Asking for more money (part-time job)
 
-"I've been here for [time] and have taken on [responsibilities]. Based on my performance and market rates, could we discuss adjusting my hourly rate?"
+"I've been here for [time] and have taken on [responsibilities]. Based on my
+performance and market rates, could we discuss adjusting my hourly rate?"
 
 ### Negotiating bills
 
-"I'm a student on a tight budget. Are there any discounts or payment plans available?"
+"I'm a student on a tight budget. Are there any discounts or payment plans
+available?"
 
 ### Talking to parents about money
 
-"Can we talk about expectations around money? I want to understand what support is available and what I need to cover myself."
+"Can we talk about expectations around money? I want to understand what support
+is available and what I need to cover myself."
 
 ### Setting money boundaries with friends
 
-"That sounds fun but it's not in my budget this month. Could we do [free alternative] instead?"
+"That sounds fun but it's not in my budget this month. Could we do [free
+alternative] instead?"
 
 ## The Financial Wellness Minimums
 
@@ -251,34 +250,36 @@ Whatever your situation, protect these:
 
 ## The Money Mindset Shift
 
-**Old:** "I'm bad with money"
-**New:** "I'm learning about money"
+**Old:** "I'm bad with money" **New:** "I'm learning about money"
 
-**Old:** "I'm broke"
-**New:** "I'm pre-rich"
+**Old:** "I'm broke" **New:** "I'm pre-rich"
 
-**Old:** "I can't afford anything"
-**New:** "I'm choosing different priorities"
+**Old:** "I can't afford anything" **New:** "I'm choosing different priorities"
 
-**Old:** "Money is stressful"
-**New:** "Money is a tool I'm learning to use"
+**Old:** "Money is stressful" **New:** "Money is a tool I'm learning to use"
 
 ## Remember This
 
-Being broke in college doesn't mean you're bad with money. It means you're investing in your future instead of your present.
+Being broke in college doesn't mean you're bad with money. It means you're
+investing in your future instead of your present.
 
-Every billionaire has a story about being broke. Every successful person ate ramen at some point. Every adult had that first credit card mistake.
+Every billionaire has a story about being broke. Every successful person ate
+ramen at some point. Every adult had that first credit card mistake.
 
 You're not behind. You're not failing. You're exactly where most people start.
 
-The difference? You're actually thinking about this stuff now, not in 10 years when it's harder to fix.
+The difference? You're actually thinking about this stuff now, not in 10 years
+when it's harder to fix.
 
-Start where you are. Use what you have. Do what you can. Even $1 saved is better than $0. Even knowing your debt total is better than avoiding it.
+Start where you are. Use what you have. Do what you can. Even $1 saved is better
+than $0. Even knowing your debt total is better than avoiding it.
 
-Your relationship with money will evolve. Start with kindness toward yourself. 💸
+Your relationship with money will evolve. Start with kindness toward yourself.
+💸
 
 ---
 
-[← Previous: Relationship Management](/journey/week-13/02-relationship-management/) | [Next: Health Optimization →](/journey/week-13/04-health-optimization/)
+[← Previous: Relationship Management](/journey/week-13/02-relationship-management/)
+| [Next: Health Optimization →](/journey/week-13/04-health-optimization/)
 
 [← Back to Week 13 Overview](/journey/week-13/)

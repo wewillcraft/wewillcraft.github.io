@@ -10,15 +10,20 @@ objectives:
 
 ## Hey friend! 👋
 
-In this lesson we're starting a week-long experiment to understand your unique energy patterns. Think of yourself as a scientist studying the most interesting subject: YOU!
+In this lesson we're starting a week-long experiment to understand your unique
+energy patterns. Think of yourself as a scientist studying the most interesting
+subject: YOU!
 
 ## The Big Idea 💡
 
-**Energy is more valuable than time.** You can have all the time in the world, but if you don't have energy, you can't do anything meaningful with it. When you understand your energy patterns, you can work WITH them instead of against them.
+**Energy is more valuable than time.** You can have all the time in the world,
+but if you don't have energy, you can't do anything meaningful with it. When you
+understand your energy patterns, you can work WITH them instead of against them.
 
 ## Why This Matters
 
-Most people try to force themselves to work at random times and then wonder why everything feels so hard. When you understand your energy rhythms:
+Most people try to force themselves to work at random times and then wonder why
+everything feels so hard. When you understand your energy rhythms:
 
 - You schedule hard tasks during peak energy
 - You protect your recharge time
@@ -31,14 +36,15 @@ Most people try to force themselves to work at random times and then wonder why 
 
 Right now, rate your energy in each area (1-10):
 
-**Physical:** How does your body feel? (tired, energized, etc.)
-**Mental:** How sharp is your thinking? (foggy, focused, etc.)
-**Emotional:** How do you feel inside? (stressed, happy, etc.)
-**Motivational:** How driven do you feel? (inspired, flat, etc.)
+**Physical:** How does your body feel? (tired, energized, etc.) **Mental:** How
+sharp is your thinking? (foggy, focused, etc.) **Emotional:** How do you feel
+inside? (stressed, happy, etc.) **Motivational:** How driven do you feel?
+(inspired, flat, etc.)
 
 ### Step 2: Set Up Simple Tracking (10 minutes)
 
-For the next week, check in with yourself 3 times a day (maybe 9am, 2pm, 8pm) and note:
+For the next week, check in with yourself 3 times a day (maybe 9am, 2pm, 8pm)
+and note:
 
 - Your energy levels (1-10 in each type)
 - What you were doing
@@ -48,7 +54,8 @@ Use whatever works - phone notes, a simple notepad, or any app you like.
 
 ## Quick Win ✅
 
-**Right now:** Set 3 daily reminders on your phone for energy check-ins. This simple act will give you incredible insights by week's end!
+**Right now:** Set 3 daily reminders on your phone for energy check-ins. This
+simple act will give you incredible insights by week's end!
 
 ## The Four Types of Energy
 
@@ -74,13 +81,19 @@ Use whatever works - phone notes, a simple notepad, or any app you like.
 
 ## Real Talk
 
-You don't need perfect energy in all areas to do good work. Sometimes you'll have high mental energy but low physical energy - that's perfect for planning or learning. Other times you'll have high physical energy but low mental energy - great for organizing or simple tasks.
+You don't need perfect energy in all areas to do good work. Sometimes you'll
+have high mental energy but low physical energy - that's perfect for planning or
+learning. Other times you'll have high physical energy but low mental energy -
+great for organizing or simple tasks.
 
-The goal isn't to optimize everything perfectly. It's to understand your patterns so you can work with them.
+The goal isn't to optimize everything perfectly. It's to understand your
+patterns so you can work with them.
 
 ## Key Takeaway
 
-You're not a machine that runs at constant speed. You're a dynamic system with natural rhythms. This week, you're going to discover those rhythms and learn to honor them. 🎯
+You're not a machine that runs at constant speed. You're a dynamic system with
+natural rhythms. This week, you're going to discover those rhythms and learn to
+honor them. 🎯
 
 - **Developer impact:** Affects motivation and resilience
 - **Quick wins:** Celebrate small wins, connect with team
@@ -193,8 +206,7 @@ Use tools like:
 
 ### Hourly Check-ins (30 seconds)
 
-Quick rating 1-10 for each energy type
-Just numbers, no analysis yet
+Quick rating 1-10 for each energy type Just numbers, no analysis yet
 
 ### Activity Transitions (1 minute)
 
@@ -314,9 +326,11 @@ For the next 7 days, I commit to:
 
 ## Remember
 
-You're not broken. You're not lazy. You just haven't understood your energy patterns yet.
+You're not broken. You're not lazy. You just haven't understood your energy
+patterns yet.
 
-This week, we stop forcing ourselves into arbitrary schedules and start designing around our natural rhythms.
+This week, we stop forcing ourselves into arbitrary schedules and start
+designing around our natural rhythms.
 
 Data first. Optimization later.
 

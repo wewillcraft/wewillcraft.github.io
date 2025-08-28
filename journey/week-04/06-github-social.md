@@ -7,13 +7,16 @@ week: 6
 
 ## Hey friend! 👋
 
-Your GitHub profile is getting checked by recruiters right now. Let's make sure it tells the story you want—and opens doors instead of closing them.
+Your GitHub profile is getting checked by recruiters right now. Let's make sure
+it tells the story you want—and opens doors instead of closing them.
 
 ## The Big Idea 💡
 
-**GitHub is LinkedIn for developers. Every commit, star, and contribution shapes how others see your skills.**
+**GitHub is LinkedIn for developers. Every commit, star, and contribution shapes
+how others see your skills.**
 
-Most developers treat GitHub as code storage. You're going to use it as a career accelerator.
+Most developers treat GitHub as code storage. You're going to use it as a career
+accelerator.
 
 ## Why This Matters
 
@@ -23,7 +26,8 @@ When someone wants to hire you, they check:
 2. Your GitHub (what you actually do)
 3. How you communicate in code
 
-Your GitHub either confirms you're legit or raises red flags. Let's make it work for you.
+Your GitHub either confirms you're legit or raises red flags. Let's make it work
+for you.
 
 ## Your 15-Minute Mission
 
@@ -76,14 +80,16 @@ Done. Your profile is already more professional.
 
 ## Real Talk 💬
 
-You don't need revolutionary projects. You need clean, practical code that shows you can:
+You don't need revolutionary projects. You need clean, practical code that shows
+you can:
 
 - Solve real problems
 - Write clear documentation
 - Work with others' codebases
 - Maintain quality over time
 
-Small, consistent contributions beat sporadic heroic efforts. A tiny doc fix shows you care about the community. That matters more than you think.
+Small, consistent contributions beat sporadic heroic efforts. A tiny doc fix
+shows you care about the community. That matters more than you think.
 
 ## Your GitHub Makeover Checklist
 
@@ -112,7 +118,8 @@ Copy this and work through it:
 
 ## Key Takeaway
 
-Your GitHub tells a story about you as a developer. Make sure it's the story you want employers, collaborators, and mentors to read.
+Your GitHub tells a story about you as a developer. Make sure it's the story you
+want employers, collaborators, and mentors to read.
 
 ---
 

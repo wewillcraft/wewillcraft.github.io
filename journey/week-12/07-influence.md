@@ -12,16 +12,22 @@ objectives:
 # Influence 🌟💫
 
 **Time:** 25 minutes\
-**Purpose:** Learn to get people excited about your ideas (without being manipulative!)
+**Purpose:** Learn to get people excited about your ideas (without being
+manipulative!)
 
-Hey there! Ever wonder why some people just seem to have that "it" factor? Why their ideas get adopted, their projects get supported, and people genuinely want to help them succeed? It's not magic - it's influence. And the best part? It's totally learnable! Let's dive in. 🚀
+Hey there! Ever wonder why some people just seem to have that "it" factor? Why
+their ideas get adopted, their projects get supported, and people genuinely want
+to help them succeed? It's not magic - it's influence. And the best part? It's
+totally learnable! Let's dive in. 🚀
 
 ## Authority vs. Influence: What's the Difference?
 
-**Authority:** "Do this because I'm the boss/president/teacher"
-**Influence:** "Do this because it makes sense and you want to"
+**Authority:** "Do this because I'm the boss/president/teacher" **Influence:**
+"Do this because it makes sense and you want to"
 
-As a student, you probably don't have much formal authority. But you can build tons of influence! And honestly, influence is way more powerful because people choose to follow you. 💪
+As a student, you probably don't have much formal authority. But you can build
+tons of influence! And honestly, influence is way more powerful because people
+choose to follow you. 💪
 
 ## Your Influence Check-Up
 
@@ -62,11 +68,13 @@ Don't worry if it's not high yet - we're about to change that!
 - Introduce someone to a useful connection
 - Offer to cover someone's shift before asking them to cover yours
 
-**The magic:** Don't keep score! Help because it's right, not because you expect immediate payback. The reciprocity will come naturally.
+**The magic:** Don't keep score! Help because it's right, not because you expect
+immediate payback. The reciprocity will come naturally.
 
 ### 2. The Commitment Creator (Consistency) ✅
 
-**The idea:** People want to follow through on things they've committed to, especially publicly.
+**The idea:** People want to follow through on things they've committed to,
+especially publicly.
 
 **How to use it:**
 
@@ -76,7 +84,8 @@ Don't worry if it's not high yet - we're about to change that!
 - Get people to write down their commitments
 - Celebrate when people follow through
 
-**Example:** Instead of "You should study more," try "What study schedule would work for you?" When they create the plan, they're more likely to stick to it!
+**Example:** Instead of "You should study more," try "What study schedule would
+work for you?" When they create the plan, they're more likely to stick to it!
 
 ### 3. The Social Proof Power (Following the Crowd) 👥
 
@@ -90,7 +99,8 @@ Don't worry if it's not high yet - we're about to change that!
 - Share success stories of people they can relate to
 - Create visible examples of positive behavior
 
-**Example:** "I noticed the students who got the best jobs last year all had side projects" is way more persuasive than "You should start a side project."
+**Example:** "I noticed the students who got the best jobs last year all had
+side projects" is way more persuasive than "You should start a side project."
 
 ### 4. The Likability Factor (People Say Yes to Friends) 😊
 
@@ -105,7 +115,8 @@ Don't worry if it's not high yet - we're about to change that!
 - Show vulnerability - admit when you don't know something
 - Be genuinely curious about their perspectives
 
-**Remember:** You're not trying to be fake-nice. You're building genuine connections!
+**Remember:** You're not trying to be fake-nice. You're building genuine
+connections!
 
 ### 5. The Expertise Edge (Authority) 🧠
 
@@ -120,7 +131,8 @@ Don't worry if it's not high yet - we're about to change that!
 - Help others learn and grow
 - Stay current with trends in your field
 
-**Example:** Instead of "Trust me on this," try "I learned about this when I was interning at..." or "I read a fascinating study that showed..."
+**Example:** Instead of "Trust me on this," try "I learned about this when I was
+interning at..." or "I read a fascinating study that showed..."
 
 ### 6. The Scarcity Secret (Limited Opportunities) ⏰
 
@@ -133,37 +145,48 @@ Don't worry if it's not high yet - we're about to change that!
 - "This networking event happens once a year"
 - "This is a unique opportunity to..."
 
-**Warning:** Only use this when it's genuinely true! False scarcity is manipulative and will hurt your reputation.
+**Warning:** Only use this when it's genuinely true! False scarcity is
+manipulative and will hurt your reputation.
 
 ## Real College Influence Scenarios
 
 ### Getting Your Group Project Idea Adopted
 
-**Old approach:** "My idea is best because I worked really hard on it"
-**New approach:** "I found examples of three other schools that tried this approach [social proof] and got amazing results. Sarah, since you mentioned wanting to make a real impact [commitment/consistency], this could be perfect. What do you think?"
+**Old approach:** "My idea is best because I worked really hard on it" **New
+approach:** "I found examples of three other schools that tried this approach
+[social proof] and got amazing results. Sarah, since you mentioned wanting to
+make a real impact [commitment/consistency], this could be perfect. What do you
+think?"
 
 ### Convincing Friends to Study Together
 
-**Old approach:** "We should all study together"
-**New approach:** "I've been helping Jake with calculus [reciprocity], and we discovered that explaining concepts to each other really helps both people learn [expertise]. Want to join us? Most of the people who aced this exam last semester studied in groups [social proof]."
+**Old approach:** "We should all study together" **New approach:** "I've been
+helping Jake with calculus [reciprocity], and we discovered that explaining
+concepts to each other really helps both people learn [expertise]. Want to join
+us? Most of the people who aced this exam last semester studied in groups
+[social proof]."
 
 ### Getting Support for Your Club Event
 
-**Old approach:** "Please come to our event"
-**New approach:** "I remember you mentioning you're interested in sustainability [likability/common ground]. We're having an event next week that only happens once a semester [scarcity]. The speakers are experts from companies that hire students like us [authority/social proof]. Would you like me to save you a spot?"
+**Old approach:** "Please come to our event" **New approach:** "I remember you
+mentioning you're interested in sustainability [likability/common ground]. We're
+having an event next week that only happens once a semester [scarcity]. The
+speakers are experts from companies that hire students like us [authority/social
+proof]. Would you like me to save you a spot?"
 
 ## Your Influence Action Plan
 
 ### This Week's Challenges:
 
-**Monday: The Helper**
-Help someone with something they're struggling with. Don't mention anything you need from them.
+**Monday: The Helper** Help someone with something they're struggling with.
+Don't mention anything you need from them.
 
-**Wednesday: The Connector**
-Introduce two people who should know each other. Watch the magic happen!
+**Wednesday: The Connector** Introduce two people who should know each other.
+Watch the magic happen!
 
 **Friday: The Commitment Creator**\
-Instead of telling someone what to do, ask them what they're willing to commit to.
+Instead of telling someone what to do, ask them what they're willing to commit
+to.
 
 ### Building Long-Term Influence:
 
@@ -185,7 +208,8 @@ Instead of telling someone what to do, ask them what they're willing to commit t
 
 ### 1. The Fake Friend
 
-Pretending to care about someone just to get something from them. People can sense this from a mile away!
+Pretending to care about someone just to get something from them. People can
+sense this from a mile away!
 
 ### 2. The Know-It-All
 
@@ -197,11 +221,13 @@ Being aggressive or manipulative. This creates resistance, not influence.
 
 ### 4. The Score Keeper
 
-Keeping track of who owes you what. True influence comes from genuine generosity.
+Keeping track of who owes you what. True influence comes from genuine
+generosity.
 
 ### 5. The One-Trick Pony
 
-Only using one influence technique. Different situations call for different approaches.
+Only using one influence technique. Different situations call for different
+approaches.
 
 **My biggest influence mistake:** _______________
 
@@ -254,8 +280,13 @@ Only using one influence technique. Different situations call for different appr
 
 ## The Bottom Line
 
-Influence isn't about manipulation or getting people to do things they don't want to do. It's about building genuine relationships, creating value for others, and communicating in ways that resonate with people.
+Influence isn't about manipulation or getting people to do things they don't
+want to do. It's about building genuine relationships, creating value for
+others, and communicating in ways that resonate with people.
 
-When you master ethical influence, you become someone people want to work with, learn from, and support. These skills will serve you in every relationship, every job interview, every group project, and every leadership role you'll ever have.
+When you master ethical influence, you become someone people want to work with,
+learn from, and support. These skills will serve you in every relationship,
+every job interview, every group project, and every leadership role you'll ever
+have.
 
 Start small, be genuine, and watch your influence grow! 🌟

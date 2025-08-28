@@ -10,11 +10,15 @@ objectives:
 
 ## Hey friend! 👋
 
-You've done incredible work this week discovering your values, your sweet spot, and your vision. In this lesson we're pulling it all together into something powerful: your personal manifesto.
+You've done incredible work this week discovering your values, your sweet spot,
+and your vision. In this lesson we're pulling it all together into something
+powerful: your personal manifesto.
 
 ## The Big Idea 💡
 
-**A manifesto is your personal constitution.** It's a short document that says "This is who I am, what I stand for, and how I'll live." When life gets complicated, your manifesto keeps you centered.
+**A manifesto is your personal constitution.** It's a short document that says
+"This is who I am, what I stand for, and how I'll live." When life gets
+complicated, your manifesto keeps you centered.
 
 ## Why This Matters
 
@@ -31,74 +35,70 @@ A manifesto helps you:
 
 Keep it short - one page max. Use this framework:
 
-**I am...**
-[Who you are at your core - not your job title, but your essence]
+**I am...** [Who you are at your core - not your job title, but your essence]
 
-**I believe...**
-[2-3 fundamental truths that guide you]
+**I believe...** [2-3 fundamental truths that guide you]
 
-**I value...**
-[Your top 3-5 values from earlier this week]
+**I value...** [Your top 3-5 values from earlier this week]
 
-**I will...**
-[3-4 commitments you're making to yourself]
+**I will...** [3-4 commitments you're making to yourself]
 
-**I won't...**
-[2-3 things you refuse to compromise on]
+**I won't...** [2-3 things you refuse to compromise on]
 
 ## Quick Win ✅
 
-**Right now:** Complete this sentence: "No matter what happens, I will never..." That's one of your non-negotiables!
+**Right now:** Complete this sentence: "No matter what happens, I will never..."
+That's one of your non-negotiables!
 
 ## Real Talk
 
-Your manifesto doesn't need to be perfect or permanent. Think of it as a living document that evolves as you do. The power is in having something written down that you can refer to.
+Your manifesto doesn't need to be perfect or permanent. Think of it as a living
+document that evolves as you do. The power is in having something written down
+that you can refer to.
 
-Don't make it too long or complicated. The best manifestos are simple, clear, and easy to remember.
+Don't make it too long or complicated. The best manifestos are simple, clear,
+and easy to remember.
 
 ## Example Mini-Manifesto
 
 _I am a builder who creates solutions that matter._
 
-_I believe technology should serve humanity, not the other way around. I believe in continuous learning and authentic relationships._
+_I believe technology should serve humanity, not the other way around. I believe
+in continuous learning and authentic relationships._
 
 _I value creativity, integrity, balance, growth, and connection._
 
-_I will work on problems I care about with people I respect. I will keep learning and stay curious. I will maintain my health and relationships._
+_I will work on problems I care about with people I respect. I will keep
+learning and stay curious. I will maintain my health and relationships._
 
-_I won't sacrifice my values for money. I won't work on projects that harm others. I won't pretend to be someone I'm not._
+_I won't sacrifice my values for money. I won't work on projects that harm
+others. I won't pretend to be someone I'm not._
 
 ## Key Takeaway
 
-Your manifesto is your personal operating system. When decisions get tough, it's your guide. When opportunities arise, it's your filter. When life gets noisy, it's your clarity. 🎯
+Your manifesto is your personal operating system. When decisions get tough, it's
+your guide. When opportunities arise, it's your filter. When life gets noisy,
+it's your clarity. 🎯
 
 ---
 
 ### Your Philosophy
 
-**On Success:**
-"Success means \***\*\_\_\_\*\***"
+**On Success:** "Success means \***\*\_\_\_\*\***"
 
-**On Failure:**
-"Failure is \***\*\_\_\_\*\***"
+**On Failure:** "Failure is \***\*\_\_\_\*\***"
 
-**On Growth:**
-"Growth happens when \***\*\_\_\_\*\***"
+**On Growth:** "Growth happens when \***\*\_\_\_\*\***"
 
-**On Work:**
-"Work should be \***\*\_\_\_\*\***"
+**On Work:** "Work should be \***\*\_\_\_\*\***"
 
-**On Technology:**
-"Technology exists to \***\*\_\_\_\*\***"
+**On Technology:** "Technology exists to \***\*\_\_\_\*\***"
 
-**On Leadership:**
-"True leadership is \***\*\_\_\_\*\***"
+**On Leadership:** "True leadership is \***\*\_\_\_\*\***"
 
-**On Money:**
-"Money is \***\*\_\_\_\*\***"
+**On Money:** "Money is \***\*\_\_\_\*\***"
 
-**On Time:**
-"Time is \***\*\_\_\_\*\***"
+**On Time:** "Time is \***\*\_\_\_\*\***"
 
 ## Part 2: Your Commitments (20 minutes)
 
@@ -134,20 +134,15 @@ Write 10 lines you won't cross:
 
 ### My Standards
 
-**For my code:**
-"Every line I write will \***\*\_\_\_\*\***"
+**For my code:** "Every line I write will \***\*\_\_\_\*\***"
 
-**For my relationships:**
-"Every interaction will \***\*\_\_\_\*\***"
+**For my relationships:** "Every interaction will \***\*\_\_\_\*\***"
 
-**For my learning:**
-"Every day I will \***\*\_\_\_\*\***"
+**For my learning:** "Every day I will \***\*\_\_\_\*\***"
 
-**For my health:**
-"My body and mind deserve \***\*\_\_\_\*\***"
+**For my health:** "My body and mind deserve \***\*\_\_\_\*\***"
 
-**For my contribution:**
-"I will give back by \***\*\_\_\_\*\***"
+**For my contribution:** "I will give back by \***\*\_\_\_\*\***"
 
 ## Part 3: Your Principles (20 minutes)
 
@@ -155,52 +150,40 @@ Write 10 lines you won't cross:
 
 Create 7 principles that guide your life:
 
-**Principle 1:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 1:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 2:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 2:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 3:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 3:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 4:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 4:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 5:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 5:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 6:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 6:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
-**Principle 7:** \***\*\_\_\_\*\***
-_What this means:_ \***\*\_\_\_\*\***
-_In practice:_ \***\*\_\_\_\*\***
+**Principle 7:** \***\*\_\_\_\*\*** _What this means:_ \***\*\_\_\_\*\*** _In
+practice:_ \***\*\_\_\_\*\***
 
 ### Developer Principles
 
 Create 5 principles for your code:
 
-1. **Principle:** \***\*\_\_\_\*\***
-   **Because:** \***\*\_\_\_\*\***
+1. **Principle:** \***\*\_\_\_\*\*** **Because:** \***\*\_\_\_\*\***
 
-2. **Principle:** \***\*\_\_\_\*\***
-   **Because:** \***\*\_\_\_\*\***
+2. **Principle:** \***\*\_\_\_\*\*** **Because:** \***\*\_\_\_\*\***
 
-3. **Principle:** \***\*\_\_\_\*\***
-   **Because:** \***\*\_\_\_\*\***
+3. **Principle:** \***\*\_\_\_\*\*** **Because:** \***\*\_\_\_\*\***
 
-4. **Principle:** \***\*\_\_\_\*\***
-   **Because:** \***\*\_\_\_\*\***
+4. **Principle:** \***\*\_\_\_\*\*** **Because:** \***\*\_\_\_\*\***
 
-5. **Principle:** \***\*\_\_\_\*\***
-   **Because:** \***\*\_\_\_\*\***
+5. **Principle:** \***\*\_\_\_\*\*** **Because:** \***\*\_\_\_\*\***
 
 ## Part 4: Your Rights & Responsibilities (15 minutes)
 
@@ -234,7 +217,8 @@ Declare what you owe:
 
 ### Your Personal Manifesto
 
-Combine everything into a powerful declaration. Write in first person, present tense:
+Combine everything into a powerful declaration. Write in first person, present
+tense:
 
 **[YOUR NAME]'S MANIFESTO**
 
@@ -272,18 +256,15 @@ My legacy will be \***\*\_\_\_\*\***
 
 This is my manifesto. This is my commitment. This is who I am.
 
-Signed,
-[Your Name]
+Signed, [Your Name]
 
 ## Living Your Manifesto
 
 ### Daily Practice
 
-Every morning, ask:
-"How will I live my manifesto in this lesson?"
+Every morning, ask: "How will I live my manifesto in this lesson?"
 
-Every evening, ask:
-"Did I honor my manifesto in this lesson?"
+Every evening, ask: "Did I honor my manifesto in this lesson?"
 
 ### Weekly Review
 
@@ -322,8 +303,7 @@ Your manifesto isn't carved in stone. It should evolve as you grow.
 - Annually thereafter
 - After major life events
 
-**Track changes:**
-Document what changes and why. Your evolution tells a story.
+**Track changes:** Document what changes and why. Your evolution tells a story.
 
 ## Manifesto in Action
 
@@ -331,20 +311,19 @@ Document what changes and why. Your evolution tells a story.
 
 How would your manifesto guide you in:
 
-**Job offer with 2x salary but violates values?**
-My manifesto says: \***\*\_\_\_\*\***
+**Job offer with 2x salary but violates values?** My manifesto says:
+\***\*\_\_\_\*\***
 
-**Opportunity to work on cutting-edge tech that might harm users?**
-My manifesto says: \***\*\_\_\_\*\***
+**Opportunity to work on cutting-edge tech that might harm users?** My manifesto
+says: \***\*\_\_\_\*\***
 
-**Pressure to ship code you know isn't ready?**
-My manifesto says: \***\*\_\_\_\*\***
+**Pressure to ship code you know isn't ready?** My manifesto says:
+\***\*\_\_\_\*\***
 
-**Chance to take credit for team's work?**
-My manifesto says: \***\*\_\_\_\*\***
+**Chance to take credit for team's work?** My manifesto says: \***\*\_\_\_\*\***
 
-**Conflict between personal life and career opportunity?**
-My manifesto says: \***\*\_\_\_\*\***
+**Conflict between personal life and career opportunity?** My manifesto says:
+\***\*\_\_\_\*\***
 
 ## Your Public Declaration
 
@@ -370,14 +349,13 @@ When asked "Tell me about yourself":
 
 ### Famous Developer Manifestos
 
-**The Agile Manifesto:**
-Values interactions over processes, working software over documentation
+**The Agile Manifesto:** Values interactions over processes, working software
+over documentation
 
-**The Zen of Python:**
-Beautiful is better than ugly, explicit is better than implicit
+**The Zen of Python:** Beautiful is better than ugly, explicit is better than
+implicit
 
-**The Unix Philosophy:**
-Do one thing and do it well
+**The Unix Philosophy:** Do one thing and do it well
 
 ### What Makes Them Powerful?
 
@@ -412,6 +390,9 @@ Print it. Frame it. Live it.
 
 ## Key Takeaway
 
-Your manifesto isn't just words. It's your operating system. It's the code that runs your life. When everything else is uncertain, your manifesto is your constant. It's not about being perfect; it's about being intentional. Every day you either honor it or betray it. Choose wisely.
+Your manifesto isn't just words. It's your operating system. It's the code that
+runs your life. When everything else is uncertain, your manifesto is your
+constant. It's not about being perfect; it's about being intentional. Every day
+you either honor it or betray it. Choose wisely.
 
 ---

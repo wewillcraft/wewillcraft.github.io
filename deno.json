@@ -16,5 +16,10 @@
     "jsx": "react-jsx",
     "jsxImportSource": "lume"
   },
-  "unstable": ["temporal"]
+  "unstable": ["temporal"],
+  "fmt": {
+    "exclude": [
+      "journey/week-05/07-crisis-management.md"
+    ]
+  }
 }

@@ -19,31 +19,25 @@ Your current "system":
 - Groceries when the fridge is empty
 - Everything else: "I'll figure it out"
 
-This isn't working. But you don't need a complex system. You need a simple one you'll actually use.
+This isn't working. But you don't need a complex system. You need a simple one
+you'll actually use.
 
 ## Start With ONE System
 
-Don't try to systematize your entire life. Pick the thing that stresses you most:
+Don't try to systematize your entire life. Pick the thing that stresses you
+most:
 
 ### The Big Three Pain Points
 
-**Option 1: Money Tracking**
-The problem: No idea where money goes
-The system: Check bank account every Sunday
-The tool: Your banking app
-Time: 5 minutes/week
+**Option 1: Money Tracking** The problem: No idea where money goes The system:
+Check bank account every Sunday The tool: Your banking app Time: 5 minutes/week
 
-**Option 2: Task Management**
-The problem: Forgetting everything
-The system: Brain dump into one list
-The tool: Phone notes app
-Time: 2 minutes/day
+**Option 2: Task Management** The problem: Forgetting everything The system:
+Brain dump into one list The tool: Phone notes app Time: 2 minutes/day
 
-**Option 3: Calendar Chaos**
-The problem: Missing appointments/deadlines
-The system: Everything goes in calendar immediately
-The tool: Google Calendar
-Time: 30 seconds per entry
+**Option 3: Calendar Chaos** The problem: Missing appointments/deadlines The
+system: Everything goes in calendar immediately The tool: Google Calendar Time:
+30 seconds per entry
 
 **Pick ONE. Just one.**
 
@@ -60,8 +54,7 @@ Stop using "password123" for everything.
 3. One strong master password
 4. That's it
 
-**Time to set up:** 30 minutes
-**Time saved:** Hours of password resets
+**Time to set up:** 30 minutes **Time saved:** Hours of password resets
 
 ### Bill Payment System
 
@@ -292,16 +285,21 @@ Think of it as your life's operating system:
 
 ## Remember This
 
-The best system is the one you actually use. Not the one on YouTube. Not the one your productive friend uses. The one that makes YOUR life easier.
+The best system is the one you actually use. Not the one on YouTube. Not the one
+your productive friend uses. The one that makes YOUR life easier.
 
-Start with one thing. Make it stupid simple. Do it for a week. Then maybe add another thing.
+Start with one thing. Make it stupid simple. Do it for a week. Then maybe add
+another thing.
 
-You don't need to optimize your entire life. You just need to make the annoying stuff automatic so you can focus on what matters.
+You don't need to optimize your entire life. You just need to make the annoying
+stuff automatic so you can focus on what matters.
 
-And if your "system" is writing everything on your hand? If it works, it works. 📝
+And if your "system" is writing everything on your hand? If it works, it works.
+📝
 
 ---
 
-[← Previous: Health Optimization](/journey/week-13/04-health-optimization/) | [Next: Legacy Thinking →](/journey/week-13/06-legacy-thinking/)
+[← Previous: Health Optimization](/journey/week-13/04-health-optimization/) |
+[Next: Legacy Thinking →](/journey/week-13/06-legacy-thinking/)
 
 [← Back to Week 13 Overview](/journey/week-13/)

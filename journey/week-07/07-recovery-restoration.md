@@ -7,17 +7,22 @@ week: 7
 
 ## Hey friend! 👋
 
-High performers don't just work hard—they recover strategically. Let's talk about the secret ingredient that separates sustainable achievers from burnout casualties.
+High performers don't just work hard—they recover strategically. Let's talk
+about the secret ingredient that separates sustainable achievers from burnout
+casualties.
 
 ## The Big Idea 💡
 
-**Recovery isn't the absence of work—it's the fuel for better work. Elite athletes know this. Elite developers are learning.**
+**Recovery isn't the absence of work—it's the fuel for better work. Elite
+athletes know this. Elite developers are learning.**
 
-Rest is not a reward for work completed. It's a requirement for work that matters.
+Rest is not a reward for work completed. It's a requirement for work that
+matters.
 
 ## Why This Matters
 
-Your brain is like a muscle—it needs recovery to grow stronger. Without proper restoration:
+Your brain is like a muscle—it needs recovery to grow stronger. Without proper
+restoration:
 
 - Your problem-solving gets worse
 - Your creativity dies
@@ -115,9 +120,12 @@ Put it in your calendar. Treat it like a meeting with your future productivity.
 
 ## Real Talk 💬
 
-Developer culture often treats rest as laziness and burnout as a badge of honor. This is completely backward.
+Developer culture often treats rest as laziness and burnout as a badge of honor.
+This is completely backward.
 
-The developers who ship quality code consistently? They protect their recovery time fiercely. They know that tired code is broken code, and tired decisions are expensive decisions.
+The developers who ship quality code consistently? They protect their recovery
+time fiercely. They know that tired code is broken code, and tired decisions are
+expensive decisions.
 
 You can't think your way out of exhaustion. You can only rest your way out.
 
@@ -135,23 +143,23 @@ Scores below 7 are recovery debt. Pick one to improve this week.
 
 ## Recovery Myths to Ignore
 
-❌ "I'll rest when the project is done"
-❌ "Scrolling social media is rest"
-❌ "I don't have time for recovery"
-❌ "Real developers work 80-hour weeks"
-❌ "Sleep is for the weak"
+❌ "I'll rest when the project is done" ❌ "Scrolling social media is rest" ❌
+"I don't have time for recovery" ❌ "Real developers work 80-hour weeks" ❌
+"Sleep is for the weak"
 
-✅ Recovery is a performance tool, not a luxury
-✅ Quality work requires quality rest
-✅ Sustainable pace beats heroic efforts
-✅ Your best code comes from your rested brain
+✅ Recovery is a performance tool, not a luxury ✅ Quality work requires quality
+rest ✅ Sustainable pace beats heroic efforts ✅ Your best code comes from your
+rested brain
 
 ## Key Takeaway
 
-Recovery isn't what you do when work is done—it's what enables good work in the first place. Protect your restoration time like you protect your coding time. Both are essential for a sustainable career.
+Recovery isn't what you do when work is done—it's what enables good work in the
+first place. Protect your restoration time like you protect your coding time.
+Both are essential for a sustainable career.
 
 ---
 
-**Tomorrow: Let's talk about stress management (because some stress is inevitable).**
+**Tomorrow: Let's talk about stress management (because some stress is
+inevitable).**
 
 → [Day 6: Stress Management](./06-stress-management)

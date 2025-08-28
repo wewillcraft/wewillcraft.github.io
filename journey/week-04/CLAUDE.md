@@ -2,7 +2,8 @@
 
 ## Week Overview
 
-Week 4 teaches the underrated skill of asking for and receiving help. In tech, nobody succeeds alone. This week breaks down the myth of the lone genius coder.
+Week 4 teaches the underrated skill of asking for and receiving help. In tech,
+nobody succeeds alone. This week breaks down the myth of the lone genius coder.
 
 ## Specific Tone for This Week
 
@@ -161,9 +162,8 @@ Help-seeking practice:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Normalize asking for help"
-**Wednesday (Lesson 3-4)**: "Find your support system"
-**Friday (Lesson 5-6)**: "Use available resources"
+**Monday (Lesson 1-2)**: "Normalize asking for help" **Wednesday (Lesson 3-4)**:
+"Find your support system" **Friday (Lesson 5-6)**: "Use available resources"
 **Weekend (Lesson 7-8)**: "Join the community"
 
 ## Success Metrics
@@ -226,7 +226,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-04/02-support-systems/` for all navigation links.
+Use full relative paths like `/journey/week-04/02-support-systems/` for all
+navigation links.
 
 Example navigation section:
 
@@ -235,7 +236,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Help Assessment](/journey/week-06/01-help-assessment/) | [Next: Developer Communities](/journey/week-06/03-developer-communities/) →
+← [Previous: Help Assessment](/journey/week-06/01-help-assessment/) |
+[Next: Developer Communities](/journey/week-06/03-developer-communities/) →
 
 [← Back to Week 6 Overview](/journey/week-06/)
 ```

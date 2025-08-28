@@ -7,19 +7,27 @@ week: 5
 
 ## Hey friend! 👋
 
-Ready to take back control of your devices? Your phone was supposed to be a tool to make your life easier, not a slot machine that hijacks your attention every few minutes. In this lesson we're turning your devices into focus allies instead of focus enemies.
+Ready to take back control of your devices? Your phone was supposed to be a tool
+to make your life easier, not a slot machine that hijacks your attention every
+few minutes. In this lesson we're turning your devices into focus allies instead
+of focus enemies.
 
 ## The Big Idea 💡
 
 **Your environment shapes your behavior more than your willpower ever will.**
 
-You can have all the focus techniques in the world, but if your phone is buzzing every 3 minutes with notifications, you're fighting an uphill battle. Smart setup beats strong willpower every time.
+You can have all the focus techniques in the world, but if your phone is buzzing
+every 3 minutes with notifications, you're fighting an uphill battle. Smart
+setup beats strong willpower every time.
 
 ## Why This Matters
 
-The average person checks their phone 96 times per day. That's once every 10 minutes during waking hours. Each time you check, it takes an average of 23 minutes to fully refocus on your original task.
+The average person checks their phone 96 times per day. That's once every 10
+minutes during waking hours. Each time you check, it takes an average of 23
+minutes to fully refocus on your original task.
 
-Do the math: you're losing hours of productive time to meaningless interruptions.
+Do the math: you're losing hours of productive time to meaningless
+interruptions.
 
 ## Your 20-Minute Mission
 
@@ -40,7 +48,8 @@ Do the math: you're losing hours of productive time to meaningless interruptions
 - Critical work apps (if truly necessary)
 - Emergency alerts
 
-**Pro tip:** If you're not sure whether a notification is essential, turn it off. You can always turn it back on if you actually miss it.
+**Pro tip:** If you're not sure whether a notification is essential, turn it
+off. You can always turn it back on if you actually miss it.
 
 ### Create Focus Mode (10 minutes)
 
@@ -70,22 +79,29 @@ Right now, grab your phone and:
 2. Turn off notifications for the three worst offenders
 3. Put your phone in another room for the rest of this exercise
 
-Notice the immediate difference in mental calm? That's the power of environmental design.
+Notice the immediate difference in mental calm? That's the power of
+environmental design.
 
 ## Real Talk 💬
 
-You might worry about "missing something important" without constant notifications. Here's the truth: truly important things find a way to reach you.
+You might worry about "missing something important" without constant
+notifications. Here's the truth: truly important things find a way to reach you.
 
-Everything else is just noise designed to make you feel busy and connected while actually making you scattered and anxious.
+Everything else is just noise designed to make you feel busy and connected while
+actually making you scattered and anxious.
 
-Remember: you're not becoming anti-technology. You're becoming intentional about technology.
+Remember: you're not becoming anti-technology. You're becoming intentional about
+technology.
 
 ## Key Takeaway
 
-Stop fighting distraction with willpower. Design an environment where focus is the path of least resistance.
+Stop fighting distraction with willpower. Design an environment where focus is
+the path of least resistance.
 
-When your devices support your goals instead of hijacking your attention, everything else becomes easier.
+When your devices support your goals instead of hijacking your attention,
+everything else becomes easier.
 
 ---
 
-**Design your environment for success.** → [Tomorrow: Deep Work Rituals](./03-deep-work-rituals)
+**Design your environment for success.** →
+[Tomorrow: Deep Work Rituals](./03-deep-work-rituals)

@@ -11,15 +11,21 @@ objectives:
 
 # Finding Your People
 
-_Here's something cool: you've been in a mentoring relationship for 14 weeks. Whether you realized it or not, this program has been mentoring you, and you've probably been mentoring classmates along the way._
+_Here's something cool: you've been in a mentoring relationship for 14 weeks.
+Whether you realized it or not, this program has been mentoring you, and you've
+probably been mentoring classmates along the way._
 
-Let's talk about something that sounds scary but is actually happening all around you: mentoring.
+Let's talk about something that sounds scary but is actually happening all
+around you: mentoring.
 
-Here's the truth: mentoring doesn't have to be this formal, intimidating thing. The best mentoring relationships grow naturally from genuine connections and curiosity.
+Here's the truth: mentoring doesn't have to be this formal, intimidating thing.
+The best mentoring relationships grow naturally from genuine connections and
+curiosity.
 
 ## Why Mentoring Matters (But Not How You Think)
 
-Forget the image of the wise old executive taking the young professional under their wing. Real mentoring happens everywhere:
+Forget the image of the wise old executive taking the young professional under
+their wing. Real mentoring happens everywhere:
 
 - Your coworker who's really good at writing code reviews
 - The person in your Discord who always gives thoughtful feedback
@@ -30,7 +36,8 @@ And here's the secret: you're already qualified to mentor someone too.
 
 ## Your Mentoring Network Right Now (10 minutes)
 
-Let's map out the mentoring relationships you already have (you probably have more than you think):
+Let's map out the mentoring relationships you already have (you probably have
+more than you think):
 
 **People Who Help You Learn:**
 
@@ -48,8 +55,8 @@ Let's map out the mentoring relationships you already have (you probably have mo
 1. Person: _____ | What they taught you: _____
 2. Person: _____ | What they taught you: _____
 
-**How's it going?**
-Rate your current mentoring relationships (1-10, no judgment):
+**How's it going?** Rate your current mentoring relationships (1-10, no
+judgment):
 
 - Getting helpful guidance when you need it: ___
 - Having people you can ask honest questions: ___
@@ -60,17 +67,10 @@ Rate your current mentoring relationships (1-10, no judgment):
 
 ### What You Need and What You Have
 
-**Areas where you'd love some guidance:**
-Check what resonates:
-□ Technical skills
-□ Career decisions
-□ Work/life balance
-□ Industry navigation
-□ Side projects/entrepreneurship
-□ Personal development
-□ Building relationships
-□ Financial stuff
-□ Just general life advice
+**Areas where you'd love some guidance:** Check what resonates: □ Technical
+skills □ Career decisions □ Work/life balance □ Industry navigation □ Side
+projects/entrepreneurship □ Personal development □ Building relationships □
+Financial stuff □ Just general life advice
 
 **Your top 3 "I could use help with this" areas:**
 
@@ -78,14 +78,10 @@ Check what resonates:
 2. ---
 3. ---
 
-**Things you know that might help others:**
-□ Technical skills you've learned
-□ Problems you've solved
-□ Challenges you've worked through
-□ Tools or resources you've discovered
-□ Perspectives from your background
-□ Lessons from your mistakes
-□ Networks or communities you know
+**Things you know that might help others:** □ Technical skills you've learned □
+Problems you've solved □ Challenges you've worked through □ Tools or resources
+you've discovered □ Perspectives from your background □ Lessons from your
+mistakes □ Networks or communities you know
 
 **Your top 3 "I could help someone with this" areas:**
 
@@ -141,12 +137,15 @@ Check what resonates:
 
 "Hi [Name],
 
-I saw your post about [specific thing] and it really resonated with me. I'm working on [your situation] and have been thinking a lot about [topic they mentioned].
+I saw your post about [specific thing] and it really resonated with me. I'm
+working on [your situation] and have been thinking a lot about [topic they
+mentioned].
 
-I'd love to hear more about your perspective on this - would you be up for a quick coffee chat sometime? I'd be happy to share what I've learned about [something you know] too if that's interesting.
+I'd love to hear more about your perspective on this - would you be up for a
+quick coffee chat sometime? I'd be happy to share what I've learned about
+[something you know] too if that's interesting.
 
-Thanks!
-[Your name]"
+Thanks! [Your name]"
 
 **What makes this work:**
 
@@ -231,24 +230,15 @@ Thanks!
 
 ### Don't Be That Person
 
-**Things that make mentors run away:**
-□ Expecting them to fix everything for you
-□ Only taking, never giving
-□ Showing up unprepared
-□ Arguing with their advice (then why ask?)
-□ Disappearing for months without a word
-□ Making the same mistakes over and over
-□ Asking for job referrals on the first meeting
+**Things that make mentors run away:** □ Expecting them to fix everything for
+you □ Only taking, never giving □ Showing up unprepared □ Arguing with their
+advice (then why ask?) □ Disappearing for months without a word □ Making the
+same mistakes over and over □ Asking for job referrals on the first meeting
 
-**Things that make mentors want to help more:**
-□ Coming with thoughtful questions
-□ Actually trying what they suggest
-□ Updating them on your progress
-□ Offering to help them too
-□ Respecting their time and boundaries
-□ Saying thank you genuinely
-□ Building a real relationship
-□ Caring about their goals too
+**Things that make mentors want to help more:** □ Coming with thoughtful
+questions □ Actually trying what they suggest □ Updating them on your progress □
+Offering to help them too □ Respecting their time and boundaries □ Saying thank
+you genuinely □ Building a real relationship □ Caring about their goals too
 
 ## You're Already Ready to Mentor Someone (10 minutes)
 
@@ -260,13 +250,9 @@ Thanks!
 2. ---
 3. ---
 
-**How do you naturally help people?**
-Check what feels right:
-□ Give specific advice and suggestions
-□ Ask questions to help them think through it
-□ Listen and encourage
-□ Connect them with other people
-□ Challenge them to grow
+**How do you naturally help people?** Check what feels right: □ Give specific
+advice and suggestions □ Ask questions to help them think through it □ Listen
+and encourage □ Connect them with other people □ Challenge them to grow
 
 **Your natural style:** _____
 
@@ -278,24 +264,16 @@ Check what feels right:
 
 ### People You'll Enjoy Helping
 
-**Green flags (these people are awesome to work with):**
-□ They listen and ask good questions
-□ They try things and report back
-□ They say thank you
-□ They have some idea what they want
-□ They bring energy and enthusiasm
-□ They help you think differently
-□ They follow through
-□ They actually use your advice
+**Green flags (these people are awesome to work with):** □ They listen and ask
+good questions □ They try things and report back □ They say thank you □ They
+have some idea what they want □ They bring energy and enthusiasm □ They help you
+think differently □ They follow through □ They actually use your advice
 
-**Red flags (these people will drain you):**
-□ They just want introductions to your network
-□ They show up unprepared every time
-□ They get defensive when you try to help
-□ They expect you to do their work
-□ They disappear for months then show up when they need something
-□ They make excuses instead of trying
-□ They only reach out when they want something
+**Red flags (these people will drain you):** □ They just want introductions to
+your network □ They show up unprepared every time □ They get defensive when you
+try to help □ They expect you to do their work □ They disappear for months then
+show up when they need something □ They make excuses instead of trying □ They
+only reach out when they want something
 
 ### Simple Mentoring Framework
 
@@ -441,13 +419,19 @@ Check what feels right:
 
 ## Remember This
 
-Mentoring isn't about finding a wise guru to give you all the answers. It's about building genuine relationships with people who help you think better and see new possibilities.
+Mentoring isn't about finding a wise guru to give you all the answers. It's
+about building genuine relationships with people who help you think better and
+see new possibilities.
 
-The best part? You're already qualified to help someone. You don't need 10 years of experience or a perfect track record. You just need to care about someone's growth and be willing to share what you've learned.
+The best part? You're already qualified to help someone. You don't need 10 years
+of experience or a perfect track record. You just need to care about someone's
+growth and be willing to share what you've learned.
 
-Peer mentoring counts. Helping someone one step behind you counts. Answering questions in community forums counts.
+Peer mentoring counts. Helping someone one step behind you counts. Answering
+questions in community forums counts.
 
-You've spent 14 weeks learning and growing. That journey has given you something valuable to share.
+You've spent 14 weeks learning and growing. That journey has given you something
+valuable to share.
 
 Start somewhere. Help someone. Let people help you. Build relationships.
 

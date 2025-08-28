@@ -12,20 +12,23 @@ objectives:
 
 Let's flip the script on "skill gaps."
 
-Every skill you don't have yet? That's not a deficit. That's potential. That's room to grow. That's what makes the next year exciting instead of terrifying.
+Every skill you don't have yet? That's not a deficit. That's potential. That's
+room to grow. That's what makes the next year exciting instead of terrifying.
 
-In this lesson we're going to figure out what skills would make the biggest difference for you - and I promise we're only picking THREE. Because trying to learn everything at once is how you learn nothing at all.
+In this lesson we're going to figure out what skills would make the biggest
+difference for you - and I promise we're only picking THREE. Because trying to
+learn everything at once is how you learn nothing at all.
 
 ## Your Current Toolkit (It's Better Than You Think)
 
-Before we talk about what to add, let's appreciate what you already have. Seriously, you know more than you give yourself credit for.
+Before we talk about what to add, let's appreciate what you already have.
+Seriously, you know more than you give yourself credit for.
 
 ### Quick Wins You Already Have
 
 Check off everything you can do (even if you're not an expert):
 
-**Tech Stuff:**
-□ Write code that actually runs\
+**Tech Stuff:** □ Write code that actually runs\
 □ Google error messages effectively\
 □ Set up a basic project from scratch\
 □ Use version control without breaking everything\
@@ -33,8 +36,7 @@ Check off everything you can do (even if you're not an expert):
 □ Debug code (eventually)\
 □ Read documentation without crying
 
-**People Stuff:**
-□ Explain your code to someone else\
+**People Stuff:** □ Explain your code to someone else\
 □ Ask for help without feeling stupid\
 □ Work on a team project without drama\
 □ Handle feedback without taking it personally\
@@ -46,7 +48,8 @@ Count them up: ___ skills you already have. See? You're not starting from zero.
 
 ## The Skills That Actually Matter
 
-Here's a secret: Most job postings list 20+ requirements, but only 3-5 actually matter. The rest is wish-list stuff.
+Here's a secret: Most job postings list 20+ requirements, but only 3-5 actually
+matter. The rest is wish-list stuff.
 
 ### The Universal Power Skills
 
@@ -68,7 +71,8 @@ Which of these do you want to level up? Pick one from each category.
 
 ## Your Personal Growth Spots
 
-Let's find YOUR specific opportunities. Not what everyone says you should learn - what would actually help YOU.
+Let's find YOUR specific opportunities. Not what everyone says you should
+learn - what would actually help YOU.
 
 ### The Excitement Test
 
@@ -130,7 +134,8 @@ Time to choose. Remember: Just THREE. You can always learn more later.
 
 **How I'll know I've learned it:** ___________
 
-**Important:** At least one should be a soft skill. Technical skills get you interviews. Soft skills get you jobs (and keep them).
+**Important:** At least one should be a soft skill. Technical skills get you
+interviews. Soft skills get you jobs (and keep them).
 
 ## Free Resources That Actually Work
 
@@ -251,8 +256,11 @@ That little word - "yet" - changes everything.
 
 ## Remember This
 
-You don't need to learn everything. You don't need to learn it perfectly. You just need to learn enough to take the next step.
+You don't need to learn everything. You don't need to learn it perfectly. You
+just need to learn enough to take the next step.
 
-And here's the beautiful thing: Once you learn how to learn (which you're doing right now), every other skill becomes possible.
+And here's the beautiful thing: Once you learn how to learn (which you're doing
+right now), every other skill becomes possible.
 
-Pick your three. Start with one. The you from 3 months from now will be amazed at what you know. 🚀
+Pick your three. Start with one. The you from 3 months from now will be amazed
+at what you know. 🚀

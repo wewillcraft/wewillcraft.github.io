@@ -14,11 +14,15 @@ objectives:
 **Time:** 25 minutes\
 **Vibe:** Becoming your own stress detective 🕵️‍♀️
 
-Think of your body as having its own built-in alarm system. Right now, it's probably sending you signals about your stress level - you just might not be tuned in to the frequency yet!
+Think of your body as having its own built-in alarm system. Right now, it's
+probably sending you signals about your stress level - you just might not be
+tuned in to the frequency yet!
 
 ## Why This Matters
 
-We all have that friend who's obviously stressed but insists they're "fine." Don't be that person! Learning your early warning signals helps you hit the brakes before you crash.
+We all have that friend who's obviously stressed but insists they're "fine."
+Don't be that person! Learning your early warning signals helps you hit the
+brakes before you crash.
 
 ## Your Personal Stress Dashboard
 
@@ -85,17 +89,10 @@ Based on your scores, what are your biggest red flags?
 - End of workday: ___________
 - Before big events: ___________
 
-**Your biggest stress triggers:**
-□ Work deadlines
-□ Difficult conversations\
-□ Financial stuff
-□ Family drama
-□ Health concerns
-□ Too much on your plate
-□ Perfectionist pressure
-□ Comparison to others
-□ Technology problems
-□ Sleep deprivation
+**Your biggest stress triggers:** □ Work deadlines □ Difficult conversations\
+□ Financial stuff □ Family drama □ Health concerns □ Too much on your plate □
+Perfectionist pressure □ Comparison to others □ Technology problems □ Sleep
+deprivation
 
 **Top 3 triggers for you:**
 
@@ -105,13 +102,10 @@ Based on your scores, what are your biggest red flags?
 
 ## The Stress Traffic Light System
 
-**🟢 Green Zone (Chill Mode):**
-You feel: ___________
-You think: ___________\
+**🟢 Green Zone (Chill Mode):** You feel: ___________ You think: ___________\
 You do: ___________
 
-**🟡 Yellow Zone (Warning!):**
-Early signals you need to notice:
+**🟡 Yellow Zone (Warning!):** Early signals you need to notice:
 
 1. ---
 2. ---
@@ -119,8 +113,7 @@ Early signals you need to notice:
 
 _Action needed: Slow down, check in, take care of yourself_
 
-**🔴 Red Zone (Emergency!):**
-Your final warning signals:
+**🔴 Red Zone (Emergency!):** Your final warning signals:
 
 1. ---
 2. ---
@@ -132,22 +125,16 @@ _Action needed: Stop, rest, get help_
 
 ### When you hit Yellow Zone:
 
-□ Take 5 deep breaths
-□ Step outside for 2 minutes
-□ Drink some water (seriously, when's the last time?)
-□ Ask yourself: "What do I actually need right now?"
-□ Text someone who gets it
-□ Move your body for 5 minutes
-□ Review your priorities - what can wait?
+□ Take 5 deep breaths □ Step outside for 2 minutes □ Drink some water
+(seriously, when's the last time?) □ Ask yourself: "What do I actually need
+right now?" □ Text someone who gets it □ Move your body for 5 minutes □ Review
+your priorities - what can wait?
 
 ### When you hit Red Zone:
 
-□ Stop what you're doing (it can wait)
-□ Call someone in your support network\
-□ Take the rest of the day off if possible
-□ Focus ONLY on the absolute essentials
-□ Remember: This is temporary
-□ Consider talking to a professional
+□ Stop what you're doing (it can wait) □ Call someone in your support network\
+□ Take the rest of the day off if possible □ Focus ONLY on the absolute
+essentials □ Remember: This is temporary □ Consider talking to a professional
 
 ## Daily Stress Check-Ins
 
@@ -162,16 +149,21 @@ _Action needed: Stop, rest, get help_
 **For the next 7 days:**
 
 1. **Set 3 daily phone reminders** to check your stress zone
-2. **When you notice yellow zone signals:** Take ONE action from your emergency kit
+2. **When you notice yellow zone signals:** Take ONE action from your emergency
+   kit
 3. **Track it:** Just note which signals showed up and what helped
 4. **Be kind to yourself:** You're learning a new skill!
 
 ## Remember This
 
-Your stress signals aren't your enemy - they're your body trying to help you. Think of them as your personal early warning system, not something to ignore or push through.
+Your stress signals aren't your enemy - they're your body trying to help you.
+Think of them as your personal early warning system, not something to ignore or
+push through.
 
-The goal isn't to never feel stressed. It's to catch stress early and respond with kindness instead of letting it steamroll you.
+The goal isn't to never feel stressed. It's to catch stress early and respond
+with kindness instead of letting it steamroll you.
 
 You're already doing great by paying attention! 💙
 
-**Next up:** Let's talk about managing your energy like the precious resource it is →
+**Next up:** Let's talk about managing your energy like the precious resource it
+is →

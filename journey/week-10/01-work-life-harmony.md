@@ -10,28 +10,28 @@ objectives:
 
 ## The Lie We've Been Sold
 
-"Work-life balance" sounds nice. Like you can put work on one side of a scale, life on the other, and somehow keep them perfectly level.
+"Work-life balance" sounds nice. Like you can put work on one side of a scale,
+life on the other, and somehow keep them perfectly level.
 
 But here's what actually happens:
 
-Monday: Work crisis, stay late, skip gym
-Tuesday: Friend needs help, work suffers
-Wednesday: Try to "balance," do everything badly
-Thursday: Exhausted, phone it in everywhere
-Friday: Feel guilty about everything
+Monday: Work crisis, stay late, skip gym Tuesday: Friend needs help, work
+suffers Wednesday: Try to "balance," do everything badly Thursday: Exhausted,
+phone it in everywhere Friday: Feel guilty about everything
 
-Sound familiar? That's because balance is impossible. Life doesn't work in neat 50/50 splits.
+Sound familiar? That's because balance is impossible. Life doesn't work in neat
+50/50 splits.
 
 ## Harmony: The Better Way
 
-Balance says: "Give equal time to everything"
-Harmony says: "Give appropriate energy to what needs it"
+Balance says: "Give equal time to everything" Harmony says: "Give appropriate
+energy to what needs it"
 
-Balance says: "Keep work and life separate"
-Harmony says: "Let them support each other"
+Balance says: "Keep work and life separate" Harmony says: "Let them support each
+other"
 
-Balance says: "Feel guilty when it's not perfect"
-Harmony says: "Different seasons need different things"
+Balance says: "Feel guilty when it's not perfect" Harmony says: "Different
+seasons need different things"
 
 ## What Season Are You In?
 
@@ -152,8 +152,7 @@ You're in integration season if:
 
 For the next week, track your energy (not time):
 
-**Morning:** Energy level 1-10: ___
-**Afternoon:** Energy level 1-10: ___
+**Morning:** Energy level 1-10: ___ **Afternoon:** Energy level 1-10: ___
 **Evening:** Energy level 1-10: ___
 
 **What gives you energy:**
@@ -196,17 +195,17 @@ You have permission to:
 
 Here's exactly what to say:
 
-**To your boss/team:**
-"I'm fully committed during work hours, but I need evenings/weekends to recharge so I can bring my best."
+**To your boss/team:** "I'm fully committed during work hours, but I need
+evenings/weekends to recharge so I can bring my best."
 
-**To family:**
-"I love you and want to spend time with you. Can we plan specific times so I can be fully present?"
+**To family:** "I love you and want to spend time with you. Can we plan specific
+times so I can be fully present?"
 
-**To friends:**
-"I'm in a heavy work season right now. I'll be back to normal in [timeframe]. Thanks for understanding."
+**To friends:** "I'm in a heavy work season right now. I'll be back to normal in
+[timeframe]. Thanks for understanding."
 
-**To yourself:**
-"This is temporary. I'm building something. It's okay to focus."
+**To yourself:** "This is temporary. I'm building something. It's okay to
+focus."
 
 ## The Integration Opportunities
 
@@ -262,13 +261,17 @@ Whatever season you're in, protect these:
 
 You're not failing at balance. Balance is failing you.
 
-Your life will have seasons of intense work and seasons of rest. Seasons of growth and seasons of recovery. Seasons where relationships come first and seasons where career comes first.
+Your life will have seasons of intense work and seasons of rest. Seasons of
+growth and seasons of recovery. Seasons where relationships come first and
+seasons where career comes first.
 
 That's not imbalance. That's being human.
 
-The goal isn't to do everything perfectly all the time. It's to be intentional about your choices and kind to yourself about the trade-offs.
+The goal isn't to do everything perfectly all the time. It's to be intentional
+about your choices and kind to yourself about the trade-offs.
 
-Your career is important. Your relationships are important. Your health is important. They don't need equal time. They need appropriate attention.
+Your career is important. Your relationships are important. Your health is
+important. They don't need equal time. They need appropriate attention.
 
 And that changes. And that's okay. 🌊
 

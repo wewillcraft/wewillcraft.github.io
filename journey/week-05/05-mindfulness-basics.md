@@ -14,13 +14,18 @@ objectives:
 **Time:** 25 minutes\
 **Vibe:** Making mindfulness actually doable 🎯
 
-Let's get one thing straight: mindfulness isn't about sitting in perfect silence for hours or emptying your mind. It's about paying attention to right now, without judging yourself for it.
+Let's get one thing straight: mindfulness isn't about sitting in perfect silence
+for hours or emptying your mind. It's about paying attention to right now,
+without judging yourself for it.
 
 ## What's Mindfulness, Really?
 
-It's like becoming the narrator of your own life instead of just being swept along by it. You start noticing what's happening in your mind and body as it happens.
+It's like becoming the narrator of your own life instead of just being swept
+along by it. You start noticing what's happening in your mind and body as it
+happens.
 
-**Quick mindfulness check:** Right now, can you feel your feet in your shoes? Your back against your chair? That's mindfulness in action!
+**Quick mindfulness check:** Right now, can you feel your feet in your shoes?
+Your back against your chair? That's mindfulness in action!
 
 ## Where Are You Usually?
 
@@ -35,12 +40,9 @@ Rate your typical presence level (1=totally zoned out, 10=completely here):
 ## What Makes Staying Present Hard?
 
 □ Mind constantly planning/worrying\
-□ Emotions feel too intense
-□ Too many distractions everywhere
-□ Feels like "wasting time"
-□ Don't know what I'm "supposed" to do
-□ Physical restlessness
-□ Judge myself when mind wanders
+□ Emotions feel too intense □ Too many distractions everywhere □ Feels like
+"wasting time" □ Don't know what I'm "supposed" to do □ Physical restlessness □
+Judge myself when mind wanders
 
 **Your biggest mindfulness challenge:** ___________
 
@@ -56,7 +58,8 @@ Rate your typical presence level (1=totally zoned out, 10=completely here):
 **Truth:** Noticing your mind wandered means you're doing it right
 
 **Myth:** "I need to feel peaceful"\
-**Truth:** Sometimes you'll feel anxious, sad, or angry - that's also mindfulness
+**Truth:** Sometimes you'll feel anxious, sad, or angry - that's also
+mindfulness
 
 ## Easy Ways to Be More Mindful
 
@@ -167,27 +170,33 @@ When you notice difficult thoughts/emotions:
 
 ## Common Challenges & Real Answers
 
-**"My mind is too busy"** → That's why you need mindfulness! Busy minds benefit most.
+**"My mind is too busy"** → That's why you need mindfulness! Busy minds benefit
+most.
 
 **"I don't have time"** → Start with 30 seconds. You literally have 30 seconds.
 
 **"I keep forgetting"** → Set phone reminders or attach it to existing habits.
 
-**"Nothing happens"** → The magic is in the practicing, not in some special feeling.
+**"Nothing happens"** → The magic is in the practicing, not in some special
+feeling.
 
-**"I feel more anxious"** → You're just noticing anxiety that was already there. Keep going gently.
+**"I feel more anxious"** → You're just noticing anxiety that was already there.
+Keep going gently.
 
 ## This Week's Mindfulness Plan
 
-**Daily:** ___________
-**When stressed:** ___________
-**One new thing to try:** ___________
+**Daily:** ___________ **When stressed:** ___________ **One new thing to try:**
+
+---
 
 ## Remember This
 
-Mindfulness isn't about being perfect or achieving some zen state. It's about being present for your actual life as it's happening. Every moment you notice you're distracted and come back - that's a victory, not a failure.
+Mindfulness isn't about being perfect or achieving some zen state. It's about
+being present for your actual life as it's happening. Every moment you notice
+you're distracted and come back - that's a victory, not a failure.
 
-You're not trying to become a different person. You're just getting to know the person you already are. 💙
+You're not trying to become a different person. You're just getting to know the
+person you already are. 💙
 
 **Next up:** Let's talk about preventing burnout before it happens →
 
@@ -195,6 +204,7 @@ You're not trying to become a different person. You're just getting to know the 
 
 ---
 
-[← Previous Lesson](/journey/week-10/04-recovery-rituals/) | [Next Lesson →](/journey/week-10/06-burnout-prevention/)
+[← Previous Lesson](/journey/week-10/04-recovery-rituals/) |
+[Next Lesson →](/journey/week-10/06-burnout-prevention/)
 
 [← Back to Week 10 Overview](/journey/week-10/)

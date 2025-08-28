@@ -7,7 +7,7 @@
 
   <p class="mb-6">{{ footer.text }}</p>
 
-  <nav class="flex flex-wrap justify-center gap-x-6 gap-y-4">
+  <nav class="flex flex-wrap justify-center gap-x-6 gap-y-4 mb-6">
     {{ for link of footer.links }}
       <a
         href="{{ link.url }}"
@@ -24,4 +24,17 @@
       </a>
     {{ /for }}
   </nav>
+
+  {{ if footer.legal_links }}
+    <div class="flex flex-wrap justify-center gap-x-2 gap-y-2 text-sm text-gray-400 uppercase">
+      {{ for index, link of footer.legal_links }}
+        <a href="{{ link.url }}" class="hover:text-white transition-colors">{{
+          link.text
+        }}</a>
+        {{ if index < footer.legal_links.length - 1 }}
+          <span class="text-gray-600">•</span>
+        {{ /if }}
+      {{ /for }}
+    </div>
+  {{ /if }}
 </footer>

@@ -2,7 +2,8 @@
 
 ## Week Overview
 
-Week 8 teaches focus in a distracted world. This is about building concentration muscles without becoming a hermit. Balance deep work with real life.
+Week 8 teaches focus in a distracted world. This is about building concentration
+muscles without becoming a hermit. Balance deep work with real life.
 
 ## Specific Tone for This Week
 
@@ -161,10 +162,9 @@ Focus experiments:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Understand your attention"
-**Wednesday (Lesson 3-4)**: "Design for focus"
-**Friday (Lesson 5-6)**: "Build focus habits"
-**Weekend (Lesson 7-8)**: "Find your flow"
+**Monday (Lesson 1-2)**: "Understand your attention" **Wednesday (Lesson 3-4)**:
+"Design for focus" **Friday (Lesson 5-6)**: "Build focus habits" **Weekend
+(Lesson 7-8)**: "Find your flow"
 
 ## Success Metrics
 
@@ -226,7 +226,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-08/02-digital-minimalism/` for all navigation links.
+Use full relative paths like `/journey/week-08/02-digital-minimalism/` for all
+navigation links.
 
 Example navigation section:
 
@@ -235,7 +236,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Focus Neuroscience](/journey/week-05/01-focus-neuroscience/) | [Next: Deep Work Rituals](/journey/week-05/03-deep-work-rituals/) →
+← [Previous: Focus Neuroscience](/journey/week-05/01-focus-neuroscience/) |
+[Next: Deep Work Rituals](/journey/week-05/03-deep-work-rituals/) →
 
 [← Back to Week 5 Overview](/journey/week-05/)
 ```

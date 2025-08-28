@@ -10,11 +10,14 @@ objectives:
 
 ## Stop Planning Your Whole Life
 
-Five-year plans are fantasy. The job you'll have in 5 years might not exist yet. The skills you'll need are still being invented.
+Five-year plans are fantasy. The job you'll have in 5 years might not exist yet.
+The skills you'll need are still being invented.
 
-But 90 days? That's real. That's actionable. That's enough time to make real progress without the pressure of predicting your entire future.
+But 90 days? That's real. That's actionable. That's enough time to make real
+progress without the pressure of predicting your entire future.
 
-In this lesson we're creating a roadmap that actually works: focused, flexible, and forgiving.
+In this lesson we're creating a roadmap that actually works: focused, flexible,
+and forgiving.
 
 ## First, Celebrate How Far You've Come
 
@@ -69,16 +72,13 @@ Why 90 days works:
 
 ### Your Next 90 Days
 
-**Start date:** ___________
-**End date:** ___________
+**Start date:** ___________ **End date:** ___________
 
-**One Big Goal:**
-What's the ONE thing that would make the biggest difference?
+**One Big Goal:** What's the ONE thing that would make the biggest difference?
 
 ---
 
-**Three Supporting Goals:**
-What else would move you forward?
+**Three Supporting Goals:** What else would move you forward?
 
 ---
 
@@ -210,14 +210,14 @@ Reach out to one of them in this lesson.
 
 Rate yourself weekly (1-5):
 
-**Progress:** Am I moving forward?
-Week 1: ___ Week 2: ___ Week 3: ___ Week 4: ___
+**Progress:** Am I moving forward? Week 1: ___ Week 2: ___ Week 3: ___ Week 4:
 
-**Energy:** Am I sustainably engaged?
-Week 1: ___ Week 2: ___ Week 3: ___ Week 4: ___
+---
 
-**Learning:** Am I growing?
-Week 1: ___ Week 2: ___ Week 3: ___ Week 4: ___
+**Energy:** Am I sustainably engaged? Week 1: ___ Week 2: ___ Week 3: ___ Week
+4: ___
+
+**Learning:** Am I growing? Week 1: ___ Week 2: ___ Week 3: ___ Week 4: ___
 
 If any score drops below 3 for two weeks, something needs to change.
 
@@ -247,9 +247,8 @@ They won't. Here's what to do:
 
 ### The Pivot Protocol
 
-**Week 2-3 Check:** Minor adjustments only
-**Week 6 Check:** Consider bigger changes
-**Week 9 Check:** Salvage what you can, learn what you must
+**Week 2-3 Check:** Minor adjustments only **Week 6 Check:** Consider bigger
+changes **Week 9 Check:** Salvage what you can, learn what you must
 
 ### Common 90-Day Obstacles
 
@@ -301,15 +300,15 @@ After this sprint ends:
 
 Think of your career as a series of 90-day sprints:
 
-**4 sprints = 1 year of progress**
-**12 sprints = 3 years of transformation**
+**4 sprints = 1 year of progress** **12 sprints = 3 years of transformation**
 **20 sprints = 5 years of compound growth**
 
 You don't need to see the whole staircase. Just take the next step.
 
 ## Remember This
 
-Your career isn't built in grand gestures and perfect plans. It's built in 90-day chunks of focused effort.
+Your career isn't built in grand gestures and perfect plans. It's built in
+90-day chunks of focused effort.
 
 You've already come further than you realize. This week alone, you've:
 
@@ -324,6 +323,7 @@ You've already come further than you realize. This week alone, you've:
 
 That's not nothing. That's everything.
 
-Now pick your next 90 days and start running. Not sprinting frantically, not crawling cautiously. Just running your race, at your pace, toward your goals.
+Now pick your next 90 days and start running. Not sprinting frantically, not
+crawling cautiously. Just running your race, at your pace, toward your goals.
 
 You've got this. And in 90 days, you'll have proof. 🎯

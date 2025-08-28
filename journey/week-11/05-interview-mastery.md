@@ -10,7 +10,8 @@ objectives:
 
 ## The Questions They'll Actually Ask
 
-Forget the "where do you see yourself in 5 years" fluff. Here's what they're really going to ask and why.
+Forget the "where do you see yourself in 5 years" fluff. Here's what they're
+really going to ask and why.
 
 ### The Real Technical Questions
 
@@ -52,39 +53,44 @@ You WILL hit questions you can't answer. Here's how to handle them like a pro:
 
 ### Level 1: The Educated Guess
 
-"I haven't worked with [X] directly, but based on my experience with [similar thing Y], I would guess [reasonable assumption]. Is that on the right track?"
+"I haven't worked with [X] directly, but based on my experience with [similar
+thing Y], I would guess [reasonable assumption]. Is that on the right track?"
 
-**Example:**
-Q: "How does Redis handle cache invalidation?"
-A: "I haven't used Redis specifically, but in my experience with caching, I'd guess it uses TTL expiration or maybe an LRU eviction policy. How does Redis actually handle it?"
+**Example:** Q: "How does Redis handle cache invalidation?" A: "I haven't used
+Redis specifically, but in my experience with caching, I'd guess it uses TTL
+expiration or maybe an LRU eviction policy. How does Redis actually handle it?"
 
 ### Level 2: The Process Answer
 
-"I don't know the answer off the top of my head, but here's how I'd figure it out:
+"I don't know the answer off the top of my head, but here's how I'd figure it
+out:
 
 1. [First step]
 2. [Second step]
 3. [Validation step]"
 
-**Example:**
-Q: "What's the time complexity of this algorithm?"
-A: "I'm not sure immediately, but I'd analyze it by looking at the nested loops, checking if there's recursion, and counting the operations relative to input size. Can I work through it?"
+**Example:** Q: "What's the time complexity of this algorithm?" A: "I'm not sure
+immediately, but I'd analyze it by looking at the nested loops, checking if
+there's recursion, and counting the operations relative to input size. Can I
+work through it?"
 
 ### Level 3: The Learning Opportunity
 
-"I don't know that yet, but it sounds important for this role. Can you tell me more about how you use [concept] here? I'd prioritize learning it."
+"I don't know that yet, but it sounds important for this role. Can you tell me
+more about how you use [concept] here? I'd prioritize learning it."
 
-**Example:**
-Q: "Do you know Kubernetes?"
-A: "I don't have hands-on experience with Kubernetes yet, but I understand it's for container orchestration. How critical is it for this role? I'd be excited to learn it."
+**Example:** Q: "Do you know Kubernetes?" A: "I don't have hands-on experience
+with Kubernetes yet, but I understand it's for container orchestration. How
+critical is it for this role? I'd be excited to learn it."
 
 ### Level 4: The Honest Redirect
 
-"I don't know [X], but I do have experience with [related Y] which might be relevant. Would it be helpful if I talked about that instead?"
+"I don't know [X], but I do have experience with [related Y] which might be
+relevant. Would it be helpful if I talked about that instead?"
 
-**Example:**
-Q: "Have you used AWS Lambda?"
-A: "I haven't used Lambda specifically, but I've built serverless functions on Vercel and understand the event-driven architecture. Would that experience be relevant?"
+**Example:** Q: "Have you used AWS Lambda?" A: "I haven't used Lambda
+specifically, but I've built serverless functions on Vercel and understand the
+event-driven architecture. Would that experience be relevant?"
 
 ## Virtual Interview Specific Tips
 
@@ -142,9 +148,9 @@ Most people prep one or the other. You need both.
 
 ### Your Prep Split
 
-**For technical roles:** 60% technical, 40% behavioral
-**For product/design roles:** 40% technical, 60% behavioral
-**For leadership roles:** 30% technical, 70% behavioral
+**For technical roles:** 60% technical, 40% behavioral **For product/design
+roles:** 40% technical, 60% behavioral **For leadership roles:** 30% technical,
+70% behavioral
 
 ### Daily Prep Routine (30 minutes)
 
@@ -244,10 +250,12 @@ The best interview prep isn't memorizing answers. It's:
 
 You don't need to be perfect. You need to be authentic, prepared, and curious.
 
-And when you don't know something? That's not failure. That's an opportunity to show how you think. 🎯
+And when you don't know something? That's not failure. That's an opportunity to
+show how you think. 🎯
 
 ---
 
-[← Previous: Job Search Strategy](/journey/week-12/04-job-search-strategy/) | [Next: Negotiation Skills →](/journey/week-12/06-negotiation-skills/)
+[← Previous: Job Search Strategy](/journey/week-12/04-job-search-strategy/) |
+[Next: Negotiation Skills →](/journey/week-12/06-negotiation-skills/)
 
 [← Back to Week 12 Overview](/journey/week-12/)
