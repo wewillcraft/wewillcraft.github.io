@@ -3,7 +3,6 @@ title: "Week 11: Building Your Network Authentically"
 week: 11
 phase: life-design
 excerpt: Create meaningful professional relationships that align with your personality and values.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

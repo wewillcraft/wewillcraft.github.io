@@ -7,7 +7,6 @@ objectives:
   - Identify your natural stress response patterns and coping mechanisms
   - Build your personal resilience toolkit with proven strategies
   - Create an emergency resilience plan for overwhelming moments
-estimated_time: 30 minutes
 ---
 
 # Resilience Assessment

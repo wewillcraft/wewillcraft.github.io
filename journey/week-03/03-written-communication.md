@@ -7,7 +7,6 @@ objectives:
   - Write Slack messages that get responses
   - Adapt written tone for different audiences
   - Create documentation that people actually use
-estimated_time: 30 minutes
 ---
 
 ## The Written Word Problem 📝

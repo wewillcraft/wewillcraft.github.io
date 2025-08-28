@@ -1,7 +1,6 @@
 ---
 title: "Day 1: The Neuroscience of Focus"
 description: "Why your brain gets distracted (and how to work with it, not against it)"
-estimated_time: 15 minutes
 day: 1
 week: 5
 ---

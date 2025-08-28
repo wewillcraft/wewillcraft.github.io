@@ -7,7 +7,6 @@ objectives:
   - Practice difficult conversations in low-stakes environments
   - Build confidence through structured practice exercises
   - Develop your personal communication action plan
-estimated_time: 45 minutes
 ---
 
 ## Time to Practice 💪

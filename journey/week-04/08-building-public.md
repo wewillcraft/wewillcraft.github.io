@@ -1,7 +1,6 @@
 ---
 title: "Day 8: Building in Public"
 excerpt: "Share your journey and accelerate your growth"
-estimated_time: 15 minutes
 day: 8
 week: 6
 ---

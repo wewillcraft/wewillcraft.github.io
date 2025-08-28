@@ -2,7 +2,6 @@
 title: "Your Code, Your Calling"
 excerpt: "Ever wonder why you chose to code in the first place? In this lesson we're discovering the specific problems you're meant to solve and the developer you're meant to become."
 index: 6
-estimated_time: 15 minutes
 objectives:
   - Identify the problems that frustrate you most
   - Discover your unique developer superpower

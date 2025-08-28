@@ -7,7 +7,6 @@ objectives:
   - Learn emotional regulation techniques for high-pressure situations
   - Build empathy and social awareness skills for better relationships
   - Practice applying emotional intelligence in leadership scenarios
-estimated_time: 30 minutes
 ---
 
 # Emotional Intelligence 🧠💚

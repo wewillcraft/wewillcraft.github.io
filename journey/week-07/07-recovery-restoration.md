@@ -1,7 +1,6 @@
 ---
 title: "Day 5: Recovery & Restoration"
 excerpt: "The secret to sustainable high performance"
-estimated_time: 15 minutes
 day: 5
 week: 7
 ---

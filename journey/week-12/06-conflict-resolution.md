@@ -7,7 +7,6 @@ objectives:
   - Master mediation techniques and de-escalation strategies
   - Practice collaborative problem-solving frameworks
   - Build skills for preventing conflicts before they escalate
-estimated_time: 30 minutes
 ---
 
 # Conflict Resolution 🕊️💪

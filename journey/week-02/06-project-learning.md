@@ -1,7 +1,6 @@
 ---
 title: "Learn Through Projects"
 excerpt: "Build your way to mastery with projects that actually matter to you"
-estimated_time: 20 minutes
 index: 6
 objectives:
   - Design learning projects that build real skills

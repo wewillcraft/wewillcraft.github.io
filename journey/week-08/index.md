@@ -5,7 +5,6 @@ phase: focus-deep-work
 index: 0
 excerpt: Master deep work and attention management in a world designed to scatter your focus
 description: "Master the neuroscience of focus, create distraction-free environments, build deep work rituals, and engineer flow states for peak performance."
-estimated_time: 15-20 min/day
 objectives:
   - Understand the neuroscience behind focus and attention
   - Set up digital minimalism and distraction-free environments

@@ -1,7 +1,6 @@
 ---
 title: "Day 8: Sustainability Audit"
 excerpt: "Check your systems and build for the long game"
-estimated_time: 15 minutes
 day: 8
 week: 7
 ---

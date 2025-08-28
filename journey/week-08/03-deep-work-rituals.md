@@ -1,7 +1,6 @@
 ---
 title: "Day 3: Deep Work Rituals"
 description: "Create personal rituals that signal your brain: it's time to focus deeply"
-estimated_time: 15 minutes
 day: 3
 week: 5
 ---

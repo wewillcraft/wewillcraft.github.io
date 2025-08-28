@@ -1,7 +1,6 @@
 ---
 title: "Turn Failures into Fuel"
 excerpt: "Every bug is a teacher. Every mistake is a masterclass. Here's how to learn from both."
-estimated_time: 15 minutes
 index: 7
 objectives:
   - Reframe failures as learning opportunities

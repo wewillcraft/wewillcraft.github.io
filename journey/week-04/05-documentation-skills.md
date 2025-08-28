@@ -1,7 +1,6 @@
 ---
 title: "Day 5: Documentation Skills"
 excerpt: "Turn confusing docs into your secret weapon"
-estimated_time: 15 minutes
 day: 5
 week: 6
 ---

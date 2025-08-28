@@ -3,7 +3,6 @@ title: "Week 14: Designing Your Next 100 Days"
 week: 14
 phase: life-design
 excerpt: Create a concrete action plan that transforms insights into results over the next 100 days.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

@@ -7,7 +7,6 @@ objectives:
   - Create micro-recovery rituals for busy days (5-10 minutes)
   - Design macro-recovery practices for deeper restoration
   - Build daily and weekly recovery routines that stick
-estimated_time: 25 minutes
 ---
 
 # Recovery Rituals

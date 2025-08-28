@@ -7,7 +7,6 @@ objectives:
   - Create emergency protocols for different types of challenges
   - Design ongoing maintenance practices for sustained resilience
   - Build a resource toolkit for immediate access during difficult times
-estimated_time: 30 minutes
 ---
 
 # Your Resilience Plan

@@ -3,7 +3,6 @@ title: "Week 6: Ask for Help Like a Pro"
 week: 6
 phase: tool-mastery
 excerpt: Transform from isolated learner to connected community member through strategic help-seeking.
-estimated_time: 15-20 minutes per day
 ---
 
 # Week 6: Ask for Help Like a Pro

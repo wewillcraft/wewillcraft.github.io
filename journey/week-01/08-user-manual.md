@@ -7,7 +7,6 @@ objectives:
   - Create a simple guide for working with you
   - Help others understand your needs and preferences
   - Build better working relationships from day one
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

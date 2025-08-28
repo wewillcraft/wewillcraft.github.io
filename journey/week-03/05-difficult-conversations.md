@@ -7,7 +7,6 @@ objectives:
   - Use structured frameworks for conflict resolution
   - Manage emotions and maintain professionalism during conflicts
   - Turn difficult conversations into relationship-building opportunities
-estimated_time: 30 minutes
 ---
 
 ## The Conversations We Avoid 😬

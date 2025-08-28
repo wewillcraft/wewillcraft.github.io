@@ -7,7 +7,6 @@ objectives:
   - Practice simple mindfulness techniques that work for busy people
   - Integrate mindfulness into daily activities and routines
   - Use mindfulness to manage stress and stay grounded in difficult moments
-estimated_time: 25 minutes
 ---
 
 # Mindfulness Basics

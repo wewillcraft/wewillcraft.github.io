@@ -7,7 +7,6 @@ objectives:
   - Discover what motivates you at the deepest level
   - Understand your core fears and desires
   - Learn how to recognize when you're stressed vs. growing
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

@@ -3,7 +3,6 @@ title: "Week 10: Failure & Resilience By Type"
 week: 10
 phase: life-design
 excerpt: Transform your relationship with failure and build personality-matched resilience strategies.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

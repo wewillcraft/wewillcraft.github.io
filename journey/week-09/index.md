@@ -3,7 +3,6 @@ title: "Week 8: Boundaries That Match Your Personality"
 week: 8
 phase: life-design
 excerpt: Design personal boundaries that protect your energy while staying true to your authentic self.
-estimated_time: 6-8 hours total
 ---
 
 Hey friend! 👋

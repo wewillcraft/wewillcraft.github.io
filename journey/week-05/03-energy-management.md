@@ -7,7 +7,6 @@ objectives:
   - Identify your energy patterns and vampires that drain you
   - Build a personal energy management system with boosters and boundaries
   - Create emergency protocols for when you're running on empty
-estimated_time: 30 minutes
 ---
 
 # Energy Management

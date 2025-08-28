@@ -7,7 +7,6 @@ objectives:
   - Discover your personality type through a simple assessment
   - Learn how your brain naturally works
   - Get practical tips for working with your natural style
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

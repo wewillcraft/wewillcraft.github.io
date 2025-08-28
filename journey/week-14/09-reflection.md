@@ -8,7 +8,6 @@ objectives:
   - Receive blessing and commissioning for the path ahead
   - Commit to continuing this growth journey with God's help and grace
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 14: Meditation & Reflection

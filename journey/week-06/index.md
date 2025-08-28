@@ -5,7 +5,6 @@ phase: self-discovery
 index: 0
 excerpt: "Discovering what you actually care about (hint: it might not be what you think)"
 description: "Discover your true values, find your sweet spot, and create a vision that actually inspires you - all while building your personal manifesto."
-estimated_time: 15-20 min/day
 objectives:
   - Identify your authentic core values (not what you think you should value)
   - Map your ikigai - where passion, talents, and opportunities align

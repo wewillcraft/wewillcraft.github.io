@@ -7,7 +7,6 @@ objectives:
   - Recognize communication blind spots that create friction
   - Learn to adapt your style for different audiences
   - Practice context-switching for developers, managers, and stressed teammates
-estimated_time: 30 minutes
 ---
 
 ## Real Talk About Communication 💬

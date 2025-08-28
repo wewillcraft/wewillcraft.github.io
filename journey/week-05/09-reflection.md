@@ -8,7 +8,6 @@ objectives:
   - Find hope in the midst of challenges and setbacks
   - Practice depending on God's strength rather than your own
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 10: Meditation & Reflection

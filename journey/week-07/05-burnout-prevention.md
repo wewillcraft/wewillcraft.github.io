@@ -1,7 +1,6 @@
 ---
 title: "Day 1: Burnout Prevention"
 excerpt: "Recognize the warning signs and prevent burnout before it starts"
-estimated_time: 15 minutes
 day: 1
 week: 7
 ---

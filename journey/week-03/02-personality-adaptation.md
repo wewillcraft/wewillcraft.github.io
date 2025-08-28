@@ -7,7 +7,6 @@ objectives:
   - Understand common personality types in development teams
   - Master communication adaptation techniques for different types
   - Practice personality-based communication strategies
-estimated_time: 30 minutes
 ---
 
 ## The People Puzzle 🧩

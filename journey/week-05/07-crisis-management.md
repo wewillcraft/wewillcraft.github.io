@@ -7,7 +7,6 @@ objectives:
   - Build crisis response techniques for immediate stabilization
   - Develop support system activation strategies during tough times
   - Learn recovery and rebuilding frameworks after crisis events
-estimated_time: 30 minutes
 ---
 
 # Crisis Management

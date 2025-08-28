@@ -3,7 +3,6 @@ title: "Week 12: Health Habits That Stick"
 week: 12
 phase: life-design
 excerpt: Build sustainable health practices that enhance your cognitive performance and long-term career success.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

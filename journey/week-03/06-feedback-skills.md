@@ -7,7 +7,6 @@ objectives:
   - Receive feedback gracefully and extract maximum value
   - Create a feedback culture in your team environment
   - Turn criticism into actionable improvement plans
-estimated_time: 30 minutes
 ---
 
 ## The Feedback Paradox 🔄

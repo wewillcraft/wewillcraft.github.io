@@ -1,7 +1,6 @@
 ---
 title: "Day 3: Finding Your Tech Tribe"
 excerpt: "Let's find communities where you actually belong"
-estimated_time: 15 minutes
 day: 3
 week: 6
 ---

@@ -7,7 +7,6 @@ objectives:
   - Discover your optimal learning style
   - Identify your peak energy times
   - Design better study and work routines
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

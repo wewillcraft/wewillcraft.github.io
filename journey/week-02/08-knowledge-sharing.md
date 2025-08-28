@@ -1,7 +1,6 @@
 ---
 title: "Share Your Knowledge"
 excerpt: "The fastest way to cement your learning? Teach it to someone else."
-estimated_time: 20 minutes
 index: 8
 objectives:
   - Use teaching to deepen your own understanding

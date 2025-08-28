@@ -7,7 +7,6 @@ objectives:
   - Learn to gather and evaluate information efficiently
   - Practice making decisions under pressure and with incomplete data
   - Build confidence in your judgment and decision-making abilities
-estimated_time: 30 minutes
 ---
 
 # Decision Making 🤔💡

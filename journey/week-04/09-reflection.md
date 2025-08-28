@@ -7,7 +7,6 @@ objectives:
   - Consider how interdependence reflects God's design
   - Find freedom in admitting you need support
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 6: Meditation & Reflection

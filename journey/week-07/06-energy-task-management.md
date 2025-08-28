@@ -1,7 +1,6 @@
 ---
 title: "Day 2: Energy & Task Management"
 excerpt: "Match your tasks to your energy for sustainable productivity"
-estimated_time: 15 minutes
 day: 2
 week: 7
 ---

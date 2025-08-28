@@ -1,7 +1,6 @@
 ---
 title: "Day 2: Digital Minimalism Setup"
 description: "Turn your devices from distraction machines into focus tools"
-estimated_time: 20 minutes
 day: 2
 week: 5
 ---

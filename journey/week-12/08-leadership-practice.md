@@ -7,7 +7,6 @@ objectives:
   - Create a personal leadership development plan with specific actions
   - Design practice scenarios to build confidence in different leadership situations
   - Establish accountability systems and progress tracking methods
-estimated_time: 30 minutes
 ---
 
 # Leadership Practice 🚀🌟

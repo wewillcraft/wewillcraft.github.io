@@ -7,7 +7,6 @@ objectives:
   - "Set your intention for the 14-week journey"
   - "Understand why self-knowledge matters more than generic advice"
   - "Make a commitment to show up for yourself"
-estimated_time: 15 minutes
 ---
 
 ## Hey, you made it! 🎉

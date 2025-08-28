@@ -7,7 +7,6 @@ objectives:
   - "Complete personality assessments to understand your natural wiring"
   - "Discover your strengths and how to leverage them"
   - "Create a personal user manual for working with yourself"
-estimated_time: 15-20 min/day
 ---
 
 ## Hey there, friend! 👋
