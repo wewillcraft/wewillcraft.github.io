@@ -21,6 +21,7 @@ Your personality type is like your brain's default settings. Understanding it he
 ## Why This Matters
 
 When you know how your brain works best, everything becomes easier:
+
 - You stop fighting your natural rhythms
 - You choose better tools and environments
 - You communicate more effectively with others
@@ -28,15 +29,17 @@ When you know how your brain works best, everything becomes easier:
 
 ## Your 15-Minute Mission
 
-### Step 1: Take the Test (12 minutes) 
+### Step 1: Take the Test (12 minutes)
+
 Go to [16personalities.com](https://www.16personalities.com/free-personality-test) and answer honestly. Don't overthink - go with your gut feeling!
 
 ### Step 2: Save Your Results (3 minutes)
+
 Write down your 4-letter type (like INFJ or ESTP) and what resonated most with you.
 
 ## Quick Win ✅
 
-**Right now, think about yesterday:** When did you feel most energized? When did you feel drained? 
+**Right now, think about yesterday:** When did you feel most energized? When did you feel drained?
 
 Your personality type will help explain these patterns!
 
@@ -81,4 +84,3 @@ Some days you might feel like an extrovert, other days an introvert. That's tota
 ## Today's Takeaway
 
 Your personality type isn't a limitation - it's your secret weapon. Now you have the user manual for your brain! 🎯
-

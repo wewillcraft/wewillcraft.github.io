@@ -21,6 +21,7 @@ Just like code has documentation, you need documentation too! A personal "README
 ## Why This Matters
 
 When others understand how you work best:
+
 - Projects run smoother
 - Fewer misunderstandings occur
 - Trust builds faster
@@ -43,25 +44,30 @@ Copy and customize this:
 # Hi, I'm [Your Name]! 👋
 
 ## The Basics
+
 - **How I recharge:** [Alone time / Social time / Mix]
 - **My peak hours:** [When you do your best work]
 - **Communication style:** [Direct / Detailed / Casual / Formal]
 
 ## I do my best work when...
+
 - [Environment, conditions, or setup you need]
 - [Type of collaboration you prefer]
 - [How you like to receive feedback]
 
 ## I might struggle with...
+
 - [Things that drain or frustrate you]
 - [Areas where you need extra support]
 
 ## If you need something from me...
+
 - **Urgent:** [How to reach you for real emergencies]
 - **Normal:** [Your preferred communication method]
 - **Feedback:** [How you like to receive input]
 
 ## Random facts
+
 - [A few personal touches - hobbies, interesting facts, or quirks]
 
 ---
@@ -75,6 +81,7 @@ People WANT to work well with you - they just don't always know how. A user manu
 ## Keep It Simple
 
 Your user manual doesn't need to be perfect or comprehensive. Start with the basics:
+
 - When you work best
 - How you communicate
 - What you need to succeed

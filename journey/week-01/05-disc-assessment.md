@@ -21,6 +21,7 @@ Your DISC style shows how you naturally communicate and work with others. Unders
 ## Why This Matters
 
 When you know your communication style:
+
 - You understand why certain people energize or drain you
 - You can adapt your approach to connect with different personalities
 - Team conflicts make more sense (and become easier to resolve)
@@ -29,9 +30,11 @@ When you know your communication style:
 ## Your 15-Minute Mission
 
 ### Step 1: Take the Assessment (10 minutes)
+
 Go to [Tony Robbins DISC Assessment](https://www.tonyrobbins.com/disc/) and complete the quick test.
 
 ### Step 2: Note Your Style (5 minutes)
+
 Write down your highest letter and what resonated most.
 
 ## Quick Win ✅
@@ -41,21 +44,25 @@ Write down your highest letter and what resonated most.
 ## The Four Styles (You're Probably A Mix!)
 
 **D - Driver:** "Let's get it done!"
+
 - Direct, results-focused, loves challenges
 - Communicates: Fast, bottom-line first
 - Needs: Control and quick decisions
 
 **I - Influencer:** "Let's make it fun!"
+
 - Enthusiastic, people-focused, loves variety
 - Communicates: Stories, excitement, big picture
 - Needs: Social interaction and recognition
 
 **S - Supporter:** "Let's make sure everyone's okay"
+
 - Steady, relationship-focused, loves harmony
 - Communicates: Gentle, considerate, thorough
 - Needs: Stability and appreciation
 
 **C - Careful:** "Let's make sure it's right"
+
 - Accurate, task-focused, loves quality
 - Communicates: Details, facts, questions
 - Needs: Information and time to decide
@@ -226,4 +233,3 @@ Remember: You can flex your style based on the situation.
 ## Key Takeaway
 
 DISC isn't about personality. It's about behavior. And behavior can be adapted. Now you know your default communication style AND how to speak the language of others. Use this superpower wisely.
-

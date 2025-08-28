@@ -38,13 +38,16 @@ Harmony says: "Different seasons need different things"
 Life has seasons. Recognizing yours changes everything.
 
 ### The Grind Season
+
 You're in grind season if:
+
 - Starting new job/internship
 - Learning crucial skills
 - Building your foundation
 - Proving yourself
 
 **What it needs:**
+
 - More work hours (temporarily)
 - Clear end date
 - Protected recovery time
@@ -53,13 +56,16 @@ You're in grind season if:
 **Duration:** 3-6 months max
 
 ### The Growth Season
+
 You're in growth season if:
+
 - Comfortable with basics
 - Ready for new challenges
 - Energy for side projects
 - Exploring possibilities
 
 **What it needs:**
+
 - Balanced schedule
 - Time for experiments
 - New experiences
@@ -68,13 +74,16 @@ You're in growth season if:
 **Duration:** 6-12 months typically
 
 ### The Recovery Season
+
 You're in recovery season if:
+
 - Just finished big project
 - Feeling burnt out
 - Life stuff happening
 - Need to recharge
 
 **What it needs:**
+
 - Reduced commitments
 - Extra sleep
 - Fun without productivity
@@ -83,13 +92,16 @@ You're in recovery season if:
 **Duration:** 2-4 weeks minimum
 
 ### The Integration Season
+
 You're in integration season if:
+
 - Multiple priorities
 - Big life changes
 - Relationship shifts
 - Identity questions
 
 **What it needs:**
+
 - Flexibility
 - Support system
 - Lower standards
@@ -102,27 +114,33 @@ You're in integration season if:
 ## Student-Specific Harmony Hacks
 
 ### The Class + Code Juggle
+
 **Reality:** You're taking classes, learning to code, and trying to have a life.
 
 **Harmony approach:**
+
 - Study groups that become friend groups
 - Code projects that count for class credit
 - Campus jobs that build tech skills
 - Dating people who get the grind
 
 ### The Family Expectations Dance
+
 **Reality:** Family doesn't understand why you're always at your computer.
 
 **Harmony approach:**
+
 - Set "office hours" for family time
 - Explain your career in their language
 - Include them in wins (first PR, first interview)
 - Be present when you're present
 
 ### The Money vs. Time Trade-off
+
 **Reality:** Need money, need experience, need sleep. Pick two.
 
 **Harmony approach:**
+
 - Paid internships over unpaid (always)
 - Part-time work with learning opportunities
 - Freelance projects that build portfolio
@@ -139,24 +157,33 @@ For the next week, track your energy (not time):
 **Evening:** Energy level 1-10: ___
 
 **What gives you energy:**
-- ___________
-- ___________
-- ___________
+
+---
+
+---
+
+---
 
 **What drains your energy:**
-- ___________
-- ___________
-- ___________
+
+---
+
+---
+
+---
 
 **One thing to do more:**
-___________
+
+---
 
 **One thing to do less:**
-___________
+
+---
 
 ## Permission Slips for Real Life
 
 You have permission to:
+
 - Work 60 hours one week and 20 the next
 - Skip social events during crunch time
 - Say no to family obligations sometimes
@@ -186,18 +213,21 @@ Here's exactly what to say:
 Instead of separating work and life, look for overlaps:
 
 **Social + Learning:**
+
 - Study groups
 - Coding meetups
 - Online communities
 - Pair programming
 
 **Health + Work:**
+
 - Walking meetings
 - Standing desk
 - Gym during lunch
 - Meditation apps during breaks
 
 **Relationships + Growth:**
+
 - Teaching someone what you know
 - Working on projects with friends
 - Date nights at tech events (why not?)
@@ -208,18 +238,21 @@ Instead of separating work and life, look for overlaps:
 Whatever season you're in, protect these:
 
 **Daily minimums:**
+
 - 6 hours sleep (minimum, not target)
 - One real meal
 - 10 minutes outside
 - One human connection
 
 **Weekly minimums:**
+
 - One full day off screens
 - One conversation with someone you love
 - One thing just for fun
 - One hour of movement
 
 **Monthly minimums:**
+
 - Check in with yourself
 - Adjust if needed
 - Plan next month

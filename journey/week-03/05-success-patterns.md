@@ -24,7 +24,9 @@ Most people hope for good days to just happen. But what if you could create the 
 ## Your 15-20 Minute Mission
 
 ### Step 1: Remember Your Greatest Hits (5 minutes)
+
 Think about the last few times you felt completely in your element:
+
 - What were you working on?
 - Where were you working?
 - What time of day was it?
@@ -32,20 +34,25 @@ Think about the last few times you felt completely in your element:
 - What happened right before you got into that zone?
 
 ### Step 2: Find the Common Threads (5 minutes)
+
 Look for patterns in your peak performance moments:
+
 - What conditions keep showing up?
 - What environment works best for you?
 - What kind of preparation helps?
 - What energy level do you need to hit your stride?
 
 ### Step 3: Identify Your Flow Triggers (5 minutes)
+
 What consistently gets you into that focused, unstoppable state?
+
 - Certain types of challenges?
 - Specific ways of starting work?
 - Particular environments or setups?
 - Certain times of day or week?
 
 ### Step 4: Design Your Success Recipe (5 minutes)
+
 Create a simple checklist of conditions that set you up to thrive.
 
 ## Quick Win ✅

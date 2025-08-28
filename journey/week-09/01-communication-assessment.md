@@ -27,21 +27,25 @@ Let's figure out how you're wired. Be honest—no one's watching.
 Rate yourself (1-5) on these scales:
 
 **How Direct Are You?**
-- 1 = "Maybe we could possibly consider..." 
+
+- 1 = "Maybe we could possibly consider..."
 - 5 = "This is broken. Fix it now."
 - Your score: ___
 
 **How Much Do You Express Emotions?**
+
 - 1 = Pure logic, Spock-style
 - 5 = Heart on sleeve, feelings everywhere
 - Your score: ___
 
 **How Much Detail Do You Need?**
+
 - 1 = "Just give me the headline"
 - 5 = "I need ALL the context, please"
 - Your score: ___
 
 **How Fast Do You Respond?**
+
 - 1 = "Let me think about this for 3 days"
 - 5 = "Already typing before you finish talking"
 - Your score: ___
@@ -49,24 +53,28 @@ Rate yourself (1-5) on these scales:
 ## What Your Scores Mean
 
 ### High Direct + Low Emotion = The Commander
-You get stuff done. People know exactly where they stand with you. But sometimes folks think you're mean when you're just being efficient. 
+
+You get stuff done. People know exactly where they stand with you. But sometimes folks think you're mean when you're just being efficient.
 
 **Your superpower:** Crystal clear communication
 **Your kryptonite:** Coming across as cold or harsh
 
 ### High Direct + High Emotion = The Motivator
+
 You're the hype person everyone needs! You get people fired up and moving. But sometimes you can be... a lot.
 
 **Your superpower:** Inspiring action
 **Your kryptonite:** Overwhelming quieter teammates
 
 ### Low Direct + High Emotion = The Peacemaker
+
 Everyone loves you because you make them feel heard. But sometimes you take forever to get to the point.
 
 **Your superpower:** Building trust and safety
 **Your kryptonite:** Avoiding necessary conflict
 
 ### Low Direct + Low Emotion = The Analyst
+
 You think things through. Your decisions are solid. But people sometimes wonder if you're even engaged.
 
 **Your superpower:** Thoughtful, risk-free decisions
@@ -77,18 +85,21 @@ You think things through. Your decisions are solid. But people sometimes wonder 
 Here's where it gets spicy. You need different styles for different situations:
 
 ### Talking to Developers
+
 - Be specific
 - Show your work
 - Skip the fluff
 - Bring data
 
 ### Talking to Your Boss
+
 - Start with outcomes
 - Keep it brief
 - Have solutions ready
 - No surprises
 
 ### Talking to Stressed Teammates
+
 - Lead with empathy
 - Listen first
 - Offer help
@@ -108,12 +119,14 @@ We all have them. Check which ones hit close to home:
 ## Quick Fixes That Actually Work
 
 ### For Better Slack Messages
+
 ```
 Instead of: "We need to talk about the bug"
 Try: "Found a bug in checkout - have 5 min to discuss the fix?"
 ```
 
 ### For Clearer Emails
+
 ```
 Subject: [ACTION NEEDED by Friday] Budget approval for AWS upgrade
 First line: Need your approval for $2k AWS upgrade by Friday.
@@ -121,6 +134,7 @@ Then: Context and details...
 ```
 
 ### For Less Painful Meetings
+
 - Start with: "By the end of this, we'll have..."
 - Middle: Actual discussion
 - End with: "So we agreed on... Next steps are..."
@@ -136,6 +150,7 @@ Don't defend. Don't explain. Just listen and say thanks. You'll be shocked at wh
 ## Communication Energy Check
 
 When do you communicate best?
+
 - Morning person or night owl?
 - Before or after coffee?
 - In meetings or in writing?
@@ -157,6 +172,7 @@ Pick ONE thing to practice this week:
 Here's what took me years to figure out: **Good communication isn't about being perfect. It's about being aware.**
 
 When you know your style, you can:
+
 - Adapt when needed
 - Apologize when you mess up
 - Ask for what you need

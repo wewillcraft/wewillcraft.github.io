@@ -19,6 +19,7 @@ Today, we fix that.
 ## The Email Formula That Works
 
 ### Subject Lines That Get Opened
+
 ```
 ❌ "Update"
 ✅ "[ACTION] Deploy approval needed by 3pm"
@@ -31,6 +32,7 @@ Today, we fix that.
 ```
 
 ### The BLUF Method
+
 **B**ottom **L**ine **U**p **F**ront. Military folks know what's up.
 
 ```
@@ -52,6 +54,7 @@ Let me know if you need more info.
 ```
 
 ### The Email Length Rule
+
 - **1 screen or less:** They'll read it now
 - **2-3 screens:** They'll "read it later" (never)
 - **4+ screens:** You should have scheduled a meeting
@@ -59,12 +62,14 @@ Let me know if you need more info.
 ## Slack Messages That Don't Get Lost
 
 ### The Thread Starter
+
 ```
 🔴 @channel Quick database question (thread below)
 ↳ Details in thread to keep channel clean
 ```
 
 ### The Update Format
+
 ```
 ✅ **Deployment Complete**
 - What: User service v2.3
@@ -74,6 +79,7 @@ Let me know if you need more info.
 ```
 
 ### The Question Template
+
 ```
 **Need help with:** Login bug on mobile
 **What I tried:** Cache clear, different browsers
@@ -85,9 +91,12 @@ Let me know if you need more info.
 ## Documentation People Actually Read
 
 ### The TL;DR Section
+
 Every doc needs this at the top:
+
 ```markdown
 ## TL;DR
+
 - What: Payment integration service
 - Why: Handle subscriptions without pain
 - Setup time: 15 minutes
@@ -95,21 +104,27 @@ Every doc needs this at the top:
 ```
 
 ### The Skimmable Structure
+
 ```markdown
 ## What You Need (30 seconds)
+
 [Bullet points]
 
 ## Quick Start (2 minutes)
+
 [Copy-paste commands]
 
 ## Common Problems (browse when stuck)
+
 [FAQ style]
 
 ## Deep Dive (only if curious)
+
 [The detailed stuff]
 ```
 
 ### Code Comments That Help
+
 ```javascript
 // ❌ Bad: Increments i
 i++;
@@ -125,42 +140,52 @@ i++;
 ## PR Descriptions That Get Quick Reviews
 
 ### The Template
+
 ```markdown
 ## What
+
 One-line summary
 
 ## Why
+
 Business or technical reason
 
 ## How
+
 - Key change 1
 - Key change 2
 
 ## Testing
+
 What you tested and how
 
 ## Screenshots
+
 [If UI changes]
 
 ## Notes for Reviewer
+
 Where to focus attention
 ```
 
 ## The Personality-Based Writing
 
 ### For Detail-Oriented Readers
+
 - Number your points
 - Include all edge cases
 - Add data and metrics
 - Link to sources
 
 ### For Big-Picture Readers
+
 - Start with why
 - Use analogies
 - Keep it conceptual
 - Details in appendix
 
 ### For Busy Executives
+
 - One paragraph max
 - Bullets only
 - Bold the ask
@@ -169,16 +194,19 @@ Where to focus attention
 ## Writing Energy Hacks
 
 **Morning Brain = Creative Writing**
+
 - Blog posts
 - Proposals
 - Vision docs
 
 **Afternoon Brain = Structured Writing**
+
 - Documentation
 - Status updates
 - Meeting notes
 
 **Evening Brain = Quick Responses**
+
 - Slack replies
 - Email cleanup
 - Code reviews
@@ -194,16 +222,19 @@ Where to focus attention
 ## Common Writing Mistakes
 
 ### The Novel
+
 "Hey Sarah, hope you're having a great Monday! So I was thinking about our conversation last week about the database stuff, and you know how we talked about maybe potentially possibly considering..."
 
 **Fix:** Get to the point in sentence one.
 
 ### The Cryptic
+
 "It's broken. Please fix."
 
 **Fix:** What's broken? What did you expect? What happened instead?
 
 ### The Wall of Text
+
 [Imagine a huge paragraph with no breaks no bullets no structure just words words words that keep going and going...]
 
 **Fix:** Paragraph breaks. Bullets. Bold key points.
@@ -219,15 +250,19 @@ Where to focus attention
 ## Quick Templates Library
 
 ### The FYI
+
 "FYI - [what happened]. No action needed, just keeping you in the loop."
 
 ### The Blocker
+
 "🔴 Blocked on [specific thing]. Need [specific help] from [specific person] by [specific time]."
 
 ### The Decision
+
 "We need to decide between A and B by [date]. I recommend A because [reason]. Thoughts?"
 
 ### The Kudos
+
 "Quick shoutout to @person for [specific thing they did]. [Specific impact it had]. 🙌"
 
 ## Remember This

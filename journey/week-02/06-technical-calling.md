@@ -24,24 +24,30 @@ You know that feeling when you're working on something that just clicks? Where t
 ## Your 15-20 Minute Mission
 
 ### Step 1: What Breaks Your Heart? (5 minutes)
-Think about the last time you used an app, website, or system and thought "This is terrible!" 
+
+Think about the last time you used an app, website, or system and thought "This is terrible!"
+
 - What specific problems make you want to fix them?
 - What industries or areas of life feel broken to you?
 - If you had unlimited resources, what ONE problem would you solve?
 
 ### Step 2: What Lights You Up? (5 minutes)
+
 - What type of coding challenges get you excited to dive in?
 - Do you love building user interfaces? Backend systems? Data pipelines? Mobile apps?
 - Are you drawn to helping businesses be more efficient? Making life easier for regular people? Solving complex technical puzzles?
 
 ### Step 3: Your Developer Superpower (5 minutes)
+
 What comes naturally to you as a developer?
+
 - Are you the person who can explain complex things simply?
 - Do you spot bugs that others miss?
 - Can you see the big picture when others get lost in details?
 - Are you great at making ugly code beautiful?
 
 ### Step 4: Your Calling Statement (5 minutes)
+
 Complete this: "I am called to build [WHAT] for [WHO] because [WHY this matters to YOU]."
 
 ## Quick Win ✅

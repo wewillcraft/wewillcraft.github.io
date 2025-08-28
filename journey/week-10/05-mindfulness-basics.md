@@ -12,7 +12,7 @@ estimated_time: 25 minutes
 
 # Mindfulness Basics
 
-**Time:** 25 minutes  
+**Time:** 25 minutes\
 **Vibe:** Making mindfulness actually doable 🎯
 
 Let's get one thing straight: mindfulness isn't about sitting in perfect silence for hours or emptying your mind. It's about paying attention to right now, without judging yourself for it.
@@ -27,15 +27,15 @@ It's like becoming the narrator of your own life instead of just being swept alo
 
 Rate your typical presence level (1=totally zoned out, 10=completely here):
 
-**During daily tasks** (eating, walking, showering): ___/10  
-**During work or studying:** ___/10  
-**During conversations:** ___/10  
-**When you're stressed:** ___/10  
+**During daily tasks** (eating, walking, showering): ___/10\
+**During work or studying:** ___/10\
+**During conversations:** ___/10\
+**When you're stressed:** ___/10\
 **When emotions are intense:** ___/10
 
 ## What Makes Staying Present Hard?
 
-□ Mind constantly planning/worrying  
+□ Mind constantly planning/worrying\
 □ Emotions feel too intense
 □ Too many distractions everywhere
 □ Feels like "wasting time"
@@ -47,40 +47,45 @@ Rate your typical presence level (1=totally zoned out, 10=completely here):
 
 ## Mindfulness Myth-Busting
 
-**Myth:** "I have to clear my mind completely"  
+**Myth:** "I have to clear my mind completely"\
 **Truth:** Your mind will wander 1000 times. That's normal!
 
-**Myth:** "I need to sit still for 30 minutes"  
+**Myth:** "I need to sit still for 30 minutes"\
 **Truth:** You can be mindful washing dishes or walking
 
-**Myth:** "I'm bad at meditation"  
+**Myth:** "I'm bad at meditation"\
 **Truth:** Noticing your mind wandered means you're doing it right
 
-**Myth:** "I need to feel peaceful"  
+**Myth:** "I need to feel peaceful"\
 **Truth:** Sometimes you'll feel anxious, sad, or angry - that's also mindfulness
 
 ## Easy Ways to Be More Mindful
 
 ### 🍎 Mindful Eating
+
 - Take one bite and actually taste it
 - Notice texture, temperature, flavors
 - Chew slowly (just try it!)
 - Put your phone down during meals
 
-### 🚿 Mindful Daily Tasks  
+### 🚿 Mindful Daily Tasks
+
 - Feel the warm water in the shower
 - Notice your feet touching the ground as you walk
 - Pay attention to your breathing while waiting
 - Actually listen during conversations
 
 ### 🌬️ Mindful Breathing
+
 - Notice your breath without changing it
 - Feel air entering and leaving your nose
 - When mind wanders, gently come back to breathing
 - Try for just 1-2 minutes at first
 
 ### 🎯 Mindful Check-ins
+
 Throughout the day ask yourself:
+
 - "Where is my mind right now?"
 - "How does my body feel?"
 - "What emotions am I experiencing?"
@@ -89,6 +94,7 @@ Throughout the day ask yourself:
 ## The 5-4-3-2-1 Grounding Technique
 
 When you're anxious or overwhelmed, notice:
+
 - **5** things you can see
 - **4** things you can touch
 - **3** things you can hear
@@ -100,19 +106,23 @@ This brings you right back to the present moment!
 ## Starter Mindfulness Practices
 
 ### Option 1: Morning Mindful Minutes
+
 - Set timer for 2 minutes
 - Sit comfortably, close eyes if you want
 - Focus on breathing
 - When mind wanders, gently return to breath
 - Increase by 1 minute each week if it feels good
 
-### Option 2: Mindful Transitions  
+### Option 2: Mindful Transitions
+
 Between activities, take 3 deep breaths and notice:
+
 - How your body feels
 - What you're thinking about
 - Your emotional state
 
 ### Option 3: Walking Mindfulness
+
 - Walk at normal pace
 - Focus on feeling your feet touching the ground
 - Notice your surroundings
@@ -123,8 +133,9 @@ Between activities, take 3 deep breaths and notice:
 ## Mindful Self-Compassion
 
 When you notice difficult thoughts/emotions:
+
 1. **Acknowledge:** "I'm having a tough time right now"
-2. **Normalize:** "This is part of being human"  
+2. **Normalize:** "This is part of being human"
 3. **Kindness:** "How can I be gentle with myself?"
 
 **Your self-compassion phrase:** ___________
@@ -132,21 +143,25 @@ When you notice difficult thoughts/emotions:
 ## Building Your Mindfulness Habit
 
 ### Week 1: Micro-mindfulness
+
 - 3 mindful breaths, 3 times a day
 - One mindful meal per day
 - Use 5-4-3-2-1 when stressed
 
 ### Week 2: Add daily practice
+
 - Choose one starter practice
 - Set a consistent time
 - Start with just 2-3 minutes
 
 ### Week 3: Expand awareness
+
 - Mindful transitions between activities
 - Notice mind wandering without judgment
 - Practice self-compassion
 
 ### Week 4: Make it yours
+
 - Adjust practices to fit your life
 - Try different approaches
 - Notice what actually helps

@@ -15,8 +15,9 @@ This week is about breaking one of the biggest myths in tech: that you have to f
 ## Big Picture This Week
 
 You'll learn to:
+
 - Ask technical questions that actually get helpful answers
-- Find the right communities for different types of help  
+- Find the right communities for different types of help
 - Build relationships that accelerate your learning
 - Contribute back to the community in meaningful ways
 
@@ -25,7 +26,7 @@ You'll learn to:
 1. [**Day 1: Why Asking for Help is Actually Smart**](./01-help-psychology) (~15 min)
    Get over the mental barriers and reframe help-seeking as a superpower
 
-2. [**Day 2: Stack Overflow Like a Boss**](./02-stackoverflow-mastery) (~20 min)  
+2. [**Day 2: Stack Overflow Like a Boss**](./02-stackoverflow-mastery) (~20 min)\
    Master the art of asking questions that get great answers fast
 
 3. [**Day 3: Find Your Developer Tribe**](./03-finding-tribes) (~15 min)
@@ -60,4 +61,4 @@ The myth of the lone genius developer is holding you back. Every successful deve
 
 ---
 
-*The best developers aren't the ones who know everything - they're the ones who know how to find answers quickly.*
+_The best developers aren't the ones who know everything - they're the ones who know how to find answers quickly._

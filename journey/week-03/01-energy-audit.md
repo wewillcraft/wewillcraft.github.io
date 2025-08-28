@@ -20,6 +20,7 @@ Today we're starting a week-long experiment to understand your unique energy pat
 ## Why This Matters
 
 Most people try to force themselves to work at random times and then wonder why everything feels so hard. When you understand your energy rhythms:
+
 - You schedule hard tasks during peak energy
 - You protect your recharge time
 - You stop feeling guilty about natural low periods
@@ -28,6 +29,7 @@ Most people try to force themselves to work at random times and then wonder why 
 ## Your 15-Minute Mission
 
 ### Step 1: Energy Check-In (5 minutes)
+
 Right now, rate your energy in each area (1-10):
 
 **Physical:** How does your body feel? (tired, energized, etc.)
@@ -36,7 +38,9 @@ Right now, rate your energy in each area (1-10):
 **Motivational:** How driven do you feel? (inspired, flat, etc.)
 
 ### Step 2: Set Up Simple Tracking (10 minutes)
+
 For the next week, check in with yourself 3 times a day (maybe 9am, 2pm, 8pm) and note:
+
 - Your energy levels (1-10 in each type)
 - What you were doing
 - How you're feeling
@@ -50,18 +54,22 @@ Use whatever works - phone notes, a simple notepad, or any app you like.
 ## The Four Types of Energy
 
 **Physical Energy:** Your body's fuel
+
 - High: Ready for action, alert, comfortable
 - Low: Tired, sluggish, need rest
 
-**Mental Energy:** Your brain's processing power  
+**Mental Energy:** Your brain's processing power
+
 - High: Sharp thinking, clear focus, can tackle complex problems
 - Low: Foggy, distracted, making simple mistakes
 
 **Emotional Energy:** Your inner state
+
 - High: Positive, resilient, excited
 - Low: Stressed, anxious, overwhelmed
 
 **Motivational Energy:** Your drive to take action
+
 - High: Eager to work, inspired, purposeful
 - Low: Unmotivated, flat, going through the motions
 
@@ -74,6 +82,7 @@ The goal isn't to optimize everything perfectly. It's to understand your pattern
 ## Today's Takeaway
 
 You're not a machine that runs at constant speed. You're a dynamic system with natural rhythms. This week, you're going to discover those rhythms and learn to honor them. 🎯
+
 - **Developer impact:** Affects motivation and resilience
 - **Quick wins:** Celebrate small wins, connect with team
 

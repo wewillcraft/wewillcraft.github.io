@@ -32,48 +32,57 @@ Here's the thing: your brain isn't broken if traditional study methods don't wor
 ## This Week's Adventure
 
 ### Day 1: [Find Your Learning Style](./01-learning-style)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Are you a visual learner who thinks in diagrams? An audio learner who processes best through conversation? Let's find out and stop fighting against your natural wiring.
 
 ### Day 2: [Build Your Second Brain](./02-second-brain)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Create an external knowledge system so your actual brain can focus on thinking instead of storing everything. Think of it as your personal Wikipedia.
 
 ### Day 3: [Master Spaced Repetition](./03-spaced-repetition)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Learn the science behind forgetting (and how to beat it). This one technique alone can cut your study time in half while doubling retention.
 
 ### Day 4: [Active Learning Techniques](./04-active-learning)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Stop being a passive consumer of information. We'll turn you into an active learner who actually understands (and remembers) what they learn.
 
 ### Day 5: [Design Your Information Diet](./05-information-diet)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Curate what goes into your brain like you curate your Netflix queue. Quality over quantity, always.
 
 ### Day 6: [Learn Through Projects](./06-project-learning)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 The best way to learn is by building. We'll design a project-based approach that makes learning stick naturally.
 
 ### Day 7: [Turn Failures into Fuel](./07-failure-learning)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Reframe every bug, mistake, and "failed" attempt as valuable data. Spoiler alert: there are no failures, only lessons.
 
 ### Day 8: [Share Your Knowledge](./08-knowledge-sharing)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 The fastest way to cement your learning? Teach it to someone else. We'll build systems for sharing and reinforcing what you learn.
 
 ## What You'll Walk Away With
 
 By Sunday night, you'll have:
+
 - ✅ Your personal learning style blueprint (no more one-size-fits-all methods)
 - ✅ A "second brain" system that captures and connects your knowledge
 - ✅ A curated information diet that feeds your growth
@@ -97,11 +106,13 @@ This week isn't about finding the "perfect" method. It's about finding YOUR meth
 ## Your Week 4 Toolkit
 
 ### 📱 Essential Tools
+
 - **Note-taking app**: Your "second brain" home (we'll help you choose)
 - **Timer**: For focused learning sessions
 - **Learning journal**: Track what works and what doesn't
 
 ### 🎧 Optional Companions
+
 - **Noise-canceling headphones**: For deeper focus
 - **Standing desk**: Some brains learn better while moving
 - **Study buddy**: Share insights and stay accountable

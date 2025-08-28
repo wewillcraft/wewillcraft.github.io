@@ -22,11 +22,13 @@ Many professionals operate as if energy is infinite, saying yes to every request
 ### Energy Audit (5 min)
 
 **Track your energy for one day:**
+
 - Rate energy levels hourly (1-10 scale)
 - Note activities that preceded energy changes
 - Identify what drains vs. energizes you
 
 **Common Energy Drains:**
+
 - Unnecessary meetings without clear outcomes
 - Constant interruptions fragmenting attention
 - Toxic relationships requiring emotional management
@@ -34,6 +36,7 @@ Many professionals operate as if energy is infinite, saying yes to every request
 - Saying yes when you want to say no
 
 **Potential Energy Sources:**
+
 - Meaningful work aligned with strengths
 - Deep focus periods producing flow states
 - Positive relationships providing mutual support
@@ -43,6 +46,7 @@ Many professionals operate as if energy is infinite, saying yes to every request
 ### Create Your Energy Budget (10 min)
 
 **Priority-Based Energy Investment:**
+
 1. List your top 3-5 professional priorities
 2. Assign energy percentage to each priority
 3. Reserve 20% energy for unexpected demands
@@ -50,6 +54,7 @@ Many professionals operate as if energy is infinite, saying yes to every request
 5. Protect energy for personal priorities
 
 **Energy ROI Analysis:**
+
 - Calculate energy cost vs. value created
 - Identify high-leverage activities worth energy investment
 - Recognize low-return activities to minimize
@@ -58,18 +63,21 @@ Many professionals operate as if energy is infinite, saying yes to every request
 ### Energy Protection Strategies (5 min)
 
 **Communication Energy Boundaries:**
+
 - Batch email and message checking (3x daily max)
 - Set response time expectations ("I respond within 24 hours")
 - Use auto-responses during focus time
 - Decline meetings without clear purpose
 
 **Attention Energy Boundaries:**
+
 - Create distraction-free work zones
 - Protect 2-4 hour deep work blocks daily
 - Use focus tools and website blockers
 - Establish "closed door" policies
 
 **Emotional Energy Boundaries:**
+
 - Limit exposure to energy vampires
 - Set limits on emotional labor
 - Create buffers after draining interactions
@@ -80,6 +88,7 @@ Many professionals operate as if energy is infinite, saying yes to every request
 Choose one energy boundary to implement this week:
 
 **Options:**
+
 1. **Batched Communication**: Check email only at 9 AM, 1 PM, and 4 PM
 2. **Meeting Buffer**: Schedule 10-minute breaks between all meetings
 3. **Energy Vampire Limit**: Limit draining conversations to 15 minutes max

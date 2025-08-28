@@ -24,14 +24,18 @@ You've been fighting your natural rhythms trying to fit into other people's sche
 ## Your 15-20 Minute Mission
 
 ### Step 1: Map Your Energy Week (5 minutes)
+
 Using everything you've learned this week:
+
 - When are your peak energy hours each day?
 - When do you naturally need breaks or lighter work?
 - Which days feel naturally more productive?
 - When do you need social interaction vs. solo focus time?
 
 ### Step 2: Design Your Ideal Daily Blocks (5 minutes)
+
 For each day, roughly block out:
+
 - Deep work time (your peak energy hours)
 - Communication time (meetings, emails, calls)
 - Learning/development time
@@ -39,14 +43,18 @@ For each day, roughly block out:
 - Buffer time between major shifts
 
 ### Step 3: Weekly Rhythm Design (5 minutes)
+
 Create a weekly pattern that works:
+
 - Which days are best for heads-down coding?
 - When should you batch meetings?
 - Where do you need recovery time?
 - How do you want to start and end your week?
 
 ### Step 4: Test Your Design (5 minutes)
+
 Look at your ideal schedule and ask:
+
 - Does this actually feel sustainable?
 - Are you protecting your best hours?
 - Is there enough buffer time?

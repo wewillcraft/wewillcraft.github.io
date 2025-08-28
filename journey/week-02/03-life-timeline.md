@@ -34,6 +34,7 @@ Grab a piece of paper (or use your phone's drawing app). Draw a simple line acro
 **How high/low**: Shows how intense it felt
 
 Include things like:
+
 - First time you felt really proud
 - When you discovered something you loved
 - Your biggest win
@@ -47,6 +48,7 @@ Don't overthink it! Just mark what comes to mind first.
 ### Part 2: Find the Pattern (7 minutes)
 
 Look at your peaks. Ask yourself:
+
 - What did they have in common?
 - Were you learning something new?
 - Were you helping others?
@@ -54,6 +56,7 @@ Look at your peaks. Ask yourself:
 - Were you part of something bigger?
 
 Now look at your valleys:
+
 - What was missing?
 - Were you isolated?
 - Did you lack purpose?
@@ -63,6 +66,7 @@ Now look at your valleys:
 ### Part 3: Connect to Today (3 minutes)
 
 Write down:
+
 1. **My peaks usually happen when I have:** ____________
 2. **My valleys usually happen when I lack:** ____________
 3. **The pattern I see is:** ____________
@@ -86,6 +90,7 @@ Your peaks? They're not just nice memories. They're your blueprint. They show yo
 ## The Developer's Angle 🖥️
 
 If you work in tech, also notice:
+
 - When did coding feel like play vs. work?
 - What projects made you lose track of time?
 - When did you feel most proud of your work?
@@ -96,6 +101,7 @@ These aren't just preferences. They're requirements for your best work.
 ## Going Deeper (Optional)
 
 If you want to explore more:
+
 - Rate each event from -5 to +5 for intensity
 - Note which of your core values were present in peaks
 - Identify which values were violated in valleys

@@ -11,6 +11,7 @@ objectives:
 ## Let's Get Real About Money
 
 Your financial situation right now:
+
 - Living on ramen and hope
 - Student loans lurking in the shadows
 - Credit card you probably shouldn't have gotten
@@ -26,21 +27,23 @@ No judgment. Just facts. Where are you really?
 ### Current Reality Check
 
 **Monthly money in:**
+
 - Part-time job: $___
 - Side gigs: $___
 - Parents help: $___ (no shame!)
 - Financial aid refund: $___
 - Random hustles: $___
-**Total in:** $___
+  **Total in:** $___
 
 **Monthly money out:**
+
 - Rent/dorm: $___
 - Food (including late-night stress eating): $___
 - Transportation: $___
 - Phone: $___
 - Subscriptions (that you forgot about): $___
 - Fun (yes, this matters): $___
-**Total out:** $___
+  **Total out:** $___
 
 **The gap:** $___
 
@@ -49,7 +52,9 @@ If it's negative, you're not alone. If it's positive, you're ahead of most.
 ## The Student Budget Reality
 
 ### The Ramen Tier ($0-500/month)
+
 You're surviving on:
+
 - Instant noodles and free pizza at events
 - Parents' Netflix password
 - Walking everywhere
@@ -57,13 +62,16 @@ You're surviving on:
 - Free campus activities
 
 **Survival strategies:**
+
 - Food banks exist and they're for you
 - Campus jobs often include meals
 - Textbook PDFs aren't stealing, they're surviving
 - Every free event with food is a dinner plan
 
 ### The PB&J Tier ($500-1000/month)
+
 You've upgraded to:
+
 - Actual groceries sometimes
 - Your own Spotify
 - Occasional Uber
@@ -71,13 +79,16 @@ You've upgraded to:
 - A night out once a month
 
 **Optimization strategies:**
+
 - Meal prep Sundays save money and time
 - Student discounts on EVERYTHING
 - Split subscriptions with friends
 - Happy hours and student nights
 
 ### The "I Have a Part-Time Job" Tier ($1000-2000/month)
+
 You can afford:
+
 - Real food regularly
 - Your own subscriptions
 - Gas for your car
@@ -85,6 +96,7 @@ You can afford:
 - Small emergency fund
 
 **Growth strategies:**
+
 - Start that $100 emergency fund
 - Automate $25/month savings
 - Track spending for one month
@@ -93,26 +105,31 @@ You can afford:
 ## The Debt Reality (Without the Drama)
 
 ### Student Loans: The Elephant
+
 **Federal loans:** Generally okay debt (low interest, flexible repayment)
 **Private loans:** Higher priority to pay off
 **Parent PLUS loans:** Talk to your parents now
 
 **The strategy:**
+
 - Know your total (scary but necessary)
 - Understand your grace period
 - Research income-driven repayment
 - Don't panic about them yet
 
 ### Credit Card Debt: The Trap
+
 **If you have it:** You're not stupid, you were surviving
 
 **The escape plan:**
+
 1. Stop using the card
 2. Pay minimum on all but smallest
 3. Attack smallest debt first
 4. Feel the win, repeat
 
 ### The "Good Debt" Myth
+
 All debt costs money. Some is just more expensive than others. Your goal: minimize the expensive stuff.
 
 ## Your First Real Paycheck Plan
@@ -120,13 +137,16 @@ All debt costs money. Some is just more expensive than others. Your goal: minimi
 That first tech job paycheck hits different. Here's how not to blow it:
 
 ### The "Oh Shit I Have Money" Month 1
+
 **What you'll want to do:**
+
 - Buy everything
 - Eat at real restaurants daily
 - Get the apartment with exposed brick
 - Subscribe to everything
 
 **What you should do:**
+
 - Celebrate with ONE nice thing
 - Keep living like a student for 3 months
 - Build emergency fund
@@ -139,6 +159,7 @@ That first tech job paycheck hits different. Here's how not to blow it:
 **Month 7+:** Find your sustainable level
 
 **The saved money goes to:**
+
 1. 1-month emergency fund
 2. High-interest debt
 3. 3-month emergency fund
@@ -160,6 +181,7 @@ Do it now. Seriously. Small moves compound.
 ## The Free Money You're Missing
 
 ### Student Discounts You Forgot About
+
 - Spotify Premium ($4.99 vs $9.99)
 - Amazon Prime Student (6 months free)
 - Adobe Creative Cloud (60% off)
@@ -167,7 +189,9 @@ Do it now. Seriously. Small moves compound.
 - Your campus gym (already paid for!)
 
 ### The Side Hustle Reality
+
 **Good student side hustles:**
+
 - Tutoring ($20-50/hour)
 - Campus IT help desk
 - Freelance coding projects
@@ -175,6 +199,7 @@ Do it now. Seriously. Small moves compound.
 - Teaching assistant positions
 
 **Bad student side hustles:**
+
 - MLMs (run away)
 - Crypto day trading (unless you can lose it)
 - Anything requiring upfront investment
@@ -183,15 +208,19 @@ Do it now. Seriously. Small moves compound.
 ## The Money Scripts for Adulting
 
 ### Asking for more money (part-time job)
+
 "I've been here for [time] and have taken on [responsibilities]. Based on my performance and market rates, could we discuss adjusting my hourly rate?"
 
 ### Negotiating bills
+
 "I'm a student on a tight budget. Are there any discounts or payment plans available?"
 
 ### Talking to parents about money
+
 "Can we talk about expectations around money? I want to understand what support is available and what I need to cover myself."
 
 ### Setting money boundaries with friends
+
 "That sounds fun but it's not in my budget this month. Could we do [free alternative] instead?"
 
 ## The Financial Wellness Minimums
@@ -199,19 +228,23 @@ Do it now. Seriously. Small moves compound.
 Whatever your situation, protect these:
 
 **Daily:**
+
 - Know what's in your checking account
 - Avoid overdraft fees at all costs
 
 **Weekly:**
+
 - Check all your accounts
 - Track where money went
 
 **Monthly:**
+
 - Pay all bills on time (even minimums)
 - Move ANY amount to savings
 - Review subscriptions
 
 **Yearly:**
+
 - Check credit report (free!)
 - File taxes (get that refund)
 - Renegotiate recurring bills

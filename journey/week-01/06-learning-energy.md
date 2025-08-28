@@ -21,6 +21,7 @@ Your brain has preferences for when it performs best and how it likes to receive
 ## Why This Matters
 
 When you align your schedule and learning style with your natural rhythms:
+
 - Complex tasks feel manageable
 - You retain information better
 - You feel energized instead of drained
@@ -29,13 +30,16 @@ When you align your schedule and learning style with your natural rhythms:
 ## Your 15-Minute Mission
 
 ### Step 1: Quick Learning Style Check (5 minutes)
+
 Think about the last time you learned something complex. Did you:
+
 - **Visual:** Draw diagrams or need to see it?
 - **Audio:** Talk through it or listen to explanations?
 - **Read/Write:** Take notes or read documentation?
 - **Hands-on:** Jump in and try things?
 
 ### Step 2: Energy Audit (10 minutes)
+
 For the next 3 days, note your energy levels every few hours (1-10 scale). When are you naturally most alert?
 
 ## Quick Win ✅
@@ -45,21 +49,25 @@ For the next 3 days, note your energy levels every few hours (1-10 scale). When 
 ## The Four Learning Styles
 
 **Visual Learners:** You think in pictures
+
 - Use: Diagrams, flowcharts, mind maps, color coding
 - Avoid: Long text blocks without visuals
 - Pro tip: Draw your code structure before writing it
 
 **Audio Learners:** You think out loud
+
 - Use: Podcasts, explaining concepts to others, discussions
 - Avoid: Silent studying for too long
 - Pro tip: Rubber duck debugging actually works for you!
 
 **Read/Write Learners:** You think in words
+
 - Use: Documentation, note-taking, writing explanations
 - Avoid: Information without context or details
 - Pro tip: Write comments before you write code
 
 **Hands-on Learners:** You think by doing
+
 - Use: Experiments, building projects, trial-and-error
 - Avoid: Too much theory before practice
 - Pro tip: Code along with tutorials, don't just watch
@@ -67,16 +75,19 @@ For the next 3 days, note your energy levels every few hours (1-10 scale). When 
 ## Your Energy Patterns
 
 **Morning Person?**
+
 - Schedule creative/complex work early
 - Use afternoons for meetings and admin
 - Protect your morning energy fiercely
 
 **Night Owl?**
+
 - Don't force yourself into early meetings
 - Use your peak hours for deep work
 - Allow for a slower morning routine
 
 **Afternoon Peak?**
+
 - Save your hardest problems for mid-day
 - Use mornings for planning and setup
 - Wind down gradually in the evening
@@ -90,6 +101,7 @@ There's no "right" way to work - only YOUR way.
 ## Today's Takeaway
 
 Stop trying to force your brain into someone else's productivity system. Design a learning and work style that works WITH your natural preferences, not against them. 🎯
+
 - Taking detailed notes
 
 **Study hack:** Write your own documentation. Maintain a learning journal.
@@ -304,4 +316,3 @@ Combine all three for maximum impact:
 ## Key Takeaway
 
 You're not lazy when you struggle at 9 AM if you're an owl. You're not antisocial if you need quiet to learn. You're not needy if you thrive on collaboration. You're just working against your nature. Now you know better: work WITH yourself, not against yourself.
-

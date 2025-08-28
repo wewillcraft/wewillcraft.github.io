@@ -24,27 +24,34 @@ Most people try to beat procrastination with more discipline. That's like trying
 ## Your 15-20 Minute Mission
 
 ### Step 1: Your Procrastination Inventory (5 minutes)
+
 Think about the last few times you procrastinated:
+
 - What task were you avoiding?
 - How did you feel when you thought about doing it?
 - What did you do instead?
 - What was the real reason you didn't want to start?
 
 ### Step 2: Identify Your Procrastination Pattern (5 minutes)
+
 Which of these sounds most like you?
+
 - "I'll do it perfectly or not at all" (Perfectionist)
 - "This is too big, I don't know where to start" (Overwhelmed)
 - "What if I mess this up?" (Fear-based)
 - "I just don't have the energy for this right now" (Energy-depleted)
 
 ### Step 3: Find Your Procrastination Triggers (5 minutes)
+
 What situations make you most likely to procrastinate?
+
 - Unclear requirements or expectations
 - Tasks that feel too big or complex
 - Work you don't find interesting
 - Times when your energy is already low
 
 ### Step 4: Design Your Anti-Procrastination Strategy (5 minutes)
+
 Based on your pattern, what's one small thing you can try?
 
 ## Quick Win ✅

@@ -19,9 +19,10 @@ When you have a consistent ritual, your brain knows exactly what's coming next. 
 ## Why This Matters
 
 Every time you sit down to work without a ritual, your brain has to answer dozens of micro-decisions:
+
 - What should I work on first?
 - Where should I sit?
-- Do I need coffee? 
+- Do I need coffee?
 - Should I check email quickly?
 - What music should I play?
 
@@ -34,18 +35,21 @@ By the time you've made all these decisions, your mental energy is already deple
 Create a 5-10 minute routine that consistently signals "time for deep work." Choose 3-4 elements:
 
 **Environment Setup:**
+
 - Clear your desk of everything except what you need
 - Put on noise-canceling headphones or play focus music
 - Set your phone to airplane mode
 - Close all non-essential browser tabs
 
 **Physical Preparation:**
+
 - Get your favorite beverage (but limit caffeine)
 - Adjust lighting and temperature
 - Sit in your designated focus spot
 - Take three deep breaths
 
 **Mental Transition:**
+
 - Review what you want to accomplish in this session
 - Set a specific timer (25-90 minutes)
 - Write down any distracting thoughts to deal with later
@@ -54,6 +58,7 @@ Create a 5-10 minute routine that consistently signals "time for deep work." Cho
 ### Test Your Ritual (5 minutes)
 
 Right now, run through your ritual and then spend 5 minutes on any focused task. Notice:
+
 - How quickly did you feel "in the zone"?
 - What felt natural vs. forced?
 - What would you add or remove?

@@ -22,6 +22,7 @@ Poor personal boundaries lead to resentment, exhaustion, and relationships that 
 ### Personal Boundary Assessment (5 min)
 
 **Signs you need stronger personal boundaries:**
+
 - You feel guilty saying no to family or friends
 - You prioritize others' needs over your own consistently
 - You feel responsible for others' happiness or problems
@@ -30,6 +31,7 @@ Poor personal boundaries lead to resentment, exhaustion, and relationships that 
 - You make excuses instead of stating your limits directly
 
 **Common personal boundary challenges:**
+
 - Family members who don't respect your adult autonomy
 - Friends who regularly cancel or show up late
 - Relatives who give unsolicited advice about your life choices
@@ -38,18 +40,21 @@ Poor personal boundaries lead to resentment, exhaustion, and relationships that 
 ### Create Your Personal Boundary Framework (10 min)
 
 **Relationship Boundaries:**
+
 - Define how much emotional support you can sustainably provide
 - Set limits on advice-giving and problem-solving for others
 - Establish boundaries around personal topics and information sharing
 - Create guidelines for time and energy investment in relationships
 
 **Family Boundaries:**
+
 - Clarify your availability for family events and calls
 - Set limits on discussions about sensitive topics (career, relationships, life choices)
 - Establish boundaries around unsolicited advice or criticism
 - Define your role in family dynamics and conflicts
 
 **Friend Boundaries:**
+
 - Communicate your needs for reciprocity in friendships
 - Set limits on last-minute changes or cancellations
 - Establish boundaries around lending money or resources
@@ -58,16 +63,19 @@ Poor personal boundaries lead to resentment, exhaustion, and relationships that 
 ### Essential Personal Scripts (5 min)
 
 **For Setting Limits:**
+
 - "I care about you, and I'm not able to take on additional stress right now"
 - "I love spending time with you, and I need to leave by 9 PM"
 - "I'm not comfortable discussing that topic. Let's talk about something else"
 
 **For Saying No:**
+
 - "That doesn't work for me, but thanks for thinking of me"
 - "I won't be able to make it, but I hope you have a great time"
 - "I'm not available to help with that, but I can recommend [alternative]"
 
 **For Addressing Violations:**
+
 - "When you [specific behavior], I feel [emotion]. I need [specific change]"
 - "I've mentioned this before, and it's important to me that we respect this boundary"
 - "I notice this keeps happening. How can we make sure my boundaries are respected?"
@@ -77,6 +85,7 @@ Poor personal boundaries lead to resentment, exhaustion, and relationships that 
 Choose one personal boundary to strengthen this week:
 
 **Options:**
+
 1. **Response Time**: Don't feel obligated to respond to non-urgent personal messages immediately
 2. **Social Energy**: Limit social commitments to preserve energy for important relationships
 3. **Advice Boundaries**: Stop giving unsolicited advice; only offer when directly asked

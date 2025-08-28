@@ -21,6 +21,7 @@ The Enneagram reveals your core motivation - that deep "why" behind your actions
 ## Why This Matters
 
 When you understand what truly motivates you:
+
 - You stop being confused by your own behavior
 - You recognize stress patterns before you crash
 - You can design a life that energizes instead of drains you
@@ -29,9 +30,11 @@ When you understand what truly motivates you:
 ## Your 15-Minute Mission
 
 ### Step 1: Take the Test (12 minutes)
+
 Go to [Truity Enneagram Test](https://www.truity.com/test/enneagram-personality-test) and answer honestly about your lifelong patterns, not just how you are right now.
 
 ### Step 2: Note Your Top 3 (3 minutes)
+
 Write down your top 3 scores - you might resonate with more than one!
 
 ## Quick Win ✅
@@ -43,49 +46,49 @@ Write down your top 3 scores - you might resonate with more than one!
 Here's what drives each type (you might see yourself in multiple ones):
 
 **1 - The Perfectionist:** "I need to be right and good"
-*Fear:* Being wrong or bad
-*When stressed:* Everything feels wrong
-*When growing:* Joyful and spontaneous
+_Fear:_ Being wrong or bad
+_When stressed:_ Everything feels wrong
+_When growing:_ Joyful and spontaneous
 
 **2 - The Helper:** "I need to be needed"
-*Fear:* Being unloved or unwanted
-*When stressed:* Demanding and possessive
-*When growing:* Takes care of themselves too
+_Fear:_ Being unloved or unwanted
+_When stressed:_ Demanding and possessive
+_When growing:_ Takes care of themselves too
 
 **3 - The Achiever:** "I need to be successful"
-*Fear:* Being worthless or without value
-*When stressed:* Checks out and becomes apathetic
-*When growing:* Authentic and honest
+_Fear:_ Being worthless or without value
+_When stressed:_ Checks out and becomes apathetic
+_When growing:_ Authentic and honest
 
 **4 - The Individualist:** "I need to be unique"
-*Fear:* Being ordinary or insignificant
-*When stressed:* Clingy and jealous
-*When growing:* Disciplined and objective
+_Fear:_ Being ordinary or insignificant
+_When stressed:_ Clingy and jealous
+_When growing:_ Disciplined and objective
 
 **5 - The Investigator:** "I need to be competent"
-*Fear:* Being incompetent or invaded
-*When stressed:* Hyperactive and scattered
-*When growing:* Confident and decisive
+_Fear:_ Being incompetent or invaded
+_When stressed:_ Hyperactive and scattered
+_When growing:_ Confident and decisive
 
 **6 - The Loyalist:** "I need to be secure"
-*Fear:* Being without support or guidance
-*When stressed:* Workaholic and competitive
-*When growing:* Relaxed and optimistic
+_Fear:_ Being without support or guidance
+_When stressed:_ Workaholic and competitive
+_When growing:_ Relaxed and optimistic
 
 **7 - The Enthusiast:** "I need to be satisfied"
-*Fear:* Being trapped in pain or deprivation
-*When stressed:* Perfectionistic and critical
-*When growing:* Focused and profound
+_Fear:_ Being trapped in pain or deprivation
+_When stressed:_ Perfectionistic and critical
+_When growing:_ Focused and profound
 
 **8 - The Challenger:** "I need to be self-reliant"
-*Fear:* Being controlled or vulnerable
-*When stressed:* Withdrawn and secretive
-*When growing:* Caring and protective
+_Fear:_ Being controlled or vulnerable
+_When stressed:_ Withdrawn and secretive
+_When growing:_ Caring and protective
 
 **9 - The Peacemaker:** "I need to maintain harmony"
-*Fear:* Loss of connection and fragmentation
-*When stressed:* Anxious and worried
-*When growing:* Dynamic and focused
+_Fear:_ Loss of connection and fragmentation
+_When stressed:_ Anxious and worried
+_When growing:_ Dynamic and focused
 
 ## Real Talk
 
@@ -104,4 +107,3 @@ Your type isn't an excuse or a box - it's a spotlight on your unconscious patter
 ## Today's Takeaway
 
 You are not broken. You are not too much or too little. You have a beautiful, complex inner world, and understanding it is the key to living with more peace and purpose. 🎯
-

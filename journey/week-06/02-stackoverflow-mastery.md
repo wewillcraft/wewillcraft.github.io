@@ -18,40 +18,47 @@ Every developer hits walls. The difference between struggling alone for hours an
 ## Your 15-20 Minute Mission
 
 ### The MCVE Framework (5 min)
+
 Learn to create **Minimal, Complete, Verifiable Examples**:
+
 - **Minimal**: Strip away everything not related to the problem
 - **Complete**: Include all necessary setup and dependencies
 - **Verifiable**: Others can copy/paste and reproduce the issue
 
 ```javascript
 // Good MCVE example
-const express = require('express');
+const express = require("express");
 const app = express();
 
-app.get('/test', (req, res) => {
+app.get("/test", (req, res) => {
   // Expected: JSON response
   // Actual: HTML error page
-  res.json({ message: 'test' });
+  res.json({ message: "test" });
 });
 
 app.listen(3000);
 ```
 
 ### Question Quality Checklist (5 min)
+
 Before posting, ensure your question has:
+
 - **Clear title**: "JavaScript async/await not catching Promise rejection" (not "JS not working")
 - **Problem context**: What you're trying to do and what's happening instead
 - **Research shown**: What you've tried and why it didn't work
 - **Specific tags**: Use 2-5 relevant tags that connect with expert communities
 
 ### Strategic Answering (5 min)
+
 When answering questions:
+
 1. **Start with the solution** - Give them what they need immediately
 2. **Explain why it works** - Help them learn, not just copy
 3. **Add extra value** - Mention potential pitfalls or better approaches
 4. **Format professionally** - Use code highlighting and clear structure
 
 ### Quick Research Tactics (5 min)
+
 - Use specific error messages as search terms
 - Search with `[tag-name] your-problem` format
 - Check official docs alongside Stack Overflow answers
@@ -60,6 +67,7 @@ When answering questions:
 ## Quick Win ✅
 
 Right now, go to Stack Overflow and:
+
 1. Find one well-written question in your tech area
 2. Analyze what makes it effective (clear title, MCVE, good research)
 3. Find one question you could answer and draft a helpful response

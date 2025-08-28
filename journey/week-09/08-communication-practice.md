@@ -22,14 +22,17 @@ You've learned the theory. Now let's put it to work with real scenarios you'll a
 **Your Mission:** Get clarity without being annoying.
 
 ### Bad Response
+
 "What thing? This is too vague."
 
 ### Good Response
+
 "Hey! Want to make sure I deliver what you need. Quick clarification:
+
 - Which feature from our Tuesday discussion?
 - By scalable, are we talking 100 users or 10k?
 - Any specific UX patterns you want me to follow?
-Can sync for 5 mins if easier."
+  Can sync for 5 mins if easier."
 
 **Practice:** Write your version. Make it friendly but get specifics.
 
@@ -40,6 +43,7 @@ Can sync for 5 mins if easier."
 **Your Mission:** Reclaim credit professionally.
 
 ### The Approach
+
 1. Don't react in the moment
 2. Private message after: "Great presentation! I'm excited the auth system I built is getting recognition. For the follow-up deck, happy to add technical details about the implementation."
 3. Follow up with evidence trail
@@ -54,7 +58,9 @@ Can sync for 5 mins if easier."
 **Your Mission:** Respond constructively despite feeling attacked.
 
 ### Your Response Template
+
 "Thanks for the review. To make sure I fix this correctly:
+
 - Which specific patterns should I follow?
 - Is there example code in our codebase I should reference?
 - What documentation section covers this?"
@@ -68,6 +74,7 @@ Can sync for 5 mins if easier."
 **Your Mission:** Address it without creating conflict.
 
 ### Private Message Approach
+
 "Hey Alex! You always have great technical insights. I noticed standups are running long - what if we did a separate deep-dive session for complex topics? That way we could really dig in without time pressure."
 
 **Practice:** Write a message that redirects without shaming.
@@ -79,6 +86,7 @@ Can sync for 5 mins if easier."
 **Your Mission:** Prepare and deliver without dying.
 
 ### Your Prep Checklist
+
 ```markdown
 Tonight:
 [ ] Create 5 slides max (problem, solution, impact, timeline, questions)
@@ -103,6 +111,7 @@ Day of presentation:
 **Your Mission:** Make one meaningful connection.
 
 ### The Strategy
+
 1. Find someone else standing alone
 2. Approach with: "Mind if I join you? These events can be overwhelming."
 3. Ask: "What team are you on? What are you working on?"
@@ -118,11 +127,13 @@ Day of presentation:
 **Your Mission:** Ask for fair compensation.
 
 ### Your Script
+
 "I'd like to discuss my compensation. Based on my research and contributions:
+
 - I'm currently below market rate for my role
 - I've delivered [specific achievements]
 - I'd like to discuss an adjustment to [specific number]
-What would you need to see from me to make this happen?"
+  What would you need to see from me to make this happen?"
 
 **Practice:** List your three strongest achievements and their impact.
 
@@ -133,6 +144,7 @@ What would you need to see from me to make this happen?"
 **Your Mission:** Set boundaries without seeming uncommitted.
 
 ### The Approach
+
 "I want to deliver quality work and I'm concerned about sustainability. I'm currently juggling X projects. Can we prioritize what's most critical? I want to do fewer things better rather than everything poorly."
 
 **Practice:** Write your version. Be honest but solution-focused.
@@ -140,21 +152,25 @@ What would you need to see from me to make this happen?"
 ## Your Communication Workout Plan
 
 ### Week 1: Foundation
+
 - Practice one scenario daily
 - Focus on clarity and brevity
 - Get comfortable with templates
 
 ### Week 2: Personality Adaptation
+
 - Identify three colleagues' styles
 - Adapt one message for each style
 - Notice the response differences
 
 ### Week 3: Difficult Conversations
+
 - Have one boundary-setting conversation
 - Give one piece of constructive feedback
 - Ask for something you need
 
 ### Week 4: Integration
+
 - Lead one meeting
 - Network with one new person
 - Negotiate one deadline or requirement
@@ -162,18 +178,23 @@ What would you need to see from me to make this happen?"
 ## The Quick Reference Scripts
 
 ### When You Need Time
+
 "Let me think about that and get back to you by [specific time]."
 
 ### When You're Lost
+
 "I want to make sure I understand. Could you give me an example?"
 
 ### When You Disagree
+
 "I see it differently. Can I share my perspective?"
 
 ### When You're Overwhelmed
+
 "I need to recalibrate my priorities. What's most critical?"
 
 ### When Someone's Wrong
+
 "I might be missing something, but I think..."
 
 ## Self-Assessment Checklist
@@ -211,7 +232,7 @@ Start today. Practice with the next person you talk to.
 
 ---
 
-**Week 9 Complete!** 
+**Week 9 Complete!**
 
 You've just leveled up your communication game. These skills will serve you for your entire career. Keep practicing, keep adapting, and remember—everyone else is figuring it out too.
 

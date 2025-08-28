@@ -20,6 +20,7 @@ Ever find yourself stuck between two good options, not knowing which to choose? 
 ## Why This Matters
 
 When you know your values:
+
 - Job searches become clearer (you know what to look for)
 - Career decisions feel less scary
 - You stop trying to please everyone
@@ -28,13 +29,15 @@ When you know your values:
 ## Your 15-Minute Mission
 
 ### Step 1: Quick Values Check (10 minutes)
+
 Look at this list and circle the words that make you think "YES, that's important to me":
 
 **Achievement, Adventure, Beauty, Balance, Challenge, Community, Connection, Creativity, Excellence, Family, Freedom, Growth, Helping Others, Impact, Independence, Innovation, Integrity, Learning, Love, Mastery, Peace, Recognition, Security, Stability, Variety**
 
 Don't overthink it - go with your gut reaction.
 
-### Step 2: The Hard Choices (5 minutes)  
+### Step 2: The Hard Choices (5 minutes)
+
 From your circled words, pick your top 5. If you had to choose between them, which ones would you never give up?
 
 ## Quick Win ✅
@@ -43,14 +46,14 @@ From your circled words, pick your top 5. If you had to choose between them, whi
 
 ## Real Talk
 
-I used to think I valued "security" because that's what seemed responsible. But when I looked at my actual choices, I always picked the risky, creative option. My real value was "adventure," not security. 
+I used to think I valued "security" because that's what seemed responsible. But when I looked at my actual choices, I always picked the risky, creative option. My real value was "adventure," not security.
 
 Don't choose values that sound good - choose the ones that are actually true for you.
 
 ## Common Value Conflicts in Tech
 
 **Security vs. Adventure:** Stable job vs. startup risk
-**Excellence vs. Speed:** Perfect code vs. shipping fast  
+**Excellence vs. Speed:** Perfect code vs. shipping fast\
 **Independence vs. Community:** Solo work vs. team collaboration
 **Innovation vs. Stability:** Latest tech vs. proven solutions
 

@@ -22,12 +22,14 @@ Think of it like this: watching someone ride a bike vs. actually getting on the 
 ## Why This Matters
 
 **The Passive Learning Trap:**
+
 - Watch React tutorial → "I get it!"
 - Try to build something → "Wait, what was that hook again?"
 - Feel frustrated and dumb
 - Rewatch the same tutorial
 
 **The Active Learning Win:**
+
 - Watch tutorial but pause every 2 minutes
 - Explain what you just learned out loud
 - Try variations before moving on
@@ -41,6 +43,7 @@ Think of it like this: watching someone ride a bike vs. actually getting on the 
 Pick something you learned recently (could be from yesterday's lesson or any tech concept). Now explain it like you're teaching your friend who's never coded before.
 
 **Write down:**
+
 1. **What is it?** (in one simple sentence)
 2. **Why does it matter?** (what problem does it solve?)
 3. **When would you use it?** (real example scenario)
@@ -51,6 +54,7 @@ Pick something you learned recently (could be from yesterday's lesson or any tec
 ### The Build-It-Different Challenge (10 minutes)
 
 Take any code example from something you're learning:
+
 1. **First**, make sure it works exactly as shown
 2. **Then**, change one small thing (different data, styling, logic)
 3. **Finally**, predict what will happen before you run it

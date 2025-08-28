@@ -21,6 +21,7 @@ You have natural talents - things that feel easy to you but hard to others. Inst
 ## Why This Matters
 
 When you work from your strengths:
+
 - Tasks feel effortless instead of draining
 - You achieve better results with less effort
 - You feel energized rather than exhausted
@@ -29,9 +30,11 @@ When you work from your strengths:
 ## Your 15-Minute Mission
 
 ### Step 1: Take a Free Assessment (12 minutes)
+
 Go to [HIGH5 Test](https://high5test.com) and complete the quick assessment. It's like StrengthsFinder but free!
 
 ### Step 2: Write Down Your Top 5 (3 minutes)
+
 Note your top 5 strengths and which ones felt most accurate.
 
 ## Quick Win ✅
@@ -380,4 +383,3 @@ Consider:
 ## Key Takeaway
 
 You don't have to be well-rounded. The best developers lean into their strengths and manage around their weaknesses. Now you know your natural talents. Time to develop them into world-class strengths.
-

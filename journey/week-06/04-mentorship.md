@@ -19,6 +19,7 @@ Think micro-mentorship: 15-minute conversations that save you 15 hours of strugg
 ## Why This Matters
 
 Your career will be shaped more by the relationships you build than the code you write. Mentors provide:
+
 - Shortcuts through problems they've already solved
 - Connections to opportunities you don't know exist
 - Perspective when you're too close to see clearly
@@ -30,16 +31,19 @@ Plus, teaching others often teaches you more than being taught.
 ### Step 1: Know Your Mentor Types (3 minutes)
 
 **Low Barrier** (start here):
+
 - Former colleagues who've advanced
 - Active community members who help others
 - Content creators who engage with their audience
 
 **Medium Barrier**:
+
 - Senior professionals at conferences
 - Open source maintainers
 - Industry experts who write/speak
 
 **High Barrier** (maybe later):
+
 - Famous developers
 - Executives
 - People way outside your network
@@ -47,6 +51,7 @@ Plus, teaching others often teaches you more than being taught.
 ### Step 2: Lead with Value (5 minutes)
 
 Before asking for anything, contribute first:
+
 - Share a resource they'd find interesting
 - Comment thoughtfully on their content
 - Contribute to their open source project
@@ -57,6 +62,7 @@ Before asking for anything, contribute first:
 **Subject**: "Seeking 20-minute guidance on [specific topic]"
 
 **Your message**:
+
 ```
 Hi [Name],
 
@@ -87,6 +93,7 @@ That's it. You've started the relationship.
 ## Real Talk 💬
 
 Scared you have nothing to offer? Wrong. You have:
+
 - Fresh perspectives from recent learning
 - Energy and enthusiasm
 - Time to help with things they're too busy for

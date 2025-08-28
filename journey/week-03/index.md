@@ -26,43 +26,51 @@ You've discovered who you are and what you value. Now let's figure out WHEN and 
 ## This Week's Adventure
 
 ### Day 1: [How's Your Energy Right Now?](./01-energy-audit)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Setting up a simple system to track when you feel amazing vs. when you feel drained.
 
 ### Day 2: [The Energy Detective](./02-daily-tracking)
-*Time: 15 minutes (ongoing all week)*
+
+_Time: 15 minutes (ongoing all week)_
 
 Starting to notice patterns - when are you sharp? When do you crash?
 
 ### Day 3: [Connecting the Dots](./03-pattern-recognition)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Looking at your patterns to understand what gives you energy and what steals it.
 
 ### Day 4: [Why You Procrastinate](./04-procrastination-analysis)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Understanding the real reasons behind your procrastination (hint: it's usually not laziness).
 
 ### Day 5: [When You're Unstoppable](./05-success-patterns)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Identifying the conditions that make you feel like you can conquer the world.
 
 ### Day 6: [Designing Your System](./06-productivity-design)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Creating productivity approaches that actually work for YOUR brain and energy.
 
 ### Day 7: [Your Perfect Week](./07-ideal-schedule)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Mapping out when to do what based on your natural energy patterns.
 
 ## What You'll Walk Away With
 
 By Sunday, you'll have:
+
 - ✅ A clear picture of your energy patterns
 - ✅ Understanding of what drains vs. energizes you
 - ✅ Your personal "success formula"
@@ -77,12 +85,14 @@ This week, you're discovering YOUR unique operating system. No more forcing your
 ## Why This Matters Right Now
 
 When you fight your natural rhythms:
+
 - Everything feels harder than it should
-- You blame yourself for being "lazy" or "unmotivated"  
+- You blame yourself for being "lazy" or "unmotivated"
 - You burn out faster
 - You never feel like you're performing at your best
 
 When you work with your rhythms:
+
 - Tasks feel more manageable
 - You have more consistent energy
 - You recover faster from difficult work

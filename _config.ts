@@ -40,7 +40,7 @@ site.use(
         format: "png",
       },
     ],
-  })
+  }),
 );
 site.use(icons());
 site.use(date());
@@ -56,7 +56,7 @@ site.use(
         background: "#111",
       },
     },
-  })
+  }),
 );
 site.use(
   prism({
@@ -64,14 +64,14 @@ site.use(
       name: "okaidia",
       cssFile: "/styles.css",
     },
-  })
+  }),
 );
 site.use(
   tailwindcss({
     options: {
       plugins: [typography, tailwindcssAnimated],
     },
-  })
+  }),
 );
 site.use(postcss());
 site.use(lightningCss());

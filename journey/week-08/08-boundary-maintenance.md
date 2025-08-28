@@ -22,6 +22,7 @@ Without maintenance, boundaries gradually erode. People test limits, your priori
 ### Boundary Health Check (5 min)
 
 **Signs your boundaries need maintenance:**
+
 - You're feeling overwhelmed or resentful again
 - People are pushing back on boundaries that used to be respected
 - Your priorities have shifted but your boundaries haven't
@@ -29,6 +30,7 @@ Without maintenance, boundaries gradually erode. People test limits, your priori
 - You're avoiding certain people or situations due to boundary issues
 
 **Regular maintenance triggers:**
+
 - Life transitions (new job, relationship, living situation)
 - Seasonal changes (holidays, busy periods, quieter times)
 - Goal shifts (new priorities, career changes)
@@ -37,18 +39,21 @@ Without maintenance, boundaries gradually erode. People test limits, your priori
 ### Create Your Maintenance System (10 min)
 
 **Weekly Boundary Check:**
+
 - Which boundaries served you well this week?
 - Where did you notice boundary violations or pressure?
 - What boundaries felt too rigid or too loose?
 - What adjustments might improve next week?
 
 **Monthly Boundary Audit:**
+
 - Review your top 3 boundary challenges from the month
 - Assess whether your boundaries align with current priorities
 - Update boundary scripts based on real-world testing
 - Plan any major boundary adjustments needed
 
 **Quarterly Boundary Review:**
+
 - Complete reassessment of all boundary categories
 - Update boundaries based on life/career changes
 - Revise communication scripts and strategies
@@ -57,18 +62,21 @@ Without maintenance, boundaries gradually erode. People test limits, your priori
 ### Boundary Reinforcement Strategies (5 min)
 
 **When Boundaries Are Tested:**
+
 - Stay calm and restate the boundary clearly
 - Don't justify or over-explain your limits
 - Be consistent—exceptions become new expectations
 - Address violations promptly, not weeks later
 
 **When You Need to Adjust:**
+
 - Communicate changes clearly to affected people
 - Explain the "why" when it helps build understanding
 - Phase in major changes gradually when possible
 - Document new boundaries for consistency
 
 **When You Slip:**
+
 - Acknowledge the boundary violation to yourself
 - Return to the boundary without guilt or drama
 - Learn from what triggered the slip

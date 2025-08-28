@@ -27,13 +27,15 @@ Do the math: you're losing hours of productive time to meaningless interruptions
 ### Phone Detox (10 minutes)
 
 **Turn off ALL non-essential notifications:**
+
 - Social media apps: OFF
-- News apps: OFF 
+- News apps: OFF
 - Email: OFF (you don't need instant notifications)
 - Games: OFF
 - Shopping apps: OFF
 
 **Keep only these notifications ON:**
+
 - Calls and texts from contacts
 - Calendar events
 - Critical work apps (if truly necessary)
@@ -44,16 +46,19 @@ Do the math: you're losing hours of productive time to meaningless interruptions
 ### Create Focus Mode (10 minutes)
 
 **iPhone users:**
+
 - Set up Focus modes (Work, Deep Focus, Sleep)
 - Schedule automatic activation
 - Allow only essential contacts and apps
 
 **Android users:**
+
 - Use Do Not Disturb with custom settings
 - Set up different profiles for different times
 - Silence non-essential apps
 
 **Computer setup:**
+
 - Turn off desktop notifications
 - Close unnecessary browser tabs
 - Use website blockers during focus time
@@ -61,6 +66,7 @@ Do the math: you're losing hours of productive time to meaningless interruptions
 ## Quick Win ✅
 
 Right now, grab your phone and:
+
 1. Count how many red notification badges you see
 2. Turn off notifications for the three worst offenders
 3. Put your phone in another room for the rest of this exercise
@@ -69,7 +75,7 @@ Notice the immediate difference in mental calm? That's the power of environmenta
 
 ## Real Talk 💬
 
-You might worry about "missing something important" without constant notifications. Here's the truth: truly important things find a way to reach you. 
+You might worry about "missing something important" without constant notifications. Here's the truth: truly important things find a way to reach you.
 
 Everything else is just noise designed to make you feel busy and connected while actually making you scattered and anxious.
 

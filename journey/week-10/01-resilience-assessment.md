@@ -12,8 +12,8 @@ estimated_time: 30 minutes
 
 # Resilience Assessment
 
-**Time:** 30 minutes  
-**Vibe:** Let's get real about your inner strength 
+**Time:** 30 minutes\
+**Vibe:** Let's get real about your inner strength
 
 Hey there! 👋 Ready to check in on your resilience? This isn't about being perfect or tough all the time. It's about understanding how you bounce back from life's curveballs – and we all get plenty of those!
 
@@ -26,34 +26,39 @@ Think of resilience like a rubber band. It's not about being rigid (that breaks 
 Rate yourself honestly (1-10, no judgment!):
 
 ### Mental Bounce-Back
+
 - I stay focused when things get chaotic: ___/10
-- I learn from mistakes without beating myself up: ___/10  
+- I learn from mistakes without beating myself up: ___/10
 - I can see the bigger picture during tough times: ___/10
-**Average:** ___/10
+  **Average:** ___/10
 
 ### Emotional Recovery
+
 - I bounce back from disappointment pretty quickly: ___/10
 - I don't let one bad day ruin my whole week: ___/10
 - I can calm myself down when I'm stressed: ___/10
-**Average:** ___/10
+  **Average:** ___/10
 
 ### Physical Energy
+
 - I maintain decent energy even during stressful times: ___/10
 - I prioritize sleep (most of the time): ___/10
 - I use movement to manage stress: ___/10
-**Average:** ___/10
+  **Average:** ___/10
 
 ### Social Support
+
 - I reach out for help when I need it: ___/10
 - I maintain friendships even when life gets busy: ___/10
 - I set boundaries without feeling guilty: ___/10
-**Average:** ___/10
+  **Average:** ___/10
 
 ### Life Purpose
+
 - I know what matters to me: ___/10
 - I can find meaning even in difficult situations: ___/10
 - I feel hopeful about my future: ___/10
-**Average:** ___/10
+  **Average:** ___/10
 
 ## Your Stress Response
 
@@ -65,7 +70,7 @@ When life hits hard, what's your go-to reaction?
 □ Feel angry or fired up
 
 **Flight Mode:** 🏃‍♀️
-□ Want to escape or avoid the situation  
+□ Want to escape or avoid the situation\
 □ Feel anxious or overwhelmed
 □ Distract yourself with other stuff
 
@@ -94,7 +99,7 @@ When life hits hard, what's your go-to reaction?
 □ Learning new things
 
 **What do you default to that doesn't really help?**
-□ Isolation 
+□ Isolation
 □ Endless scrolling
 □ Overworking
 □ Stress eating (or not eating)
@@ -104,8 +109,9 @@ When life hits hard, what's your go-to reaction?
 ## Your Support Squad
 
 **Who's in your corner?**
+
 - Emergency contact (the "2 AM" person): ___________
-- Regular supporter (weekly check-ins): ___________  
+- Regular supporter (weekly check-ins): ___________
 - Wise advisor (big decisions): ___________
 
 **Missing from your squad:** ___________
@@ -113,14 +119,17 @@ When life hits hard, what's your go-to reaction?
 ## Building Your Resilience Plan
 
 ### Your Strongest Area (7+ score):
+
 This is your superpower: ___________
-*How can you lean on this more?*
+_How can you lean on this more?_
 
 ### Your Growth Area (lowest score):
+
 Time to level up: ___________
-*What's one small step you can take?*
+_What's one small step you can take?_
 
 ### Daily Resilience Ritual
+
 Pick ONE thing to do every day:
 □ 5-minute morning meditation
 □ Evening gratitude list (3 things)
@@ -132,7 +141,9 @@ Pick ONE thing to do every day:
 **I commit to:** ___________
 
 ### Emergency Resilience Kit
+
 When everything feels overwhelming, I will:
+
 1. **Breathe:** Take 5 deep breaths
 2. **Ground:** Name 5 things I can see, 4 I can touch, 3 I can hear
 3. **Connect:** Call/text ___________
@@ -142,15 +153,15 @@ When everything feels overwhelming, I will:
 ## 30-Day Resilience Challenge
 
 **Week 1:** Practice your daily ritual
-**Week 2:** Try a new coping strategy  
+**Week 2:** Try a new coping strategy\
 **Week 3:** Strengthen one relationship
 **Week 4:** Celebrate your progress!
 
-## Remember This 
+## Remember This
 
-You're more resilient than you think. Every challenge you've faced and survived has added to your strength. The goal isn't to never fall down – it's to get really good at getting back up. 
+You're more resilient than you think. Every challenge you've faced and survived has added to your strength. The goal isn't to never fall down – it's to get really good at getting back up.
 
-And hey, asking for help? That's not weakness. That's actually one of the most resilient things you can do. 
+And hey, asking for help? That's not weakness. That's actually one of the most resilient things you can do.
 
 You've got this! 🌟
 

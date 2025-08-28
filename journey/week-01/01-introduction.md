@@ -17,6 +17,7 @@ First things first: thanks for showing up. Seriously. In a world of endless noti
 ## Why Are We Here?
 
 Let's be real for a second. How many times have you:
+
 - Tried a productivity system that worked for your friend but felt like torture to you?
 - Felt exhausted by "normal" workdays while others seemed fine?
 - Wondered why some tasks feel like climbing Mount Everest while others just flow?
@@ -27,6 +28,7 @@ Yeah, me too. And here's what I learned: **The problem isn't you. The problem is
 ## A Quick Story
 
 Meet Sarah and Carlos. Both talented developers. Both tried the same morning routine they found online:
+
 - 5 AM wake up
 - Meditation
 - Journaling
@@ -42,12 +44,14 @@ Why? Sarah's an ISTJ morning person who loves structure. Carlos is an ENFP night
 ## What Makes This Different
 
 We're not here to:
+
 - ❌ Fix you (you're not broken)
 - ❌ Turn you into someone else
 - ❌ Add more to your plate
 - ❌ Make you feel bad about who you are
 
 We ARE here to:
+
 - ✅ Understand your natural wiring
 - ✅ Find what actually works for YOU
 - ✅ Stop fighting against yourself
@@ -85,6 +89,7 @@ This isn't about perfection. It's about showing up. So let's make a doable commi
 That's it. No crazy wake-up times. No massive life overhaul. Just 15-20 minutes to finally read your own user manual.
 
 Write this commitment in your journal and add:
+
 - **When**: Pick a specific time (after morning coffee? lunch break? before bed?)
 - **Where**: Your spot (desk? couch? favorite coffee shop?)
 - **What I'll do if I miss a day**: (Hint: Just pick up where you left off. No guilt necessary.)
@@ -98,6 +103,7 @@ You know that feeling when you finally find the right pillow, or the perfect cof
 ## A Small Warning
 
 Over the next week, you might discover:
+
 - Why certain people drain your energy
 - Why some "should do" tasks never get done
 - Why traditional advice hasn't worked for you

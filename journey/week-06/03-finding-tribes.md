@@ -25,6 +25,7 @@ Think about it: When you're stuck on a bug at 11 PM, who do you ask? When you la
 ### Step 1: Know Your Style (3 minutes)
 
 Quick check—what's your community vibe?
+
 - **The Learner**: You want to ask questions without judgment
 - **The Helper**: You love sharing what you know
 - **The Builder**: You want to collaborate on projects
@@ -35,21 +36,25 @@ Quick check—what's your community vibe?
 Based on your style, here's where to start:
 
 **If you're a Learner:**
+
 - Reddit: r/learnprogramming (super beginner-friendly)
 - Discord: The Odin Project (amazing supportive community)
 - Local: Search "[your city] junior developers" on Meetup
 
 **If you're a Helper:**
+
 - Stack Overflow (start with easy questions)
 - Dev.to (write about what you just learned)
 - GitHub: Find "good first issue" labels
 
 **If you're a Builder:**
+
 - GitHub: Join a project you actually use
 - Indie Hackers: Find co-builders
 - Local hackathons (search MLH or DevPost)
 
 **If you're a Lurker:**
+
 - Twitter/X: Follow developers you admire
 - YouTube: Find creators who explain things your way
 - Newsletters: Subscribe to 2-3 quality ones
@@ -57,6 +62,7 @@ Based on your style, here's where to start:
 ### Step 3: Make Your First Move (5 minutes)
 
 Pick ONE community and do ONE tiny thing:
+
 - Introduce yourself (even just "Hi, I'm new here!")
 - React to someone's post with an emoji
 - Ask one simple question
@@ -96,6 +102,7 @@ Looking forward to learning with you all!
 ## Going Deeper (Optional)
 
 Want more? Try these:
+
 - **100DaysOfCode**: Tweet your daily progress
 - **Virtual Coffee**: Weekly Zoom hangouts
 - **Women Who Code / Black Tech Pipeline**: If you want identity-specific support

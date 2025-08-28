@@ -22,12 +22,14 @@ Just like eating fast food every meal makes your body sluggish, consuming random
 ## Why This Matters
 
 **Information overload symptoms:**
+
 - Constantly feeling behind
 - Starting tutorials but never finishing
 - Anxiety about missing the "next big thing"
 - Shallow understanding of many topics
 
 **Curated information benefits:**
+
 - Deeper knowledge in fewer areas
 - Actually finishing what you start
 - Confidence in your chosen stack
@@ -40,6 +42,7 @@ Think of it like this: a master chef doesn't eat at every restaurant in town. Th
 ### Information Audit (5 minutes)
 
 Quick! Write down everything you consumed yesterday related to tech:
+
 - YouTube videos watched
 - Articles read
 - Tweets/posts scrolled through
@@ -47,6 +50,7 @@ Quick! Write down everything you consumed yesterday related to tech:
 - Podcasts listened to
 
 **Now ask yourself:**
+
 - How much did you actually learn?
 - What can you implement today from what you consumed?
 - What felt like "junk food" content?
@@ -58,18 +62,22 @@ Based on your current learning goals, create your curated information sources:
 **Pick ONE from each category:**
 
 📚 **Deep Learning Source**
+
 - One quality course or book you're working through
 - Example: "Complete React course" or "You Don't Know JS book series"
 
 📰 **Weekly Tech Update**
+
 - One newsletter or blog for staying current
 - Example: JavaScript Weekly, CSS-Tricks, or dev.to
 
 🎧 **Background Learning**
+
 - One podcast for commute/workout time
 - Example: Syntax.fm, React Podcast, or The Changelog
 
 🧑‍🏫 **Mentor Voices**
+
 - 2-3 developers you follow for insights and inspiration
 - People whose career path or thinking you admire
 
@@ -77,7 +85,7 @@ That's it. Four sources total. Quality over quantity.
 
 ## Quick Win ✅
 
-**Unsubscribe from everything else.** Right now. 
+**Unsubscribe from everything else.** Right now.
 
 Yes, even that newsletter you "might read someday." If you haven't opened it in the last month, you won't miss it. Trust me on this one.
 

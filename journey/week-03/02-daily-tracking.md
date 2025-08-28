@@ -24,29 +24,36 @@ You know how some days you feel unstoppable and others you can barely function? 
 ## Your 15-20 Minute Mission
 
 ### Step 1: Simple Morning Check (2 minutes)
+
 When you start your day, quickly note:
+
 - How many hours did you sleep?
 - How do you FEEL right now? (energized, normal, or sluggish)
 - Rate your energy: Physical, Mental, Emotional, Motivation (each 1-10)
 
 ### Step 2: Super Simple Hourly Tracking (30 seconds each)
+
 Every hour, just jot down:
+
 - Time
 - What you're doing
 - Energy level (use emojis if easier: 🔥 = high, ✅ = good, 😐 = meh, 😫 = low)
 - One-word feeling
 
 ### Step 3: Evening Wrap-up (3 minutes)
+
 - When did you feel most alive today?
 - What drained you?
 - One surprise about your energy
 
 ### Step 4: Look for Clues
+
 After a few days, you'll start seeing patterns. When do you crash? When do you soar?
 
 ## Quick Win ✅
 
 Right now, before doing anything else, rate your current energy on these four areas (1-10):
+
 - Physical: How does your body feel?
 - Mental: How sharp is your thinking?
 - Emotional: How's your mood?

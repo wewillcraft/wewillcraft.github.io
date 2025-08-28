@@ -18,7 +18,7 @@ Smart developers don't rely on willpower. They design work patterns that natural
 
 ## Why This Matters
 
-Willpower-based motivation is sprint energy—powerful but unsustainable. 
+Willpower-based motivation is sprint energy—powerful but unsustainable.
 
 System-based motivation is marathon energy—steady, renewable, gets stronger over time. The developers who love coding for decades have cracked this code.
 
@@ -27,16 +27,19 @@ System-based motivation is marathon energy—steady, renewable, gets stronger ov
 ### Step 1: Know the Three Pillars (5 minutes)
 
 **Autonomy**: Control over how you work
+
 - Choose your approaches to solving problems
-- Have input on priorities when possible  
+- Have input on priorities when possible
 - Work in ways that match your style
 
 **Mastery**: Clear sense of progress
+
 - Track yourself getting better at meaningful skills
 - Take on challenges that stretch but don't break you
 - Get feedback on your growth
 
-**Purpose**: Connection to impact  
+**Purpose**: Connection to impact
+
 - Understand how your code affects real people
 - Align work with your values where possible
 - See the bigger picture beyond features
@@ -46,18 +49,20 @@ When these are present, motivation becomes automatic.
 ### Step 2: Track Progress That Actually Works (5 minutes)
 
 **The Weekly Wins Method (try this):**
+
 - Every Friday: write down 3 things you learned
 - Note 2 problems you solved
 - Identify 1 way you helped someone
 
 **Skills Progress:**
+
 - List technologies you work with
 - Rate yourself 1-5 in each area monthly
 - Watch your scores improve over time
 
 ### Step 3: Avoid Motivation Killers (5 minutes)
 
-🚫 **Comparison trap**: Measuring yourself against others' highlight reels  
+🚫 **Comparison trap**: Measuring yourself against others' highlight reels\
 🚫 **Perfectionism**: Never shipping "good enough" solutions
 🚫 **No breaks**: Treating yourself like a code-generating machine
 🚫 **No celebration**: Moving to next task without acknowledging wins
@@ -68,7 +73,7 @@ When these are present, motivation becomes automatic.
 **Create your first Weekly Wins entry right now:**
 
 1. What's one thing you learned this week?
-2. What's one problem you solved?  
+2. What's one problem you solved?
 3. How did your work help someone (even indirectly)?
 
 This creates momentum and makes progress visible.
@@ -78,6 +83,7 @@ This creates momentum and makes progress visible.
 Motivation culture tells you to "find your passion" and "follow your dreams." But sustainable motivation isn't about feeling inspired 24/7.
 
 It's about:
+
 - Making progress visible
 - Connecting daily work to bigger impact
 - Building on small wins consistently
@@ -88,9 +94,10 @@ You don't need to love every moment. You just need systems that keep you moving 
 ## Your Motivation Recharge Protocol
 
 When motivation is low (it happens):
+
 1. **Review recent wins** (check your wins list)
 2. **Connect to impact** (remember who benefits from your code)
-3. **Learn something small** (15-minute tutorial on something interesting)  
+3. **Learn something small** (15-minute tutorial on something interesting)
 4. **Help someone** (answer a question, share a resource)
 5. **Take a real break** (step away from screens)
 
