@@ -11,11 +11,19 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Digital technology was meant to make work more flexible, but for many professionals, it's created an "always-on" culture where the boundary between work and life has completely dissolved. Digital boundaries aren't about rejecting technology—they're about using it intentionally to serve your goals rather than letting it control your attention and time.
+Digital technology was meant to make work more flexible, but for many
+professionals, it's created an "always-on" culture where the boundary between
+work and life has completely dissolved. Digital boundaries aren't about
+rejecting technology—they're about using it intentionally to serve your goals
+rather than letting it control your attention and time.
 
 ## Why This Matters
 
-The average knowledge worker checks email every 6 minutes and gets interrupted by a notification every 11 minutes. Each digital interruption doesn't just steal attention—it fragments your ability to think deeply and be present in your relationships. Without digital boundaries, you're essentially carrying your office everywhere you go.
+The average knowledge worker checks email every 6 minutes and gets interrupted
+by a notification every 11 minutes. Each digital interruption doesn't just steal
+attention—it fragments your ability to think deeply and be present in your
+relationships. Without digital boundaries, you're essentially carrying your
+office everywhere you go.
 
 ## Your 15-20 Minute Mission
 
@@ -57,12 +65,15 @@ The average knowledge worker checks email every 6 minutes and gets interrupted b
 
 - "I check email at 9 AM, 1 PM, and 4 PM. For urgent matters, please call."
 - "I'm in focus mode until 3 PM and will respond to messages then."
-- "I don't check work messages after 7 PM or on weekends. I'll respond Monday morning."
+- "I don't check work messages after 7 PM or on weekends. I'll respond Monday
+  morning."
 
 **Boundary Communications:**
 
-- "I prefer to handle complex discussions via scheduled calls rather than Slack threads"
-- "I won't be checking messages during vacation, but X can help with urgent matters"
+- "I prefer to handle complex discussions via scheduled calls rather than Slack
+  threads"
+- "I won't be checking messages during vacation, but X can help with urgent
+  matters"
 - "I maintain work-life balance by not checking work messages after hours"
 
 ## Quick Win ✅
@@ -74,18 +85,29 @@ Choose one digital boundary to implement this week:
 1. **Evening Shutdown**: No work messages after 7 PM
 2. **Morning Protection**: No work messages for first hour after waking
 3. **Notification Cleanse**: Turn off all non-essential notifications
-4. **Weekend Digital Sabbath**: No work communication from Friday 6 PM to Monday 8 AM
+4. **Weekend Digital Sabbath**: No work communication from Friday 6 PM to Monday
+   8 AM
 
 Set up your devices and auto-responses to support this boundary.
 
 ## Real Talk 💬
 
-Digital boundaries feel scary because we've been conditioned to believe that immediate responsiveness equals professionalism. It doesn't. Some of the most successful people are notoriously slow to respond to messages because they prioritize deep work over reactive communication.
+Digital boundaries feel scary because we've been conditioned to believe that
+immediate responsiveness equals professionalism. It doesn't. Some of the most
+successful people are notoriously slow to respond to messages because they
+prioritize deep work over reactive communication.
 
-You might worry that colleagues will think you're lazy or uncommitted. In reality, people respect those who communicate clear expectations and honor them consistently. Your work quality will speak louder than your response time.
+You might worry that colleagues will think you're lazy or uncommitted. In
+reality, people respect those who communicate clear expectations and honor them
+consistently. Your work quality will speak louder than your response time.
 
-Start with small boundaries and gradually expand them. Most "urgent" messages aren't actually urgent—they just feel that way because of poor planning or notification conditioning.
+Start with small boundaries and gradually expand them. Most "urgent" messages
+aren't actually urgent—they just feel that way because of poor planning or
+notification conditioning.
 
 ## Key Takeaway
 
-Digital boundaries aren't about being less connected—they're about being more intentionally connected. When you control your digital environment, you can be fully present in both work and life, leading to better performance in both areas.
+Digital boundaries aren't about being less connected—they're about being more
+intentionally connected. When you control your digital environment, you can be
+fully present in both work and life, leading to better performance in both
+areas.

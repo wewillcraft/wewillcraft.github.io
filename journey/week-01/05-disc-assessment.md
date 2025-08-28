@@ -11,11 +11,15 @@ objectives:
 
 ## Hey friend! 👋
 
-So far we've explored your thinking style and motivations. In this lesson we're looking at how you naturally show up when you're with other people. Think of it as your communication DNA!
+So far we've explored your thinking style and motivations. In this lesson we're
+looking at how you naturally show up when you're with other people. Think of it
+as your communication DNA!
 
 ## The Big Idea 💡
 
-Your DISC style shows how you naturally communicate and work with others. Understanding this helps you connect better with teammates and explains why some people just "click" while others feel harder to work with.
+Your DISC style shows how you naturally communicate and work with others.
+Understanding this helps you connect better with teammates and explains why some
+people just "click" while others feel harder to work with.
 
 ## Why This Matters
 
@@ -30,7 +34,8 @@ When you know your communication style:
 
 ### Step 1: Take the Assessment (10 minutes)
 
-Go to [Tony Robbins DISC Assessment](https://www.tonyrobbins.com/disc/) and complete the quick test.
+Go to [Tony Robbins DISC Assessment](https://www.tonyrobbins.com/disc/) and
+complete the quick test.
 
 ### Step 2: Note Your Style (5 minutes)
 
@@ -38,7 +43,9 @@ Write down your highest letter and what resonated most.
 
 ## Quick Win ✅
 
-**Right now, think about this:** Who was the last person you had a great conversation with? Who was the last person you found exhausting to talk to? Your DISC style will help explain why!
+**Right now, think about this:** Who was the last person you had a great
+conversation with? Who was the last person you found exhausting to talk to? Your
+DISC style will help explain why!
 
 ## The Four Styles (You're Probably A Mix!)
 
@@ -68,23 +75,32 @@ Write down your highest letter and what resonated most.
 
 ## Real Talk
 
-I used to get frustrated with people who wanted to chat before getting to work (I'm high C). Then I realized they weren't wasting time - they were connecting, which actually helped them work better! Understanding DISC helped me appreciate different styles instead of judging them.
+I used to get frustrated with people who wanted to chat before getting to work
+(I'm high C). Then I realized they weren't wasting time - they were connecting,
+which actually helped them work better! Understanding DISC helped me appreciate
+different styles instead of judging them.
 
-No style is better than another. We need all types to build great things together.
+No style is better than another. We need all types to build great things
+together.
 
 ## What This Means For You
 
-**If you're high D:** Others might see you as pushy. Practice pausing to hear their perspective.
+**If you're high D:** Others might see you as pushy. Practice pausing to hear
+their perspective.
 
-**If you're high I:** Others might see you as scattered. Practice following through on commitments.
+**If you're high I:** Others might see you as scattered. Practice following
+through on commitments.
 
-**If you're high S:** Others might see you as slow. Practice sharing your thoughts even when you're not 100% sure.
+**If you're high S:** Others might see you as slow. Practice sharing your
+thoughts even when you're not 100% sure.
 
-**If you're high C:** Others might see you as critical. Practice highlighting what's working before suggesting improvements.
+**If you're high C:** Others might see you as critical. Practice highlighting
+what's working before suggesting improvements.
 
 ## Key Takeaway
 
-There's no wrong way to be human. Understanding your communication style helps you connect authentically with others while being true to yourself. 🎯
+There's no wrong way to be human. Understanding your communication style helps
+you connect authentically with others while being true to yourself. 🎯
 
 **In Code Reviews:**
 
@@ -179,16 +195,19 @@ Based on your primary style, here's how to communicate effectively:
 ## Code Review Translation Guide
 
 **D-style review:** "This is broken. Fix it."\
-**Translation for S:** "I noticed an issue here that needs attention when you have time."
+**Translation for S:** "I noticed an issue here that needs attention when you
+have time."
 
 **I-style review:** "Love the creativity! Maybe we could explore..."\
-**Translation for C:** "Interesting approach. Consider these three specific alternatives..."
+**Translation for C:** "Interesting approach. Consider these three specific
+alternatives..."
 
 **S-style review:** "Nice work! When you get a chance, maybe look at..."\
 **Translation for D:** "Good. Fix these three things."
 
 **C-style review:** "Lines 23-47 violate SOLID principles because..."\
-**Translation for I:** "Great energy in this code! Here's how we can make it even better..."
+**Translation for I:** "Great energy in this code! Here's how we can make it
+even better..."
 
 ## Adapting Your Style
 
@@ -231,4 +250,6 @@ Remember: You can flex your style based on the situation.
 
 ## Key Takeaway
 
-DISC isn't about personality. It's about behavior. And behavior can be adapted. Now you know your default communication style AND how to speak the language of others. Use this superpower wisely.
+DISC isn't about personality. It's about behavior. And behavior can be adapted.
+Now you know your default communication style AND how to speak the language of
+others. Use this superpower wisely.

@@ -14,15 +14,21 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Imagine if your future self could text you right now with the exact blueprint of who you become. In this lesson we're creating that blueprint - a 5-year vision so clear and exciting that it makes every sacrifice worth it.
+Imagine if your future self could text you right now with the exact blueprint of
+who you become. In this lesson we're creating that blueprint - a 5-year vision
+so clear and exciting that it makes every sacrifice worth it.
 
 ## Why This Matters
 
-Think about five years ago. You were probably a completely different person, right? Well, five years from now, you'll be unrecognizable again - the question is whether that transformation happens by accident or by design. We're choosing design.
+Think about five years ago. You were probably a completely different person,
+right? Well, five years from now, you'll be unrecognizable again - the question
+is whether that transformation happens by accident or by design. We're choosing
+design.
 
 ## Your 15-20 Minute Mission
 
-Close your eyes. It's exactly 5 years from in this lesson. You wake up on a Tuesday morning in your ideal life.
+Close your eyes. It's exactly 5 years from in this lesson. You wake up on a
+Tuesday morning in your ideal life.
 
 ### Step 1: Picture Your Morning (5 minutes)
 
@@ -48,19 +54,25 @@ Close your eyes. It's exactly 5 years from in this lesson. You wake up on a Tues
 
 ### Step 4: Write Your Day (5 minutes)
 
-Write 3-4 sentences describing a typical day in this future life. Start with "I wake up feeling..." and end with "I go to sleep knowing..."
+Write 3-4 sentences describing a typical day in this future life. Start with "I
+wake up feeling..." and end with "I go to sleep knowing..."
 
 ## Quick Win ✅
 
-Right now, finish this sentence: "In 5 years, people will come to me when they need help with..."
+Right now, finish this sentence: "In 5 years, people will come to me when they
+need help with..."
 
 This reveals what expertise you're building toward.
 
 ## Real Talk 💬
 
-Here's the thing about vision - most people skip this step and wonder why they feel lost. Your vision isn't just a nice-to-have; it's your GPS. Without it, you're just driving around hoping you'll end up somewhere good.
+Here's the thing about vision - most people skip this step and wonder why they
+feel lost. Your vision isn't just a nice-to-have; it's your GPS. Without it,
+you're just driving around hoping you'll end up somewhere good.
 
-Don't worry about getting it "perfect." Your vision will evolve. The point is to have direction so you can start making daily choices that compound in the right direction.
+Don't worry about getting it "perfect." Your vision will evolve. The point is to
+have direction so you can start making daily choices that compound in the right
+direction.
 
 ## The Vision Board
 
@@ -151,8 +163,7 @@ To reach your 5-year vision, what 1% improvement daily?
 
 ### The Weekly Review Question
 
-Every Sunday, ask:
-"Did this week move me closer to my 5-year vision?"
+Every Sunday, ask: "Did this week move me closer to my 5-year vision?"
 
 Track with a simple: Yes / Partially / No
 
@@ -179,7 +190,14 @@ What will you accomplish each month toward your vision?
 
 Synthesize everything into one powerful paragraph:
 
-"In 5 years, I am **[role/identity]** who **[key achievement/impact]**. I wake up in **[location]** feeling **[emotion]** because **[reason]**. My work involves **[core activity]** that helps **[who you serve]** to **[transformation you create]**. I've mastered **[skills/tools]** and built **[specific creation]**. People know me for **[reputation]** and come to me for **[expertise]**. I maintain **[lifestyle elements]** while contributing **[service/giving back]**. Most importantly, I've become someone who **[character development]**."
+"In 5 years, I am **[role/identity]** who **[key achievement/impact]**. I wake
+up in **[location]** feeling **[emotion]** because **[reason]**. My work
+involves **[core activity]** that helps **[who you serve]** to **[transformation
+you create]**. I've mastered **[skills/tools]** and built **[specific
+creation]**. People know me for **[reputation]** and come to me for
+**[expertise]**. I maintain **[lifestyle elements]** while contributing
+**[service/giving back]**. Most importantly, I've become someone who
+**[character development]**."
 
 **Your vision statement:**
 
@@ -195,7 +213,8 @@ Synthesize everything into one powerful paragraph:
 
 Create a single sentence that connects in this lesson to your vision:
 
-"Every line of code I write in this lesson is building toward **[specific element of vision]**."
+"Every line of code I write in this lesson is building toward **[specific
+element of vision]**."
 
 **Your daily reminder:**
 
@@ -229,8 +248,7 @@ You can't see it yet, but...
 
 ---
 
-Trust me,
-[Future You]"
+Trust me, [Future You]"
 
 ## This Week's Challenge
 
@@ -245,4 +263,5 @@ Notice the gap. That's your growth edge.
 
 ## Key Takeaway
 
-Your vision isn't a prediction - it's a decision. Every day, you either move toward it or away from it. There's no neutral.
+Your vision isn't a prediction - it's a decision. Every day, you either move
+toward it or away from it. There's no neutral.

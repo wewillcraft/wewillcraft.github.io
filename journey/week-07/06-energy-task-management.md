@@ -7,26 +7,32 @@ week: 7
 
 ## Hey friend! 👋
 
-Forget time management—energy management is where the magic happens. Your brain has predictable rhythms. Instead of fighting them, let's work with them to accomplish more while feeling less exhausted.
+Forget time management—energy management is where the magic happens. Your brain
+has predictable rhythms. Instead of fighting them, let's work with them to
+accomplish more while feeling less exhausted.
 
 ## The Big Idea 💡
 
-**Time is renewable, energy isn't. Match high-energy tasks to high-energy times.**
+**Time is renewable, energy isn't. Match high-energy tasks to high-energy
+times.**
 
-Trying to solve complex problems when mentally fried is like deadlifting after a marathon.
+Trying to solve complex problems when mentally fried is like deadlifting after a
+marathon.
 
 ## Why This Matters
 
-Smart developers don't work harder—they work when their brain is actually available. This one shift can double your productivity while cutting your stress in half.
+Smart developers don't work harder—they work when their brain is actually
+available. This one shift can double your productivity while cutting your stress
+in half.
 
 ## Your 15-Minute Mission
 
 ### Step 1: Know Your Four Energy Types (5 minutes)
 
-**Cognitive**: Complex problem-solving, learning new concepts
-**Creative**: Architecture design, innovative solutions\
-**Social**: Meetings, code reviews, mentoring
-**Administrative**: Documentation, email, project updates
+**Cognitive**: Complex problem-solving, learning new concepts **Creative**:
+Architecture design, innovative solutions\
+**Social**: Meetings, code reviews, mentoring **Administrative**: Documentation,
+email, project updates
 
 Different tasks need different types of fuel.
 
@@ -72,13 +78,17 @@ Which one sounds like you?
 3. After 3 days, look for your personal pattern
 4. Schedule your hardest work during your highest energy windows
 
-This reveals your energy signature and becomes the foundation for optimizing your entire schedule.
+This reveals your energy signature and becomes the foundation for optimizing
+your entire schedule.
 
 ## Real Talk 💬
 
-Most developers do this backwards—they waste peak brain hours on email and try to solve complex problems when mentally exhausted.
+Most developers do this backwards—they waste peak brain hours on email and try
+to solve complex problems when mentally exhausted.
 
-Your energy patterns might not match "normal" office hours. That's fine. If you're most creative at 10pm, maybe that's when you should architect systems (if your job allows).
+Your energy patterns might not match "normal" office hours. That's fine. If
+you're most creative at 10pm, maybe that's when you should architect systems (if
+your job allows).
 
 Work with your biology, not against it.
 
@@ -87,15 +97,17 @@ Work with your biology, not against it.
 Once you know your pattern:
 
 **Your Peak 2 Hours**: Most challenging cognitive work\
-**Your Good 4 Hours**: Development and problem-solving
-**Your Okay 2 Hours**: Meetings and collaborative work
-**Your Low 2 Hours**: Administrative tasks and communication
+**Your Good 4 Hours**: Development and problem-solving **Your Okay 2 Hours**:
+Meetings and collaborative work **Your Low 2 Hours**: Administrative tasks and
+communication
 
 Protect your peak hours like sacred coding time.
 
 ## Key Takeaway
 
-Energy management beats time management. Track your patterns, match tasks to energy levels, and protect your peak hours. Your future self will thank you for not wasting mental energy on email during prime thinking time.
+Energy management beats time management. Track your patterns, match tasks to
+energy levels, and protect your peak hours. Your future self will thank you for
+not wasting mental energy on email during prime thinking time.
 
 ---
 

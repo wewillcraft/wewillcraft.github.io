@@ -10,13 +10,19 @@ objectives:
 
 ## Hey friend! 👋
 
-Tired of tutorial hell? You know, that endless cycle of following tutorials, feeling like you "get it," then staring at a blank screen when it's time to build something real? In this lesson we're breaking free with project-based learning, where you learn by building stuff you actually want to create.
+Tired of tutorial hell? You know, that endless cycle of following tutorials,
+feeling like you "get it," then staring at a blank screen when it's time to
+build something real? In this lesson we're breaking free with project-based
+learning, where you learn by building stuff you actually want to create.
 
 ## The Big Idea 💡
 
-**The best way to learn is to build something that solves a problem you actually have.**
+**The best way to learn is to build something that solves a problem you actually
+have.**
 
-Tutorial learning is like learning to drive in a parking lot. Project-based learning is like learning to drive by actually going places you need to go. Same skills, but one sticks because it matters to you.
+Tutorial learning is like learning to drive in a parking lot. Project-based
+learning is like learning to drive by actually going places you need to go. Same
+skills, but one sticks because it matters to you.
 
 ## Why This Matters
 
@@ -95,18 +101,25 @@ Don't code anything yet! Just clarify your vision first.
 
 ## Real Talk 💬
 
-You might be thinking, "But I don't know enough to build a real project yet." That's exactly the point! You learn what you need as you build.
+You might be thinking, "But I don't know enough to build a real project yet."
+That's exactly the point! You learn what you need as you build.
 
-Start simple. Your first version doesn't need to be perfect or feature-complete. It just needs to work and solve your problem in a basic way. You can always make it better later.
+Start simple. Your first version doesn't need to be perfect or feature-complete.
+It just needs to work and solve your problem in a basic way. You can always make
+it better later.
 
-The goal isn't to build the next unicorn startup. The goal is to learn by building something that matters to you, no matter how small.
+The goal isn't to build the next unicorn startup. The goal is to learn by
+building something that matters to you, no matter how small.
 
 ## Key Takeaway
 
-Stop learning in isolation. Start learning with purpose. When you build projects that solve your real problems, learning stops feeling like work and starts feeling like progress toward something that matters.
+Stop learning in isolation. Start learning with purpose. When you build projects
+that solve your real problems, learning stops feeling like work and starts
+feeling like progress toward something that matters.
 
 Your brain learns better when it knows why the knowledge matters.
 
 ---
 
-**Learn by building, build by learning.** → [Tomorrow: Turn Failures into Fuel](./07-failure-learning)
+**Learn by building, build by learning.** →
+[Tomorrow: Turn Failures into Fuel](./07-failure-learning)

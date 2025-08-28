@@ -13,20 +13,22 @@ objectives:
 
 "It's not what you know, it's who you know."
 
-Ugh, right? But here's the thing—it's actually "It's who you know AND what you know AND how you help each other."
+Ugh, right? But here's the thing—it's actually "It's who you know AND what you
+know AND how you help each other."
 
-Networking isn't about collecting business cards or LinkedIn connections. It's about building genuine relationships with people you actually like. Let's do it without feeling gross.
+Networking isn't about collecting business cards or LinkedIn connections. It's
+about building genuine relationships with people you actually like. Let's do it
+without feeling gross.
 
 ## Reframe Your Networking
 
-**Old way:** "I need to meet important people"
-**New way:** "I want to find my tribe"
+**Old way:** "I need to meet important people" **New way:** "I want to find my
+tribe"
 
-**Old way:** "I have to sell myself"
-**New way:** "I get to learn from others"
+**Old way:** "I have to sell myself" **New way:** "I get to learn from others"
 
-**Old way:** "Networking events are torture"
-**New way:** "I'll find one interesting person"
+**Old way:** "Networking events are torture" **New way:** "I'll find one
+interesting person"
 
 ## Online Networking That Works
 
@@ -146,9 +148,7 @@ Before asking for anything:
 
 ### The Long Game
 
-Year 1: Learn and lurk
-Year 2: Contribute and engage
-Year 3: Lead and mentor
+Year 1: Learn and lurk Year 2: Contribute and engage Year 3: Lead and mentor
 Year 4+: Give back at scale
 
 ## Networking for Different Personalities
@@ -218,17 +218,17 @@ Keep notes on:
 
 ## Common Networking Mistakes
 
-**The Taker:** Only reaches out when needing something
-**Fix:** 5:1 give-to-ask ratio
+**The Taker:** Only reaches out when needing something **Fix:** 5:1 give-to-ask
+ratio
 
-**The Ghost:** Disappears after meeting
-**Fix:** Simple follow-up within 48 hours
+**The Ghost:** Disappears after meeting **Fix:** Simple follow-up within 48
+hours
 
-**The Broadcaster:** Only talks about themselves
-**Fix:** 70/30 listening/talking ratio
+**The Broadcaster:** Only talks about themselves **Fix:** 70/30
+listening/talking ratio
 
-**The Card Collector:** Quantity over quality
-**Fix:** 3 deep connections > 30 shallow ones
+**The Card Collector:** Quantity over quality **Fix:** 3 deep connections > 30
+shallow ones
 
 ## The Introvert's Networking Hack
 
@@ -264,11 +264,14 @@ Keep notes on:
 
 ## Remember This
 
-Real networking is just making friends who happen to work in tech. It's sharing knowledge, helping others, and building a community around shared interests.
+Real networking is just making friends who happen to work in tech. It's sharing
+knowledge, helping others, and building a community around shared interests.
 
-You don't need to work the room or master small talk. You just need to be genuinely interested in others and generous with what you know.
+You don't need to work the room or master small talk. You just need to be
+genuinely interested in others and generous with what you know.
 
-The best network is the one where you'd help each other even without any benefit. Build that.
+The best network is the one where you'd help each other even without any
+benefit. Build that.
 
 Next lesson: Putting it all together with real practice scenarios.
 
@@ -276,6 +279,7 @@ Next lesson: Putting it all together with real practice scenarios.
 
 ---
 
-[← Previous Lesson](/journey/week-09/06-feedback-skills/) | [Next Lesson →](/journey/week-09/08-communication-practice/)
+[← Previous Lesson](/journey/week-09/06-feedback-skills/) |
+[Next Lesson →](/journey/week-09/08-communication-practice/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

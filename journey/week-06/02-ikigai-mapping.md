@@ -10,11 +10,15 @@ objectives:
 
 ## Hey friend! 👋
 
-Yesterday you discovered your core values. In this lesson we're finding where your natural interests, talents, and the world's needs all come together. This is where career magic happens!
+Yesterday you discovered your core values. In this lesson we're finding where
+your natural interests, talents, and the world's needs all come together. This
+is where career magic happens!
 
 ## The Big Idea 💡
 
-**Your ideal career sits at the intersection of what you love, what you're good at, what the world needs, and what pays well.** This Japanese concept called "ikigai" can help you find work that doesn't feel like work.
+**Your ideal career sits at the intersection of what you love, what you're good
+at, what the world needs, and what pays well.** This Japanese concept called
+"ikigai" can help you find work that doesn't feel like work.
 
 ## Why This Matters
 
@@ -57,25 +61,33 @@ Draw four overlapping circles and answer these:
 
 ## Quick Win ✅
 
-**Right now:** Think about the last project that felt effortless and fulfilling. What elements made it special? That's your ikigai showing up!
+**Right now:** Think about the last project that felt effortless and fulfilling.
+What elements made it special? That's your ikigai showing up!
 
 ## Real Talk
 
-Don't expect to find the perfect intersection immediately. Most people need to experiment and adjust over time. The goal is direction, not perfection.
+Don't expect to find the perfect intersection immediately. Most people need to
+experiment and adjust over time. The goal is direction, not perfection.
 
-Also, you might have multiple ikigai areas throughout your life. That's totally normal! Your sweet spot can evolve as you do.
+Also, you might have multiple ikigai areas throughout your life. That's totally
+normal! Your sweet spot can evolve as you do.
 
 ## Common Tech Ikigai Examples
 
-**The Problem Solver:** Loves debugging + Great at analysis + World needs fewer bugs + Companies pay well for this
+**The Problem Solver:** Loves debugging + Great at analysis + World needs fewer
+bugs + Companies pay well for this
 
-**The Teacher:** Loves explaining + Good at communication + World needs more education + Online courses pay
+**The Teacher:** Loves explaining + Good at communication + World needs more
+education + Online courses pay
 
-**The Builder:** Loves creating + Good at execution + World needs new tools + Startups need this
+**The Builder:** Loves creating + Good at execution + World needs new tools +
+Startups need this
 
 ## Key Takeaway
 
-Your ikigai isn't a destination you arrive at - it's a direction you move toward. The closer you get to that sweet spot, the more your work will feel like play. 🎯
+Your ikigai isn't a destination you arrive at - it's a direction you move
+toward. The closer you get to that sweet spot, the more your work will feel like
+play. 🎯
 
 **I lose track of time when:**
 
@@ -258,10 +270,12 @@ Where ALL four circles overlap:
 
 **My ikigai might be:**
 
-"Using my skills in **[what you're good at]** to work on **[what you love]** that solves **[what the world needs]** in the **[industry that pays]** space."
+"Using my skills in **[what you're good at]** to work on **[what you love]**
+that solves **[what the world needs]** in the **[industry that pays]** space."
 
-**Example:**
-"Using my skills in **system design** to work on **scalable architectures** that solve **healthcare accessibility** in the **healthtech** space."
+**Example:** "Using my skills in **system design** to work on **scalable
+architectures** that solve **healthcare accessibility** in the **healthtech**
+space."
 
 **Your version:**
 
@@ -365,6 +379,9 @@ Which resonates most?
 
 ## Key Takeaway
 
-Your ikigai isn't fixed. It evolves as you grow. The goal isn't perfection but direction. Move toward the center, even if slowly. Every project, every job, every skill you develop can bring you closer to that sweet spot where Sunday night doesn't fill you with dread.
+Your ikigai isn't fixed. It evolves as you grow. The goal isn't perfection but
+direction. Move toward the center, even if slowly. Every project, every job,
+every skill you develop can bring you closer to that sweet spot where Sunday
+night doesn't fill you with dread.
 
 ---

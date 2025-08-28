@@ -15,13 +15,18 @@ objectives:
 
 ## Hey friend! 👋
 
-Last week you discovered WHO you are. This week we're diving into WHAT you care about at your deepest level. Think of it as finding your internal GPS - that inner compass that points toward what truly matters to you.
+Last week you discovered WHO you are. This week we're diving into WHAT you care
+about at your deepest level. Think of it as finding your internal GPS - that
+inner compass that points toward what truly matters to you.
 
 ## The Big Idea 💡
 
 **When you're clear on what matters most, decisions become easier.**
 
-You know that feeling when you're torn between options? That confusion usually comes from unclear values. Once you know what you truly care about, choices become obvious. You stop second-guessing yourself and start living with more confidence and purpose.
+You know that feeling when you're torn between options? That confusion usually
+comes from unclear values. Once you know what you truly care about, choices
+become obvious. You stop second-guessing yourself and start living with more
+confidence and purpose.
 
 ## This Week's Adventure
 
@@ -29,19 +34,22 @@ You know that feeling when you're torn between options? That confusion usually c
 
 _Time: 15 minutes_
 
-Not what you think you should value - what you ACTUALLY value. There's often a gap, and we're going to find it.
+Not what you think you should value - what you ACTUALLY value. There's often a
+gap, and we're going to find it.
 
 ### Day 2: [Finding Your Sweet Spot](./02-ikigai-mapping)
 
 _Time: 15 minutes_
 
-Where your passions, talents, and the world's needs overlap. Spoiler: This is where magic happens.
+Where your passions, talents, and the world's needs overlap. Spoiler: This is
+where magic happens.
 
 ### Day 3: [Your Story So Far](./03-life-timeline)
 
 _Time: 20 minutes_
 
-Looking back to understand your patterns. Your past holds clues to your future direction.
+Looking back to understand your patterns. Your past holds clues to your future
+direction.
 
 ### Day 4: [How Do You Want to be Remembered?](./04-future-eulogy)
 
@@ -65,7 +73,8 @@ Why are you in tech? What problems do you want to solve with your skills?
 
 _Time: 15 minutes_
 
-Pulling it all together into a personal declaration. Your "this is what I stand for" statement.
+Pulling it all together into a personal declaration. Your "this is what I stand
+for" statement.
 
 ## What You'll Walk Away With
 
@@ -78,15 +87,22 @@ By Sunday, you'll have:
 
 ## Real Talk 💬
 
-Values work can feel abstract or touchy-feely. But here's the thing - unclear values are the root of most career unhappiness. When you take a job that conflicts with what you really care about, you'll feel it every single day.
+Values work can feel abstract or touchy-feely. But here's the thing - unclear
+values are the root of most career unhappiness. When you take a job that
+conflicts with what you really care about, you'll feel it every single day.
 
-This isn't about finding the "perfect" values. It's about getting honest about what's already driving your decisions (whether you realize it or not).
+This isn't about finding the "perfect" values. It's about getting honest about
+what's already driving your decisions (whether you realize it or not).
 
 ## Why This Matters Right Now
 
-In a world of infinite options, values are your filter. They help you say no to good opportunities so you can say yes to great ones. They give you a reason to get up on hard days. They connect you with like-minded people and meaningful work.
+In a world of infinite options, values are your filter. They help you say no to
+good opportunities so you can say yes to great ones. They give you a reason to
+get up on hard days. They connect you with like-minded people and meaningful
+work.
 
-Plus, when you're clear on your values, imposter syndrome starts to fade. You're not trying to be someone else - you're being authentically you.
+Plus, when you're clear on your values, imposter syndrome starts to fade. You're
+not trying to be someone else - you're being authentically you.
 
 ## Your Daily Rhythm
 

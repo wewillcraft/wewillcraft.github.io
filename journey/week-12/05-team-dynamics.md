@@ -14,11 +14,15 @@ objectives:
 **Time:** 25 minutes\
 **Purpose:** Learn to read the room and help teams work together like magic!
 
-Hey there! Ever notice how some groups just... click? Everyone's laughing, contributing, and getting stuff done. Then other groups feel awkward, tense, or like pulling teeth to get participation. The difference isn't luck - it's team dynamics. Let's learn how to create the magic! ✨
+Hey there! Ever notice how some groups just... click? Everyone's laughing,
+contributing, and getting stuff done. Then other groups feel awkward, tense, or
+like pulling teeth to get participation. The difference isn't luck - it's team
+dynamics. Let's learn how to create the magic! ✨
 
 ## What Are Team Dynamics Anyway?
 
-Think of team dynamics as the "vibe" or invisible energy between group members. It's:
+Think of team dynamics as the "vibe" or invisible energy between group members.
+It's:
 
 - How comfortable people feel speaking up
 - Whether conflicts get ugly or productive
@@ -78,7 +82,8 @@ How'd you do? Don't stress if it's low - most teams start there!
 - Some folks get frustrated or shut down
 - Drama about roles and responsibilities
 
-**Your job:** Don't panic! This is normal and necessary. Guide through conflicts.
+**Your job:** Don't panic! This is normal and necessary. Guide through
+conflicts.
 
 ### Stage 3: Norming (Finding Our Rhythm) 🎵
 
@@ -155,7 +160,8 @@ This is the #1 factor in high-performing teams. It means people feel safe to:
 
 **The Situation:** One person does all the work, others coast or disappear
 
-**Poor Dynamics Response:** Complain, do everything yourself, passive-aggressive comments
+**Poor Dynamics Response:** Complain, do everything yourself, passive-aggressive
+comments
 
 **Great Dynamics Response:**
 
@@ -194,7 +200,8 @@ This is the #1 factor in high-performing teams. It means people feel safe to:
 
 ### Daily Practices:
 
-- **Start meetings with check-ins:** "How's everyone feeling about this project?"
+- **Start meetings with check-ins:** "How's everyone feeling about this
+  project?"
 - **Thank people for speaking up:** Even if you disagree with their ideas
 - **Notice who's not participating:** And create space for them
 - **Ask for feedback:** "What's working well? What should we adjust?"
@@ -217,13 +224,13 @@ This is the #1 factor in high-performing teams. It means people feel safe to:
 
 ### Good Conflict (Task Conflict) ✅
 
-**What it looks like:** Different ideas about how to solve the problem
-**How to handle it:** Encourage it! This leads to better solutions.
+**What it looks like:** Different ideas about how to solve the problem **How to
+handle it:** Encourage it! This leads to better solutions.
 
 ### Manageable Conflict (Process Conflict) ⚠️
 
-**What it looks like:** Disagreements about roles, timelines, methods
-**How to handle it:** Get clear on processes and responsibilities
+**What it looks like:** Disagreements about roles, timelines, methods **How to
+handle it:** Get clear on processes and responsibilities
 
 ### Bad Conflict (Personal Conflict) ❌
 
@@ -291,12 +298,18 @@ When things go really wrong:
 
 ## The Bottom Line
 
-Great team dynamics don't happen by accident. They happen when someone (that's you!) pays attention to how people interact and takes action to make it better.
+Great team dynamics don't happen by accident. They happen when someone (that's
+you!) pays attention to how people interact and takes action to make it better.
 
-You're not trying to be everyone's best friend. You're trying to create an environment where everyone can do their best work and feel good about being part of the team.
+You're not trying to be everyone's best friend. You're trying to create an
+environment where everyone can do their best work and feel good about being part
+of the team.
 
-When you get this right, everything else gets easier. Projects flow better, stress decreases, and people actually look forward to working together. That's leadership magic! ✨
+When you get this right, everything else gets easier. Projects flow better,
+stress decreases, and people actually look forward to working together. That's
+leadership magic! ✨
 
 ---
 
-[← Previous: Delegation](/journey/week-11/04-delegation/) | [Continue to Conflict Resolution →](/journey/week-11/06-conflict-resolution/)
+[← Previous: Delegation](/journey/week-11/04-delegation/) |
+[Continue to Conflict Resolution →](/journey/week-11/06-conflict-resolution/)

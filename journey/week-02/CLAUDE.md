@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-Week 2 helps students become better learners. In tech, learning never stops, so building sustainable learning habits is crucial. Focus on curiosity over competition.
+Week 2 helps students become better learners. In tech, learning never stops, so
+building sustainable learning habits is crucial. Focus on curiosity over
+competition.
 
 ## Specific Tone for This Week
 
@@ -161,10 +163,9 @@ Learning experiments:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Discover how you learn"
-**Wednesday (Lesson 3-4)**: "Active learning works"
-**Friday (Lesson 5-6)**: "Build to learn"
-**Weekend (Lesson 7-8)**: "Share your journey"
+**Monday (Lesson 1-2)**: "Discover how you learn" **Wednesday (Lesson 3-4)**:
+"Active learning works" **Friday (Lesson 5-6)**: "Build to learn" **Weekend
+(Lesson 7-8)**: "Share your journey"
 
 ## Success Metrics
 
@@ -226,7 +227,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-02/02-second-brain/` for all navigation links.
+Use full relative paths like `/journey/week-02/02-second-brain/` for all
+navigation links.
 
 Example navigation section:
 
@@ -235,7 +237,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Learning Style](/journey/week-02/01-learning-style/) | [Next: Spaced Repetition](/journey/week-02/03-spaced-repetition/) →
+← [Previous: Learning Style](/journey/week-02/01-learning-style/) |
+[Next: Spaced Repetition](/journey/week-02/03-spaced-repetition/) →
 
 [← Back to Week 2 Overview](/journey/week-02/)
 ```

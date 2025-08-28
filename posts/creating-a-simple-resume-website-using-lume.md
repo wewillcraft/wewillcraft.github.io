@@ -16,15 +16,24 @@ tags:
 
 ## Overview
 
-This article provides a step-by-step guide to creating a simple resume website using **Lume**, a static site generator. We'll set up the project, create layouts with **Vento**, style it with **Tailwind CSS**, manage content using **LumeCMS**, and deploy it to **GitHub Pages**. The final result is a clean, professional-looking resume site you can customize and update easily. Low coding knowledge required – just your curiosity and the ability to use ChatGPT.
+This article provides a step-by-step guide to creating a simple resume website
+using **Lume**, a static site generator. We'll set up the project, create
+layouts with **Vento**, style it with **Tailwind CSS**, manage content using
+**LumeCMS**, and deploy it to **GitHub Pages**. The final result is a clean,
+professional-looking resume site you can customize and update easily. Low coding
+knowledge required – just your curiosity and the ability to use ChatGPT.
 
 ---
 
 ## Why Lume?
 
-Lume is fast, minimal, and built for Deno – no Node.js setup headaches. It uses Vento, a templating language that's clean and easy to read. You don't need to install a million dependencies or wrestle with complex build tools. It just works.
+Lume is fast, minimal, and built for Deno – no Node.js setup headaches. It uses
+Vento, a templating language that's clean and easy to read. You don't need to
+install a million dependencies or wrestle with complex build tools. It just
+works.
 
-If you're someone who can describe what you want in plain English and paste it into ChatGPT, you're already equipped to build your own personal site.
+If you're someone who can describe what you want in plain English and paste it
+into ChatGPT, you're already equipped to build your own personal site.
 
 ---
 
@@ -49,15 +58,23 @@ deno task serve
 
 That's it. You're live at [http://localhost:3000](http://localhost:3000).
 
-When you open the link, you will find a **404 - Not found** page, as we haven't set up any content yet. But don't worry, we will fix that soon.
+When you open the link, you will find a **404 - Not found** page, as we haven't
+set up any content yet. But don't worry, we will fix that soon.
 
 For now, let's install plugins to make our lives easier.
 
 ### Installing Plugins
 
-Since we want to use [Tailwind CSS](https://tailwindcss.com/) for styling, we need to install the [Tailwind CSS plugin](https://lume.land/plugins/tailwindcss/) for Lume. This will allow us to use Tailwind's utility classes in our templates. To do this, we will also need to install the [PostCSS plugin](https://lume.land/plugins/postcss/), which is required for Tailwind CSS to work properly.
+Since we want to use [Tailwind CSS](https://tailwindcss.com/) for styling, we
+need to install the
+[Tailwind CSS plugin](https://lume.land/plugins/tailwindcss/) for Lume. This
+will allow us to use Tailwind's utility classes in our templates. To do this, we
+will also need to install the
+[PostCSS plugin](https://lume.land/plugins/postcss/), which is required for
+Tailwind CSS to work properly.
 
-We also want to use [Font Awesome](https://fontawesome.com/) for icons, so we will install the [Icons plugin](https://lume.land/plugins/icons/), as well.
+We also want to use [Font Awesome](https://fontawesome.com/) for icons, so we
+will install the [Icons plugin](https://lume.land/plugins/icons/), as well.
 
 Open `_config.ts` and add the following lines:
 
@@ -76,7 +93,8 @@ site.use(postcss());
 export default site;
 ```
 
-Create a new file called `styles.css` in the root of your project and add the following lines:
+Create a new file called `styles.css` in the root of your project and add the
+following lines:
 
 ```css
 @tailwind base;
@@ -88,11 +106,17 @@ This will import the base, components, and utilities styles from Tailwind CSS.
 
 ### Creating the Initial Layout of the Page
 
-Next, we need to create a layout for our resume. Lume uses [Vento](https://vento.js.org/) as its default templating engine, which is a great choice for building static sites. Vento is simple and easy to use, making it perfect for our resume project.
+Next, we need to create a layout for our resume. Lume uses
+[Vento](https://vento.js.org/) as its default templating engine, which is a
+great choice for building static sites. Vento is simple and easy to use, making
+it perfect for our resume project.
 
-To create a layout, we will create a new folder called `_includes` in the root of our project. Inside this folder, we will create another folder called `layouts`. This is where we will store our layout files.
+To create a layout, we will create a new folder called `_includes` in the root
+of our project. Inside this folder, we will create another folder called
+`layouts`. This is where we will store our layout files.
 
-Create a new file called `base.vto` inside the `layouts` folder. This file will contain the basic structure of our resume page.
+Create a new file called `base.vto` inside the `layouts` folder. This file will
+contain the basic structure of our resume page.
 
 ```html
 <!DOCTYPE html>
@@ -109,11 +133,17 @@ Create a new file called `base.vto` inside the `layouts` folder. This file will 
 </html>
 ```
 
-This is a basic HTML structure. You can add more meta tags, links to fonts, or any other head elements you need.
+This is a basic HTML structure. You can add more meta tags, links to fonts, or
+any other head elements you need.
 
-The curly braces `{{ }}` are Vento's way of saying "insert this here." You can use them to include variables, loops, conditionals, and other logic. The `{{ content }}` placeholder is where your page content will be injected.
+The curly braces `{{ }}` are Vento's way of saying "insert this here." You can
+use them to include variables, loops, conditionals, and other logic. The
+`{{ content }}` placeholder is where your page content will be injected.
 
-Create a new file called `index.yml` in the root of your project. This file will be the main entry point for your resume site. It will contain the metadata for your site, such as the title and description. It will also include the content that will be displayed on the page.
+Create a new file called `index.yml` in the root of your project. This file will
+be the main entry point for your resume site. It will contain the metadata for
+your site, such as the title and description. It will also include the content
+that will be displayed on the page.
 
 ```yaml
 layout: layouts/base.vto
@@ -121,9 +151,13 @@ title: My Resume
 content: Welcome to my resume site!
 ```
 
-Now you have a basic structure for your resume site. You can run `deno task serve` again to see the changes. Open [http://localhost:3000](http://localhost:3000) in your browser, and you should see "Welcome to my resume site!" displayed on the page.
+Now you have a basic structure for your resume site. You can run
+`deno task serve` again to see the changes. Open
+[http://localhost:3000](http://localhost:3000) in your browser, and you should
+see "Welcome to my resume site!" displayed on the page.
 
-It's a good place to save here, and let's do just that. Initialize a git repository and commit your changes:
+It's a good place to save here, and let's do just that. Initialize a git
+repository and commit your changes:
 
 ```bash
 git init
@@ -137,9 +171,13 @@ Next, let's populate our resume!
 
 ## 2. Populate Your Resume Information
 
-We will be using YAML here for simplicity. If you are new to YAML, it is a human-readable data serialization format that is easy to read and write. Checkout [learnxinyminutes.com/yaml](https://learnxinyminutes.com/yaml/) for a quick overview.
+We will be using YAML here for simplicity. If you are new to YAML, it is a
+human-readable data serialization format that is easy to read and write.
+Checkout [learnxinyminutes.com/yaml](https://learnxinyminutes.com/yaml/) for a
+quick overview.
 
-Let's update the `index.yml` file to include our resume information. Replace the content with the following:
+Let's update the `index.yml` file to include our resume information. Replace the
+content with the following:
 
 ```yaml
 title: Curriculum Vitae of Juan dela Cruz
@@ -246,17 +284,23 @@ There are a few things going on here, and we'll discuss them one-by-one.
 
 ### YAML Syntax 101
 
-YAML (YAML Ain't Markup Language) is a clean, human-readable format used for structured data. Here are a few basics used in your file:
+YAML (YAML Ain't Markup Language) is a clean, human-readable format used for
+structured data. Here are a few basics used in your file:
 
-- **Key-Value Pairs**: `key: value` pairs are used to define properties. For example, `name: Juan dela Cruz`.
-- **Lists**: Lists are defined with a dash `-` followed by a space. For example, `- JavaScript / TypeScript` is an item in the skills list.
-- **Nested Structures**: Indentation is used to define nested structures. For example, `sections` contains a list of sections, each with its own properties.
+- **Key-Value Pairs**: `key: value` pairs are used to define properties. For
+  example, `name: Juan dela Cruz`.
+- **Lists**: Lists are defined with a dash `-` followed by a space. For example,
+  `- JavaScript / TypeScript` is an item in the skills list.
+- **Nested Structures**: Indentation is used to define nested structures. For
+  example, `sections` contains a list of sections, each with its own properties.
 
 ### Font Awesome Icon Structure
 
 Each contact method in your `contact` section includes an icon object:
 
-The `icon` object uses [Font Awesome icons](https://fontawesome.com/search?ic=free). The structure is as follows:
+The `icon` object uses
+[Font Awesome icons](https://fontawesome.com/search?ic=free). The structure is
+as follows:
 
 ```yaml
 icon:
@@ -265,17 +309,24 @@ icon:
   variant: regular | solid | brands
 ```
 
-We can use another library defined in the [icons plugin page](https://lume.land/plugins/icons/#available-libraries), but for our purposes, we will use `fontawesome`.
+We can use another library defined in the
+[icons plugin page](https://lume.land/plugins/icons/#available-libraries), but
+for our purposes, we will use `fontawesome`.
 
 ### Creating a separate file for the page data
 
-You may notice that we removed the `layout: layouts/base.vto` line from the `index.yml`. Create a new file called `_data.yml` in your root directory. The content will simply be:
+You may notice that we removed the `layout: layouts/base.vto` line from the
+`index.yml`. Create a new file called `_data.yml` in your root directory. The
+content will simply be:
 
 ```yaml
 layout: layouts/base.vto
 ```
 
-This is a special file containing data accessible by all pages in the same directory or subdirectory. In this file we have defined the variable `layout` so all pages have this variable too. There's no need to repeat it in the front matter of all pages, so we can remove it there.
+This is a special file containing data accessible by all pages in the same
+directory or subdirectory. In this file we have defined the variable `layout` so
+all pages have this variable too. There's no need to repeat it in the front
+matter of all pages, so we can remove it there.
 
 It's now a good time to save our progress.
 
@@ -288,7 +339,8 @@ git commit -m "Add my information"
 
 ### Updating the HTML Layout
 
-Now that we have the structure of our data, it will now be easier to generate the HTML layout.
+Now that we have the structure of our data, it will now be easier to generate
+the HTML layout.
 
 Go to ChatGPT and paste the following prompt:
 
@@ -388,8 +440,7 @@ If it goes well, it should generate something like this:
         <div class="mb-4">
           <div class="flex justify-between">
             <strong class="text-md"
-              >{{ item.role }} – {{ item.company }}</strong
-            >
+            >{{ item.role }} – {{ item.company }}</strong>
             <span class="text-sm text-gray-500">{{ item.period }}</span>
           </div>
           <div class="text-sm text-gray-600 italic">{{ item.location }}</div>
@@ -420,8 +471,7 @@ If it goes well, it should generate something like this:
           <a
             href="{{ project.url }}"
             class="text-blue-700 font-medium hover:underline"
-            >{{ project.name }}</a
-          >
+          >{{ project.name }}</a>
           <p class="text-sm text-gray-600">{{ project.description }}</p>
         </div>
         {{ /for }} {{ /if }} {{ if section.type === "certifications" }}
@@ -446,7 +496,8 @@ If it goes well, it should generate something like this:
 </html>
 ```
 
-You can run `deno task serve` again to see the changes. Open [http://localhost:3000](http://localhost:3000) and check your new site.
+You can run `deno task serve` again to see the changes. Open
+[http://localhost:3000](http://localhost:3000) and check your new site.
 
 Let us save our progress.
 
@@ -494,7 +545,8 @@ git commit -m "Update CV information"
 
 ## 4. Add Content with LumeCMS (Optional)
 
-Instead of editing templates manually, use [LumeCMS](https://lume.land/cms/) to manage your resume content using a UI.
+Instead of editing templates manually, use [LumeCMS](https://lume.land/cms/) to
+manage your resume content using a UI.
 
 Create a new file called `_cms.ts` and put it to your root directory
 
@@ -662,15 +714,20 @@ git commit -m "Add CMS to manage information"
 
 ## 5. Deploy to GitHub Pages
 
-Once your resume site looks good locally, it's time to put it on the internet so other people can see it—especially hiring managers!
+Once your resume site looks good locally, it's time to put it on the internet so
+other people can see it—especially hiring managers!
 
 ### What is GitHub?
 
-[GitHub](https://github.com) is a website where developers (and aspiring developers like you!) can store code, collaborate on projects, and host websites.
+[GitHub](https://github.com) is a website where developers (and aspiring
+developers like you!) can store code, collaborate on projects, and host
+websites.
 
-We're going to use GitHub to host your resume site for free using a feature called GitHub Pages.
+We're going to use GitHub to host your resume site for free using a feature
+called GitHub Pages.
 
-If you don't already have an account, go to [GitHub](https://github.com/), click Sign up and follow the steps to create a free account.
+If you don't already have an account, go to [GitHub](https://github.com/), click
+Sign up and follow the steps to create a free account.
 
 ### Create a GitHub Repository
 
@@ -751,23 +808,32 @@ On the left, go to **Pages**.
 
 Under **Build and deployment**, select **GitHub Actions** as your source.
 
-Your site will be live shortly at [YOUR-USERNAME.github.io/YOUR-REPO-NAME](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/).
+Your site will be live shortly at
+[YOUR-USERNAME.github.io/YOUR-REPO-NAME](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/).
 
 ---
 
 ## 6. Bonus: Add It to the Lume Themes Showcase
 
-Once you're happy with it, you can submit it as a community theme at [lume.land/themes](https://lume.land/themes). Create a new Issue at [lumeland/themes](https://github.com/lumeland/themes/issues), describe what your theme does, and you might help someone else get started with Lume too.
+Once you're happy with it, you can submit it as a community theme at
+[lume.land/themes](https://lume.land/themes). Create a new Issue at
+[lumeland/themes](https://github.com/lumeland/themes/issues), describe what your
+theme does, and you might help someone else get started with Lume too.
 
 ---
 
 ## Final Thoughts
 
-This setup is ideal for folks who don't want to memorize HTML, CSS, or Deno APIs. With Tailwind and Vento, layout and styling is clear. And ChatGPT can generate entire sections for you – from experience blurbs to layout tweaks.
+This setup is ideal for folks who don't want to memorize HTML, CSS, or Deno
+APIs. With Tailwind and Vento, layout and styling is clear. And ChatGPT can
+generate entire sections for you – from experience blurbs to layout tweaks.
 
-Start small. Try edits. Break stuff. Then fix it with prompts. That's how you learn.
+Start small. Try edits. Break stuff. Then fix it with prompts. That's how you
+learn.
 
-If you want to see a full example, I added a Lume theme called [pro-file](https://github.com/wewillcraft/pro-file). You can check it at [lume.land/theme/pro-file](https://lume.land/theme/pro-file/).
+If you want to see a full example, I added a Lume theme called
+[pro-file](https://github.com/wewillcraft/pro-file). You can check it at
+[lume.land/theme/pro-file](https://lume.land/theme/pro-file/).
 
 To use it in an empty project, you can do:
 

@@ -11,29 +11,39 @@ objectives:
 
 # Learning As a Lifestyle
 
-_Remember Week 1 when everything felt overwhelming? Look at you now - you've been learning consistently for 14 weeks. That's not luck, that's a skill you've developed._
+_Remember Week 1 when everything felt overwhelming? Look at you now - you've
+been learning consistently for 14 weeks. That's not luck, that's a skill you've
+developed._
 
-Here's the beautiful truth: you don't need to learn everything, just the right things. And you definitely don't need to learn them all at once.
+Here's the beautiful truth: you don't need to learn everything, just the right
+things. And you definitely don't need to learn them all at once.
 
 ## Why Your Relationship with Learning Matters
 
-The tech world loves to talk about "staying current" and "keeping up," but honestly? That's exhausting and impossible.
+The tech world loves to talk about "staying current" and "keeping up," but
+honestly? That's exhausting and impossible.
 
-What we're building instead is **learning as lifestyle** - a gentle, sustainable way to grow that doesn't burn you out or make you feel behind.
+What we're building instead is **learning as lifestyle** - a gentle, sustainable
+way to grow that doesn't burn you out or make you feel behind.
 
-Think of it like physical fitness. You don't go to the gym once and expect to be fit forever. But you also don't need to run a marathon every day. You need something you can do consistently over time.
+Think of it like physical fitness. You don't go to the gym once and expect to be
+fit forever. But you also don't need to run a marathon every day. You need
+something you can do consistently over time.
 
 ## The Learning Lifestyle Approach
 
-Instead of cramming or binge-learning, we're creating a learning rhythm that works with your life, not against it.
+Instead of cramming or binge-learning, we're creating a learning rhythm that
+works with your life, not against it.
 
 ## Your Learning Sweet Spot (10 minutes)
 
-After 14 weeks together, you probably have a sense of how you learn best. Let's get specific about it.
+After 14 weeks together, you probably have a sense of how you learn best. Let's
+get specific about it.
 
 **Quick Learning Style Check:**
 
-Think back to your favorite moments in this journey. What made those lessons click?
+Think back to your favorite moments in this journey. What made those lessons
+click?
 
 ✓ **Visual Learning** (seeing it):
 
@@ -56,10 +66,8 @@ Think back to your favorite moments in this journey. What made those lessons cli
 - Experimenting with code
 - Teaching others
 
-**Your Learning Recipe:**
-Primary way you learn: _____
-Secondary method that helps: _____
-What energizes your learning: _____
+**Your Learning Recipe:** Primary way you learn: _____ Secondary method that
+helps: _____ What energizes your learning: _____
 
 ### Your Learning Environment
 
@@ -70,30 +78,19 @@ What energizes your learning: _____
 - How often feels sustainable: _____ times per week
 - Where you focus best: _____ (kitchen table? coffee shop? couch?)
 
-**What helps you learn?**
-Check what actually works for you:
-□ Quiet space
-□ Background music or coffee shop noise
-□ Learning with others nearby
-□ Good lighting
-□ Comfortable setup
-□ Ability to move around
-□ Having something to write with
+**What helps you learn?** Check what actually works for you: □ Quiet space □
+Background music or coffee shop noise □ Learning with others nearby □ Good
+lighting □ Comfortable setup □ Ability to move around □ Having something to
+write with
 
-**What kills your learning mood?**
-Be aware of these:
-□ Too many interruptions
-□ Feeling rushed
-□ Uncomfortable space
-□ Poor video/audio quality
-□ Information overwhelm
-□ Learning things that don't connect to anything
-□ Just reading without doing
+**What kills your learning mood?** Be aware of these: □ Too many interruptions □
+Feeling rushed □ Uncomfortable space □ Poor video/audio quality □ Information
+overwhelm □ Learning things that don't connect to anything □ Just reading
+without doing
 
 ### Your Current Learning Reality Check
 
-**How's it going?**
-Honest assessment (no judgment):
+**How's it going?** Honest assessment (no judgment):
 
 - Reading consistently: ___/10
 - Learning new things regularly: ___/10
@@ -124,22 +121,22 @@ Honest assessment (no judgment):
 
 Instead of trying to learn everything at once, think of three circles:
 
-**Circle 1: Getting Better at What You Do (50% of your learning time)**
-Things directly related to your current work:
+**Circle 1: Getting Better at What You Do (50% of your learning time)** Things
+directly related to your current work:
 
 1. What I want to get better at: _____
 2. What would make my work easier: _____
 3. What my team keeps talking about: _____
 
-**Circle 2: What's Coming Next (30% of your learning time)**
-Things that seem important for the near future:
+**Circle 2: What's Coming Next (30% of your learning time)** Things that seem
+important for the near future:
 
 1. Technology/skill that keeps popping up: _____
 2. What people in my field are excited about: _____
 3. Something that might be useful in 6 months: _____
 
-**Circle 3: Pure Curiosity (20% of your learning time)**
-Things you just find interesting:
+**Circle 3: Pure Curiosity (20% of your learning time)** Things you just find
+interesting:
 
 1. Something that has nothing to do with work: _____
 2. A skill that seems fun to learn: _____
@@ -238,9 +235,8 @@ Pick ONE time that works consistently for you:
 
 Keep it simple. Pick 2-3 days that work:
 
-**Monday:** _____ (what you'll focus on)
-**Wednesday:** _____ (what you'll focus on)
-**Saturday:** _____ (longer session or catch-up)
+**Monday:** _____ (what you'll focus on) **Wednesday:** _____ (what you'll focus
+on) **Saturday:** _____ (longer session or catch-up)
 
 **Note:** It's better to do 15 minutes consistently than 3 hours sporadically.
 
@@ -323,8 +319,7 @@ Pick ONE thing to focus on each month:
 
 ### Trying New Things
 
-**Learning Experiments:**
-Every few months, try something new:
+**Learning Experiments:** Every few months, try something new:
 
 **Next Experiment (30 days):**
 
@@ -358,11 +353,11 @@ Every few months, try something new:
 
 **Connect learning to something you already do:**
 
-**When I** _____ (existing habit)
-**I will** _____ (learn for X minutes)
-**Then I will** _____ (small reward)
+**When I** _____ (existing habit) **I will** _____ (learn for X minutes) **Then
+I will** _____ (small reward)
 
-Example: "When I finish my morning coffee, I will read one dev article for 10 minutes, then I will check my messages."
+Example: "When I finish my morning coffee, I will read one dev article for 10
+minutes, then I will check my messages."
 
 **Set up your environment:**
 
@@ -379,19 +374,13 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 
 ### Staying Flexible
 
-**Check in with yourself every few months:**
-□ Is what I'm learning still useful?
-□ Are my learning methods working?
-□ Do I need to pivot to something new?
-□ Am I enjoying the process?
-□ What's working best?
+**Check in with yourself every few months:** □ Is what I'm learning still
+useful? □ Are my learning methods working? □ Do I need to pivot to something
+new? □ Am I enjoying the process? □ What's working best?
 
-**When to change direction:**
-□ Your work changes
-□ New opportunities appear
-□ You lose interest (that's okay!)
-□ Something becomes less relevant
-□ You discover a new passion
+**When to change direction:** □ Your work changes □ New opportunities appear □
+You lose interest (that's okay!) □ Something becomes less relevant □ You
+discover a new passion
 
 ### Sharing What You Know
 
@@ -457,10 +446,14 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 
 ## Remember This
 
-You've already proven you can learn consistently - you just spent 14 weeks doing it!
+You've already proven you can learn consistently - you just spent 14 weeks doing
+it!
 
-Learning as a lifestyle isn't about cramming more information into your brain. It's about staying curious, building things, and sharing what you discover along the way.
+Learning as a lifestyle isn't about cramming more information into your brain.
+It's about staying curious, building things, and sharing what you discover along
+the way.
 
-The best learners aren't the ones who know everything. They're the ones who know how to figure things out and aren't afraid to try.
+The best learners aren't the ones who know everything. They're the ones who know
+how to figure things out and aren't afraid to try.
 
 You're already one of them. Keep going.

@@ -11,29 +11,35 @@ objectives:
 
 ## The Open Secret of Open Source
 
-Want to know a secret? Most open source maintainers are desperately hoping someone like you will help.
+Want to know a secret? Most open source maintainers are desperately hoping
+someone like you will help.
 
-Not someone with 10 years of experience. Not a coding genius. You. Right now. With whatever skills you have today.
+Not someone with 10 years of experience. Not a coding genius. You. Right now.
+With whatever skills you have today.
 
-Because here's what nobody tells you: most open source contributions aren't code. They're documentation fixes, typo corrections, examples, translations, and "hey, this confused me" issues that make projects better for everyone.
+Because here's what nobody tells you: most open source contributions aren't
+code. They're documentation fixes, typo corrections, examples, translations, and
+"hey, this confused me" issues that make projects better for everyone.
 
 ## Why Your Contribution Matters
 
-Every massive open source project started with one person's small contribution. Linux, React, Python, Node.js - they all grew one pull request at a time.
+Every massive open source project started with one person's small contribution.
+Linux, React, Python, Node.js - they all grew one pull request at a time.
 
 But beyond the code, open source is about something bigger:
 
-**It's proof of your skills**
-Your GitHub profile becomes your portfolio. Real code, real impact, real proof.
+**It's proof of your skills** Your GitHub profile becomes your portfolio. Real
+code, real impact, real proof.
 
-**It's accelerated learning**
-Reading real codebases teaches you things tutorials never will. You see how professionals structure projects, handle edge cases, write tests.
+**It's accelerated learning** Reading real codebases teaches you things
+tutorials never will. You see how professionals structure projects, handle edge
+cases, write tests.
 
-**It's community building**
-Every PR connects you with maintainers and contributors. Today's code review is tomorrow's job referral.
+**It's community building** Every PR connects you with maintainers and
+contributors. Today's code review is tomorrow's job referral.
 
-**It's giving back**
-You've used open source tools for free. Contributing is how you pay it forward.
+**It's giving back** You've used open source tools for free. Contributing is how
+you pay it forward.
 
 ## The Contribution Ladder
 
@@ -74,7 +80,8 @@ Start where you are, climb as you grow:
 - Guide project direction
 - Mentor new contributors
 
-**Start at Level 1. Seriously.** Your first PR should be a typo fix. Build confidence, learn the process, then level up.
+**Start at Level 1. Seriously.** Your first PR should be a typo fix. Build
+confidence, learn the process, then level up.
 
 ## Finding Your First Project
 
@@ -104,8 +111,8 @@ Don't pick randomly. Find projects that fit:
 - CodeTriage.com
 - 24PullRequests.com
 
-**Your Daily Tools**
-Check the repos of tools you use every day. That VS Code extension? That npm package? They all need help.
+**Your Daily Tools** Check the repos of tools you use every day. That VS Code
+extension? That npm package? They all need help.
 
 ## The Anatomy of a Good First PR
 
@@ -266,19 +273,14 @@ Week 4 and beyond: Find Your Home
 
 ## Try This Now (15 minutes)
 
-1. **Find Your First Project**
-   Go to github.com/topics/good-first-issue
-   Find ONE project you've heard of or use
+1. **Find Your First Project** Go to github.com/topics/good-first-issue Find ONE
+   project you've heard of or use
 
-2. **Read Their Guide**
-   Check for CONTRIBUTING.md
-   Read their PR guidelines
+2. **Read Their Guide** Check for CONTRIBUTING.md Read their PR guidelines
    Understand their process
 
-3. **Find One Typo**
-   Search their README
-   Check their docs folder
-   Look at recent issues
+3. **Find One Typo** Search their README Check their docs folder Look at recent
+   issues
 
 4. **Make Your First PR**
    - Fork the repo
@@ -288,7 +290,8 @@ Week 4 and beyond: Find Your Home
 
 ## The Long Game
 
-Your first PR might fix a typo. Your tenth might add a feature. Your hundredth might redesign a system.
+Your first PR might fix a typo. Your tenth might add a feature. Your hundredth
+might redesign a system.
 
 But every contribution builds:
 
@@ -297,15 +300,19 @@ But every contribution builds:
 - Your confidence
 - Your reputation
 
-That typo fix? It's not just fixing a word. It's joining a global community of builders. It's saying "I'm here to help." It's the first step in a journey that could define your career.
+That typo fix? It's not just fixing a word. It's joining a global community of
+builders. It's saying "I'm here to help." It's the first step in a journey that
+could define your career.
 
 ## Remember This
 
 Perfect code is not the goal. Helpful contribution is.
 
-The best time to contribute is now, with whatever skills you have. The open source community needs people who care enough to help, not coding superheroes.
+The best time to contribute is now, with whatever skills you have. The open
+source community needs people who care enough to help, not coding superheroes.
 
-Every expert contributor started with a nervous first PR. Every maintainer remembers their first contribution. They're rooting for you to succeed.
+Every expert contributor started with a nervous first PR. Every maintainer
+remembers their first contribution. They're rooting for you to succeed.
 
 Your code doesn't need to be perfect. It just needs to be helpful.
 

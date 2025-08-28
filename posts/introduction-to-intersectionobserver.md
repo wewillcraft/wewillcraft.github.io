@@ -15,31 +15,56 @@ tags:
 
 ## Overview
 
-If you've been working with web animations and you’ve come across the term `IntersectionObserver`, you might be wondering what exactly it is and how it can make your animations smoother and more efficient. In this post, I’ll walk you through what `IntersectionObserver` is, how it works, and how I used it to create engaging animations for HTML elements in my Vento template. If you’re new to web development or animations, don’t worry – I’ll explain everything from scratch!
+If you've been working with web animations and you’ve come across the term
+`IntersectionObserver`, you might be wondering what exactly it is and how it can
+make your animations smoother and more efficient. In this post, I’ll walk you
+through what `IntersectionObserver` is, how it works, and how I used it to
+create engaging animations for HTML elements in my Vento template. If you’re new
+to web development or animations, don’t worry – I’ll explain everything from
+scratch!
 
 ## What is IntersectionObserver?
 
-The `IntersectionObserver` API is a browser feature that allows you to detect when an element enters or leaves the viewport (the visible part of the web page) or another element. This means you can trigger animations or other actions when an element becomes visible to the user (or when it disappears). This is super useful for lazy-loading images, triggering animations, or making sure some elements only appear when they are needed – making your website feel smoother and more dynamic.
+The `IntersectionObserver` API is a browser feature that allows you to detect
+when an element enters or leaves the viewport (the visible part of the web page)
+or another element. This means you can trigger animations or other actions when
+an element becomes visible to the user (or when it disappears). This is super
+useful for lazy-loading images, triggering animations, or making sure some
+elements only appear when they are needed – making your website feel smoother
+and more dynamic.
 
-Before the `IntersectionObserver`, developers had to use event listeners like scroll or resize to track when elements were in view, which was both slow and inefficient. Now, the `IntersectionObserver` does this job in a much more performant way. It monitors the visibility of elements and fires a callback function when the element meets certain visibility thresholds.
+Before the `IntersectionObserver`, developers had to use event listeners like
+scroll or resize to track when elements were in view, which was both slow and
+inefficient. Now, the `IntersectionObserver` does this job in a much more
+performant way. It monitors the visibility of elements and fires a callback
+function when the element meets certain visibility thresholds.
 
 ## Why Use IntersectionObserver?
 
-You might be wondering, "Why should I use `IntersectionObserver` for animations?" Well, there are several benefits:
+You might be wondering, "Why should I use `IntersectionObserver` for
+animations?" Well, there are several benefits:
 
-1. **Performance**: It’s more efficient than using scroll event listeners, which can fire continuously as the page is scrolled. `IntersectionObserver` only fires when an element is about to enter or leave the viewport.
+1. **Performance**: It’s more efficient than using scroll event listeners, which
+   can fire continuously as the page is scrolled. `IntersectionObserver` only
+   fires when an element is about to enter or leave the viewport.
 
-2. **Lazy Loading**: It’s great for lazy-loading images or videos when they are about to be seen by the user, saving bandwidth.
+2. **Lazy Loading**: It’s great for lazy-loading images or videos when they are
+   about to be seen by the user, saving bandwidth.
 
-3. **Animation Triggers**: You can easily trigger animations only when an element is visible, ensuring that animations are smooth and only occur when they’re needed.
+3. **Animation Triggers**: You can easily trigger animations only when an
+   element is visible, ensuring that animations are smooth and only occur when
+   they’re needed.
 
 ## How Does IntersectionObserver Work?
 
-Let’s start with a basic example to understand how `IntersectionObserver` works before diving into the more advanced use case in your site.
+Let’s start with a basic example to understand how `IntersectionObserver` works
+before diving into the more advanced use case in your site.
 
 ### Basic Example: Watching an Element Enter the Viewport
 
-Imagine you have a simple webpage with a paragraph element. You want to detect when this paragraph becomes visible as the user scrolls down the page. Here’s how you can do that using `IntersectionObserver`:
+Imagine you have a simple webpage with a paragraph element. You want to detect
+when this paragraph becomes visible as the user scrolls down the page. Here’s
+how you can do that using `IntersectionObserver`:
 
 ```html
 <!DOCTYPE html>
@@ -84,7 +109,7 @@ Imagine you have a simple webpage with a paragraph element. You want to detect w
         },
         {
           threshold: 0.5, // The element must be 50% visible to trigger the callback
-        }
+        },
       );
 
       // Observe the element with the id "observeMe"
@@ -97,19 +122,35 @@ Imagine you have a simple webpage with a paragraph element. You want to detect w
 
 ### What’s Happening Here?
 
-1. **Create an IntersectionObserver**: We create an `IntersectionObserver` by passing a callback function and an options object. The callback function gets triggered whenever the element's visibility changes relative to the viewport. In this case, the options specify that we want the callback to trigger when at least 50% of the element (threshold: 0.5) becomes visible.
+1. **Create an IntersectionObserver**: We create an `IntersectionObserver` by
+   passing a callback function and an options object. The callback function gets
+   triggered whenever the element's visibility changes relative to the viewport.
+   In this case, the options specify that we want the callback to trigger when
+   at least 50% of the element (threshold: 0.5) becomes visible.
 
-2. **Callback Function**: The callback function runs whenever the observed element enters or exits the viewport. Inside the callback, we check if the element is visible (entry.isIntersecting). If it is, we add a class (visible) to it, which will change its opacity from 0 to 1, making it fade in.
+2. **Callback Function**: The callback function runs whenever the observed
+   element enters or exits the viewport. Inside the callback, we check if the
+   element is visible (entry.isIntersecting). If it is, we add a class (visible)
+   to it, which will change its opacity from 0 to 1, making it fade in.
 
-3. **Stop Observing**: Once the element becomes visible, we stop observing it with observer.unobserve(entry.target). This ensures that the observer doesn’t keep checking for visibility once the animation has already occurred.
+3. **Stop Observing**: Once the element becomes visible, we stop observing it
+   with observer.unobserve(entry.target). This ensures that the observer doesn’t
+   keep checking for visibility once the animation has already occurred.
 
-4. **Initial Hidden State**: The element starts with the hidden class, making it invisible. Once it enters the viewport, the visible class is added, making it fade in.
+4. **Initial Hidden State**: The element starts with the hidden class, making it
+   invisible. Once it enters the viewport, the visible class is added, making it
+   fade in.
 
-This is a very basic use of `IntersectionObserver` to trigger an animation when an element enters the viewport. The `IntersectionObserver` is much more efficient than listening for scroll events because it only triggers when an element’s visibility changes, making it perfect for animations, lazy loading, and more.
+This is a very basic use of `IntersectionObserver` to trigger an animation when
+an element enters the viewport. The `IntersectionObserver` is much more
+efficient than listening for scroll events because it only triggers when an
+element’s visibility changes, making it perfect for animations, lazy loading,
+and more.
 
 ## How I Used IntersectionObserver in My Vento Template
 
-Now, let’s look at how I’ve integrated this into my Vento template for a real-world use case:
+Now, let’s look at how I’ve integrated this into my Vento template for a
+real-world use case:
 
 ### The Vento template
 
@@ -146,7 +187,10 @@ Now, let’s look at how I’ve integrated this into my Vento template for a rea
 
 **1. Section with Animations**
 
-In the specializations section, I have a grid of items that each have an initial opacity of 0 (opacity-0), making them invisible when the page loads. This is necessary for animation because we want to animate the elements from an invisible state to a visible one.
+In the specializations section, I have a grid of items that each have an initial
+opacity of 0 (opacity-0), making them invisible when the page loads. This is
+necessary for animation because we want to animate the elements from an
+invisible state to a visible one.
 
 **2. Dynamic Data Attributes**
 
@@ -154,11 +198,16 @@ Each item has some data attributes:
 
 - `data-animate="animate-fade-up"`: This specifies the animation to apply.
 - `data-animate-duration="500"`: This sets the animation duration to 500ms.
-- `data-animate-delay="{{ index * 200 }}"`: This delays each element’s animation based on its index, ensuring that animations happen sequentially instead of all at once.
+- `data-animate-delay="{{ index * 200 }}"`: This delays each element’s animation
+  based on its index, ensuring that animations happen sequentially instead of
+  all at once.
 
 **3. Using Tailwind CSS and tailwindcss-animated**
 
-I’m using the [tailwindcss-animated](https://www.tailwindcss-animated.com/) package for the animations. It provides various pre-built animation classes (like `animate-fade-up`) that are easily applied with Tailwind CSS, allowing me to quickly create smooth transitions and animations.
+I’m using the [tailwindcss-animated](https://www.tailwindcss-animated.com/)
+package for the animations. It provides various pre-built animation classes
+(like `animate-fade-up`) that are easily applied with Tailwind CSS, allowing me
+to quickly create smooth transitions and animations.
 
 ### The JavaScript Code
 
@@ -199,33 +248,56 @@ Let’s break it down step-by-step:
 
 The `IntersectionObserver` constructor takes two arguments:
 
-- A callback function that will be triggered whenever an element intersects with the viewport.
-- An options object that defines the conditions for when the callback should fire (such as visibility threshold).
+- A callback function that will be triggered whenever an element intersects with
+  the viewport.
+- An options object that defines the conditions for when the callback should
+  fire (such as visibility threshold).
 
-In the code above, we create an `IntersectionObserver` that watches elements and adds animation to them when they enter the viewport.
+In the code above, we create an `IntersectionObserver` that watches elements and
+adds animation to them when they enter the viewport.
 
 **2. Callback Function**
 
-The callback function runs every time the observed element’s intersection with the viewport changes. In this case, for every element in `entries`, if the element is visible (`entry.isIntersecting`), we apply an animation to it.
+The callback function runs every time the observed element’s intersection with
+the viewport changes. In this case, for every element in `entries`, if the
+element is visible (`entry.isIntersecting`), we apply an animation to it.
 
 - `entry.target` refers to the element being observed.
-- `el.dataset.animate` looks for a custom attribute `data-animate` in the HTML, which tells us which animation to apply. If this attribute isn’t provided, the default is `"animate-fade-up"`.
-- Similarly, `data-animate-delay` and `data-animate-duration` are used to control the delay and duration of the animation.
+- `el.dataset.animate` looks for a custom attribute `data-animate` in the HTML,
+  which tells us which animation to apply. If this attribute isn’t provided, the
+  default is `"animate-fade-up"`.
+- Similarly, `data-animate-delay` and `data-animate-duration` are used to
+  control the delay and duration of the animation.
 
 **3. Apply Animation**
 
-Once the element becomes visible, we add the animation class (`el.classList.add(animation)`) and set its animation delay and duration using inline styles. We also remove the class `opacity-0` (which makes the element invisible) so that the animation can trigger.
+Once the element becomes visible, we add the animation class
+(`el.classList.add(animation)`) and set its animation delay and duration using
+inline styles. We also remove the class `opacity-0` (which makes the element
+invisible) so that the animation can trigger.
 
 **4. Stop Observing**
 
-Once the animation is triggered, we stop observing the element (`observer.unobserve(el)`). This prevents unnecessary checks after the animation has been triggered.
+Once the animation is triggered, we stop observing the element
+(`observer.unobserve(el)`). This prevents unnecessary checks after the animation
+has been triggered.
 
 **5. Observing Elements**
 
-We select all elements with the `data-animate` attribute and start observing them. These elements are the ones that will trigger the animation when they enter the viewport.
+We select all elements with the `data-animate` attribute and start observing
+them. These elements are the ones that will trigger the animation when they
+enter the viewport.
 
 ## Conclusion
 
-The `IntersectionObserver` API is a powerful tool that makes adding animations to elements much more efficient. By observing when elements enter the viewport, we can trigger animations only when necessary, improving the performance and user experience of the site. Whether you're lazy-loading images or adding smooth animations, `IntersectionObserver` is a great tool to have in your web development toolkit!
+The `IntersectionObserver` API is a powerful tool that makes adding animations
+to elements much more efficient. By observing when elements enter the viewport,
+we can trigger animations only when necessary, improving the performance and
+user experience of the site. Whether you're lazy-loading images or adding smooth
+animations, `IntersectionObserver` is a great tool to have in your web
+development toolkit!
 
-If you’ve used Tailwind CSS and [tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated) for your animations, pairing them with `IntersectionObserver` can give your site a dynamic, engaging feel without sacrificing performance. Happy coding!
+If you’ve used Tailwind CSS and
+[tailwindcss-animated](https://github.com/new-data-services/tailwindcss-animated)
+for your animations, pairing them with `IntersectionObserver` can give your site
+a dynamic, engaging feel without sacrificing performance. Happy coding!

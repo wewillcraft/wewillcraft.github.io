@@ -10,27 +10,36 @@ objectives:
 
 ## Hey friend! 👋
 
-In this lesson we're going on a little trip down memory lane. Not to get stuck in the past, but to find the gold hidden in your story. Because here's the thing: your life has been teaching you what works for you all along. We just need to connect the dots.
+In this lesson we're going on a little trip down memory lane. Not to get stuck
+in the past, but to find the gold hidden in your story. Because here's the
+thing: your life has been teaching you what works for you all along. We just
+need to connect the dots.
 
 ## The Big Idea 💡
 
-**Your peaks and valleys aren't random. They're clues to what makes you come alive.**
+**Your peaks and valleys aren't random. They're clues to what makes you come
+alive.**
 
-Think of your life like a video game where you've been collecting data points. Every high moment shows you what to pursue. Every low moment shows you what to avoid. in this lesson, we decode that data.
+Think of your life like a video game where you've been collecting data points.
+Every high moment shows you what to pursue. Every low moment shows you what to
+avoid. in this lesson, we decode that data.
 
 ## Why This Matters
 
-Ever notice how some people thrive in chaos while others need calm? Or how some love working alone while others need a team? That's not random. Your past experiences have been teaching you YOUR formula for happiness and success. Let's find it.
+Ever notice how some people thrive in chaos while others need calm? Or how some
+love working alone while others need a team? That's not random. Your past
+experiences have been teaching you YOUR formula for happiness and success. Let's
+find it.
 
 ## Your 20-Minute Mission
 
 ### Part 1: Draw Your Lifeline (10 minutes)
 
-Grab a piece of paper (or use your phone's drawing app). Draw a simple line across the page. This is your life from birth to now.
+Grab a piece of paper (or use your phone's drawing app). Draw a simple line
+across the page. This is your life from birth to now.
 
-**Above the line**: Mark your peaks (the good times)
-**Below the line**: Mark your valleys (the tough times)
-**How high/low**: Shows how intense it felt
+**Above the line**: Mark your peaks (the good times) **Below the line**: Mark
+your valleys (the tough times) **How high/low**: Shows how intense it felt
 
 Include things like:
 
@@ -74,17 +83,23 @@ Write down:
 
 **Right now, in 2 minutes:**
 
-Think about your current situation. Is it more peak or valley? Based on your pattern, what's ONE small thing you could add or remove to move it more toward peak territory?
+Think about your current situation. Is it more peak or valley? Based on your
+pattern, what's ONE small thing you could add or remove to move it more toward
+peak territory?
 
 Write it down and do it this week.
 
 ## Real Talk 💬
 
-Looking at your valleys might bring up some feelings. That's okay. Those tough times? They weren't failures. They were teachers. Every valley taught you something about what you need to thrive.
+Looking at your valleys might bring up some feelings. That's okay. Those tough
+times? They weren't failures. They were teachers. Every valley taught you
+something about what you need to thrive.
 
-And here's what's beautiful: You survived every single valley. You're here, reading this, ready to grow. That's not small. That's warrior stuff right there.
+And here's what's beautiful: You survived every single valley. You're here,
+reading this, ready to grow. That's not small. That's warrior stuff right there.
 
-Your peaks? They're not just nice memories. They're your blueprint. They show you exactly what conditions you need to create more of those moments.
+Your peaks? They're not just nice memories. They're your blueprint. They show
+you exactly what conditions you need to create more of those moments.
 
 ## The Developer's Angle 🖥️
 
@@ -108,12 +123,16 @@ If you want to explore more:
 
 ## Your Story Continues...
 
-Remember: Your timeline isn't finished. You're literally writing the next chapter right now. And now that you can see the pattern, you can write a better story.
+Remember: Your timeline isn't finished. You're literally writing the next
+chapter right now. And now that you can see the pattern, you can write a better
+story.
 
-What if your next peak could be your highest one yet? What if you now know exactly what ingredients you need to create it?
+What if your next peak could be your highest one yet? What if you now know
+exactly what ingredients you need to create it?
 
 ## Key Takeaway
 
-Your life has been teaching you what works for YOU all along. The peaks show you what to pursue. The valleys show you what to avoid. Now you have the map.
+Your life has been teaching you what works for YOU all along. The peaks show you
+what to pursue. The valleys show you what to avoid. Now you have the map.
 
 ---

@@ -259,7 +259,8 @@ Keep it simple:
 Examples:
 
 - "I build cool things while staying healthy so that I enjoy the journey"
-- "I grow professionally while maintaining relationships so that success means something"
+- "I grow professionally while maintaining relationships so that success means
+  something"
 - "I learn constantly while taking care of myself so that I can help others"
 
 **Your version:** ___________
@@ -291,15 +292,20 @@ You have permission to:
 
 Your life isn't a productivity experiment. It's your actual life.
 
-You don't need to perfect every area. You don't need to maintain elaborate systems. You don't need to be constantly improving.
+You don't need to perfect every area. You don't need to maintain elaborate
+systems. You don't need to be constantly improving.
 
-You need systems that work when you're tired. Habits that stick when life gets hard. People who matter when everything else fails.
+You need systems that work when you're tired. Habits that stick when life gets
+hard. People who matter when everything else fails.
 
 Start where you are. Use what works. Drop what doesn't. Adjust as you go.
 
-The best life operating system is the one you'll actually use. The best integration plan is the one you'll actually follow. The best version of you is the one that's sustainable.
+The best life operating system is the one you'll actually use. The best
+integration plan is the one you'll actually follow. The best version of you is
+the one that's sustainable.
 
-You've got all the pieces. Now just live them, imperfectly, consistently, kindly.
+You've got all the pieces. Now just live them, imperfectly, consistently,
+kindly.
 
 That's integration. That's enough. That's everything. 🌟
 

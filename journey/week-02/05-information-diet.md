@@ -10,13 +10,18 @@ objectives:
 
 ## Hey friend! 👋
 
-Feeling overwhelmed by the endless stream of dev content? New frameworks, hot takes, "must-read" articles, courses you "should" take? In this lesson we're putting you back in control with an information diet that feeds your growth without burning you out.
+Feeling overwhelmed by the endless stream of dev content? New frameworks, hot
+takes, "must-read" articles, courses you "should" take? In this lesson we're
+putting you back in control with an information diet that feeds your growth
+without burning you out.
 
 ## The Big Idea 💡
 
 **You are what you consume, and most of us are consuming junk information.**
 
-Just like eating fast food every meal makes your body sluggish, consuming random tech content makes your mind scattered. An information diet isn't about consuming less. It's about consuming intentionally.
+Just like eating fast food every meal makes your body sluggish, consuming random
+tech content makes your mind scattered. An information diet isn't about
+consuming less. It's about consuming intentionally.
 
 ## Why This Matters
 
@@ -34,7 +39,8 @@ Just like eating fast food every meal makes your body sluggish, consuming random
 - Confidence in your chosen stack
 - Time to practice instead of just consuming
 
-Think of it like this: a master chef doesn't eat at every restaurant in town. They choose quality ingredients and know exactly what they need for their goals.
+Think of it like this: a master chef doesn't eat at every restaurant in town.
+They choose quality ingredients and know exactly what they need for their goals.
 
 ## Your 15-Minute Mission
 
@@ -86,22 +92,31 @@ That's it. Four sources total. Quality over quantity.
 
 **Unsubscribe from everything else.** Right now.
 
-Yes, even that newsletter you "might read someday." If you haven't opened it in the last month, you won't miss it. Trust me on this one.
+Yes, even that newsletter you "might read someday." If you haven't opened it in
+the last month, you won't miss it. Trust me on this one.
 
 ## Real Talk 💬
 
-You might be thinking, "But what if I miss something important?" Here's the truth: truly important information finds its way to you. If React releases a major update, you'll hear about it.
+You might be thinking, "But what if I miss something important?" Here's the
+truth: truly important information finds its way to you. If React releases a
+major update, you'll hear about it.
 
-The fear of missing out keeps you in consumption mode instead of creation mode. You don't need to know about every new CSS framework. You need to master the tools you're already using.
+The fear of missing out keeps you in consumption mode instead of creation mode.
+You don't need to know about every new CSS framework. You need to master the
+tools you're already using.
 
-Remember: Your competition isn't learning about every new thing. Your competition is building cool stuff with the tools they know well.
+Remember: Your competition isn't learning about every new thing. Your
+competition is building cool stuff with the tools they know well.
 
 ## Key Takeaway
 
-Information is like food. The goal isn't to consume as much as possible. It's to consume what nourishes your growth and supports your goals.
+Information is like food. The goal isn't to consume as much as possible. It's to
+consume what nourishes your growth and supports your goals.
 
-A curated information diet lets you go deeper instead of wider, and deeper is where mastery lives.
+A curated information diet lets you go deeper instead of wider, and deeper is
+where mastery lives.
 
 ---
 
-**Feed your mind what it needs, not what's trending.** → [Tomorrow: Learn Through Projects](./06-project-learning)
+**Feed your mind what it needs, not what's trending.** →
+[Tomorrow: Learn Through Projects](./06-project-learning)

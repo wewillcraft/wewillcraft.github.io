@@ -11,11 +11,17 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Time is your most finite resource, yet it's often the first thing you surrender when external pressures mount. Time boundaries aren't about rigid schedules or saying no to everything—they're about making conscious choices about how you invest your hours to align with your priorities and values.
+Time is your most finite resource, yet it's often the first thing you surrender
+when external pressures mount. Time boundaries aren't about rigid schedules or
+saying no to everything—they're about making conscious choices about how you
+invest your hours to align with your priorities and values.
 
 ## Why This Matters
 
-The always-on culture creates pressure to be constantly available. Without clear time boundaries, your attention becomes scattered across countless interruptions, each carrying a 15-25 minute refocus cost. Every yes to one thing is a no to something else—poor time boundaries make this trade-off invisible.
+The always-on culture creates pressure to be constantly available. Without clear
+time boundaries, your attention becomes scattered across countless
+interruptions, each carrying a 15-25 minute refocus cost. Every yes to one thing
+is a no to something else—poor time boundaries make this trade-off invisible.
 
 ## Your 15-20 Minute Mission
 
@@ -45,8 +51,7 @@ The always-on culture creates pressure to be constantly available. Without clear
 4. **Transition Time**: 30 minutes between different types of work
 5. **Weekly Planning**: 1 hour every Sunday for the week ahead
 
-**The "No" Framework:**
-Before saying yes to any time request, ask:
+**The "No" Framework:** Before saying yes to any time request, ask:
 
 - Does this align with my top 3 priorities this week?
 - What will I have to sacrifice to make room for this?
@@ -80,7 +85,8 @@ Implement one time boundary this week:
 **Options:**
 
 1. **Communication Batching**: Check email only at 9 AM, 1 PM, and 4 PM
-2. **Deep Work Protection**: Block 2-hour morning focus time, no interruptions allowed
+2. **Deep Work Protection**: Block 2-hour morning focus time, no interruptions
+   allowed
 3. **Meeting Buffer**: Schedule 15-minute breaks between all meetings
 4. **No-Meeting Wednesday**: Protect one full day for focused work
 
@@ -88,12 +94,22 @@ Set up your calendar and notifications to support this boundary.
 
 ## Real Talk 💬
 
-Time boundaries feel selfish at first, especially if you've built an identity around being always available. Here's the truth: protecting your time makes you better at helping others. When you're constantly interrupted, you provide scattered, low-quality help. When you protect focus time, you can give full attention when it matters.
+Time boundaries feel selfish at first, especially if you've built an identity
+around being always available. Here's the truth: protecting your time makes you
+better at helping others. When you're constantly interrupted, you provide
+scattered, low-quality help. When you protect focus time, you can give full
+attention when it matters.
 
-People will initially push back on your time boundaries. That's normal. Stay consistent for 2-3 weeks, and most people will adapt to your new patterns. The ones who don't respect your boundaries after clear communication might need stronger limits.
+People will initially push back on your time boundaries. That's normal. Stay
+consistent for 2-3 weeks, and most people will adapt to your new patterns. The
+ones who don't respect your boundaries after clear communication might need
+stronger limits.
 
-Remember: you teach people how to treat your time. If you don't value it, why should they?
+Remember: you teach people how to treat your time. If you don't value it, why
+should they?
 
 ## Key Takeaway
 
-Time boundaries aren't restrictions—they're enablers. When you protect your time intentionally, you create space for your most important work and relationships to flourish while modeling sustainable practices for others.
+Time boundaries aren't restrictions—they're enablers. When you protect your time
+intentionally, you create space for your most important work and relationships
+to flourish while modeling sustainable practices for others.

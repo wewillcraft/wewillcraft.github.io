@@ -11,11 +11,15 @@ objectives:
 
 ## Hey friend! 👋
 
-Congratulations! You've completed Week 1 and learned so much about yourself. In this lesson we're creating something practical - a simple guide that helps others work with you effectively.
+Congratulations! You've completed Week 1 and learned so much about yourself. In
+this lesson we're creating something practical - a simple guide that helps
+others work with you effectively.
 
 ## The Big Idea 💡
 
-Just like code has documentation, you need documentation too! A personal "README" helps teammates, managers, and collaborators understand how to bring out your best work.
+Just like code has documentation, you need documentation too! A personal
+"README" helps teammates, managers, and collaborators understand how to bring
+out your best work.
 
 ## Why This Matters
 
@@ -28,11 +32,13 @@ When others understand how you work best:
 
 ## Your 15-Minute Mission
 
-Create a simple guide using the template below. Keep it short - one page maximum!
+Create a simple guide using the template below. Keep it short - one page
+maximum!
 
 ## Quick Win ✅
 
-**Right now:** Think of one person you work with regularly. What would you want them to know about working with you? That's the heart of your user manual!
+**Right now:** Think of one person you work with regularly. What would you want
+them to know about working with you? That's the heart of your user manual!
 
 ## Simple User Manual Template
 
@@ -73,13 +79,17 @@ Copy and customize this:
 
 ## Real Talk
 
-I used to think sharing my working preferences was demanding or high-maintenance. But when I finally created my user manual, my manager said, "I wish everyone did this! It makes my job so much easier."
+I used to think sharing my working preferences was demanding or
+high-maintenance. But when I finally created my user manual, my manager said, "I
+wish everyone did this! It makes my job so much easier."
 
-People WANT to work well with you - they just don't always know how. A user manual gives them permission to adjust their approach.
+People WANT to work well with you - they just don't always know how. A user
+manual gives them permission to adjust their approach.
 
 ## Keep It Simple
 
-Your user manual doesn't need to be perfect or comprehensive. Start with the basics:
+Your user manual doesn't need to be perfect or comprehensive. Start with the
+basics:
 
 - When you work best
 - How you communicate
@@ -88,10 +98,12 @@ Your user manual doesn't need to be perfect or comprehensive. Start with the bas
 
 ## Key Takeaway
 
-You've spent this week discovering who you are at your core. Now you have the tools to communicate that clearly to others, creating better working relationships wherever you go. Well done! 🎯
+You've spent this week discovering who you are at your core. Now you have the
+tools to communicate that clearly to others, creating better working
+relationships wherever you go. Well done! 🎯
 
-In one paragraph, here's what you need to know about working with me:
-[Write 3-4 sentences that capture your essence]
+In one paragraph, here's what you need to know about working with me: [Write 3-4
+sentences that capture your essence]
 
 ## My Operating System
 
@@ -219,8 +231,7 @@ In one paragraph, here's what you need to know about working with me:
 2.
 3.
 
-**My definition of success:**
-[Personal definition based on values]
+**My definition of success:** [Personal definition based on values]
 
 ### Growth Edges
 
@@ -295,8 +306,7 @@ In one paragraph, here's what you need to know about working with me:
 
 ### My Ideal Role
 
-**Type of work:** [What energizes you]
-**Team structure:** [Your preference]
+**Type of work:** [What energizes you] **Team structure:** [Your preference]
 **Growth path:** [Where you're headed]
 
 ### Success Metrics
@@ -313,15 +323,11 @@ In one paragraph, here's what you need to know about working with me:
 
 ### DO:
 
-✅ [Top 3 things that work]
-✅
-✅
+✅ [Top 3 things that work] ✅ ✅
 
 ### DON'T:
 
-❌ [Top 3 things to avoid]
-❌
-❌
+❌ [Top 3 things to avoid] ❌ ❌
 
 ### REMEMBER:
 
@@ -405,7 +411,9 @@ Here's an example of a completed section:
 
 ## Key Takeaway
 
-Your User Manual isn't about demanding special treatment. It's about transparent communication. You're giving others the cheat code to successful collaboration with you. That's not selfish; it's professional.
+Your User Manual isn't about demanding special treatment. It's about transparent
+communication. You're giving others the cheat code to successful collaboration
+with you. That's not selfish; it's professional.
 
 ---
 
@@ -418,4 +426,5 @@ You've completed Week 1: The Deep Dive Into You. You now have:
 - A Personal User Manual
 - The foundation for everything else
 
-**Next Week:** We'll build on this self-knowledge to discover your values, mission, and calling.
+**Next Week:** We'll build on this self-knowledge to discover your values,
+mission, and calling.

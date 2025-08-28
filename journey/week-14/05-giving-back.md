@@ -11,19 +11,26 @@ objectives:
 
 # You Already Know Enough to Help
 
-_Here's something amazing: after 14 weeks of learning and growing, you now know things that someone else desperately needs to learn. You don't need to wait until you "make it" to start helping others._
+_Here's something amazing: after 14 weeks of learning and growing, you now know
+things that someone else desperately needs to learn. You don't need to wait
+until you "make it" to start helping others._
 
-Let's flip the script on giving back. It's not about waiting until you're successful enough or rich enough or experienced enough.
+Let's flip the script on giving back. It's not about waiting until you're
+successful enough or rich enough or experienced enough.
 
 You're enough right now.
 
 ## Why Giving Back Matters (And Why You're Ready)
 
-Think about the past 14 weeks. Remember Week 1 when you felt lost and overwhelmed? Now imagine if Week 1 You could meet current You for just 30 minutes.
+Think about the past 14 weeks. Remember Week 1 when you felt lost and
+overwhelmed? Now imagine if Week 1 You could meet current You for just 30
+minutes.
 
 That's exactly what you can offer someone else right now.
 
-Giving back isn't about grand gestures or major donations. It's about using what you have to help where you can. And small contributions create surprisingly big ripples.
+Giving back isn't about grand gestures or major donations. It's about using what
+you have to help where you can. And small contributions create surprisingly big
+ripples.
 
 ## What You're Already Contributing (10 minutes)
 
@@ -85,16 +92,10 @@ Let's start by recognizing the ways you're already helping others:
 2. ---
 3. ---
 
-**What holds you back from helping more:**
-Check what resonates:
-□ Not enough time
-□ Not enough money
-□ Don't know how to help
-□ Don't feel qualified
-□ Don't know where to start
-□ Feel overwhelmed by all the need
-□ Had bad experiences before
-□ Too focused on my own goals
+**What holds you back from helping more:** Check what resonates: □ Not enough
+time □ Not enough money □ Don't know how to help □ Don't feel qualified □ Don't
+know where to start □ Feel overwhelmed by all the need □ Had bad experiences
+before □ Too focused on my own goals
 
 ## What Matters to You (15 minutes)
 
@@ -364,8 +365,7 @@ Pick what works for your life:
 - Organizations you've contributed to: _____
 - Problems you've helped solve: _____
 
-**What you want to be known for:**
-"I want to be remembered for _____"
+**What you want to be known for:** "I want to be remembered for _____"
 
 **Ways you could create lasting change:**
 
@@ -431,15 +431,19 @@ Pick what works for your life:
 
 ## Remember This
 
-You don't need to wait until you "make it" to start helping others. You already have something valuable to give.
+You don't need to wait until you "make it" to start helping others. You already
+have something valuable to give.
 
-That thing you struggled with in Week 1? You can help someone who's struggling with it now.
+That thing you struggled with in Week 1? You can help someone who's struggling
+with it now.
 
 That skill you picked up in Week 5? Someone needs to learn that exact skill.
 
-That mistake you made and learned from? Your story could save someone else from that same mistake.
+That mistake you made and learned from? Your story could save someone else from
+that same mistake.
 
-Giving back isn't about grand gestures or huge donations. It's about small, consistent contributions that create surprisingly big ripples.
+Giving back isn't about grand gestures or huge donations. It's about small,
+consistent contributions that create surprisingly big ripples.
 
 Start where you are. Use what you have. Help who you can.
 

@@ -18,15 +18,22 @@ objectives:
 
 ## Hey there, learning champion! 👋
 
-Welcome to Week 4! Remember how frustrating it was trying to cram for exams or learn new tech skills using methods that just didn't stick? Yeah, we've all been there. This week, we're throwing out the generic "study harder" advice and building a learning system that's designed specifically for YOUR brain.
+Welcome to Week 4! Remember how frustrating it was trying to cram for exams or
+learn new tech skills using methods that just didn't stick? Yeah, we've all been
+there. This week, we're throwing out the generic "study harder" advice and
+building a learning system that's designed specifically for YOUR brain.
 
-Think of this like upgrading from dial-up to fiber internet, but for your mind. Same information, way better processing power.
+Think of this like upgrading from dial-up to fiber internet, but for your mind.
+Same information, way better processing power.
 
 ## The Big Idea 💡
 
 **You don't need to learn more. You need to learn smarter.**
 
-Here's the thing: your brain isn't broken if traditional study methods don't work for you. You just haven't found your learning sweet spot yet. This week, we're finding that sweet spot and turning it into your personal learning superpower.
+Here's the thing: your brain isn't broken if traditional study methods don't
+work for you. You just haven't found your learning sweet spot yet. This week,
+we're finding that sweet spot and turning it into your personal learning
+superpower.
 
 ## This Week's Adventure
 
@@ -34,49 +41,58 @@ Here's the thing: your brain isn't broken if traditional study methods don't wor
 
 _Time: 15 minutes_
 
-Are you a visual learner who thinks in diagrams? An audio learner who processes best through conversation? Let's find out and stop fighting against your natural wiring.
+Are you a visual learner who thinks in diagrams? An audio learner who processes
+best through conversation? Let's find out and stop fighting against your natural
+wiring.
 
 ### Day 2: [Build Your Second Brain](./02-second-brain)
 
 _Time: 20 minutes_
 
-Create an external knowledge system so your actual brain can focus on thinking instead of storing everything. Think of it as your personal Wikipedia.
+Create an external knowledge system so your actual brain can focus on thinking
+instead of storing everything. Think of it as your personal Wikipedia.
 
 ### Day 3: [Master Spaced Repetition](./03-spaced-repetition)
 
 _Time: 15 minutes_
 
-Learn the science behind forgetting (and how to beat it). This one technique alone can cut your study time in half while doubling retention.
+Learn the science behind forgetting (and how to beat it). This one technique
+alone can cut your study time in half while doubling retention.
 
 ### Day 4: [Active Learning Techniques](./04-active-learning)
 
 _Time: 20 minutes_
 
-Stop being a passive consumer of information. We'll turn you into an active learner who actually understands (and remembers) what they learn.
+Stop being a passive consumer of information. We'll turn you into an active
+learner who actually understands (and remembers) what they learn.
 
 ### Day 5: [Design Your Information Diet](./05-information-diet)
 
 _Time: 15 minutes_
 
-Curate what goes into your brain like you curate your Netflix queue. Quality over quantity, always.
+Curate what goes into your brain like you curate your Netflix queue. Quality
+over quantity, always.
 
 ### Day 6: [Learn Through Projects](./06-project-learning)
 
 _Time: 20 minutes_
 
-The best way to learn is by building. We'll design a project-based approach that makes learning stick naturally.
+The best way to learn is by building. We'll design a project-based approach that
+makes learning stick naturally.
 
 ### Day 7: [Turn Failures into Fuel](./07-failure-learning)
 
 _Time: 15 minutes_
 
-Reframe every bug, mistake, and "failed" attempt as valuable data. Spoiler alert: there are no failures, only lessons.
+Reframe every bug, mistake, and "failed" attempt as valuable data. Spoiler
+alert: there are no failures, only lessons.
 
 ### Day 8: [Share Your Knowledge](./08-knowledge-sharing)
 
 _Time: 20 minutes_
 
-The fastest way to cement your learning? Teach it to someone else. We'll build systems for sharing and reinforcing what you learn.
+The fastest way to cement your learning? Teach it to someone else. We'll build
+systems for sharing and reinforcing what you learn.
 
 ## What You'll Walk Away With
 
@@ -90,17 +106,23 @@ By Sunday night, you'll have:
 
 ## Real Talk 💬
 
-Look, we know everyone has an opinion about the "best" way to learn. Some people swear by flashcards, others by videos, others by just diving in and breaking things. Here's the truth: they're all right for someone.
+Look, we know everyone has an opinion about the "best" way to learn. Some people
+swear by flashcards, others by videos, others by just diving in and breaking
+things. Here's the truth: they're all right for someone.
 
-This week isn't about finding the "perfect" method. It's about finding YOUR method. The one that feels natural, works with your schedule, and actually sticks.
+This week isn't about finding the "perfect" method. It's about finding YOUR
+method. The one that feels natural, works with your schedule, and actually
+sticks.
 
 ## Daily Rhythm
 
 **Morning (2 min)**: Quick brain check. How's your energy for learning today?
 
-**Main Session (15-20 min)**: Complete that day's learning system builder. Experiment, don't stress about perfection.
+**Main Session (15-20 min)**: Complete that day's learning system builder.
+Experiment, don't stress about perfection.
 
-**Evening (3 min)**: Capture one insight in your new system. Just one. Build the habit.
+**Evening (3 min)**: Capture one insight in your new system. Just one. Build the
+habit.
 
 ## Your Week 4 Toolkit
 
@@ -121,18 +143,23 @@ This week isn't about finding the "perfect" method. It's about finding YOUR meth
 **Right now, before you read another word:**
 
 1. Finish this sentence: "I learn best when..."
-2. Think of the last thing you learned quickly and enjoyed learning. What made it click?
+2. Think of the last thing you learned quickly and enjoyed learning. What made
+   it click?
 3. Set your daily learning time (we suggest the same time every day)
 4. Create a note titled "My Learning Experiments - Week 4"
 
-That's it. You've officially started building your learning operating system! 🧠✨
+That's it. You've officially started building your learning operating system!
+🧠✨
 
 ## A Friendly Reminder
 
-Your brain is already incredible at learning. You've been doing it since you were born. We're just optimizing the process and removing the friction. Be patient with yourself as you experiment with new methods.
+Your brain is already incredible at learning. You've been doing it since you
+were born. We're just optimizing the process and removing the friction. Be
+patient with yourself as you experiment with new methods.
 
 ## Questions?
 
-Write them down! Questions are your brain's way of pointing you toward what matters most. Every question is worth exploring.
+Write them down! Questions are your brain's way of pointing you toward what
+matters most. Every question is worth exploring.
 
 ---

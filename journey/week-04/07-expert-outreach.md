@@ -7,11 +7,14 @@ week: 6
 
 ## Hey friend! 👋
 
-Want to learn from the best? Let's talk about reaching out to experts—the right way. It's not about bothering famous developers; it's about building genuine relationships where everyone wins.
+Want to learn from the best? Let's talk about reaching out to experts—the right
+way. It's not about bothering famous developers; it's about building genuine
+relationships where everyone wins.
 
 ## The Big Idea 💡
 
-**The fastest way to level up isn't grinding tutorials—it's learning from people who've already solved your problems.**
+**The fastest way to level up isn't grinding tutorials—it's learning from people
+who've already solved your problems.**
 
 One conversation with the right expert can save you months of trial and error.
 
@@ -24,14 +27,15 @@ Experts have walked the exact path you're trying to navigate. They know:
 - Which opportunities to pursue
 - Who else you should connect with
 
-Plus, in this lesson's expert was yesterday's beginner. Most genuinely want to help when approached respectfully.
+Plus, in this lesson's expert was yesterday's beginner. Most genuinely want to
+help when approached respectfully.
 
 ## Your 15-Minute Mission
 
 ### Step 1: Know the Tiers (3 minutes)
 
-**Tier 1** (start here): Community builders, content creators, local meetup speakers
-**Tier 2**: Industry veterans, team leads, consultants\
+**Tier 1** (start here): Community builders, content creators, local meetup
+speakers **Tier 2**: Industry veterans, team leads, consultants\
 **Tier 3**: Tech celebrities, executives, famous developers
 
 Begin with Tier 1—they're more accessible and often more helpful.
@@ -53,9 +57,9 @@ Begin with Tier 1—they're more accessible and often more helpful.
 
 ### Step 3: Choose Your Platform (7 minutes)
 
-**Twitter/X**: Engage with their tweets first, then DM
-**LinkedIn**: Connect with personalized message, comment on posts
-**GitHub**: Contribute to their projects, ask in issues\
+**Twitter/X**: Engage with their tweets first, then DM **LinkedIn**: Connect
+with personalized message, comment on posts **GitHub**: Contribute to their
+projects, ask in issues\
 **Email**: Only if publicly available, keep under 150 words
 
 **Your outreach template:**
@@ -90,16 +94,19 @@ Don't reach out yet—build familiarity first through genuine engagement.
 
 ## Real Talk 💬
 
-Most developers never reach out because they think experts are too important or busy. Wrong.
+Most developers never reach out because they think experts are too important or
+busy. Wrong.
 
-The reality? Experts got where they are by learning from others. They remember being confused beginners. Many are genuinely happy to help when you:
+The reality? Experts got where they are by learning from others. They remember
+being confused beginners. Many are genuinely happy to help when you:
 
 - Approach them respectfully
 - Ask specific questions
 - Show you've done your homework
 - Offer something in return
 
-The worst they can say is "not right now." But often they'll say yes, and that 15-minute conversation might redirect your entire career.
+The worst they can say is "not right now." But often they'll say yes, and that
+15-minute conversation might redirect your entire career.
 
 ## Your Expert Outreach Checklist
 
@@ -113,10 +120,13 @@ Before reaching out:
 
 ## Key Takeaway
 
-Building relationships with experts isn't about using people—it's about creating mutual value. Lead with contribution, be specific about your needs, and remember that everyone started as a beginner once.
+Building relationships with experts isn't about using people—it's about creating
+mutual value. Lead with contribution, be specific about your needs, and remember
+that everyone started as a beginner once.
 
 ---
 
-**Tomorrow: Let's talk about building in public (the modern way to showcase your skills).**
+**Tomorrow: Let's talk about building in public (the modern way to showcase your
+skills).**
 
 → [Day 8: Building in Public](./08-building-public)

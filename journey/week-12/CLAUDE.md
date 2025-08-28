@@ -2,7 +2,8 @@
 
 ## Week Overview
 
-Week 12 develops leadership skills regardless of title or seniority. Every developer can lead from where they are. Focus on inclusive, servant leadership.
+Week 12 develops leadership skills regardless of title or seniority. Every
+developer can lead from where they are. Focus on inclusive, servant leadership.
 
 ## Specific Tone for This Week
 
@@ -161,10 +162,9 @@ Leadership practice:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Discover your style"
-**Wednesday (Lesson 3-4)**: "Build core skills"
-**Friday (Lesson 5-6)**: "Navigate challenges"
-**Weekend (Lesson 7-8)**: "Practice leading"
+**Monday (Lesson 1-2)**: "Discover your style" **Wednesday (Lesson 3-4)**:
+"Build core skills" **Friday (Lesson 5-6)**: "Navigate challenges" **Weekend
+(Lesson 7-8)**: "Practice leading"
 
 ## Success Metrics
 
@@ -236,7 +236,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-12/02-leadership-principles/` for all navigation links.
+Use full relative paths like `/journey/week-12/02-leadership-principles/` for
+all navigation links.
 
 Example navigation section:
 
@@ -245,7 +246,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Leadership Assessment](/journey/week-12/01-leadership-assessment/) | [Next: Emotional Intelligence](/journey/week-12/03-emotional-intelligence/) →
+← [Previous: Leadership Assessment](/journey/week-12/01-leadership-assessment/)
+| [Next: Emotional Intelligence](/journey/week-12/03-emotional-intelligence/) →
 
 [← Back to Week 12 Overview](/journey/week-12/)
 ```

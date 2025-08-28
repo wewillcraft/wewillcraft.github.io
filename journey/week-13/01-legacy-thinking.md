@@ -84,10 +84,10 @@ See? You're already doing it.
 
 ## The Ripple Effect You Can't See
 
-That random GitHub repo you made? Someone forked it.
-That blog post about your bug fix? Saved someone's job.
-That Discord message encouraging a newbie? Kept them coding.
-That time you admitted you didn't know something? Made others feel human.
+That random GitHub repo you made? Someone forked it. That blog post about your
+bug fix? Saved someone's job. That Discord message encouraging a newbie? Kept
+them coding. That time you admitted you didn't know something? Made others feel
+human.
 
 You never see most of your impact. That doesn't mean it's not happening.
 
@@ -135,8 +135,8 @@ Write a quick message to:
 
 Send at least one. Right now.
 
-Example:
-"Hey [Name], you probably don't remember, but you helped me with [thing] last year. It made a huge difference. Just wanted you to know."
+Example: "Hey [Name], you probably don't remember, but you helped me with
+[thing] last year. It made a huge difference. Just wanted you to know."
 
 ## Legacy at Different Life Stages
 
@@ -254,12 +254,17 @@ Examples:
 
 ## Remember This
 
-Your legacy isn't some grand monument. It's the thousand tiny impacts you make without thinking.
+Your legacy isn't some grand monument. It's the thousand tiny impacts you make
+without thinking.
 
-Every question you answer. Every person you encourage. Every bit of knowledge you share. Every time you're kind when you could be indifferent.
+Every question you answer. Every person you encourage. Every bit of knowledge
+you share. Every time you're kind when you could be indifferent.
 
-You're building legacy right now, in this lesson, in the small things. The person you help in this lesson might help hundreds tomorrow because of you.
+You're building legacy right now, in this lesson, in the small things. The
+person you help in this lesson might help hundreds tomorrow because of you.
 
-You don't need to be Steve Jobs. You just need to be helpful. And you already are.
+You don't need to be Steve Jobs. You just need to be helpful. And you already
+are.
 
-Your legacy isn't what you leave behind when you die. It's what you give while you live. 🌱
+Your legacy isn't what you leave behind when you die. It's what you give while
+you live. 🌱

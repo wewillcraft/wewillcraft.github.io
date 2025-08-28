@@ -11,11 +11,15 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever wonder why some ways of working feel effortless while others drain you? In this lesson we're diving into your brain's "operating system" - how you naturally think, decide, and recharge.
+Ever wonder why some ways of working feel effortless while others drain you? In
+this lesson we're diving into your brain's "operating system" - how you
+naturally think, decide, and recharge.
 
 ## The Big Idea 💡
 
-Your personality type is like your brain's default settings. Understanding it helps you work WITH your nature, not against it. Think of it as discovering your mental superpowers!
+Your personality type is like your brain's default settings. Understanding it
+helps you work WITH your nature, not against it. Think of it as discovering your
+mental superpowers!
 
 ## Why This Matters
 
@@ -30,15 +34,19 @@ When you know how your brain works best, everything becomes easier:
 
 ### Step 1: Take the Test (12 minutes)
 
-Go to [16personalities.com](https://www.16personalities.com/free-personality-test) and answer honestly. Don't overthink - go with your gut feeling!
+Go to
+[16personalities.com](https://www.16personalities.com/free-personality-test) and
+answer honestly. Don't overthink - go with your gut feeling!
 
 ### Step 2: Save Your Results (3 minutes)
 
-Write down your 4-letter type (like INFJ or ESTP) and what resonated most with you.
+Write down your 4-letter type (like INFJ or ESTP) and what resonated most with
+you.
 
 ## Quick Win ✅
 
-**Right now, think about yesterday:** When did you feel most energized? When did you feel drained?
+**Right now, think about yesterday:** When did you feel most energized? When did
+you feel drained?
 
 Your personality type will help explain these patterns!
 
@@ -58,28 +66,42 @@ There's no right or wrong - just different!
 
 ## Real Talk
 
-I used to think I was "broken" because I needed quiet time after meetings. Turns out I'm just an introvert! Understanding your type isn't about putting yourself in a box - it's about giving yourself permission to work in ways that actually work for YOU.
+I used to think I was "broken" because I needed quiet time after meetings. Turns
+out I'm just an introvert! Understanding your type isn't about putting yourself
+in a box - it's about giving yourself permission to work in ways that actually
+work for YOU.
 
-Some days you might feel like an extrovert, other days an introvert. That's totally normal! We all have access to all preferences - we just have natural defaults.
+Some days you might feel like an extrovert, other days an introvert. That's
+totally normal! We all have access to all preferences - we just have natural
+defaults.
 
 ## What Your Type Means For You
 
-**If you're an Introvert:** You're not antisocial - you just recharge differently! Schedule quiet time and don't feel guilty about it.
+**If you're an Introvert:** You're not antisocial - you just recharge
+differently! Schedule quiet time and don't feel guilty about it.
 
-**If you're an Extravert:** You think out loud and that's awesome! Find people to brainstorm with.
+**If you're an Extravert:** You think out loud and that's awesome! Find people
+to brainstorm with.
 
-**If you're a Sensor:** You like practical, hands-on learning. Start with examples, then theory.
+**If you're a Sensor:** You like practical, hands-on learning. Start with
+examples, then theory.
 
-**If you're Intuitive:** You love big picture thinking. Make sure to connect details to the bigger vision.
+**If you're Intuitive:** You love big picture thinking. Make sure to connect
+details to the bigger vision.
 
-**If you're a Thinker:** You excel at logical analysis. Remember to consider how decisions affect people too.
+**If you're a Thinker:** You excel at logical analysis. Remember to consider how
+decisions affect people too.
 
-**If you're a Feeler:** You naturally consider people's needs. Don't take objective feedback personally.
+**If you're a Feeler:** You naturally consider people's needs. Don't take
+objective feedback personally.
 
-**If you're a Judger:** You love having a plan. Build in some flexibility for unexpected opportunities.
+**If you're a Judger:** You love having a plan. Build in some flexibility for
+unexpected opportunities.
 
-**If you're a Perceiver:** You thrive with options and variety. Use soft deadlines to stay on track.
+**If you're a Perceiver:** You thrive with options and variety. Use soft
+deadlines to stay on track.
 
 ## Key Takeaway
 
-Your personality type isn't a limitation - it's your secret weapon. Now you have the user manual for your brain! 🎯
+Your personality type isn't a limitation - it's your secret weapon. Now you have
+the user manual for your brain! 🎯

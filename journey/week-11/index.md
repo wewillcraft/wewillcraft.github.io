@@ -9,7 +9,9 @@ excerpt: Build sustainable health practices that enhance your cognitive performa
 
 **Your body is your most important development environment.**
 
-Peak cognitive performance requires peak physical health. This week, you'll design health habits that fit your lifestyle, personality, and professional demands as a developer.
+Peak cognitive performance requires peak physical health. This week, you'll
+design health habits that fit your lifestyle, personality, and professional
+demands as a developer.
 
 ## This Week's Journey
 
@@ -18,7 +20,8 @@ Peak cognitive performance requires peak physical health. This week, you'll desi
    - Energy patterns and pain points
    - Lifestyle factor analysis
 
-2. [**The Developer's Health Challenges**](./02-developer-health-challenges) (45 min)
+2. [**The Developer's Health Challenges**](./02-developer-health-challenges) (45
+   min)
    - Sedentary lifestyle impacts
    - Screen time and eye health
    - Posture and ergonomics
@@ -67,19 +70,23 @@ By Sunday evening, you'll have created:
 **For Structured Types (High Conscientiousness):**
 
 - **Strengths:** Consistent routines, goal tracking, long-term planning
-- **Strategies:** Detailed workout schedules, meal prep Sundays, health metrics tracking
-- **Challenges:** Perfectionism, all-or-nothing thinking, schedule disruption anxiety
+- **Strategies:** Detailed workout schedules, meal prep Sundays, health metrics
+  tracking
+- **Challenges:** Perfectionism, all-or-nothing thinking, schedule disruption
+  anxiety
 
 **For Flexible Types (High Openness):**
 
 - **Strengths:** Variety seeking, experimental approaches, adaptive routines
-- **Strategies:** Diverse activities, trying new healthy recipes, seasonal adjustments
+- **Strategies:** Diverse activities, trying new healthy recipes, seasonal
+  adjustments
 - **Challenges:** Inconsistency, shiny object syndrome, lack of structure
 
 **For Social Types (High Extraversion):**
 
 - **Strengths:** Group activities, accountability partners, external motivation
-- **Strategies:** Fitness classes, workout buddies, team sports, social challenges
+- **Strategies:** Fitness classes, workout buddies, team sports, social
+  challenges
 - **Challenges:** Depending too much on others, social eating temptations
 
 **For Independent Types (High Introversion):**
@@ -211,7 +218,8 @@ By Sunday evening, you'll have created:
 
 > "Take care of your body. It's the only place you have to live." - Jim Rohn
 
-Your health is your wealth. The habits you build in your twenties will determine your energy and capability in your forties, fifties, and beyond.
+Your health is your wealth. The habits you build in your twenties will determine
+your energy and capability in your forties, fifties, and beyond.
 
 ## Time Investment This Week
 
@@ -236,4 +244,5 @@ Your health is your wealth. The habits you build in your twenties will determine
 
 ---
 
-_Remember: You don't need to be perfect, just consistent. Small, sustainable changes compound into significant health improvements over time._
+_Remember: You don't need to be perfect, just consistent. Small, sustainable
+changes compound into significant health improvements over time._

@@ -12,9 +12,13 @@ objectives:
 # Leadership Practice 🚀🌟
 
 **Time:** 30 minutes\
-**Purpose:** Turn everything you've learned into a personal leadership action plan!
+**Purpose:** Turn everything you've learned into a personal leadership action
+plan!
 
-Hey there! You've just learned about 7 key leadership skills. Now it's time to put it all together and create your personal leadership development plan. This isn't about becoming perfect - it's about becoming intentional in how you grow as a leader! 💪
+Hey there! You've just learned about 7 key leadership skills. Now it's time to
+put it all together and create your personal leadership development plan. This
+isn't about becoming perfect - it's about becoming intentional in how you grow
+as a leader! 💪
 
 ## Your Week 11 Leadership Learning Summary
 
@@ -100,83 +104,73 @@ Let's quickly capture what you discovered about yourself:
 
 ### Week 1: Self-Leadership Focus
 
-**Monday:** Practice one emotional intelligence technique
-**Tuesday:** Use the DECIDE method for one decision
-**Wednesday:** Delegate one task using the SMART framework
-**Thursday:** Try a new leadership style in one situation
-**Friday:** Reflect on your week and adjust
+**Monday:** Practice one emotional intelligence technique **Tuesday:** Use the
+DECIDE method for one decision **Wednesday:** Delegate one task using the SMART
+framework **Thursday:** Try a new leadership style in one situation **Friday:**
+Reflect on your week and adjust
 
 ### Week 2: Relationship Leadership Focus
 
-**Monday:** Have a difficult conversation using the PEACE method
-**Tuesday:** Practice one influence technique
-**Wednesday:** Help improve team dynamics in one group
-**Thursday:** Resolve or address one conflict you've been avoiding
+**Monday:** Have a difficult conversation using the PEACE method **Tuesday:**
+Practice one influence technique **Wednesday:** Help improve team dynamics in
+one group **Thursday:** Resolve or address one conflict you've been avoiding
 **Friday:** Ask for feedback from someone you lead/work with
 
 ### Week 3: Team Leadership Focus
 
-**Monday:** Focus on building psychological safety in one team
-**Tuesday:** Practice facilitation skills in a meeting
-**Wednesday:** Help someone else develop a leadership skill
-**Thursday:** Try leading without using any formal authority
-**Friday:** Celebrate someone else's success publicly
+**Monday:** Focus on building psychological safety in one team **Tuesday:**
+Practice facilitation skills in a meeting **Wednesday:** Help someone else
+develop a leadership skill **Thursday:** Try leading without using any formal
+authority **Friday:** Celebrate someone else's success publicly
 
 ### Week 4: Integration and Growth
 
-**Monday:** Review your progress and learning
-**Tuesday:** Get feedback from 2-3 people about your leadership
-**Wednesday:** Plan your leadership development for next month
-**Thursday:** Share something you've learned with others
-**Friday:** Set your leadership goals for the future
+**Monday:** Review your progress and learning **Tuesday:** Get feedback from 2-3
+people about your leadership **Wednesday:** Plan your leadership development for
+next month **Thursday:** Share something you've learned with others **Friday:**
+Set your leadership goals for the future
 
 ## Daily Leadership Practices (Pick 2-3)
 
-**Morning Leadership Prep:**
-□ "How do I want to show up as a leader in this lesson?"
-□ "What leadership skill will I practice in this lesson?"
-□ "Who can I help succeed in this lesson?"
+**Morning Leadership Prep:** □ "How do I want to show up as a leader in this
+lesson?" □ "What leadership skill will I practice in this lesson?" □ "Who can I
+help succeed in this lesson?"
 
-**Throughout the Day:**
-□ Notice your emotional responses and manage them
-□ Look for opportunities to practice influence
-□ Help someone else solve a problem
-□ Ask better questions instead of giving immediate answers
-□ Practice active listening in every conversation
+**Throughout the Day:** □ Notice your emotional responses and manage them □ Look
+for opportunities to practice influence □ Help someone else solve a problem □
+Ask better questions instead of giving immediate answers □ Practice active
+listening in every conversation
 
-**Evening Leadership Reflection:**
-□ "What leadership moments did I have in this lesson?"
-□ "How did I handle challenges?"
-□ "What did I learn about myself and others?"
-□ "How can I improve tomorrow?"
+**Evening Leadership Reflection:** □ "What leadership moments did I have in this
+lesson?" □ "How did I handle challenges?" □ "What did I learn about myself and
+others?" □ "How can I improve tomorrow?"
 
 ## Your Leadership Experiment 🧪
 
 Choose ONE leadership challenge to focus on for the next 30 days:
 
-**Option 1: The Confidence Builder**
-Practice speaking up more in groups, sharing your ideas, and taking on visible leadership roles.
+**Option 1: The Confidence Builder** Practice speaking up more in groups,
+sharing your ideas, and taking on visible leadership roles.
 
-**Option 2: The Team Builder**
-Focus on helping any group you're in work better together - address conflicts, improve communication, celebrate successes.
+**Option 2: The Team Builder** Focus on helping any group you're in work better
+together - address conflicts, improve communication, celebrate successes.
 
-**Option 3: The Developer**
-Concentrate on helping others grow - give feedback, teach skills, create opportunities for others to lead.
+**Option 3: The Developer** Concentrate on helping others grow - give feedback,
+teach skills, create opportunities for others to lead.
 
 **Option 4: The Influence Master**\
-Practice building genuine relationships and helping others succeed as your path to influence.
+Practice building genuine relationships and helping others succeed as your path
+to influence.
 
-**Option 5: The Decision Maker**
-Focus on making decisions more confidently and quickly, using frameworks and learning from outcomes.
+**Option 5: The Decision Maker** Focus on making decisions more confidently and
+quickly, using frameworks and learning from outcomes.
 
 **My leadership experiment:** ________________
 
 ## Creating Your Leadership Support System
 
-**Your Leadership Accountability Partner:**
-Name: ________________
-How they'll help: ________________
-How often you'll check in: ________________
+**Your Leadership Accountability Partner:** Name: ________________ How they'll
+help: ________________ How often you'll check in: ________________
 
 **Your Leadership Feedback Sources:**
 
@@ -184,11 +178,9 @@ How often you'll check in: ________________
 - ___ (someone you lead or work closely with)
 - ___ (a mentor or someone whose leadership you admire)
 
-**Your Leadership Learning Resources:**
-□ Books/podcasts about leadership
-□ Leadership opportunities to volunteer for
-□ Courses or workshops to attend
-□ People to observe and learn from
+**Your Leadership Learning Resources:** □ Books/podcasts about leadership □
+Leadership opportunities to volunteer for □ Courses or workshops to attend □
+People to observe and learn from
 
 ## Real-World Leadership Practice Opportunities
 
@@ -220,8 +212,7 @@ How often you'll check in: ________________
 - Coach or tutor others
 - Join boards or committees
 
-**Your leadership practice commitment:**
-This month I will: ________________
+**Your leadership practice commitment:** This month I will: ________________
 
 ## Measuring Your Leadership Growth
 
@@ -239,8 +230,8 @@ This month I will: ________________
 - What impact am I having on teams/groups I'm part of?
 - What leadership opportunities am I creating or finding?
 
-**Your leadership growth metric:**
-In 30 days, I'll know I'm growing as a leader when:
+**Your leadership growth metric:** In 30 days, I'll know I'm growing as a leader
+when:
 
 ---
 
@@ -261,7 +252,9 @@ Leadership IS about:
 - Learning from every experience
 - Serving others, not yourself
 
-You don't need a title to be a leader. You don't need permission to help others succeed. You don't need to wait until you're "ready" - you become ready by practicing!
+You don't need a title to be a leader. You don't need permission to help others
+succeed. You don't need to wait until you're "ready" - you become ready by
+practicing!
 
 ## Your Leadership Commitment
 
@@ -287,8 +280,12 @@ You don't need a title to be a leader. You don't need permission to help others 
 
 ## The Next Step
 
-Leadership is a practice, not a destination. Every day gives you new opportunities to lead - in small moments and big decisions, in difficult conversations and celebratory ones.
+Leadership is a practice, not a destination. Every day gives you new
+opportunities to lead - in small moments and big decisions, in difficult
+conversations and celebratory ones.
 
-You've learned the tools. Now go use them. Help someone succeed. Make a team work better together. Have the difficult conversation. Make the hard decision. Influence positive change.
+You've learned the tools. Now go use them. Help someone succeed. Make a team
+work better together. Have the difficult conversation. Make the hard decision.
+Influence positive change.
 
 The world needs your leadership. Start in this lesson! 🌟

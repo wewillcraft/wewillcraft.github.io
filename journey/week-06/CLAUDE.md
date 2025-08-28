@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-Week 6 helps students connect their identity to their future. This is about dreaming without pressure and finding their "why" in tech. Balance aspiration with realism.
+Week 6 helps students connect their identity to their future. This is about
+dreaming without pressure and finding their "why" in tech. Balance aspiration
+with realism.
 
 ## Specific Tone for This Week
 
@@ -147,10 +149,9 @@ Vision-building activities:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Let's explore what matters to you"
-**Wednesday (Lesson 3-4)**: "Your past has prepared you"
-**Friday (Lesson 5-6)**: "Your future is bright"
-**Weekend (Lesson 7)**: "You know where you're headed"
+**Monday (Lesson 1-2)**: "Let's explore what matters to you" **Wednesday (Lesson
+3-4)**: "Your past has prepared you" **Friday (Lesson 5-6)**: "Your future is
+bright" **Weekend (Lesson 7)**: "You know where you're headed"
 
 ## Success Metrics
 
@@ -217,7 +218,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-06/02-ikigai-mapping/` for all navigation links.
+Use full relative paths like `/journey/week-06/02-ikigai-mapping/` for all
+navigation links.
 
 Example navigation section:
 
@@ -226,7 +228,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Values Discovery](/journey/week-02/01-values-discovery/) | [Next: Life Timeline](/journey/week-02/03-life-timeline/) →
+← [Previous: Values Discovery](/journey/week-02/01-values-discovery/) |
+[Next: Life Timeline](/journey/week-02/03-life-timeline/) →
 
 [← Back to Week 2 Overview](/journey/week-02/)
 ```

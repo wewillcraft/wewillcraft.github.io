@@ -14,7 +14,9 @@ objectives:
 **Time:** 25 minutes\
 **Vibe:** Building your burnout radar system 📡
 
-Burnout isn't just "being tired." It's when your inner fire goes from energizing flame to everything-is-burning chaos. The good news? You can usually see it coming if you know what to look for.
+Burnout isn't just "being tired." It's when your inner fire goes from energizing
+flame to everything-is-burning chaos. The good news? You can usually see it
+coming if you know what to look for.
 
 ## The Burnout Recipe 🍳
 
@@ -72,26 +74,15 @@ Rate how often you experience these (1=never, 5=daily):
 
 Check what applies to you:
 
-**Workload factors:**
-□ Unrealistic deadlines constantly
-□ Way too much on your plate
-□ Unclear expectations\
-□ No control over your schedule
-□ Meaningless or conflicting tasks
+**Workload factors:** □ Unrealistic deadlines constantly □ Way too much on your
+plate □ Unclear expectations\
+□ No control over your schedule □ Meaningless or conflicting tasks
 
-**Environment factors:**
-□ Toxic workplace culture
-□ No recognition for good work
-□ Unfair treatment
-□ Poor leadership
-□ Constant interruptions
+**Environment factors:** □ Toxic workplace culture □ No recognition for good
+work □ Unfair treatment □ Poor leadership □ Constant interruptions
 
-**Personal factors:**
-□ Perfectionist tendencies
-□ People-pleasing habits
-□ Difficulty saying no
-□ High personal standards
-□ All work, no play lifestyle
+**Personal factors:** □ Perfectionist tendencies □ People-pleasing habits □
+Difficulty saying no □ High personal standards □ All work, no play lifestyle
 
 **Your top 3 risk factors:**
 
@@ -114,17 +105,13 @@ Check what applies to you:
 
 ### Weekly Prevention Habits
 
-**Non-negotiable time off:**
-□ One full day per week with minimal work
-□ Regular meal breaks (yes, really!)
-□ Actual vacation time that you take
-□ Hobbies that have nothing to do with productivity
+**Non-negotiable time off:** □ One full day per week with minimal work □ Regular
+meal breaks (yes, really!) □ Actual vacation time that you take □ Hobbies that
+have nothing to do with productivity
 
-**Boundary practices:**
-□ Set work hours and stick to them
-□ Turn off notifications outside work time
-□ Say no to at least one request per week
-□ Ask for help before you're drowning
+**Boundary practices:** □ Set work hours and stick to them □ Turn off
+notifications outside work time □ Say no to at least one request per week □ Ask
+for help before you're drowning
 
 ### Monthly Burnout Audit
 
@@ -146,25 +133,17 @@ Check what applies to you:
 
 ### When You Notice These Signals:
 
-**Immediate action (in this lesson):**
-□ Take a real lunch break
-□ Go for a 10-minute walk
-□ Call someone who makes you laugh
-□ Do one thing just for fun
-□ Get 8 hours of sleep tonight
+**Immediate action (in this lesson):** □ Take a real lunch break □ Go for a
+10-minute walk □ Call someone who makes you laugh □ Do one thing just for fun □
+Get 8 hours of sleep tonight
 
-**This week action:**
-□ Say no to one non-essential thing
-□ Schedule time for something you enjoy
-□ Talk to someone about how you're feeling
-□ Delegate or ask for help
-□ Take at least one full day off
+**This week action:** □ Say no to one non-essential thing □ Schedule time for
+something you enjoy □ Talk to someone about how you're feeling □ Delegate or ask
+for help □ Take at least one full day off
 
-**This month action:**
-□ Evaluate your commitments
-□ Have honest conversations about workload
-□ Strengthen your support system
-□ Consider what needs to change long-term
+**This month action:** □ Evaluate your commitments □ Have honest conversations
+about workload □ Strengthen your support system □ Consider what needs to change
+long-term
 
 ## Burnout Recovery Quick Kit
 
@@ -188,17 +167,17 @@ Check what applies to you:
 
 ## This Week's Anti-Burnout Challenge
 
-**Choose one:**
-□ Take your full lunch break every day
-□ Leave work on time 3 days this week
-□ Say no to one request
-□ Schedule something fun for this weekend
+**Choose one:** □ Take your full lunch break every day □ Leave work on time 3
+days this week □ Say no to one request □ Schedule something fun for this weekend
 □ Talk to someone about your stress level
 
 ## Remember This
 
-Burnout prevention isn't about working less hard - it's about working more sustainably. You can be successful AND take care of yourself. In fact, taking care of yourself is what makes real success possible.
+Burnout prevention isn't about working less hard - it's about working more
+sustainably. You can be successful AND take care of yourself. In fact, taking
+care of yourself is what makes real success possible.
 
-The world needs what you have to offer, but it needs the authentic, energized version of you - not the burnt-out shell. 💙
+The world needs what you have to offer, but it needs the authentic, energized
+version of you - not the burnt-out shell. 💙
 
 **Next up:** What to do when life throws you a real curveball →

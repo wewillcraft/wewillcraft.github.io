@@ -11,11 +11,14 @@ objectives:
 
 ## The People Puzzle 🧩
 
-You know that coworker who needs EVERY detail before making a decision? And that other one who interrupts meetings with "But what if we tried something completely different?"
+You know that coworker who needs EVERY detail before making a decision? And that
+other one who interrupts meetings with "But what if we tried something
+completely different?"
 
 They're not trying to be difficult. They just have different wiring.
 
-in this lesson, we're learning how to speak everyone's language. It's like being a polyglot, but for personalities.
+in this lesson, we're learning how to speak everyone's language. It's like being
+a polyglot, but for personalities.
 
 ## The Quick Personality Decoder
 
@@ -53,7 +56,8 @@ Check their calendar:
 
 ### The Architect (INTJ/INTP)
 
-**You'll know them because:** They're designing systems 5 years into the future while you're still debugging yesterday's code.
+**You'll know them because:** They're designing systems 5 years into the future
+while you're still debugging yesterday's code.
 
 **How to talk to them:**
 
@@ -66,7 +70,8 @@ Check their calendar:
 
 ### The Builder (ISTP/ESTP)
 
-**You'll know them because:** They're already coding while everyone else is still discussing.
+**You'll know them because:** They're already coding while everyone else is
+still discussing.
 
 **How to talk to them:**
 
@@ -79,7 +84,8 @@ Check their calendar:
 
 ### The Advocate (ENFJ/INFJ)
 
-**You'll know them because:** They remember everyone's birthday and actually care about your weekend.
+**You'll know them because:** They remember everyone's birthday and actually
+care about your weekend.
 
 **How to talk to them:**
 
@@ -151,18 +157,19 @@ DON'T: Be coldly logical, ignore team morale
 
 ### Scenario 1: Code Review with ISTJ Lead
 
-**Wrong way:** "I tried something creative here!"
-**Right way:** "I followed the pattern from module X, with one optimization based on benchmark data..."
+**Wrong way:** "I tried something creative here!" **Right way:** "I followed the
+pattern from module X, with one optimization based on benchmark data..."
 
 ### Scenario 2: Brainstorm with ENFP Designer
 
-**Wrong way:** "That won't work because of technical constraints."
-**Right way:** "I love that energy! Let's explore what's possible and then figure out the technical path..."
+**Wrong way:** "That won't work because of technical constraints." **Right
+way:** "I love that energy! Let's explore what's possible and then figure out
+the technical path..."
 
 ### Scenario 3: Update to INTJ Manager
 
-**Wrong way:** Long story about the journey
-**Right way:** "Result: X. Method: Y. Next step: Z. Questions?"
+**Wrong way:** Long story about the journey **Right way:** "Result: X. Method:
+Y. Next step: Z. Questions?"
 
 ## The Personality Clash Solver
 
@@ -205,11 +212,10 @@ Fill this out for your team:
 
 This week, try the **Personality Mirror Challenge**:
 
-**Monday:** Match an introvert's communication style
-**Tuesday:** Match an extrovert's energy
-**Wednesday:** Speak sensor (all details, no vision)
-**Thursday:** Go full intuitive (all vision, minimal details)
-**Friday:** Balance both thinking and feeling in decisions
+**Monday:** Match an introvert's communication style **Tuesday:** Match an
+extrovert's energy **Wednesday:** Speak sensor (all details, no vision)
+**Thursday:** Go full intuitive (all vision, minimal details) **Friday:**
+Balance both thinking and feeling in decisions
 
 ## Quick Personality Hacks
 
@@ -225,22 +231,29 @@ This week, try the **Personality Mirror Challenge**:
 
 Here's the thing nobody mentions: **People are inconsistent.**
 
-Your introverted manager might be extroverted about their favorite project. Your logical architect might get emotional about code quality. Your detail-oriented QA might dream big about testing innovation.
+Your introverted manager might be extroverted about their favorite project. Your
+logical architect might get emotional about code quality. Your detail-oriented
+QA might dream big about testing innovation.
 
 Personality types are starting points, not prison cells.
 
 ## Remember This
 
-The goal isn't to manipulate or fake it. It's to remove friction from communication. When you speak someone's language, you're not changing your message—you're just making sure it lands.
+The goal isn't to manipulate or fake it. It's to remove friction from
+communication. When you speak someone's language, you're not changing your
+message—you're just making sure it lands.
 
-Think of it like responsive design, but for humans. Same content, different presentation based on the user's needs.
+Think of it like responsive design, but for humans. Same content, different
+presentation based on the user's needs.
 
-Next lesson, we'll tackle written communication—emails, docs, and the art of the perfect Slack message.
+Next lesson, we'll tackle written communication—emails, docs, and the art of the
+perfect Slack message.
 
 ---
 
 ---
 
-[← Previous Lesson](/journey/week-09/01-communication-assessment/) | [Next Lesson →](/journey/week-09/03-written-communication/)
+[← Previous Lesson](/journey/week-09/01-communication-assessment/) |
+[Next Lesson →](/journey/week-09/03-written-communication/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

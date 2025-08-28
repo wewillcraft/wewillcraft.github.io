@@ -14,7 +14,10 @@ objectives:
 **Time:** 25 minutes\
 **Vibe:** Discovering your inner leader (yes, you have one!) 👑
 
-Here's the thing about leadership: it's not about having a fancy title or bossing people around. It's about influence, and you're already influencing people every day - your friends, family, classmates, coworkers. Let's figure out your natural leadership style so you can use it intentionally!
+Here's the thing about leadership: it's not about having a fancy title or
+bossing people around. It's about influence, and you're already influencing
+people every day - your friends, family, classmates, coworkers. Let's figure out
+your natural leadership style so you can use it intentionally!
 
 ## Leadership Myth-Busting
 
@@ -87,17 +90,19 @@ Rate how naturally each style fits you (1=not me at all, 5=totally me):
 
 ## Your Leadership Profile
 
-**Primary style** (highest score): ___________
-**Secondary style** (second highest): ___________
-**Least natural style** (lowest score): ___________
+**Primary style** (highest score): ___________ **Secondary style** (second
+highest): ___________ **Least natural style** (lowest score): ___________
 
 ### What This Means:
 
-**Commander:** You're great in crises and when clear direction is needed. Watch out for being too controlling.
+**Commander:** You're great in crises and when clear direction is needed. Watch
+out for being too controlling.
 
-**Coach:** You develop people really well but might be too slow when quick decisions are needed.
+**Coach:** You develop people really well but might be too slow when quick
+decisions are needed.
 
-**Supporter:** You build amazing team culture but might avoid difficult conversations.
+**Supporter:** You build amazing team culture but might avoid difficult
+conversations.
 
 **Collaborator:** You get great buy-in but can get stuck in analysis paralysis.
 
@@ -151,14 +156,10 @@ Rate how naturally each style fits you (1=not me at all, 5=totally me):
 
 ### Where You're Already Leading:
 
-□ Group projects at school
-□ Part-time job responsibilities
-□ Family decisions
-□ Friend group activities\
-□ Volunteer work
-□ Sports teams or clubs
-□ Online communities
-□ Side hustles or passion projects
+□ Group projects at school □ Part-time job responsibilities □ Family decisions □
+Friend group activities\
+□ Volunteer work □ Sports teams or clubs □ Online communities □ Side hustles or
+passion projects
 
 **Your current leadership opportunities:**
 
@@ -178,38 +179,42 @@ Rate how naturally each style fits you (1=not me at all, 5=totally me):
 
 Most of your leadership will happen without formal power. Here's how:
 
-**Build relationships first** - People follow people they trust
-**Find shared goals** - Unite around common interests\
-**Add value before asking for value** - Help others succeed
-**Ask great questions** - Guide thinking instead of commanding
-**Share credit generously** - Make others look good
-**Model the behavior you want** - Be the change you want to see
+**Build relationships first** - People follow people they trust **Find shared
+goals** - Unite around common interests\
+**Add value before asking for value** - Help others succeed **Ask great
+questions** - Guide thinking instead of commanding **Share credit generously** -
+Make others look good **Model the behavior you want** - Be the change you want
+to see
 
 ## Your Daily Leadership Practice
 
-**Morning question:** "How will I lead in this lesson?"
-**Evening reflection:** "How did I influence others in this lesson?"
+**Morning question:** "How will I lead in this lesson?" **Evening reflection:**
+"How did I influence others in this lesson?"
 
 ### This Week's Leadership Challenge
 
-Pick one:
-□ Step up in a group project
-□ Help a friend solve a problem (coaching style)
-□ Bring people together for something fun (supporter style)
-□ Ask for everyone's input on a decision (collaborator style)
-□ Lead by example on something important to you (achiever style)
-□ Share an exciting vision or idea with others (visionary style)
+Pick one: □ Step up in a group project □ Help a friend solve a problem (coaching
+style) □ Bring people together for something fun (supporter style) □ Ask for
+everyone's input on a decision (collaborator style) □ Lead by example on
+something important to you (achiever style) □ Share an exciting vision or idea
+with others (visionary style)
 
 **Your choice:** ___________
 
 ## Remember This
 
-Leadership isn't about being perfect or having all the answers. It's about caring enough to step up and help make things better.
+Leadership isn't about being perfect or having all the answers. It's about
+caring enough to step up and help make things better.
 
-Your natural leadership style is your starting point, not your limitation. The best leaders can flex between different styles depending on what the situation needs.
+Your natural leadership style is your starting point, not your limitation. The
+best leaders can flex between different styles depending on what the situation
+needs.
 
-You don't have to wait for permission to lead. You don't need a title. You just need to start where you are, with what you have, and make a positive difference in whatever way you can.
+You don't have to wait for permission to lead. You don't need a title. You just
+need to start where you are, with what you have, and make a positive difference
+in whatever way you can.
 
 The world needs your unique brand of leadership! 🌟
 
-**Next up:** Let's talk about emotional intelligence - the secret sauce of great leaders →
+**Next up:** Let's talk about emotional intelligence - the secret sauce of great
+leaders →

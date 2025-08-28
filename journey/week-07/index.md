@@ -16,11 +16,15 @@ objectives:
 
 ## Hey friend! 👋
 
-You've discovered who you are and what you value. Now let's figure out WHEN and HOW you work best. This week is about understanding your natural energy patterns and designing a life that flows with them instead of against them.
+You've discovered who you are and what you value. Now let's figure out WHEN and
+HOW you work best. This week is about understanding your natural energy patterns
+and designing a life that flows with them instead of against them.
 
 ## The Big Idea 💡
 
-**You can't manage time, but you can manage energy.** Everyone gets 24 hours, but not everyone has the same energy at the same times. When you align your hardest work with your highest energy, everything becomes easier.
+**You can't manage time, but you can manage energy.** Everyone gets 24 hours,
+but not everyone has the same energy at the same times. When you align your
+hardest work with your highest energy, everything becomes easier.
 
 ## This Week's Adventure
 
@@ -28,7 +32,8 @@ You've discovered who you are and what you value. Now let's figure out WHEN and 
 
 _Time: 15 minutes_
 
-Setting up a simple system to track when you feel amazing vs. when you feel drained.
+Setting up a simple system to track when you feel amazing vs. when you feel
+drained.
 
 ### Day 2: [The Energy Detective](./02-daily-tracking)
 
@@ -46,7 +51,8 @@ Looking at your patterns to understand what gives you energy and what steals it.
 
 _Time: 15 minutes_
 
-Understanding the real reasons behind your procrastination (hint: it's usually not laziness).
+Understanding the real reasons behind your procrastination (hint: it's usually
+not laziness).
 
 ### Day 5: [When You're Unstoppable](./05-success-patterns)
 
@@ -77,9 +83,12 @@ By Sunday, you'll have:
 
 ## Real Talk 💬
 
-Most productivity advice assumes everyone is the same. "Wake up at 5am!" "Work in 25-minute chunks!" "Batch similar tasks!" But what if you're a night owl? What if you think better with music? What if you thrive on variety?
+Most productivity advice assumes everyone is the same. "Wake up at 5am!" "Work
+in 25-minute chunks!" "Batch similar tasks!" But what if you're a night owl?
+What if you think better with music? What if you thrive on variety?
 
-This week, you're discovering YOUR unique operating system. No more forcing yourself into someone else's mold.
+This week, you're discovering YOUR unique operating system. No more forcing
+yourself into someone else's mold.
 
 ## Why This Matters Right Now
 

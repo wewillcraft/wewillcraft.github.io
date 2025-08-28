@@ -10,9 +10,11 @@ objectives:
 
 ## Let's Kill the Linear Career Myth
 
-Your parents had one career. You'll have five. Maybe seven. That's not instability - that's adaptation.
+Your parents had one career. You'll have five. Maybe seven. That's not
+instability - that's adaptation.
 
-The idea that you pick a career at 22 and stick with it until retirement? That's as outdated as fax machines.
+The idea that you pick a career at 22 and stick with it until retirement? That's
+as outdated as fax machines.
 
 **Career pivots are not:**
 
@@ -32,7 +34,8 @@ Every pivot makes you more valuable, not less.
 
 ## Your Skills Are More Transferable Than You Think
 
-Here's what nobody tells you: 80% of what makes you good at your job has nothing to do with your job title.
+Here's what nobody tells you: 80% of what makes you good at your job has nothing
+to do with your job title.
 
 ### The Universal Skills Nobody Talks About
 
@@ -50,29 +53,25 @@ These transfer EVERYWHERE.
 
 Check everything you can do (even if it seems obvious):
 
-**Communication:**
-□ Write clear emails\
+**Communication:** □ Write clear emails\
 □ Explain things to confused people\
 □ Present ideas without dying inside\
 □ Listen when people ramble\
 □ Ask good questions
 
-**Problem-Solving:**
-□ Google until you find the answer\
+**Problem-Solving:** □ Google until you find the answer\
 □ Break big problems into smaller ones\
 □ Find workarounds when things break\
 □ Stay calm when everything's chaos\
 □ Learn from mistakes (eventually)
 
-**People Skills:**
-□ Work with people you don't like\
+**People Skills:** □ Work with people you don't like\
 □ Give feedback without being mean\
 □ Take feedback without crying\
 □ Help teammates without taking over\
 □ Navigate office politics
 
-**Execution:**
-□ Finish things you start (mostly)\
+**Execution:** □ Finish things you start (mostly)\
 □ Manage your time (somehow)\
 □ Handle multiple projects\
 □ Meet deadlines under pressure\
@@ -86,14 +85,15 @@ Want to pivot without quitting your job? Side projects are your bridge.
 
 ### How Side Projects Become Career Pivots
 
-**The Developer Who Became a Designer:**
-Started redesigning her own apps on weekends → Built a portfolio → Got freelance clients → Landed a design job
+**The Developer Who Became a Designer:** Started redesigning her own apps on
+weekends → Built a portfolio → Got freelance clients → Landed a design job
 
-**The Accountant Who Became a Developer:**
-Built Excel tools for his team → Learned VBA, then Python → Created internal apps → Moved to engineering team
+**The Accountant Who Became a Developer:** Built Excel tools for his team →
+Learned VBA, then Python → Created internal apps → Moved to engineering team
 
-**The Teacher Who Became a Product Manager:**
-Created educational apps for students → Learned user research → Understood product development → Got PM role at EdTech
+**The Teacher Who Became a Product Manager:** Created educational apps for
+students → Learned user research → Understood product development → Got PM role
+at EdTech
 
 Notice the pattern? They didn't quit and hope. They built proof.
 
@@ -134,7 +134,8 @@ Wrong. Early career pivots are easier. You have:
 - Lower salary expectations
 - Fresh perspective
 
-**If you're early career:** Pivot freely. Try things. Your first job is just data collection.
+**If you're early career:** Pivot freely. Try things. Your first job is just
+data collection.
 
 ### "But I'm Too Senior to Pivot"
 
@@ -145,7 +146,8 @@ Also wrong. Senior pivots bring:
 - Professional network
 - Leadership experience
 
-**If you're mid/late career:** Your experience is the bridge. You're not starting over - you're cross-pollinating.
+**If you're mid/late career:** Your experience is the bridge. You're not
+starting over - you're cross-pollinating.
 
 ## Try This Now (15 minutes)
 
@@ -167,17 +169,18 @@ That's your pivot north star. Not a commitment - just a direction to explore.
 
 **The Stories Nobody Tells You:**
 
-**Marketing → Engineering:**
-"I managed tech products but couldn't speak the language. Did a bootcamp, leveraged my product knowledge, now I'm a product engineer making 2x."
+**Marketing → Engineering:** "I managed tech products but couldn't speak the
+language. Did a bootcamp, leveraged my product knowledge, now I'm a product
+engineer making 2x."
 
-**Engineering → Sales:**
-"I was good at coding but loved talking to customers. Moved to sales engineering. My technical background is my superpower."
+**Engineering → Sales:** "I was good at coding but loved talking to customers.
+Moved to sales engineering. My technical background is my superpower."
 
-**Finance → UX Design:**
-"Spreadsheets to screens. My analytical background helps me think about user flows. Took 18 months of side projects."
+**Finance → UX Design:** "Spreadsheets to screens. My analytical background
+helps me think about user flows. Took 18 months of side projects."
 
-**Consulting → Teaching:**
-"Burnt out at McKinsey. Now I teach business at community college and freelance. Make less money, gained my life back."
+**Consulting → Teaching:** "Burnt out at McKinsey. Now I teach business at
+community college and freelance. Make less money, gained my life back."
 
 Notice: None of them "threw everything away." They built bridges.
 
@@ -249,10 +252,13 @@ You have permission to:
 
 ## Remember This
 
-Every successful person you admire has pivoted. They just don't lead with that story.
+Every successful person you admire has pivoted. They just don't lead with that
+story.
 
-Your career is not a ladder - it's a jungle gym. You can move sideways, diagonally, even backward sometimes if it sets you up for a better leap.
+Your career is not a ladder - it's a jungle gym. You can move sideways,
+diagonally, even backward sometimes if it sets you up for a better leap.
 
-The skills you have transfer. The experience you gained matters. The network you built comes with you.
+The skills you have transfer. The experience you gained matters. The network you
+built comes with you.
 
 You're not starting over. You're starting from experience. 🔄

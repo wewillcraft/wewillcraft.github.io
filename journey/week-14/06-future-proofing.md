@@ -11,17 +11,23 @@ objectives:
 
 # Embracing Change
 
-_Look at how much you've changed in just 14 weeks. Remember Week 1 when everything felt uncertain and overwhelming? You adapted. You learned. You grew. That's exactly the skill you need for the future._
+_Look at how much you've changed in just 14 weeks. Remember Week 1 when
+everything felt uncertain and overwhelming? You adapted. You learned. You grew.
+That's exactly the skill you need for the future._
 
-Here's the thing about the future: nobody knows what it holds. Not the experts, not the futurists, not the tech leaders.
+Here's the thing about the future: nobody knows what it holds. Not the experts,
+not the futurists, not the tech leaders.
 
 But that's actually good news.
 
 ## Why Adaptability Beats Prediction
 
-Instead of trying to predict the unpredictable, we're going to build something much more valuable: the ability to adapt to whatever comes.
+Instead of trying to predict the unpredictable, we're going to build something
+much more valuable: the ability to adapt to whatever comes.
 
-Think about it - you've already proven you can do this. When COVID hit, when technology changed, when new tools emerged, when your industry shifted... you adapted.
+Think about it - you've already proven you can do this. When COVID hit, when
+technology changed, when new tools emerged, when your industry shifted... you
+adapted.
 
 That adaptability? It's your superpower.
 
@@ -29,8 +35,7 @@ That adaptability? It's your superpower.
 
 ### What's Changing Around You
 
-**Your current field/industry:**
-Field: _____
+**Your current field/industry:** Field: _____
 
 **What you see changing:**
 
@@ -40,8 +45,7 @@ Field: _____
 - New types of problems: _____
 - Different client/user expectations: _____
 
-**Change factors in your world:**
-How much these affect you (1-10):
+**Change factors in your world:** How much these affect you (1-10):
 
 - AI and automation: ___
 - Remote/hybrid work: ___
@@ -67,8 +71,8 @@ How much these affect you (1-10):
 - Current job functions: ___
 - Tools you use: ___
 
-**How flexible is your situation?**
-Rate your dependence (1-10, lower is more flexible):
+**How flexible is your situation?** Rate your dependence (1-10, lower is more
+flexible):
 
 - Tied to one industry: ___
 - Tied to current company: ___
@@ -117,29 +121,23 @@ Rate your dependence (1-10, lower is more flexible):
 
 These are the skills that stay valuable no matter what changes:
 
-**Learning How to Learn:**
-Current level: ___ | How to improve: _____
+**Learning How to Learn:** Current level: ___ | How to improve: _____
 
-**Thinking Clearly:**
-Current level: ___ | How to improve: _____
+**Thinking Clearly:** Current level: ___ | How to improve: _____
 
-**Solving Problems Creatively:**
-Current level: ___ | How to improve: _____
+**Solving Problems Creatively:** Current level: ___ | How to improve: _____
 
-**Understanding People:**
-Current level: ___ | How to improve: _____
+**Understanding People:** Current level: ___ | How to improve: _____
 
-**Communicating Well:**
-Current level: ___ | How to improve: _____
+**Communicating Well:** Current level: ___ | How to improve: _____
 
-**Seeing the Big Picture:**
-Current level: ___ | How to improve: _____
+**Seeing the Big Picture:** Current level: ___ | How to improve: _____
 
-**Being Comfortable with Technology:**
-Current level: ___ | How to improve: _____
+**Being Comfortable with Technology:** Current level: ___ | How to improve:
 
-**Working with Different People:**
-Current level: ___ | How to improve: _____
+---
+
+**Working with Different People:** Current level: ___ | How to improve: _____
 
 ### Your Skill Mix
 
@@ -216,44 +214,33 @@ Current level: ___ | How to improve: _____
 
 ### What If Scenarios
 
-**Scenario 1: Things Change Gradually**
-What it looks like: Industry evolves slowly
-What you'd do: _____
-Skills you'd need: _____
+**Scenario 1: Things Change Gradually** What it looks like: Industry evolves
+slowly What you'd do: _____ Skills you'd need: _____
 
-**Scenario 2: Big Disruption Happens**
-What it looks like: Major technology/market shift
-What you'd do: _____
-Skills you'd need: _____
+**Scenario 2: Big Disruption Happens** What it looks like: Major
+technology/market shift What you'd do: _____ Skills you'd need: _____
 
-**Scenario 3: Economic Tough Times**
-What it looks like: Recession or economic challenges
-What you'd do: _____
-Skills you'd need: _____
+**Scenario 3: Economic Tough Times** What it looks like: Recession or economic
+challenges What you'd do: _____ Skills you'd need: _____
 
-**Scenario 4: Everything Changes**
-What it looks like: Work and society transform
-What you'd do: _____
-Skills you'd need: _____
+**Scenario 4: Everything Changes** What it looks like: Work and society
+transform What you'd do: _____ Skills you'd need: _____
 
 ### Your Adaptation Strategies
 
-**Strategy A: Keep Options Open**
-Build multiple paths forward:
+**Strategy A: Keep Options Open** Build multiple paths forward:
 
 - Path 1: _____
 - Path 2: _____
 - Path 3: _____
 
-**Strategy B: Get Stronger from Challenges**
-Turn difficulties into advantages:
+**Strategy B: Get Stronger from Challenges** Turn difficulties into advantages:
 
 - How challenges have made you stronger: _____
 - Opportunities that come from disruption: _____
 - Benefits of being tested: _____
 
-**Strategy C: Build Your Platform**
-Create a foundation for multiple futures:
+**Strategy C: Build Your Platform** Create a foundation for multiple futures:
 
 - Your core platform (skills, network, reputation): _____
 - Ways you could extend it: _____
@@ -463,16 +450,25 @@ Create a foundation for multiple futures:
 
 ## Remember This
 
-You don't need to predict the future to be ready for it. You just need to build the skills and mindset that help you adapt to whatever comes.
+You don't need to predict the future to be ready for it. You just need to build
+the skills and mindset that help you adapt to whatever comes.
 
-Look at the evidence: you've already done this successfully. 14 weeks ago, you didn't know what you know now. When challenges came up, when things changed, when new concepts were introduced - you adapted. You learned. You grew.
+Look at the evidence: you've already done this successfully. 14 weeks ago, you
+didn't know what you know now. When challenges came up, when things changed,
+when new concepts were introduced - you adapted. You learned. You grew.
 
 That's your superpower.
 
-The future will bring changes, but it will also bring opportunities. The people who thrive won't be the ones who predicted everything correctly. They'll be the ones who stayed curious, kept learning, built diverse networks, and remained open to new possibilities.
+The future will bring changes, but it will also bring opportunities. The people
+who thrive won't be the ones who predicted everything correctly. They'll be the
+ones who stayed curious, kept learning, built diverse networks, and remained
+open to new possibilities.
 
-You're already building that adaptability. Every new skill you learn, every person you meet from a different background, every time you try something new - you're getting stronger and more resilient.
+You're already building that adaptability. Every new skill you learn, every
+person you meet from a different background, every time you try something new -
+you're getting stronger and more resilient.
 
 Change isn't something to fear. It's your competitive advantage.
 
-You've got this. Keep adapting. Keep growing. The future is going to be amazing, and you're going to be ready for it.
+You've got this. Keep adapting. Keep growing. The future is going to be amazing,
+and you're going to be ready for it.

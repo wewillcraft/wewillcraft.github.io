@@ -4,22 +4,33 @@
 
 ### Overall Design
 
-The Journey is a 14-week transformational program organized into 3 phases, designed for college students and early-career professionals from ALL backgrounds (not just tech). Each week contains 8 practical lessons plus 1 devotional/reflection lesson for deeper spiritual and personal introspection.
+The Journey is a 14-week transformational program organized into 3 phases,
+designed for college students and early-career professionals from ALL
+backgrounds (not just tech). Each week contains 8 practical lessons plus 1
+devotional/reflection lesson for deeper spiritual and personal introspection.
 
 ### Strengths
 
-- **Excellent progression**: Clear developmental arc from self-discovery to future planning
-- **Universally applicable**: Content relevant for students and professionals in any field
-- **Practical focus**: Exercises are actionable and time-respectful (5-30 minutes)
-- **Warm tone**: Successfully achieves supportive, friend-like voice without condescension
-- **Holistic approach**: Covers technical, personal, emotional, and professional growth
+- **Excellent progression**: Clear developmental arc from self-discovery to
+  future planning
+- **Universally applicable**: Content relevant for students and professionals in
+  any field
+- **Practical focus**: Exercises are actionable and time-respectful (5-30
+  minutes)
+- **Warm tone**: Successfully achieves supportive, friend-like voice without
+  condescension
+- **Holistic approach**: Covers technical, personal, emotional, and professional
+  growth
 
 ### Areas for Improvement
 
 #### 1. Scientific Foundation
 
-**Current state**: References popular frameworks (MBTI, Enneagram, DISC) and concepts (flow state, deep work) but lacks citations or research backing.
-**Recommendation**: Add brief "Why This Works" sections citing key research (e.g., Csikszentmihalyi for flow, Newport for deep work, Dweck for growth mindset).
+**Current state**: References popular frameworks (MBTI, Enneagram, DISC) and
+concepts (flow state, deep work) but lacks citations or research backing.
+**Recommendation**: Add brief "Why This Works" sections citing key research
+(e.g., Csikszentmihalyi for flow, Newport for deep work, Dweck for growth
+mindset).
 
 #### 2. Spiritual Integration
 
@@ -50,14 +61,16 @@ The Journey is a 14-week transformational program organized into 3 phases, desig
 
 #### 5. Consistency Issues
 
-**Current state**: Some lessons have outdated frontmatter (day/week fields) and inconsistent navigation approaches
-**Recommendation**: Audit all lessons for frontmatter compliance and ensure navigation system consistency
+**Current state**: Some lessons have outdated frontmatter (day/week fields) and
+inconsistent navigation approaches **Recommendation**: Audit all lessons for
+frontmatter compliance and ensure navigation system consistency
 
 ### Implementation Priorities
 
 1. **High Priority**: Fix frontmatter inconsistencies (technical debt)
 2. **Medium Priority**: Add phase structure and 100-day schedule
-3. **Low Priority**: Enhance scientific backing and spiritual elements (based on audience needs)
+3. **Low Priority**: Enhance scientific backing and spiritual elements (based on
+   audience needs)
 
 ### Recommended 100-Day Schedule
 
@@ -98,9 +111,11 @@ Consider adding research references for:
 - **Week 1**: Big Five personality research (Costa & McCrae)
 - **Week 3**: Circadian rhythms and ultradian cycles (Kleitman)
 - **Week 4**: Spaced repetition (Ebbinghaus), Active learning (Freeman et al.)
-- **Week 5**: Attention Restoration Theory (Kaplan), Flow theory (Csikszentmihalyi)
+- **Week 5**: Attention Restoration Theory (Kaplan), Flow theory
+  (Csikszentmihalyi)
 - **Week 10**: Post-traumatic growth (Tedeschi & Calhoun)
-- **Week 11**: Emotional Intelligence (Goleman), Psychological safety (Edmondson)
+- **Week 11**: Emotional Intelligence (Goleman), Psychological safety
+  (Edmondson)
 
 ### Weekly Devotional Structure (Lesson 9)
 
@@ -122,19 +137,27 @@ Devotionals should be:
 
 ### Conclusion
 
-This is a **strong program** that achieves its goals of supporting young tech professionals through personal growth. With minor enhancements to structure and foundation, it could become an exceptional resource that uniquely combines practical skills with personal development in a way that resonates with its target audience.
+This is a **strong program** that achieves its goals of supporting young tech
+professionals through personal growth. With minor enhancements to structure and
+foundation, it could become an exceptional resource that uniquely combines
+practical skills with personal development in a way that resonates with its
+target audience.
 
 ---
 
 ## Overview
 
-The Journey is a 14-week mentorship program designed for college students and early-career developers. Each week contains 8 daily lessons that build on each other. The content should feel like a supportive friend guiding them through their growth journey.
+The Journey is a 14-week mentorship program designed for college students and
+early-career developers. Each week contains 8 daily lessons that build on each
+other. The content should feel like a supportive friend guiding them through
+their growth journey.
 
 ## Core Principles
 
 ### Tone & Voice
 
-- **Warm and Friendly**: Write like you're talking to a younger sibling or close friend
+- **Warm and Friendly**: Write like you're talking to a younger sibling or close
+  friend
 - **Encouraging**: Celebrate small wins, normalize struggles
 - **Casual but Clear**: Use contractions, casual language, but stay professional
 - **Favor Church Manila style**: Uplifting, grace-filled, growth-oriented
@@ -149,8 +172,10 @@ The Journey is a 14-week mentorship program designed for college students and ea
 - **Present tense**: Keep it immediate and engaging
 - **Contractions**: "You'll" instead of "You will"
 - **Strategic emojis**: 1-2 per section max, only where they add value
-- **NO EM DASHES (—)**: They sound too AI-written. Use shorter sentences, commas, or rephrase instead
-- **Write like you talk**: Natural pauses, casual breaks, real human speech patterns
+- **NO EM DASHES (—)**: They sound too AI-written. Use shorter sentences,
+  commas, or rephrase instead
+- **Write like you talk**: Natural pauses, casual breaks, real human speech
+  patterns
 
 ### Examples of Good Tone
 
@@ -213,7 +238,8 @@ DO NOT use:
 
 ### Navigation System
 
-**NEW APPROACH**: Navigation is managed through `_data.yml` files in each week folder, not hardcoded in lesson files.
+**NEW APPROACH**: Navigation is managed through `_data.yml` files in each week
+folder, not hardcoded in lesson files.
 
 #### \_data.yml Structure
 
@@ -254,13 +280,15 @@ objectives:
 
 #### Navigation Display
 
-The navigation will be automatically generated by the `layouts/journey.vto` template using the lessons array. This includes:
+The navigation will be automatically generated by the `layouts/journey.vto`
+template using the lessons array. This includes:
 
 - Previous/Next lesson links at the bottom of each page
 - Week overview navigation
 - Consistent ordering based on the index
 
-**Do NOT manually add navigation links at the end of lesson files** - the template handles this automatically.
+**Do NOT manually add navigation links at the end of lesson files** - the
+template handles this automatically.
 
 ### Standard Sections
 
@@ -292,7 +320,8 @@ The navigation will be automatically generated by the `layouts/journey.vto` temp
    - Key takeaway in 1-2 sentences
    - Encouraging final thought
 
-(Navigation is automatically generated by the template - no need to add manually)
+(Navigation is automatically generated by the template - no need to add
+manually)
 
 ## Universal Examples (Not Just Tech/CS)
 
@@ -451,11 +480,9 @@ Subject: Quick Question about [Topic]
 
 Hi [Name],
 
-[One sentence context]
-[Specific question]
+[One sentence context] [Specific question]
 
-Thanks!
-[Your name]
+Thanks! [Your name]
 
 ```
 ```
@@ -482,11 +509,14 @@ Before publishing, check:
 
 ### Before:
 
-"The assessment of individual productivity patterns requires a comprehensive analysis of temporal energy fluctuations and their correlation with output quality metrics."
+"The assessment of individual productivity patterns requires a comprehensive
+analysis of temporal energy fluctuations and their correlation with output
+quality metrics."
 
 ### After:
 
-"Let's figure out when you do your best work. Spoiler: It's probably not when you think."
+"Let's figure out when you do your best work. Spoiler: It's probably not when
+you think."
 
 ## Remember
 
@@ -499,6 +529,8 @@ These students are:
 - Looking for practical guidance
 - Needing encouragement more than perfection
 
-Write for the student pulling an all-nighter, checking this between classes, or reading on their phone during commute. Make it worth their time, make it stick, and make them feel capable.
+Write for the student pulling an all-nighter, checking this between classes, or
+reading on their phone during commute. Make it worth their time, make it stick,
+and make them feel capable.
 
 Every lesson should leave them thinking: "I can actually do this."

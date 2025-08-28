@@ -1,10 +1,13 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Claude Code (claude.ai/code) when working with
+code in this repository.
 
 ## Project Overview
 
-This is the Will Craft Software website built with [Lume](https://lume.land), a static site generator for Deno. The site includes blog posts, a landing page, journey content, and a content management system (CMS).
+This is the Will Craft Software website built with [Lume](https://lume.land), a
+static site generator for Deno. The site includes blog posts, a landing page,
+journey content, and a content management system (CMS).
 
 ## Commands
 
@@ -15,18 +18,21 @@ This is the Will Craft Software website built with [Lume](https://lume.land), a 
 
 ### Build
 
-- `deno task build` or `deno task lume` - Generate static site in `_site/` directory
+- `deno task build` or `deno task lume` - Generate static site in `_site/`
+  directory
 
 ### Code Formatting
 
-- `dprint fmt` - Format code using dprint with configured plugins (TypeScript, JSON, Markdown, CSS, HTML, YAML)
+- `dprint fmt` - Format code using dprint with configured plugins (TypeScript,
+  JSON, Markdown, CSS, HTML, YAML)
 - `dprint check` - Check formatting without making changes
 
 ## Architecture
 
 ### Core Configuration
 
-- `_config.ts` - Main Lume configuration with plugins (Tailwind CSS, Prism for syntax highlighting, Mermaid diagrams, icons, favicons)
+- `_config.ts` - Main Lume configuration with plugins (Tailwind CSS, Prism for
+  syntax highlighting, Mermaid diagrams, icons, favicons)
 - `_cms.ts` - CMS configuration
 - `deno.json` - Deno configuration with task definitions and import maps
 
@@ -40,13 +46,16 @@ This is the Will Craft Software website built with [Lume](https://lume.land), a 
 
 ### Templates & Layouts
 
-- `_includes/layouts/` - Page layouts (base, landing, post, posts list, tags, journey)
-- `_includes/templates/` - Reusable components (navbar, footer, post-list, tag-item)
+- `_includes/layouts/` - Page layouts (base, landing, post, posts list, tags,
+  journey)
+- `_includes/templates/` - Reusable components (navbar, footer, post-list,
+  tag-item)
 - `.vto` files - Vento templating engine (similar to Nunjucks/Liquid)
 
 ### Static Assets
 
-- `/static/` - Files copied directly to site root (CNAME, robots.txt, logos, scripts)
+- `/static/` - Files copied directly to site root (CNAME, robots.txt, logos,
+  scripts)
 - `/uploads/` - User-uploaded images and media
 - `styles.css` - Main stylesheet processed with Tailwind CSS and PostCSS
 
@@ -63,7 +72,8 @@ This is the Will Craft Software website built with [Lume](https://lume.land), a 
 ## Plugin Stack
 
 - **Tailwind CSS** with Typography and Animated plugins for styling
-- **Prism.js** for code syntax highlighting (supports Bash, TypeScript, YAML, Diff)
+- **Prism.js** for code syntax highlighting (supports Bash, TypeScript, YAML,
+  Diff)
 - **Mermaid** for diagram rendering
 - **Lightning CSS** for CSS optimization
 - **PostCSS** for CSS processing
@@ -87,7 +97,8 @@ When modifying templates:
 
 ## Journey Content Guidelines
 
-When working with `/journey/` content, follow the comprehensive style guide at `/journey/CLAUDE.md`. Key points:
+When working with `/journey/` content, follow the comprehensive style guide at
+`/journey/CLAUDE.md`. Key points:
 
 ### Tone & Voice
 

@@ -50,3 +50,16 @@ footer:
         variant: brands
       text: LinkedIn
       url: https://linkedin.com/company/wewillcraft
+  legal_links:
+    - text: About
+      url: /about
+    - text: Code of Conduct
+      url: /code-of-conduct
+    - text: Disclaimer
+      url: /disclaimer
+    - text: Privacy Policy
+      url: /privacy
+    - text: Terms of Service
+      url: /terms-of-service
+    - text: Cookie Policy
+      url: /cookies

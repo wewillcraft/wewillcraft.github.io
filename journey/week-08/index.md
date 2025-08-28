@@ -18,7 +18,10 @@ objectives:
 
 ## Hey there, focus warrior! 👋
 
-Welcome to Week 5! Ever feel like your brain is like a browser with 47 tabs open, three of which are playing music, and you can't figure out which ones? Yeah, you're not alone. In our always-on, notification-heavy world, the ability to focus deeply has become a rare superpower.
+Welcome to Week 5! Ever feel like your brain is like a browser with 47 tabs
+open, three of which are playing music, and you can't figure out which ones?
+Yeah, you're not alone. In our always-on, notification-heavy world, the ability
+to focus deeply has become a rare superpower.
 
 This week, we're taking your attention back.
 
@@ -26,7 +29,9 @@ This week, we're taking your attention back.
 
 **Attention is your most valuable resource, and everyone wants a piece of it.**
 
-Every app, notification, and "urgent" message is designed to capture and monetize your focus. But here's the thing: deep, sustained attention is where all meaningful work happens. Master your focus, and you master your results.
+Every app, notification, and "urgent" message is designed to capture and
+monetize your focus. But here's the thing: deep, sustained attention is where
+all meaningful work happens. Master your focus, and you master your results.
 
 ## This Week's Adventure
 
@@ -34,49 +39,57 @@ Every app, notification, and "urgent" message is designed to capture and monetiz
 
 _Time: 15 minutes_
 
-Understand how your brain actually works when it comes to attention. Spoiler: multitasking is a myth, and context switching is expensive.
+Understand how your brain actually works when it comes to attention. Spoiler:
+multitasking is a myth, and context switching is expensive.
 
 ### Day 2: [Digital Minimalism Setup](./02-digital-minimalism)
 
 _Time: 20 minutes_
 
-Turn your devices from distraction machines into focus tools. We'll tame notifications and create environments that support deep work.
+Turn your devices from distraction machines into focus tools. We'll tame
+notifications and create environments that support deep work.
 
 ### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
 
 _Time: 15 minutes_
 
-Design your personal focus sessions. Every master craftsperson has rituals. Now you will too.
+Design your personal focus sessions. Every master craftsperson has rituals. Now
+you will too.
 
 ### Day 4: [Attention Restoration](./04-attention-restoration)
 
 _Time: 15 minutes_
 
-Learn how to truly recharge your mental energy. Scrolling Instagram doesn't count as rest (sorry!).
+Learn how to truly recharge your mental energy. Scrolling Instagram doesn't
+count as rest (sorry!).
 
 ### Day 5: [The Pomodoro+ System](./05-pomodoro-plus)
 
 _Time: 20 minutes_
 
-Take the classic Pomodoro Technique and supercharge it with your personal energy patterns and working style.
+Take the classic Pomodoro Technique and supercharge it with your personal energy
+patterns and working style.
 
 ### Day 6: [Distraction Proofing](./06-distraction-proofing)
 
 _Time: 15 minutes_
 
-Identify your focus kryptonite and build systems to protect yourself from your own worst habits.
+Identify your focus kryptonite and build systems to protect yourself from your
+own worst habits.
 
 ### Day 7: [Flow State Engineering](./07-flow-state)
 
 _Time: 15 minutes_
 
-Create the conditions where time disappears and your best work emerges naturally.
+Create the conditions where time disappears and your best work emerges
+naturally.
 
 ### Day 8: [Focus Tracking](./08-focus-tracking)
 
 _Time: 20 minutes_
 
-Measure and improve your attention patterns. You can't optimize what you don't track.
+Measure and improve your attention patterns. You can't optimize what you don't
+track.
 
 ## What You'll Walk Away With
 
@@ -90,17 +103,22 @@ By Sunday night, you'll have:
 
 ## Real Talk 💬
 
-Look, improving your focus isn't about becoming a monk or throwing your phone in a drawer. It's about being intentional with your attention instead of letting it be pulled in a million directions.
+Look, improving your focus isn't about becoming a monk or throwing your phone in
+a drawer. It's about being intentional with your attention instead of letting it
+be pulled in a million directions.
 
-The goal isn't perfect focus 24/7. It's about having deep focus available when you need it most.
+The goal isn't perfect focus 24/7. It's about having deep focus available when
+you need it most.
 
 ## Daily Rhythm
 
 **Morning (2 min)**: Quick attention check. How's your mental clarity today?
 
-**Main Session (15-20 min)**: Complete that day's focus system builder. Small changes, big impact.
+**Main Session (15-20 min)**: Complete that day's focus system builder. Small
+changes, big impact.
 
-**Evening (3 min)**: Reflect on your focus quality today. What supported deep work? What scattered it?
+**Evening (3 min)**: Reflect on your focus quality today. What supported deep
+work? What scattered it?
 
 ## Your Week 5 Toolkit
 
@@ -125,14 +143,18 @@ The goal isn't perfect focus 24/7. It's about having deep focus available when y
 3. Set a timer for 25 minutes and do ONE focused task
 4. Write down how it felt different from your normal work
 
-That's it. You've just experienced what focused work feels like. Now let's make it your default mode! 🧠✨
+That's it. You've just experienced what focused work feels like. Now let's make
+it your default mode! 🧠✨
 
 ## A Friendly Reminder
 
-Your attention is not broken. It's just been trained by an environment that profits from distraction. This week, we're retraining it to serve your goals instead of everyone else's agenda.
+Your attention is not broken. It's just been trained by an environment that
+profits from distraction. This week, we're retraining it to serve your goals
+instead of everyone else's agenda.
 
 ## Questions?
 
-Write them down! Curiosity is attention's best friend. Every question is your brain asking to go deeper.
+Write them down! Curiosity is attention's best friend. Every question is your
+brain asking to go deeper.
 
 ---

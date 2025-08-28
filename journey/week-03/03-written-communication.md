@@ -11,7 +11,9 @@ objectives:
 
 ## The Written Word Problem 📝
 
-Let's be honest: Half your emails go unread. Your beautiful documentation gathers dust. And that important Slack message? Buried under 47 messages about lunch.
+Let's be honest: Half your emails go unread. Your beautiful documentation
+gathers dust. And that important Slack message? Buried under 47 messages about
+lunch.
 
 in this lesson, we fix that.
 
@@ -222,7 +224,9 @@ Where to focus attention
 
 ### The Novel
 
-"Hey Sarah, hope you're having a great Monday! So I was thinking about our conversation last week about the database stuff, and you know how we talked about maybe potentially possibly considering..."
+"Hey Sarah, hope you're having a great Monday! So I was thinking about our
+conversation last week about the database stuff, and you know how we talked
+about maybe potentially possibly considering..."
 
 **Fix:** Get to the point in sentence one.
 
@@ -234,16 +238,16 @@ Where to focus attention
 
 ### The Wall of Text
 
-[Imagine a huge paragraph with no breaks no bullets no structure just words words words that keep going and going...]
+[Imagine a huge paragraph with no breaks no bullets no structure just words
+words words that keep going and going...]
 
 **Fix:** Paragraph breaks. Bullets. Bold key points.
 
 ## Your Writing Workout
 
-**Monday:** Write every email with BLUF method
-**Tuesday:** Add TL;DR to one document
-**Wednesday:** Use emoji markers in Slack (⚡ urgent, ✅ done, ❓ question)
-**Thursday:** Time yourself - can you write that email in 2 minutes?
+**Monday:** Write every email with BLUF method **Tuesday:** Add TL;DR to one
+document **Wednesday:** Use emoji markers in Slack (⚡ urgent, ✅ done, ❓
+question) **Thursday:** Time yourself - can you write that email in 2 minutes?
 **Friday:** Review your sent messages - what worked?
 
 ## Quick Templates Library
@@ -254,26 +258,34 @@ Where to focus attention
 
 ### The Blocker
 
-"🔴 Blocked on [specific thing]. Need [specific help] from [specific person] by [specific time]."
+"🔴 Blocked on [specific thing]. Need [specific help] from [specific person] by
+[specific time]."
 
 ### The Decision
 
-"We need to decide between A and B by [date]. I recommend A because [reason]. Thoughts?"
+"We need to decide between A and B by [date]. I recommend A because [reason].
+Thoughts?"
 
 ### The Kudos
 
-"Quick shoutout to @person for [specific thing they did]. [Specific impact it had]. 🙌"
+"Quick shoutout to @person for [specific thing they did]. [Specific impact it
+had]. 🙌"
 
 ## Remember This
 
-Good writing isn't about being Shakespeare. It's about being clear, being considerate of the reader's time, and making it easy for people to help you or make decisions.
+Good writing isn't about being Shakespeare. It's about being clear, being
+considerate of the reader's time, and making it easy for people to help you or
+make decisions.
 
-Write like you're explaining to a smart friend who's had too much coffee and has 30 seconds before their next meeting.
+Write like you're explaining to a smart friend who's had too much coffee and has
+30 seconds before their next meeting.
 
-Next lesson: Verbal communication - meetings, presentations, and the art of not rambling.
+Next lesson: Verbal communication - meetings, presentations, and the art of not
+rambling.
 
 ---
 
-[← Previous Lesson](/journey/week-09/02-personality-adaptation/) | [Next Lesson →](/journey/week-09/04-verbal-communication/)
+[← Previous Lesson](/journey/week-09/02-personality-adaptation/) |
+[Next Lesson →](/journey/week-09/04-verbal-communication/)
 
 [← Back to Week 9 Overview](/journey/week-09/)

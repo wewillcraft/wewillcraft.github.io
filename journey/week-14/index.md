@@ -9,7 +9,9 @@ excerpt: Create a concrete action plan that transforms insights into results ove
 
 **Implementation is the only thing that matters.**
 
-You've spent 13 weeks building self-awareness, mastering tools, and designing your life. Now it's time to bridge the gap between insight and action with a concrete 100-day plan.
+You've spent 13 weeks building self-awareness, mastering tools, and designing
+your life. Now it's time to bridge the gap between insight and action with a
+concrete 100-day plan.
 
 ## This Week's Journey
 
@@ -85,7 +87,8 @@ By Sunday evening, you'll have created:
 **For Detail-Oriented Planners:**
 
 - **Strengths:** Comprehensive planning, systematic execution
-- **Strategies:** Detailed project plans, milestone tracking, contingency planning
+- **Strategies:** Detailed project plans, milestone tracking, contingency
+  planning
 - **Challenges:** Over-planning, paralysis by analysis, rigidity
 
 **For Big-Picture Visionaries:**
@@ -215,7 +218,8 @@ Create a personal statement that includes:
 
 > "A year from now you may wish you had started today." - Karen Lamb
 
-The gap between where you are and where you want to be is bridged by daily actions. Your future self is created by the choices you make today.
+The gap between where you are and where you want to be is bridged by daily
+actions. Your future self is created by the choices you make today.
 
 ## Time Investment This Week
 
@@ -239,12 +243,18 @@ The gap between where you are and where you want to be is bridged by daily actio
 
 ## Final Reflection
 
-You've completed an intensive 14-week journey of self-discovery, skill building, and life design. But this isn't the end - it's the beginning of a lifetime of intentional growth and authentic success.
+You've completed an intensive 14-week journey of self-discovery, skill building,
+and life design. But this isn't the end - it's the beginning of a lifetime of
+intentional growth and authentic success.
 
-The tools you've built, the insights you've gained, and the systems you've created will serve you not just for the next 100 days, but for the next decade and beyond.
+The tools you've built, the insights you've gained, and the systems you've
+created will serve you not just for the next 100 days, but for the next decade
+and beyond.
 
-Your future self is waiting. It's time to bridge the gap between who you are and who you're becoming.
+Your future self is waiting. It's time to bridge the gap between who you are and
+who you're becoming.
 
 ---
 
-_Remember: The best time to plant a tree was 20 years ago. The second best time is now. Your 100-day transformation starts with the first step._
+_Remember: The best time to plant a tree was 20 years ago. The second best time
+is now. Your 100-day transformation starts with the first step._

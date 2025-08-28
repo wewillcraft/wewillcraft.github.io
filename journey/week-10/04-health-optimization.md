@@ -56,7 +56,8 @@ If anything is below 5 for more than a week, get help. Seriously.
 
 ## Sleep: Your Secret Weapon
 
-Hustle culture is lying to you. Sleep isn't for the weak. It's for people who want to:
+Hustle culture is lying to you. Sleep isn't for the weak. It's for people who
+want to:
 
 - Actually remember what they learn
 - Debug without crying
@@ -72,11 +73,9 @@ Hustle culture is lying to you. Sleep isn't for the weak. It's for people who wa
 
 ### The Coder's Sleep Protocol
 
-**10 PM:** Screens to night mode
-**11 PM:** Close the laptop (yes, really)
-**11:30 PM:** Phone across room
-**12 AM:** Actually in bed
-**7-8 AM:** Wake up like a human
+**10 PM:** Screens to night mode **11 PM:** Close the laptop (yes, really)
+**11:30 PM:** Phone across room **12 AM:** Actually in bed **7-8 AM:** Wake up
+like a human
 
 **Can't sleep? Try:**
 
@@ -158,8 +157,7 @@ You don't need a gym. You need to move your body.
 
 ### The Upgrade Path
 
-**Tier 1: Ramen+**
-Add to your ramen:
+**Tier 1: Ramen+** Add to your ramen:
 
 - Frozen vegetables ($1)
 - Egg ($0.30)
@@ -171,8 +169,7 @@ Add to your ramen:
 - Pasta + jarred sauce + frozen veggies ($2/meal)
 - PB&J + banana + milk ($1.50/meal)
 
-**Tier 3: Meal Prep Sunday**
-One hour, 5 meals:
+**Tier 3: Meal Prep Sunday** One hour, 5 meals:
 
 - Big batch rice/pasta
 - Baked chicken thighs (cheaper than breast)
@@ -194,17 +191,11 @@ You're dehydrated. Fix it:
 
 **The Health Habit Starter Pack**
 
-Pick THREE to start this week:
-□ Set bedtime alarm (not just wake-up)
-□ Download a meditation app
-□ Put water bottle on desk
-□ Set hourly stand reminder
-□ Schedule one walk
-□ Buy vegetables (frozen is fine)
-□ Do 5 push-ups right now
-□ Text a friend about your stress
-□ Book that counseling appointment
-□ Close laptop by midnight tonight
+Pick THREE to start this week: □ Set bedtime alarm (not just wake-up) □ Download
+a meditation app □ Put water bottle on desk □ Set hourly stand reminder □
+Schedule one walk □ Buy vegetables (frozen is fine) □ Do 5 push-ups right now □
+Text a friend about your stress □ Book that counseling appointment □ Close
+laptop by midnight tonight
 
 Do the easiest one first. in this lesson.
 
@@ -269,20 +260,27 @@ Your school health center is usually free or cheap. Use it.
 
 ## Remember This
 
-Your health is not negotiable. Your career means nothing if you're too sick, tired, or depressed to enjoy it.
+Your health is not negotiable. Your career means nothing if you're too sick,
+tired, or depressed to enjoy it.
 
-Every tech bro tweeting about their 100-hour weeks is either lying or heading for burnout. The ones with sustainable careers? They sleep. They exercise. They eat vegetables sometimes. They have therapists.
+Every tech bro tweeting about their 100-hour weeks is either lying or heading
+for burnout. The ones with sustainable careers? They sleep. They exercise. They
+eat vegetables sometimes. They have therapists.
 
-You can't debug your way out of health problems. You can't optimize your way out of exhaustion. You can't hustle your way out of human needs.
+You can't debug your way out of health problems. You can't optimize your way out
+of exhaustion. You can't hustle your way out of human needs.
 
-Your body is the hardware. Your mind is the OS. If either crashes, nothing else matters.
+Your body is the hardware. Your mind is the OS. If either crashes, nothing else
+matters.
 
-Take care of yourself. Not tomorrow. Not after this project. Now. Even if it's just drinking a glass of water and standing up.
+Take care of yourself. Not tomorrow. Not after this project. Now. Even if it's
+just drinking a glass of water and standing up.
 
 That's still better than nothing. And you deserve better than nothing. 💪
 
 ---
 
-[← Previous: Financial Wellness](/journey/week-13/03-financial-wellness/) | [Next: Personal Systems →](/journey/week-13/05-personal-systems/)
+[← Previous: Financial Wellness](/journey/week-13/03-financial-wellness/) |
+[Next: Personal Systems →](/journey/week-13/05-personal-systems/)
 
 [← Back to Week 13 Overview](/journey/week-13/)

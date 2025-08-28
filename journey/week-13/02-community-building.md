@@ -18,7 +18,8 @@ Right now you might feel like:
 - You don't fit in anywhere
 - You're bothering people by existing
 
-Every single person in every community felt this way at first. Even the admins. Even the experts. Everyone.
+Every single person in every community felt this way at first. Even the admins.
+Even the experts. Everyone.
 
 You belong somewhere. Let's find where.
 
@@ -236,17 +237,14 @@ That's it. That's community.
 
 ## The Giving Back Loop
 
-**When you're new:**
-Receive help → Learn → Document what helped
+**When you're new:** Receive help → Learn → Document what helped
 
-**When you know something:**
-Share knowledge → Help newbies → Learn by teaching
+**When you know something:** Share knowledge → Help newbies → Learn by teaching
 
-**When you're experienced:**
-Mentor others → Build systems → Create opportunities
+**When you're experienced:** Mentor others → Build systems → Create
+opportunities
 
-**Always:**
-Stay humble → Keep learning → Remember being new
+**Always:** Stay humble → Keep learning → Remember being new
 
 ## Community Red Flags to Avoid
 
@@ -271,20 +269,27 @@ That's plenty. More isn't better.
 
 ## Remember This
 
-Community isn't about networking for jobs (though that happens). It's about finding people who get it. Who get you. Who are on similar journeys.
+Community isn't about networking for jobs (though that happens). It's about
+finding people who get it. Who get you. Who are on similar journeys.
 
-You don't need to be the smartest person in the room. You don't need to contribute massive value immediately. You just need to show up, be kind, and be yourself.
+You don't need to be the smartest person in the room. You don't need to
+contribute massive value immediately. You just need to show up, be kind, and be
+yourself.
 
-The communities that matter will accept you as you are, celebrate your growth, and help you when you're stuck.
+The communities that matter will accept you as you are, celebrate your growth,
+and help you when you're stuck.
 
-You're not bothering people by joining. You're not too new to contribute. You're not too anything.
+You're not bothering people by joining. You're not too new to contribute. You're
+not too anything.
 
-You belong somewhere. Actually, you belong several somewheres. You just have to find them.
+You belong somewhere. Actually, you belong several somewheres. You just have to
+find them.
 
 And when you do? You'll wonder how you ever did this alone. 🤝
 
 ---
 
-[← Previous: Legacy Thinking](/journey/week-13/06-legacy-thinking/) | [Next: Integration Plan →](/journey/week-13/08-integration-plan/)
+[← Previous: Legacy Thinking](/journey/week-13/06-legacy-thinking/) |
+[Next: Integration Plan →](/journey/week-13/08-integration-plan/)
 
 [← Back to Week 13 Overview](/journey/week-13/)

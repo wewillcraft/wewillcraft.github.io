@@ -11,11 +11,14 @@ objectives:
 
 ## Hey friend! 👋
 
-Now that you know WHO you are, let's figure out WHEN and HOW your brain works best. Think of this as optimizing your personal productivity system!
+Now that you know WHO you are, let's figure out WHEN and HOW your brain works
+best. Think of this as optimizing your personal productivity system!
 
 ## The Big Idea 💡
 
-Your brain has preferences for when it performs best and how it likes to receive information. Working with these preferences instead of against them can make learning and working feel almost effortless.
+Your brain has preferences for when it performs best and how it likes to receive
+information. Working with these preferences instead of against them can make
+learning and working feel almost effortless.
 
 ## Why This Matters
 
@@ -39,11 +42,13 @@ Think about the last time you learned something complex. Did you:
 
 ### Step 2: Energy Audit (10 minutes)
 
-For the next 3 days, note your energy levels every few hours (1-10 scale). When are you naturally most alert?
+For the next 3 days, note your energy levels every few hours (1-10 scale). When
+are you naturally most alert?
 
 ## Quick Win ✅
 
-**Right now:** Set a reminder to check your energy at 9am, 1pm, 4pm, and 8pm for the next 3 days. This data will revolutionize how you schedule your time!
+**Right now:** Set a reminder to check your energy at 9am, 1pm, 4pm, and 8pm for
+the next 3 days. This data will revolutionize how you schedule your time!
 
 ## The Four Learning Styles
 
@@ -93,13 +98,17 @@ For the next 3 days, note your energy levels every few hours (1-10 scale). When 
 
 ## Real Talk
 
-I used to force myself to work at 6am because "successful people wake up early." I'm actually a night owl! Once I started honoring my natural rhythm, my productivity doubled and I stopped hating mornings.
+I used to force myself to work at 6am because "successful people wake up early."
+I'm actually a night owl! Once I started honoring my natural rhythm, my
+productivity doubled and I stopped hating mornings.
 
 There's no "right" way to work - only YOUR way.
 
 ## Key Takeaway
 
-Stop trying to force your brain into someone else's productivity system. Design a learning and work style that works WITH your natural preferences, not against them. 🎯
+Stop trying to force your brain into someone else's productivity system. Design
+a learning and work style that works WITH your natural preferences, not against
+them. 🎯
 
 - Taking detailed notes
 
@@ -177,10 +186,9 @@ Or use this quick guide:
 
 ### Energy Protection Strategies
 
-**Block your peak hours** for deep work
-**Schedule meetings** during your low energy
-**Save debugging** for when you're sharpest
-**Do reviews** when you need lower focus
+**Block your peak hours** for deep work **Schedule meetings** during your low
+energy **Save debugging** for when you're sharpest **Do reviews** when you need
+lower focus
 
 ## Part 3: Professional Love Languages (15 minutes)
 
@@ -221,19 +229,14 @@ Gary Chapman's Love Languages apply to professional relationships too:
 
 **Which feels best when a colleague does it?**
 
-A. Publicly praises your code solution
-B. Spends an hour pair programming with you
-C. Refactors your code to help you out
-D. Shares a helpful course or book
-E. Gives you a high-five after shipping
+A. Publicly praises your code solution B. Spends an hour pair programming with
+you C. Refactors your code to help you out D. Shares a helpful course or book E.
+Gives you a high-five after shipping
 
 **Which bothers you most when missing?**
 
-A. Never getting recognition
-B. Always working alone
-C. No one helping when stuck
-D. No learning opportunities
-E. No team celebration/connection
+A. Never getting recognition B. Always working alone C. No one helping when
+stuck D. No learning opportunities E. No team celebration/connection
 
 ### Your Professional Language
 
@@ -288,22 +291,20 @@ My Ideal Learning Setup:
 - Environment: [Where - quiet/busy/home/office]
 - Support: [Solo/pair/group]
 
-One Change I'll Make This Week:
-[Specific action based on these insights]
+One Change I'll Make This Week: [Specific action based on these insights]
 ```
 
 ## Developer Success Formula
 
 Combine all three for maximum impact:
 
-**Visual Lark who needs Words?**
-→ Morning diagram sessions with feedback loops
+**Visual Lark who needs Words?** → Morning diagram sessions with feedback loops
 
-**Kinesthetic Owl who needs Quality Time?**
-→ Evening hackathons with a coding buddy
+**Kinesthetic Owl who needs Quality Time?** → Evening hackathons with a coding
+buddy
 
-**Auditory Hummingbird who needs Acts of Service?**
-→ Midday pair programming with helpful teammates
+**Auditory Hummingbird who needs Acts of Service?** → Midday pair programming
+with helpful teammates
 
 ## Action Items
 
@@ -314,4 +315,7 @@ Combine all three for maximum impact:
 
 ## Key Takeaway
 
-You're not lazy when you struggle at 9 AM if you're an owl. You're not antisocial if you need quiet to learn. You're not needy if you thrive on collaboration. You're just working against your nature. Now you know better: work WITH yourself, not against yourself.
+You're not lazy when you struggle at 9 AM if you're an owl. You're not
+antisocial if you need quiet to learn. You're not needy if you thrive on
+collaboration. You're just working against your nature. Now you know better:
+work WITH yourself, not against yourself.

@@ -11,19 +11,26 @@ objectives:
 
 # Your Next Chapter
 
-_Here's the thing: finishing these 14 weeks isn't the end of your story. It's the end of Chapter 1._
+_Here's the thing: finishing these 14 weeks isn't the end of your story. It's
+the end of Chapter 1._
 
-_You've proven you can grow, you can change, you can become someone new. Now the question is: what's your Chapter 2 going to look like?_
+_You've proven you can grow, you can change, you can become someone new. Now the
+question is: what's your Chapter 2 going to look like?_
 
-The next 100 days are crucial. This is where the rubber meets the road. This is where you either build on what you've created, or you let it slowly fade away.
+The next 100 days are crucial. This is where the rubber meets the road. This is
+where you either build on what you've created, or you let it slowly fade away.
 
-But here's what I know about you: you didn't come this far to come this far. You're going to keep going.
+But here's what I know about you: you didn't come this far to come this far.
+You're going to keep going.
 
 ## Why the Next 100 Days Matter
 
-Research shows it takes about 100 days to really solidify new habits and ways of being. You've built the foundation over 14 weeks. Now you get to build the house.
+Research shows it takes about 100 days to really solidify new habits and ways of
+being. You've built the foundation over 14 weeks. Now you get to build the
+house.
 
-This isn't about perfection. It's about consistency. It's about showing up for yourself every day, even when the excitement wears off.
+This isn't about perfection. It's about consistency. It's about showing up for
+yourself every day, even when the excitement wears off.
 
 You've got this.
 
@@ -39,35 +46,23 @@ You've got this.
 - Strength of your support system: ___
 - Consistency of your habits: ___
 
-**What's helping your momentum:**
-Check what's working:
-□ Clear vision of where you're going
-□ Daily habits that are sticking
-□ People supporting your growth
-□ Regular wins and progress
-□ Someone keeping you accountable
-□ Internal motivation still strong
-□ Resources and tools you need
-□ Skills and confidence you've built
+**What's helping your momentum:** Check what's working: □ Clear vision of where
+you're going □ Daily habits that are sticking □ People supporting your growth □
+Regular wins and progress □ Someone keeping you accountable □ Internal
+motivation still strong □ Resources and tools you need □ Skills and confidence
+you've built
 
-**What could slow you down:**
-Check what might be challenges:
-□ Life getting busier
-□ Initial excitement wearing off
-□ Old habits trying to come back
-□ Support systems getting weaker
-□ External pressures increasing
-□ Not sure what to do next
-□ Feeling overwhelmed
-□ Getting comfortable with current progress
+**What could slow you down:** Check what might be challenges: □ Life getting
+busier □ Initial excitement wearing off □ Old habits trying to come back □
+Support systems getting weaker □ External pressures increasing □ Not sure what
+to do next □ Feeling overwhelmed □ Getting comfortable with current progress
 
-**Risk of losing momentum:** Low/Medium/High
-Why: _____
+**Risk of losing momentum:** Low/Medium/High Why: _____
 
 ### What's Sticking and What's Not
 
-**Changes that feel solid:**
-Things that seem like they're really part of you now:
+**Changes that feel solid:** Things that seem like they're really part of you
+now:
 
 ---
 
@@ -75,8 +70,7 @@ Things that seem like they're really part of you now:
 
 ---
 
-**Changes that feel fragile:**
-Things you could easily slip back on:
+**Changes that feel fragile:** Things you could easily slip back on:
 
 ---
 
@@ -147,13 +141,11 @@ Things you could easily slip back on:
 - Financial progress: _____
 - Experiences you want: _____
 
-**Your 100-day success statement:**
-"By [date], I will have _____."
+**Your 100-day success statement:** "By [date], I will have _____."
 
 ### Your 100-Day Journey
 
-**Month 1: Getting Solid (Days 1-30)**
-**Focus:** Make your new habits stick
+**Month 1: Getting Solid (Days 1-30)** **Focus:** Make your new habits stick
 
 **Main goals:**
 
@@ -176,8 +168,8 @@ Things you could easily slip back on:
 - Health: _____
 - Progress check: _____
 
-**Month 2: Building Momentum (Days 31-60)**
-**Focus:** Add new challenges and grow
+**Month 2: Building Momentum (Days 31-60)** **Focus:** Add new challenges and
+grow
 
 **Main goals:**
 
@@ -194,8 +186,8 @@ Things you could easily slip back on:
 - Network to expand: _____
 - Challenge to take on: _____
 
-**Month 3: Leveling Up (Days 61-100)**
-**Focus:** Reach new heights and help others
+**Month 3: Leveling Up (Days 61-100)** **Focus:** Reach new heights and help
+others
 
 **Main goals:**
 
@@ -265,28 +257,15 @@ Things you could easily slip back on:
 
 ---
 
-**Your ideal day template:**
-**Morning:** _____
-**Work time:** _____
-**Lunch break:** _____
-**Afternoon:** _____
-**Evening:** _____
-**Before bed:** _____
+**Your ideal day template:** **Morning:** _____ **Work time:** _____ **Lunch
+break:** _____ **Afternoon:** _____ **Evening:** _____ **Before bed:** _____
 
 ### Your Weekly Rhythm
 
-**Monday:** _____
-**Tuesday:** _____
-**Wednesday:** _____
-**Thursday:** _____
-**Friday:** _____
-**Saturday:** _____
-**Sunday:** _____
+**Monday:** _____ **Tuesday:** _____ **Wednesday:** _____ **Thursday:** _____
+**Friday:** _____ **Saturday:** _____ **Sunday:** _____
 
-**Weekly must-dos:**
-□ _____
-□ _____
-□ _____
+**Weekly must-dos:** □ _____ □ _____ □ _____
 
 **Weekly check-in:**
 
@@ -297,9 +276,7 @@ Things you could easily slip back on:
 
 ### Monthly Check-ins
 
-**Month 1 target:** _____
-**Month 2 target:** _____
-**Month 3 target:** _____
+**Month 1 target:** _____ **Month 2 target:** _____ **Month 3 target:** _____
 
 **End of Month 1, I want to have:**
 
@@ -348,20 +325,14 @@ Things you could easily slip back on:
 
 **Likely challenges and how you'll handle them:**
 
-1. **Challenge:** _____
-   **How likely:** ___%
-   **Prevention:** _____
-   **If it happens:** _____
+1. **Challenge:** _____ **How likely:** ___% **Prevention:** _____ **If it
+   happens:** _____
 
-2. **Challenge:** _____
-   **How likely:** ___%
-   **Prevention:** _____
-   **If it happens:** _____
+2. **Challenge:** _____ **How likely:** ___% **Prevention:** _____ **If it
+   happens:** _____
 
-3. **Challenge:** _____
-   **How likely:** ___%
-   **Prevention:** _____
-   **If it happens:** _____
+3. **Challenge:** _____ **How likely:** ___% **Prevention:** _____ **If it
+   happens:** _____
 
 ### Emergency Protocols
 
@@ -401,17 +372,13 @@ Things you could easily slip back on:
 - Value you can provide: _____
 - Ways to get noticed: _____
 
-**Signs you're ready:**
-□ _____
-□ _____
-□ _____
+**Signs you're ready:** □ _____ □ _____ □ _____
 
 ## Keeping Track of Progress (5 minutes)
 
 ### Simple Tracking
 
-**Daily check:**
-Quick things to track each day:
+**Daily check:** Quick things to track each day:
 
 ---
 
@@ -419,8 +386,7 @@ Quick things to track each day:
 
 ---
 
-**Weekly review:**
-Deeper check once a week:
+**Weekly review:** Deeper check once a week:
 
 ---
 
@@ -428,8 +394,7 @@ Deeper check once a week:
 
 ---
 
-**Monthly assessment:**
-Big picture review:
+**Monthly assessment:** Big picture review:
 
 ---
 
@@ -437,10 +402,8 @@ Big picture review:
 
 ---
 
-**How you'll track:**
-**Main method:** _____
-**Backup method:** _____
-**Time spent tracking:**
+**How you'll track:** **Main method:** _____ **Backup method:** _____ **Time
+spent tracking:**
 
 - Daily: ___ minutes
 - Weekly: ___ minutes
@@ -448,43 +411,30 @@ Big picture review:
 
 ### Course Corrections
 
-**Weekly questions:**
-□ What worked well?
-□ What didn't work?
-□ What should I adjust?
-□ What will I try next week?
+**Weekly questions:** □ What worked well? □ What didn't work? □ What should I
+adjust? □ What will I try next week?
 
-**Monthly questions:**
-□ Are my systems working?
-□ Am I making good progress?
-□ What big changes do I need?
-□ How can I speed up results?
+**Monthly questions:** □ Are my systems working? □ Am I making good progress? □
+What big changes do I need? □ How can I speed up results?
 
-**When to make big changes:**
-□ 3 weeks with no real progress
-□ Systems keep failing
-□ Priorities change
-□ Better opportunity comes up
+**When to make big changes:** □ 3 weeks with no real progress □ Systems keep
+failing □ Priorities change □ Better opportunity comes up
 
 ### Celebrating Wins
 
-**Daily wins:**
-How you'll acknowledge daily progress:
+**Daily wins:** How you'll acknowledge daily progress:
 
 ---
 
-**Weekly success:**
-How you'll celebrate weekly wins:
+**Weekly success:** How you'll celebrate weekly wins:
 
 ---
 
-**Monthly milestones:**
-How you'll reward monthly achievements:
+**Monthly milestones:** How you'll reward monthly achievements:
 
 ---
 
-**100-day celebration:**
-How you'll honor completing the full journey:
+**100-day celebration:** How you'll honor completing the full journey:
 
 ---
 
@@ -528,7 +478,10 @@ How you'll honor completing the full journey:
 
 **Imagine it's Day 100. What's your story?**
 
-"in this lesson marks 100 days since I finished that 14-week journey. I can't believe what I've accomplished. I have _____, developed _____, and become _____. The person who started this would be so proud to see that I _____. The biggest surprise was _____. I'm now ready to _____."
+"in this lesson marks 100 days since I finished that 14-week journey. I can't
+believe what I've accomplished. I have _____, developed _____, and become _____.
+The person who started this would be so proud to see that I _____. The biggest
+surprise was _____. I'm now ready to _____."
 
 ### What's Next After 100 Days
 
@@ -539,12 +492,9 @@ How you'll honor completing the full journey:
 - Strategy for lifelong growth: _____
 - How you'll help others: _____
 
-**You'll know you're ready for the next phase when:**
-□ Your habits are solid and consistent
-□ Your skills have measurably improved
-□ Your relationships are stronger
-□ You're helping others grow
-□ You have a clear vision for what's next
+**You'll know you're ready for the next phase when:** □ Your habits are solid
+and consistent □ Your skills have measurably improved □ Your relationships are
+stronger □ You're helping others grow □ You have a clear vision for what's next
 
 ## If Things Go Off Track
 
@@ -602,19 +552,27 @@ How you'll honor completing the full journey:
 
 This isn't the end of your journey. This is where your real journey begins.
 
-The habits, insights, and new ways of being you've developed over 14 weeks? They only become truly yours through sustained practice. The next 100 days are your chance to prove to yourself that this transformation is real, lasting, and just the beginning.
+The habits, insights, and new ways of being you've developed over 14 weeks? They
+only become truly yours through sustained practice. The next 100 days are your
+chance to prove to yourself that this transformation is real, lasting, and just
+the beginning.
 
-You're not just trying to maintain what you've achieved. You're using it as a launching pad for what comes next.
+You're not just trying to maintain what you've achieved. You're using it as a
+launching pad for what comes next.
 
-Look, I know it might feel scary to continue without a structured program. But here's what I know about you: you've already proven you can do this. You showed up for 14 weeks. You grew. You changed. You became someone new.
+Look, I know it might feel scary to continue without a structured program. But
+here's what I know about you: you've already proven you can do this. You showed
+up for 14 weeks. You grew. You changed. You became someone new.
 
 That person who started Week 1? They would be so proud of who you are now.
 
 The person you are now is capable of the next 100 days.
 
-And the person you'll be in 100 days? They'll be ready for whatever comes after that.
+And the person you'll be in 100 days? They'll be ready for whatever comes after
+that.
 
-Your growth never ends. It just gets more intentional, more joyful, and more impactful.
+Your growth never ends. It just gets more intentional, more joyful, and more
+impactful.
 
 The person you've become is now responsible for the person you're becoming.
 

@@ -11,11 +11,18 @@ Hey friend! 👋
 
 ## The Big Idea 💡
 
-Boundaries aren't set-and-forget systems—they're living guidelines that need regular maintenance, adjustment, and reinforcement. Just like your code needs refactoring and your skills need updating, your boundaries need ongoing attention to remain effective as your life and career evolve.
+Boundaries aren't set-and-forget systems—they're living guidelines that need
+regular maintenance, adjustment, and reinforcement. Just like your code needs
+refactoring and your skills need updating, your boundaries need ongoing
+attention to remain effective as your life and career evolve.
 
 ## Why This Matters
 
-Without maintenance, boundaries gradually erode. People test limits, your priorities shift, new challenges arise, and what worked six months ago might not work in this lesson. Regular boundary maintenance prevents small violations from becoming major problems and ensures your boundaries continue supporting your goals and well-being.
+Without maintenance, boundaries gradually erode. People test limits, your
+priorities shift, new challenges arise, and what worked six months ago might not
+work in this lesson. Regular boundary maintenance prevents small violations from
+becoming major problems and ensures your boundaries continue supporting your
+goals and well-being.
 
 ## Your 15-20 Minute Mission
 
@@ -88,19 +95,30 @@ Set up your boundary maintenance system:
 
 1. **Calendar Reminders**: Schedule weekly 10-minute boundary check-ins
 2. **Monthly Reviews**: Block 30 minutes for boundary audit and adjustments
-3. **Accountability Partner**: Ask someone to help you maintain important boundaries
-4. **Tracking Method**: Simple note-taking system for boundary successes and challenges
+3. **Accountability Partner**: Ask someone to help you maintain important
+   boundaries
+4. **Tracking Method**: Simple note-taking system for boundary successes and
+   challenges
 
 Start with just the weekly check-ins and build from there.
 
 ## Real Talk 💬
 
-Boundary maintenance can feel exhausting, especially when you're constantly having to remind people of your limits. This is normal, especially in the early stages. Most people aren't trying to be difficult—they just need time to adjust to your new patterns.
+Boundary maintenance can feel exhausting, especially when you're constantly
+having to remind people of your limits. This is normal, especially in the early
+stages. Most people aren't trying to be difficult—they just need time to adjust
+to your new patterns.
 
-Some boundaries will need more maintenance than others. Professional boundaries might need frequent reinforcement with new colleagues, while personal boundaries might be more stable once established.
+Some boundaries will need more maintenance than others. Professional boundaries
+might need frequent reinforcement with new colleagues, while personal boundaries
+might be more stable once established.
 
-Don't expect perfection. You'll occasionally let boundaries slip, and that's okay. The key is getting back to your boundaries quickly rather than abandoning them altogether.
+Don't expect perfection. You'll occasionally let boundaries slip, and that's
+okay. The key is getting back to your boundaries quickly rather than abandoning
+them altogether.
 
 ## Key Takeaway
 
-Boundary maintenance isn't extra work—it's the work that makes everything else sustainable. When you regularly tend to your boundaries, you protect your energy, time, and well-being, creating space for what matters most to flourish.
+Boundary maintenance isn't extra work—it's the work that makes everything else
+sustainable. When you regularly tend to your boundaries, you protect your
+energy, time, and well-being, creating space for what matters most to flourish.

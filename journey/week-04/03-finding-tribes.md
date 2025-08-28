@@ -7,17 +7,23 @@ week: 6
 
 ## Hey friend! 👋
 
-Ever feel like you're coding alone on an island? In this lesson we're changing that. Let's find your people—the communities where you'll actually feel at home, not just lurk in the shadows.
+Ever feel like you're coding alone on an island? In this lesson we're changing
+that. Let's find your people—the communities where you'll actually feel at home,
+not just lurk in the shadows.
 
 ## The Big Idea 💡
 
-**The right community can 10x your growth. The wrong one can kill your confidence.**
+**The right community can 10x your growth. The wrong one can kill your
+confidence.**
 
-It's not about joining every Discord server or Slack channel. It's about finding 2-3 communities where you genuinely connect with the vibe and people.
+It's not about joining every Discord server or Slack channel. It's about finding
+2-3 communities where you genuinely connect with the vibe and people.
 
 ## Why This Matters
 
-Think about it: When you're stuck on a bug at 11 PM, who do you ask? When you land your dream job, who do you celebrate with? Your tech tribe becomes your support system, knowledge base, and sometimes even your next opportunity.
+Think about it: When you're stuck on a bug at 11 PM, who do you ask? When you
+land your dream job, who do you celebrate with? Your tech tribe becomes your
+support system, knowledge base, and sometimes even your next opportunity.
 
 ## Your 15-Minute Mission
 
@@ -73,15 +79,19 @@ That's it. You're in.
 
 **Right now in 2 minutes:**
 
-Search for "[your favorite technology] discord" or "[your city] tech meetup" and join ONE group. Don't overthink it. You can always leave if it's not your vibe.
+Search for "[your favorite technology] discord" or "[your city] tech meetup" and
+join ONE group. Don't overthink it. You can always leave if it's not your vibe.
 
 ## Real Talk 💬
 
-Scared to post that first message? Here's a secret: Everyone remembers being new. The people who respond to beginners are usually the kindest folks in the community. They WANT to help.
+Scared to post that first message? Here's a secret: Everyone remembers being
+new. The people who respond to beginners are usually the kindest folks in the
+community. They WANT to help.
 
 And if someone's rude? That's valuable info too—it's not your tribe. Move on.
 
-Remember: You don't need 50 communities. You need 2-3 where you feel safe to ask "stupid" questions and celebrate small wins.
+Remember: You don't need 50 communities. You need 2-3 where you feel safe to ask
+"stupid" questions and celebrate small wins.
 
 ## Your Tribe Starter Pack
 
@@ -104,14 +114,17 @@ Want more? Try these:
 
 - **100DaysOfCode**: Tweet your daily progress
 - **Virtual Coffee**: Weekly Zoom hangouts
-- **Women Who Code / Black Tech Pipeline**: If you want identity-specific support
+- **Women Who Code / Black Tech Pipeline**: If you want identity-specific
+  support
 
 ## Key Takeaway
 
-You don't have to code alone. Your tribe is out there—you just have to take the first small step to find them.
+You don't have to code alone. Your tribe is out there—you just have to take the
+first small step to find them.
 
 ---
 
-**Tomorrow, we'll talk about finding mentors (hint: it's easier than you think).**
+**Tomorrow, we'll talk about finding mentors (hint: it's easier than you
+think).**
 
 → [Day 4: Getting a Mentor](./04-mentorship)

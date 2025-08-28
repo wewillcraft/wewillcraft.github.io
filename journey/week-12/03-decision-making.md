@@ -14,39 +14,37 @@ objectives:
 **Time:** 25 minutes\
 **Purpose:** Learn to make decisions like a pro (without the stress!)
 
-Hey there! Let's talk about something you do about 35,000 times a day (yes, really!). From "What should I eat for breakfast?" to "Should I change my major?" - you're constantly making choices. In this lesson we're going to level up your decision-making game! 🎯
+Hey there! Let's talk about something you do about 35,000 times a day (yes,
+really!). From "What should I eat for breakfast?" to "Should I change my
+major?" - you're constantly making choices. In this lesson we're going to level
+up your decision-making game! 🎯
 
 ## Why Decision Making Matters
 
-Every choice shapes your path. The students who get great internships, build amazing relationships, and feel confident about their future? They've usually gotten good at making smart decisions quickly. The good news? This is totally learnable! 🚀
+Every choice shapes your path. The students who get great internships, build
+amazing relationships, and feel confident about their future? They've usually
+gotten good at making smart decisions quickly. The good news? This is totally
+learnable! 🚀
 
 ## Your Decision-Making Style Quiz
 
 Check what sounds most like you:
 
-**The Analyzer** 🔍
-□ I need ALL the information before deciding
-□ I make pro/con lists for everything
-□ I research options extensively
-□ Sometimes I get stuck overthinking
+**The Analyzer** 🔍 □ I need ALL the information before deciding □ I make
+pro/con lists for everything □ I research options extensively □ Sometimes I get
+stuck overthinking
 
-**The Gut-Feeler** ⚡
-□ I trust my first instincts
-□ I decide quickly based on what feels right
-□ I rely on past experiences
-□ Sometimes I rush and regret it later
+**The Gut-Feeler** ⚡ □ I trust my first instincts □ I decide quickly based on
+what feels right □ I rely on past experiences □ Sometimes I rush and regret it
+later
 
-**The Collaborator** 🤝
-□ I always ask friends for advice
-□ I want everyone to be happy with the decision
-□ I value different perspectives
-□ Sometimes I get overwhelmed by too many opinions
+**The Collaborator** 🤝 □ I always ask friends for advice □ I want everyone to
+be happy with the decision □ I value different perspectives □ Sometimes I get
+overwhelmed by too many opinions
 
-**The Decider** 💪
-□ I make decisions fast and stick with them
-□ I'm okay with being wrong sometimes
-□ I'd rather make a choice than be stuck
-□ Sometimes I don't involve others enough
+**The Decider** 💪 □ I make decisions fast and stick with them □ I'm okay with
+being wrong sometimes □ I'd rather make a choice than be stuck □ Sometimes I
+don't involve others enough
 
 **My primary style:** ________________
 
@@ -71,16 +69,9 @@ Perfect for "Should I study abroad?" or "Which internship should I take?"
 
 ---
 
-**What matters most to you?** (Check top 3)
-□ Money/cost
-□ Time commitment
-□ Future opportunities
-□ Fun/enjoyment
-□ Learning/growth
-□ Family approval
-□ Friend connections
-□ Location
-□ Other: _______________
+**What matters most to you?** (Check top 3) □ Money/cost □ Time commitment □
+Future opportunities □ Fun/enjoyment □ Learning/growth □ Family approval □
+Friend connections □ Location □ Other: _______________
 
 **Your options:**
 
@@ -110,7 +101,8 @@ This helps you see past the immediate stress to what really matters long-term.
 
 When you're too close to the situation:
 
-**"If my best friend came to me with this exact situation, what would I tell them?"**
+**"If my best friend came to me with this exact situation, what would I tell
+them?"**
 
 Write it out - you'll probably surprise yourself with how clear your advice is!
 
@@ -133,8 +125,9 @@ Write it out - you'll probably surprise yourself with how clear your advice is!
 
 ### People Pleasing
 
-**What it looks like:** Choosing what others want instead of what's right for you
-**The fix:** Ask yourself, "What would I choose if I didn't have to explain it to anyone?"
+**What it looks like:** Choosing what others want instead of what's right for
+you **The fix:** Ask yourself, "What would I choose if I didn't have to explain
+it to anyone?"
 
 **My biggest decision trap:** _______________
 
@@ -142,11 +135,14 @@ Write it out - you'll probably surprise yourself with how clear your advice is!
 
 ### The Coin Flip Trick
 
-Assign heads to option A, tails to option B. Flip the coin. Before looking at the result, notice what you're hoping for. That's your answer! (You don't actually have to follow the coin.)
+Assign heads to option A, tails to option B. Flip the coin. Before looking at
+the result, notice what you're hoping for. That's your answer! (You don't
+actually have to follow the coin.)
 
 ### The 5-Minute Rule
 
-For small decisions, give yourself exactly 5 minutes to decide. Set a timer. This prevents overthinking small stuff.
+For small decisions, give yourself exactly 5 minutes to decide. Set a timer.
+This prevents overthinking small stuff.
 
 ### The Regret Minimization Framework
 
@@ -174,13 +170,15 @@ You're in engineering but starting to think you'd rather do marketing.
 **High-quality decision:**
 
 - What specifically draws you to marketing?
-- Can you test this interest before switching? (Take a class, find an internship, shadow someone)
+- Can you test this interest before switching? (Take a class, find an
+  internship, shadow someone)
 - What are you actually dissatisfied with in engineering?
 - Talk to people in both fields about their real experiences
 
 ### Scenario 3: The Social Pressure
 
-All your friends are going to an expensive spring break trip you can't really afford.
+All your friends are going to an expensive spring break trip you can't really
+afford.
 
 **Low-quality decision:** Go into debt to fit in, or skip without explanation
 **High-quality decision:**
@@ -193,8 +191,8 @@ All your friends are going to an expensive spring break trip you can't really af
 
 ### This Week's Practice:
 
-**Monday:** Use the 5-minute rule for 3 small decisions
-**Wednesday:** Try the 10-10-10 rule on something you're overthinking\
+**Monday:** Use the 5-minute rule for 3 small decisions **Wednesday:** Try the
+10-10-10 rule on something you're overthinking\
 **Friday:** Make one decision you've been avoiding
 
 ### Daily Decision Hygiene:
@@ -204,35 +202,35 @@ All your friends are going to an expensive spring break trip you can't really af
 
 ### Decision Success Metrics:
 
-□ I'm making decisions faster
-□ I'm involving the right people at the right time
-□ I'm learning from outcomes without beating myself up
-□ I feel more confident about my choices
-□ I'm not constantly second-guessing myself
+□ I'm making decisions faster □ I'm involving the right people at the right time
+□ I'm learning from outcomes without beating myself up □ I feel more confident
+about my choices □ I'm not constantly second-guessing myself
 
 ## The Different Types of Decisions
 
-**Reversible Decisions:** Choosing classes, joining clubs, most relationship choices
-→ Make these faster! You can adjust.
+**Reversible Decisions:** Choosing classes, joining clubs, most relationship
+choices → Make these faster! You can adjust.
 
-**Irreversible Decisions:** Dropping out, burning bridges, having kids
-→ Take more time, get advice, really think it through.
+**Irreversible Decisions:** Dropping out, burning bridges, having kids → Take
+more time, get advice, really think it through.
 
-**High-Stakes Decisions:** College choice, career direction, who to trust
-→ Use formal frameworks, involve mentors.
+**High-Stakes Decisions:** College choice, career direction, who to trust → Use
+formal frameworks, involve mentors.
 
-**Low-Stakes Decisions:** What to wear, what to eat, weekend plans
-→ 5-minute rule or gut instinct.
+**Low-Stakes Decisions:** What to wear, what to eat, weekend plans → 5-minute
+rule or gut instinct.
 
 ## Building Your Decision Confidence
 
 ### Start Small
 
-Practice on low-stakes decisions first. The confidence you build choosing restaurants will help you choose internships later.
+Practice on low-stakes decisions first. The confidence you build choosing
+restaurants will help you choose internships later.
 
 ### Own Your Choices
 
-Once you decide, commit. Even if it doesn't work out perfectly, you'll learn something valuable.
+Once you decide, commit. Even if it doesn't work out perfectly, you'll learn
+something valuable.
 
 ### Learn From Every Outcome
 
@@ -242,7 +240,8 @@ No judgment, just learning.
 
 ### Trust Your Growth
 
-Your decision-making will improve with practice. Give yourself credit for making thoughtful choices, even when they don't work out perfectly.
+Your decision-making will improve with practice. Give yourself credit for making
+thoughtful choices, even when they don't work out perfectly.
 
 ## Emergency Decision Protocol
 
@@ -255,10 +254,15 @@ When you absolutely have to decide RIGHT NOW:
 5. **Go with that choice**
 6. **Learn from the outcome later**
 
-Remember: A good decision made quickly is usually better than a perfect decision made too late.
+Remember: A good decision made quickly is usually better than a perfect decision
+made too late.
 
 ## The Bottom Line
 
-You don't need to be right 100% of the time. You just need to be thoughtful, learn from outcomes, and keep improving. Every decision is practice for the next one.
+You don't need to be right 100% of the time. You just need to be thoughtful,
+learn from outcomes, and keep improving. Every decision is practice for the next
+one.
 
-The students who seem to have it all figured out? They're just getting better at making decisions quickly and adjusting as they go. You can absolutely do this too! 💪
+The students who seem to have it all figured out? They're just getting better at
+making decisions quickly and adjusting as they go. You can absolutely do this
+too! 💪

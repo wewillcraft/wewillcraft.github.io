@@ -12,9 +12,11 @@ objectives:
 
 Let's kill the "personal brand" cringe right now.
 
-You don't need to become a LinkedIn influencer. You don't need a logo. You definitely don't need to post motivational quotes over sunset photos.
+You don't need to become a LinkedIn influencer. You don't need a logo. You
+definitely don't need to post motivational quotes over sunset photos.
 
-What you need? People to understand what you do and remember you for it. That's it.
+What you need? People to understand what you do and remember you for it. That's
+it.
 
 And the best way to do that? **Show your work, not your resume.**
 
@@ -31,7 +33,8 @@ Everything else is noise.
 
 ## Your GitHub Is Your Real Resume
 
-Recruiters spend more time on your GitHub than your LinkedIn. Let's make it worth their time.
+Recruiters spend more time on your GitHub than your LinkedIn. Let's make it
+worth their time.
 
 ### The 5-Minute GitHub Audit
 
@@ -49,13 +52,17 @@ If you checked less than 3, we've got work to do.
 
 Keep it simple:
 
-"[What you do] interested in [what excites you]. Currently [what you're learning/building]."
+"[What you do] interested in [what excites you]. Currently [what you're
+learning/building]."
 
 Examples:
 
-- "Full-stack dev interested in accessibility. Currently building React apps and contributing to open source."
-- "CS student interested in game dev. Currently learning Unity and building indie games."
-- "Self-taught programmer interested in automation. Currently building tools that save people time."
+- "Full-stack dev interested in accessibility. Currently building React apps and
+  contributing to open source."
+- "CS student interested in game dev. Currently learning Unity and building
+  indie games."
+- "Self-taught programmer interested in automation. Currently building tools
+  that save people time."
 
 **Your version:** ___________
 
@@ -72,7 +79,8 @@ That's it. No fancy badges needed.
 
 ## Your Portfolio (If You Need One)
 
-Not everyone needs a portfolio site. But if you're frontend, design-adjacent, or freelancing, it helps.
+Not everyone needs a portfolio site. But if you're frontend, design-adjacent, or
+freelancing, it helps.
 
 ### Portfolio Essentials
 
@@ -97,7 +105,8 @@ Not everyone needs a portfolio site. But if you're frontend, design-adjacent, or
 
 ### The "Good Enough" Portfolio
 
-Your portfolio doesn't need to be perfect. It needs to exist and show you can ship things.
+Your portfolio doesn't need to be perfect. It needs to exist and show you can
+ship things.
 
 **Quick portfolio options:**
 
@@ -110,7 +119,8 @@ Pick one. Ship it this week. Improve it later.
 
 ## Introvert-Friendly Networking
 
-Not everyone wants to "network" at events or slide into DMs. Here's how to build connections without the awkwardness:
+Not everyone wants to "network" at events or slide into DMs. Here's how to build
+connections without the awkwardness:
 
 ### The Contribution Strategy
 
@@ -155,14 +165,14 @@ Quality over quantity. Always.
 
 ## Try This Now (10 minutes)
 
-**Step 1:** Update your GitHub bio (2 minutes)
-Write one sentence about what you do and what interests you.
+**Step 1:** Update your GitHub bio (2 minutes) Write one sentence about what you
+do and what interests you.
 
-**Step 2:** Pin your best repos (3 minutes)
-Choose 3-6 projects that show your range. Pin them.
+**Step 2:** Pin your best repos (3 minutes) Choose 3-6 projects that show your
+range. Pin them.
 
-**Step 3:** Write one README (5 minutes)
-Pick your best project without a README. Add:
+**Step 3:** Write one README (5 minutes) Pick your best project without a
+README. Add:
 
 - What it does
 - How to run it
@@ -200,8 +210,7 @@ Stop trying to sound "professional." Start sounding like you on a good day.
 
 ### Finding Your Voice
 
-**Your natural style is probably:**
-□ Analytical - You explain how things work\
+**Your natural style is probably:** □ Analytical - You explain how things work\
 □ Helpful - You share resources and tips\
 □ Creative - You show unique approaches\
 □ Practical - You focus on what works\
@@ -232,7 +241,8 @@ Pick one. That's your first blog post or README.
 
 ## The Long Game
 
-Building professional presence isn't about going viral or having thousands of followers. It's about:
+Building professional presence isn't about going viral or having thousands of
+followers. It's about:
 
 1. Being findable when opportunity knocks
 2. Having work that speaks for your skills
@@ -243,8 +253,11 @@ Do these four things consistently, and your "brand" builds itself.
 
 ## Remember This
 
-The best personal brand is just you, doing good work, helping others, and making it easy for people to find and understand what you do.
+The best personal brand is just you, doing good work, helping others, and making
+it easy for people to find and understand what you do.
 
-Your GitHub commits matter more than your LinkedIn posts. Your helpful comments matter more than your follower count. Your shipped projects matter more than your perfect bio.
+Your GitHub commits matter more than your LinkedIn posts. Your helpful comments
+matter more than your follower count. Your shipped projects matter more than
+your perfect bio.
 
 Focus on the work. The rest follows. 💪

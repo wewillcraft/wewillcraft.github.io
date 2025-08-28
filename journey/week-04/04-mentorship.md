@@ -7,17 +7,22 @@ week: 6
 
 ## Hey friend! 👋
 
-Ever feel like you're reinventing the wheel with every problem? Let's talk about finding mentors—people who've already solved the problems you're facing and are willing to share their shortcuts.
+Ever feel like you're reinventing the wheel with every problem? Let's talk about
+finding mentors—people who've already solved the problems you're facing and are
+willing to share their shortcuts.
 
 ## The Big Idea 💡
 
-**Mentorship isn't about finding a guru. It's about building relationships with people who can share specific knowledge when you need it.**
+**Mentorship isn't about finding a guru. It's about building relationships with
+people who can share specific knowledge when you need it.**
 
-Think micro-mentorship: 15-minute conversations that save you 15 hours of struggle.
+Think micro-mentorship: 15-minute conversations that save you 15 hours of
+struggle.
 
 ## Why This Matters
 
-Your career will be shaped more by the relationships you build than the code you write. Mentors provide:
+Your career will be shaped more by the relationships you build than the code you
+write. Mentors provide:
 
 - Shortcuts through problems they've already solved
 - Connections to opportunities you don't know exist
@@ -98,7 +103,8 @@ Scared you have nothing to offer? Wrong. You have:
 - Time to help with things they're too busy for
 - Questions that make them think differently
 
-Most successful people are happy to pay it forward when approached respectfully. The worst they can say is "not right now."
+Most successful people are happy to pay it forward when approached respectfully.
+The worst they can say is "not right now."
 
 And sometimes a single 20-minute conversation can redirect your entire career.
 
@@ -125,10 +131,13 @@ Thank you for considering,
 
 ## Key Takeaway
 
-Mentorship is about mutual value, not one-way knowledge transfer. Start small, be specific about your ask, and remember that helping others often helps you more than being helped.
+Mentorship is about mutual value, not one-way knowledge transfer. Start small,
+be specific about your ask, and remember that helping others often helps you
+more than being helped.
 
 ---
 
-**Tomorrow: Let's talk about documentation (the secret to standing out as a developer).**
+**Tomorrow: Let's talk about documentation (the secret to standing out as a
+developer).**
 
 → [Day 5: Documentation Skills](./05-documentation-skills)

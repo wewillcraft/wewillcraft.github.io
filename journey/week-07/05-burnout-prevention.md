@@ -7,38 +7,42 @@ week: 7
 
 ## Hey friend! 👋
 
-Burnout isn't sudden—it's a slow burn that starts when you ignore the warning signs. Let's build your early warning system before you need it.
+Burnout isn't sudden—it's a slow burn that starts when you ignore the warning
+signs. Let's build your early warning system before you need it.
 
 ## The Big Idea 💡
 
-**Burnout prevention is 10x easier than burnout recovery. Learn your warning signs now.**
+**Burnout prevention is 10x easier than burnout recovery. Learn your warning
+signs now.**
 
-For developers, perfectionism + tech FOMO + crunch culture = perfect burnout storm.
+For developers, perfectionism + tech FOMO + crunch culture = perfect burnout
+storm.
 
 ## Why This Matters
 
-Burnout recovery can take months or years. But prevention? Just a few minutes of daily awareness.
+Burnout recovery can take months or years. But prevention? Just a few minutes of
+daily awareness.
 
-Tech careers are marathons, not sprints. The habits you build now determine whether you'll still love coding in 10 years.
+Tech careers are marathons, not sprints. The habits you build now determine
+whether you'll still love coding in 10 years.
 
 ## Your 15-Minute Mission
 
 ### Step 1: Know the Three Faces (5 minutes)
 
-**Emotional Exhaustion**: Chronic fatigue that rest doesn't fix
-**Cynicism**: "This code sucks, users are idiots, management is clueless"\
+**Emotional Exhaustion**: Chronic fatigue that rest doesn't fix **Cynicism**:
+"This code sucks, users are idiots, management is clueless"\
 **Inefficiency**: Working harder but accomplishing less
 
 Recognize these patterns—they're your warning system.
 
 ### Step 2: Identify Your Triggers (5 minutes)
 
-**Common developer burnout triggers:**
-⚠️ Never shipping "good enough" code (perfectionism)
-⚠️ Feeling behind on every new framework (FOMO)
-⚠️ Normalizing unsustainable work patterns (crunch addiction)
-⚠️ Measuring yourself against tech Twitter (comparison trap)
-⚠️ "Everyone knows more than me" spirals (imposter syndrome)
+**Common developer burnout triggers:** ⚠️ Never shipping "good enough" code
+(perfectionism) ⚠️ Feeling behind on every new framework (FOMO) ⚠️ Normalizing
+unsustainable work patterns (crunch addiction) ⚠️ Measuring yourself against
+tech Twitter (comparison trap) ⚠️ "Everyone knows more than me" spirals
+(imposter syndrome)
 
 ### Step 3: Build Your Warning System (5 minutes)
 
@@ -73,11 +77,13 @@ This creates awareness so you can catch changes early.
 
 ## Real Talk 💬
 
-Developer culture glorifies the hustle. You'll see tweets about 80-hour weeks and coding marathons.
+Developer culture glorifies the hustle. You'll see tweets about 80-hour weeks
+and coding marathons.
 
 Here's the truth: The developers with 20-year careers didn't burn out in year 2.
 
-If you've been saying "things will slow down after this project" for months, you're already in the danger zone.
+If you've been saying "things will slow down after this project" for months,
+you're already in the danger zone.
 
 Remember:
 
@@ -89,16 +95,19 @@ These are professional skills.
 
 ## Your Burnout Prevention Protocol
 
-**Daily**: Check in with your energy level (1-10)
-**Weekly**: Ask "What drained me? What energized me?"\
+**Daily**: Check in with your energy level (1-10) **Weekly**: Ask "What drained
+me? What energized me?"\
 **Monthly**: Audit your systems and boundaries
 
 ## Key Takeaway
 
-Burnout prevention is like version control for your mental health—small, regular commits prevent massive conflicts later. Your career is a marathon, not a sprint to impress LinkedIn.
+Burnout prevention is like version control for your mental health—small, regular
+commits prevent massive conflicts later. Your career is a marathon, not a sprint
+to impress LinkedIn.
 
 ---
 
-**Tomorrow: Let's talk about managing your energy like the finite resource it actually is.**
+**Tomorrow: Let's talk about managing your energy like the finite resource it
+actually is.**
 
 → [Day 2: Energy & Task Management](./02-energy-task-management)

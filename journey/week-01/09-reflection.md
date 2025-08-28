@@ -11,7 +11,8 @@ index: 9
 
 # Week 1: Meditation & Reflection
 
-_Take a deep breath. You've discovered so much about yourself this week. Let's pause and reflect._
+_Take a deep breath. You've discovered so much about yourself this week. Let's
+pause and reflect._
 
 ## Quick Reflection (2 minutes)
 
@@ -23,9 +24,11 @@ What feels challenging to accept about yourself?
 
 ## Scripture to Sit With
 
-> "Before I formed you in the womb I knew you, before you were born I set you apart." - Jeremiah 1:5
+> "Before I formed you in the womb I knew you, before you were born I set you
+> apart." - Jeremiah 1:5
 
-> "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." - Ephesians 2:10
+> "For we are God's handiwork, created in Christ Jesus to do good works, which
+> God prepared in advance for us to do." - Ephesians 2:10
 
 ## The Heart of It
 
@@ -35,13 +38,16 @@ That introverted nature? Designed on purpose.\
 That analytical mind? He knew you'd have it.\
 That emotional intensity? Created with intention.
 
-Look at Jesus' disciples - He didn't choose copies. He chose Peter the impulsive, Thomas the analytical, John the emotional. Each personality was needed.
+Look at Jesus' disciples - He didn't choose copies. He chose Peter the
+impulsive, Thomas the analytical, John the emotional. Each personality was
+needed.
 
 The same is true for you.
 
 ## A Simple Truth
 
-The parts of your personality you struggle with might be gifts you haven't learned to use yet.
+The parts of your personality you struggle with might be gifts you haven't
+learned to use yet.
 
 Your quietness might be the gift of deep listening.\
 Your intensity might be the gift of passion.\
@@ -58,11 +64,15 @@ Each morning, try this 30-second practice:
 
 ## A Brief Prayer
 
-_"God, thank you for making me exactly who I am. Help me see myself through Your eyes - not through comparison or criticism, but through love. Give me courage to be authentically myself. Amen."_
+_"God, thank you for making me exactly who I am. Help me see myself through Your
+eyes - not through comparison or criticism, but through love. Give me courage to
+be authentically myself. Amen."_
 
 ## Looking Ahead
 
-Next week you'll explore your values and purpose. Remember: this journey isn't about becoming someone else. It's about becoming the best version of who you already are.
+Next week you'll explore your values and purpose. Remember: this journey isn't
+about becoming someone else. It's about becoming the best version of who you
+already are.
 
 ## Rest in This
 

@@ -2,7 +2,9 @@
 
 ## Week Overview
 
-The final week! This is about sustainable momentum, not dramatic transformation. Students need to feel equipped and encouraged to continue growing after the program ends.
+The final week! This is about sustainable momentum, not dramatic transformation.
+Students need to feel equipped and encouraged to continue growing after the
+program ends.
 
 ## Specific Tone for This Week
 
@@ -156,10 +158,10 @@ Reflection and planning focused:
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Look at everything you've accomplished"
-**Wednesday (Lesson 3-4)**: "You're equipped for the journey"
-**Friday (Lesson 5-6)**: "You have so much to offer"
-**Weekend (Lesson 7-8)**: "Go forth and build amazing things"
+**Monday (Lesson 1-2)**: "Look at everything you've accomplished" **Wednesday
+(Lesson 3-4)**: "You're equipped for the journey" **Friday (Lesson 5-6)**: "You
+have so much to offer" **Weekend (Lesson 7-8)**: "Go forth and build amazing
+things"
 
 ## Success Metrics
 
@@ -221,7 +223,8 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-14/02-skills-reflection/` for all navigation links.
+Use full relative paths like `/journey/week-14/02-skills-reflection/` for all
+navigation links.
 
 Example navigation section:
 
@@ -230,7 +233,8 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Journey Reflection](/journey/week-14/01-journey-reflection/) | [Next: Future Planning](/journey/week-14/03-future-planning/) →
+← [Previous: Journey Reflection](/journey/week-14/01-journey-reflection/) |
+[Next: Future Planning](/journey/week-14/03-future-planning/) →
 
 [← Back to Week 14 Overview](/journey/week-14/)
 ```
