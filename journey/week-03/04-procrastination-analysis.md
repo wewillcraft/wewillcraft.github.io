@@ -1,6 +1,12 @@
 ---
-title: "Day 11: Why You Really Procrastinate"
-excerpt: Hey friend! Let's get real about procrastination. It's not about being lazy - it's about something deeper. Today we figure out your procrastination triggers.
+title: "Why You Really Procrastinate"
+excerpt: "Let's get real about procrastination. It's not about being lazy - it's about something deeper. Today we figure out your procrastination triggers."
+index: 4
+estimated_time: 15 minutes
+objectives:
+  - Understand the real reasons behind procrastination
+  - Identify your specific procrastination patterns
+  - Design personalized strategies to overcome delays
 ---
 
 # Day 11: Why You Really Procrastinate

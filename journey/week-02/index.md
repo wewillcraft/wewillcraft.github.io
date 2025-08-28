@@ -2,8 +2,16 @@
 title: "Week 2: Finding Your True North 🧭"
 week: 2
 phase: self-discovery
+index: 0
 excerpt: "Discovering what you actually care about (hint: it might not be what you think)"
+description: "Discover your true values, find your sweet spot, and create a vision that actually inspires you - all while building your personal manifesto."
 estimated_time: 15-20 min/day
+objectives:
+  - Identify your authentic core values (not what you think you should value)
+  - Map your ikigai - where passion, talents, and opportunities align
+  - Create a compelling 5-year vision that pulls you forward
+  - Define your unique technical calling and developer mission
+  - Write a personal manifesto that guides your decisions
 ---
 
 ## Hey friend! 👋
@@ -92,5 +100,3 @@ Each day this week:
 Keep it simple. The goal is clarity, not perfection.
 
 ---
-
-**Ready to find your true north?** → [Day 1: What Do You Actually Value?](./01-values-discovery)

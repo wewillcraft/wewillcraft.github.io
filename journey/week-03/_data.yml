@@ -1,3 +1,29 @@
 layout: layouts/journey.vto
 week: 3
-phase: self-discovery
+phase: learning-productivity
+
+lessons:
+  - index: 0
+    title: "Week 3: Working With Your Natural Rhythms Overview"
+    slug: ""
+  - index: 1
+    title: "How's Your Energy Right Now?"
+    slug: "01-energy-audit"
+  - index: 2
+    title: "Your Energy Detective Week"
+    slug: "02-daily-tracking"
+  - index: 3
+    title: "Connecting the Energy Dots"
+    slug: "03-pattern-recognition"
+  - index: 4
+    title: "Why You Really Procrastinate"
+    slug: "04-procrastination-analysis"
+  - index: 5
+    title: "When You're Unstoppable"
+    slug: "05-success-patterns"
+  - index: 6
+    title: "Your Custom Productivity System"
+    slug: "06-productivity-design"
+  - index: 7
+    title: "Your Energy-Optimized Schedule"
+    slug: "07-ideal-schedule"

@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 10
-phase: life-design
+phase: communication-resilience
+
+lessons:
+  - index: 0
+    title: "Week 10: Failure & Resilience By Type Overview"
+    slug: "index"
+  - index: 1
+    title: "Resilience Assessment"
+    slug: "01-resilience-assessment"
+  - index: 2
+    title: "Stress Signals"
+    slug: "02-stress-signals"
+  - index: 3
+    title: "Energy Management"
+    slug: "03-energy-management"
+  - index: 4
+    title: "Recovery Rituals"
+    slug: "04-recovery-rituals"
+  - index: 5
+    title: "Mindfulness Basics"
+    slug: "05-mindfulness-basics"
+  - index: 6
+    title: "Burnout Prevention"
+    slug: "06-burnout-prevention"
+  - index: 7
+    title: "Crisis Management"
+    slug: "07-crisis-management"
+  - index: 8
+    title: "Resilience Plan"
+    slug: "08-resilience-plan"

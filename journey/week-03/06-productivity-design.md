@@ -1,6 +1,12 @@
 ---
-title: "Day 13: Your Custom Productivity System"
-excerpt: Hey friend! Tired of trying productivity systems that don't fit you? Today we design a system that actually works with your personality and energy patterns.
+title: "Your Custom Productivity System"
+excerpt: "Tired of trying productivity systems that don't fit you? Today we design a system that actually works with your personality and energy patterns."
+index: 6
+estimated_time: 20 minutes
+objectives:
+  - Design a productivity system that matches your personality
+  - Align your system with your natural energy patterns
+  - Choose tools and methods that actually fit you
 ---
 
 # Day 13: Your Custom Productivity System

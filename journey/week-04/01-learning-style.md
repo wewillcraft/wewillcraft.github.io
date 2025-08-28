@@ -1,9 +1,12 @@
 ---
-title: "Day 1: Find Your Learning Style"
-description: "Discover how your brain actually likes to learn (hint: it's probably not how you've been trying)"
+title: "Find Your Learning Style"
+excerpt: "Discover how your brain actually likes to learn (hint: it's probably not how you've been trying)"
 estimated_time: 15 minutes
-day: 1
-week: 4
+index: 1
+objectives:
+  - Identify your natural learning preferences
+  - Understand different learning modalities
+  - Design a personalized learning approach
 ---
 
 ## Hey friend! 👋

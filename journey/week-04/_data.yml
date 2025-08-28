@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 4
-phase: tool-mastery
+phase: learning-productivity
+
+lessons:
+  - index: 0
+    title: "Week 4: The Learning Operating System Overview"
+    slug: ""
+  - index: 1
+    title: "Find Your Learning Style"
+    slug: "01-learning-style"
+  - index: 2
+    title: "Build Your Second Brain"
+    slug: "02-second-brain"
+  - index: 3
+    title: "Master Spaced Repetition"
+    slug: "03-spaced-repetition"
+  - index: 4
+    title: "Active Learning Techniques"
+    slug: "04-active-learning"
+  - index: 5
+    title: "Design Your Information Diet"
+    slug: "05-information-diet"
+  - index: 6
+    title: "Learn Through Projects"
+    slug: "06-project-learning"
+  - index: 7
+    title: "Turn Failures into Fuel"
+    slug: "07-failure-learning"
+  - index: 8
+    title: "Share Your Knowledge"
+    slug: "08-knowledge-sharing"

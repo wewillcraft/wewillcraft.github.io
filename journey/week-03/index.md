@@ -1,9 +1,18 @@
 ---
 title: "Week 3: Working With Your Natural Rhythms ⚡"
 week: 3
-phase: self-discovery
+phase: learning-productivity
+index: 0
 excerpt: Stop fighting your energy patterns and start working with them
+description: "Discover your natural energy patterns, understand procrastination triggers, and design a productivity system that works with your rhythms instead of against them."
 estimated_time: 15-20 min/day
+objectives:
+  - Track and understand your natural energy patterns
+  - Identify what energizes vs. drains you throughout the day
+  - Analyze your personal procrastination triggers
+  - Reverse-engineer your peak performance conditions
+  - Design a custom productivity system that fits your personality
+  - Create an energy-optimized weekly schedule
 ---
 
 ## Hey friend! 👋
@@ -90,5 +99,3 @@ This week is special - you're becoming a scientist of your own patterns:
 The goal isn't perfect tracking - it's awareness.
 
 ---
-
-**Ready to discover your natural rhythms?** → [Day 1: How's Your Energy Right Now?](./01-energy-audit)

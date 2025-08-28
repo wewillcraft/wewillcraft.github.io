@@ -1,6 +1,12 @@
 ---
-title: "Day 10: Connecting the Energy Dots"
-excerpt: Hey friend! Ready to turn your energy tracking data into pure gold? Today we're spotting the patterns that will change how you work forever.
+title: "Connecting the Energy Dots"
+excerpt: "Ready to turn your energy tracking data into pure gold? Today we're spotting the patterns that will change how you work forever."
+index: 3
+estimated_time: 20 minutes
+objectives:
+  - Analyze your energy tracking data for patterns
+  - Identify your golden hours and energy vampires
+  - Map your daily energy rhythm
 ---
 
 # Day 10: Connecting the Energy Dots

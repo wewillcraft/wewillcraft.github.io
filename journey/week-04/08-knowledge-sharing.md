@@ -1,9 +1,12 @@
 ---
-title: "Day 8: Share Your Knowledge"
-description: "The fastest way to cement your learning? Teach it to someone else."
+title: "Share Your Knowledge"
+excerpt: "The fastest way to cement your learning? Teach it to someone else."
 estimated_time: 20 minutes
-day: 8
-week: 4
+index: 8
+objectives:
+  - Use teaching to deepen your own understanding
+  - Find platforms and methods for sharing knowledge
+  - Build a habit of contributing to the community
 ---
 
 ## Hey friend! 👋

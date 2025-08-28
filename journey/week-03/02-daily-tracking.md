@@ -1,6 +1,12 @@
 ---
-title: "Day 9: Your Energy Detective Week"
-excerpt: Hey friend! Ever wonder why some days you're on fire and others you're running on fumes? This week we become energy detectives, tracking the patterns that matter.
+title: "Your Energy Detective Week"
+excerpt: "Ever wonder why some days you're on fire and others you're running on fumes? This week we become energy detectives, tracking the patterns that matter."
+index: 2
+estimated_time: 15 minutes
+objectives:
+  - Set up simple daily energy tracking methods
+  - Learn to observe without judgment
+  - Start collecting data about your patterns
 ---
 
 # Day 9: Your Energy Detective Week

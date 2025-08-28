@@ -1,10 +1,13 @@
 ---
 title: "Your Personal README 📋"
-estimated_time: 15 minutes
+description: "Create a practical guide that helps others understand how to work with you effectively"
+excerpt: "Build your personal user manual to communicate your working style, needs, and preferences to teammates and collaborators"
+index: 8
 objectives:
   - Create a simple guide for working with you
   - Help others understand your needs and preferences
   - Build better working relationships from day one
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -410,7 +413,3 @@ You've completed Week 1: The Deep Dive Into You. You now have:
 - The foundation for everything else
 
 **Next Week:** We'll build on this self-knowledge to discover your values, mission, and calling.
-
-[Return to Week 1 Overview →](/journey/week-01/)
-
-[Continue to Week 2 →](/journey/week-02/)

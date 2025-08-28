@@ -1,10 +1,13 @@
 ---
 title: "When Your Brain Works Best 🧠⚡"
-estimated_time: 15 minutes
+description: "Optimize your productivity by understanding your learning style, energy patterns, and professional needs"
+excerpt: "Discover when and how your brain performs best through learning style and chronotype assessments"
+index: 6
 objectives:
   - Discover your optimal learning style
   - Identify your peak energy times
   - Design better study and work routines
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -302,8 +305,3 @@ Combine all three for maximum impact:
 
 You're not lazy when you struggle at 9 AM if you're an owl. You're not antisocial if you need quiet to learn. You're not needy if you thrive on collaboration. You're just working against your nature. Now you know better—work WITH yourself, not against yourself.
 
----
-
-**Ready to connect all the dots?**
-
-[Continue to Deep Reflection Exercises →](/journey/week-01/07-reflection-exercises/)

@@ -1,9 +1,20 @@
 ---
 title: "Week 5: Focus in the Age of Distraction"
 week: 5
-phase: tool-mastery
+phase: focus-deep-work
+index: 0
 excerpt: Master deep work and attention management in a world designed to scatter your focus
+description: "Master the neuroscience of focus, create distraction-free environments, build deep work rituals, and engineer flow states for peak performance."
 estimated_time: 15-20 min/day
+objectives:
+  - Understand the neuroscience behind focus and attention
+  - Set up digital minimalism and distraction-free environments
+  - Create personal deep work rituals that signal focus time
+  - Learn attention restoration techniques for mental recharging
+  - Build a personalized focus system based on your energy patterns
+  - Develop strategies to protect against distractions
+  - Engineer conditions for flow state and peak performance
+  - Track and optimize your attention patterns
 ---
 
 ## Hey there, focus warrior! 👋
@@ -115,5 +126,3 @@ Your attention is not broken. It's just been trained by an environment that prof
 Write them down! Curiosity is attention's best friend. Every question is your brain asking to go deeper.
 
 ---
-
-**Ready to reclaim your focus?** → [Day 1: The Neuroscience of Focus](./01-focus-neuroscience)

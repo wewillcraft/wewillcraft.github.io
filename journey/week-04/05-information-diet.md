@@ -1,9 +1,12 @@
 ---
-title: "Day 5: Design Your Information Diet"
-description: "Stop drowning in tech content. Start feeding your brain what it actually needs."
+title: "Design Your Information Diet"
+excerpt: "Stop drowning in tech content. Start feeding your brain what it actually needs."
 estimated_time: 15 minutes
-day: 5
-week: 4
+index: 5
+objectives:
+  - Audit and curate your information sources
+  - Filter signal from noise in tech content
+  - Create sustainable learning consumption habits
 ---
 
 ## Hey friend! 👋

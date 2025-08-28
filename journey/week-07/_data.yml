@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 7
-phase: tool-mastery
+phase: boundaries-sustainability
+
+lessons:
+  - index: 0
+    title: "Week 7: Productivity Without Burnout Overview"
+    slug: ""
+  - index: 1
+    title: "Burnout Prevention"
+    slug: "01-burnout-prevention"
+  - index: 2
+    title: "Energy & Task Management"
+    slug: "02-energy-task-management"
+  - index: 3
+    title: "Saying No Skillfully"
+    slug: "03-saying-no"
+  - index: 4
+    title: "Motivation Systems"
+    slug: "04-motivation-systems"
+  - index: 5
+    title: "Recovery & Restoration"
+    slug: "05-recovery-restoration"
+  - index: 6
+    title: "Stress Management"
+    slug: "06-stress-management"
+  - index: 7
+    title: "Work-Life Integration"
+    slug: "07-work-life-integration"
+  - index: 8
+    title: "Sustainability Audit"
+    slug: "08-sustainability-audit"

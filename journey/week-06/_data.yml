@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 6
-phase: tool-mastery
+phase: focus-deep-work
+
+lessons:
+  - index: 0
+    title: "Week 6: Ask for Help Like a Pro Overview"
+    slug: ""
+  - index: 1
+    title: "Why Asking for Help is Actually Smart"
+    slug: "01-help-psychology"
+  - index: 2
+    title: "Stack Overflow Mastery"
+    slug: "02-stackoverflow-mastery"
+  - index: 3
+    title: "Finding Your Tech Tribe"
+    slug: "03-finding-tribes"
+  - index: 4
+    title: "Getting a Mentor"
+    slug: "04-mentorship"
+  - index: 5
+    title: "Documentation Skills"
+    slug: "05-documentation-skills"
+  - index: 6
+    title: "GitHub Social Skills"
+    slug: "06-github-social"
+  - index: 7
+    title: "Expert Outreach"
+    slug: "07-expert-outreach"
+  - index: 8
+    title: "Building in Public"
+    slug: "08-building-public"

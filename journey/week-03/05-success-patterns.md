@@ -1,6 +1,12 @@
 ---
-title: "Day 12: When You're Unstoppable"
-excerpt: Hey friend! Ever have one of those days where everything just clicks? Today we figure out what makes those magic moments happen so we can create more of them.
+title: "When You're Unstoppable"
+excerpt: "Ever have one of those days where everything just clicks? Today we figure out what makes those magic moments happen so we can create more of them."
+index: 5
+estimated_time: 20 minutes
+objectives:
+  - Reverse-engineer your peak performance moments
+  - Identify conditions that trigger flow states
+  - Create a success recipe for consistent high performance
 ---
 
 # Day 12: When You're Unstoppable

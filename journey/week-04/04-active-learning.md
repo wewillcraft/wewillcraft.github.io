@@ -1,9 +1,12 @@
 ---
-title: "Day 4: Active Learning Techniques"
-description: "Stop being a passive sponge. Start being an active learner who actually gets it."
+title: "Active Learning Techniques"
+excerpt: "Stop being a passive sponge. Start being an active learner who actually gets it."
 estimated_time: 20 minutes
-day: 4
-week: 4
+index: 4
+objectives:
+  - Replace passive consumption with active engagement
+  - Learn techniques for deeper understanding
+  - Practice methods that improve retention
 ---
 
 ## Hey friend! 👋

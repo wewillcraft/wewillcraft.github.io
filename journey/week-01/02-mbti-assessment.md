@@ -1,10 +1,13 @@
 ---
 title: "Understanding Your Brain's Operating System 🧠"
-estimated_time: 15 minutes
+description: "Discover your personality type and learn how your brain naturally works through MBTI assessment"
+excerpt: "Take the 16personalities assessment to understand your thinking patterns, decision-making style, and energy preferences"
+index: 2
 objectives:
   - Discover your personality type through a simple assessment
   - Learn how your brain naturally works
   - Get practical tips for working with your natural style
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -79,8 +82,3 @@ Some days you might feel like an extrovert, other days an introvert. That's tota
 
 Your personality type isn't a limitation - it's your secret weapon. Now you have the user manual for your brain! 🎯
 
----
-
-**Ready for a deeper dive into your motivations?**
-
-[Continue to Enneagram Assessment →](/journey/week-01/03-enneagram-assessment/)

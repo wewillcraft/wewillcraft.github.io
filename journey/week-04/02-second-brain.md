@@ -1,9 +1,12 @@
 ---
-title: "Day 2: Build Your Second Brain"
-description: "Create your personal knowledge system so your actual brain can focus on the fun stuff"
+title: "Build Your Second Brain"
+excerpt: "Create your personal knowledge system so your actual brain can focus on the fun stuff"
 estimated_time: 20 minutes
-day: 2
-week: 4
+index: 2
+objectives:
+  - Set up an external knowledge management system
+  - Learn effective note-taking strategies
+  - Build habits for capturing and organizing information
 ---
 
 ## Hey friend! 👋

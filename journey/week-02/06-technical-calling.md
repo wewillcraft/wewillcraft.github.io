@@ -1,6 +1,12 @@
 ---
-title: "Day 6: Your Code, Your Calling"
-excerpt: Hey friend! Ever wonder why you chose to code in the first place? Today we're discovering the specific problems you're meant to solve and the developer you're meant to become.
+title: "Your Code, Your Calling"
+excerpt: "Ever wonder why you chose to code in the first place? Today we're discovering the specific problems you're meant to solve and the developer you're meant to become."
+index: 6
+estimated_time: 15 minutes
+objectives:
+  - Identify the problems that frustrate you most
+  - Discover your unique developer superpower
+  - Define your technical calling and mission
 ---
 
 # Day 6: Your Code, Your Calling

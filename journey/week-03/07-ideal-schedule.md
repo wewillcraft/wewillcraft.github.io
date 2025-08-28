@@ -1,6 +1,12 @@
 ---
-title: "Day 14: Your Energy-Optimized Schedule"
-excerpt: Hey friend! Ready to build a schedule that actually makes sense? Today we create your ideal week based on energy patterns, not arbitrary time blocks.
+title: "Your Energy-Optimized Schedule"
+excerpt: "Ready to build a schedule that actually makes sense? Today we create your ideal week based on energy patterns, not arbitrary time blocks."
+index: 7
+estimated_time: 20 minutes
+objectives:
+  - Design your ideal week around energy patterns
+  - Create sustainable daily and weekly rhythms
+  - Build a schedule that works for you, not against you
 ---
 
 # Day 14: Your Energy-Optimized Schedule
