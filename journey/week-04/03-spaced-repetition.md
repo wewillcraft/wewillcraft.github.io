@@ -22,12 +22,14 @@ Think of your memory like a leaky bucket. Most learning methods just pour more w
 ## Why This Matters
 
 **Meet Alex, a developer without spaced repetition:**
+
 - Learns Docker commands for a project
 - Uses them daily for two weeks
 - Switches to frontend work
 - Three months later: "What was that docker run command again?"
 
 **Now meet Sam, who uses spaced repetition:**
+
 - Learns the same Docker commands
 - Reviews them after 1 day, 3 days, 1 week, 2 weeks, 1 month
 - Six months later: Still remembers them perfectly
@@ -39,19 +41,22 @@ The time investment? Sam spent maybe 10 extra minutes total. Alex has re-Googled
 ### Set Up Your Spaced Repetition System (10 minutes)
 
 **Option 1: Digital (Recommended)**
+
 - Download Anki (free) or Remnote
 - Create a deck called "Tech Learning"
 - Add your first flashcard about something you're learning this week
 
 **Option 2: Simple Journal Method**
+
 - Create three lists: "Review Today," "Review This Week," "Review This Month"
 - Write down one thing you learned yesterday in "Review Today"
 
 ### Your First Spaced Review (5 minutes)
 
 Pick something you learned in the last few days and write it down with these intervals:
+
 - Review again: Tomorrow
-- Review again: In 3 days  
+- Review again: In 3 days
 - Review again: In 1 week
 - Review again: In 2 weeks
 
@@ -60,8 +65,9 @@ Set calendar reminders or use your chosen tool to track these reviews.
 ## Quick Win ✅
 
 Right now, create one flashcard or note about a coding concept you've had to look up more than once. Examples:
+
 - "How to center a div with flexbox"
-- "Array.map() syntax in JavaScript"  
+- "Array.map() syntax in JavaScript"
 - "Git command to undo last commit"
 
 Schedule your first review for tomorrow!

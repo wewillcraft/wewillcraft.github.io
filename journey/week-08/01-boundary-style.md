@@ -22,53 +22,61 @@ Poor boundaries lead to burnout, resentment, and constantly feeling overwhelmed.
 ### The Four Boundary Styles (5 min)
 
 **The People Pleaser:**
+
 - Difficulty saying no to requests
 - Takes on too much to avoid disappointing others
 - Often exhausted and resentful
-- *Strength*: Helpful and collaborative
-- *Challenge*: Burnout from overcommitment
+- _Strength_: Helpful and collaborative
+- _Challenge_: Burnout from overcommitment
 
 **The Rigid Controller:**
+
 - Strong boundaries that rarely bend
 - Clear about limits but may seem inflexible
 - Protects time and energy effectively
-- *Strength*: Consistent and reliable
-- *Challenge*: May miss collaboration opportunities
+- _Strength_: Consistent and reliable
+- _Challenge_: May miss collaboration opportunities
 
 **The Chameleon:**
+
 - Boundaries shift based on who they're with
 - Adapts to others' expectations constantly
 - Unclear personal limits
-- *Strength*: Adaptable and responsive
-- *Challenge*: Loses sense of authentic self
+- _Strength_: Adaptable and responsive
+- _Challenge_: Loses sense of authentic self
 
 **The Fortress Builder:**
+
 - High walls to protect from past hurts
 - Minimal engagement to avoid vulnerability
 - Self-sufficient but often isolated
-- *Strength*: Independent and focused
-- *Challenge*: Misses support and growth opportunities
+- _Strength_: Independent and focused
+- _Challenge_: Misses support and growth opportunities
 
 ### Quick Self-Assessment (5 min)
 
 **Rate yourself 1-10 for each area:**
 
 **Time Boundaries:**
+
 - Do you protect your focused work time?
 - Can you leave work at reasonable hours?
 - Do you take real lunch breaks?
 
 **Energy Boundaries:**
+
 - Do you manage your energy throughout the day?
 - Can you say no when you're depleted?
 - Do you prioritize high-energy tasks appropriately?
 
 **Communication Boundaries:**
+
 - Are you comfortable with direct communication?
 - Do you speak up when something bothers you?
 - Can you disagree respectfully?
 
 **Professional Boundaries:**
+
 - Do you stick to your role responsibilities?
 - Can you push back on unrealistic expectations?
 - Do you maintain appropriate relationships with colleagues?
@@ -88,12 +96,14 @@ Signs your boundaries need work:
 ### Your Boundary Strengths and Growth Areas (5 min)
 
 **Reflection Questions:**
+
 1. Which boundary style resonates most with you?
 2. Where are your boundaries strongest?
 3. What's the biggest cost of your current boundary patterns?
 4. What would change if you had healthier boundaries in one key area?
 
 **Common Growth Patterns:**
+
 - **People Pleasers**: Need to learn that disappointing someone temporarily is better than burning out permanently
 - **Rigid Controllers**: Can benefit from strategic flexibility in low-stakes situations
 - **Chameleons**: Need to identify and communicate their authentic needs and limits
@@ -102,6 +112,7 @@ Signs your boundaries need work:
 ## Quick Win ✅
 
 Identify one specific boundary you want to strengthen this week:
+
 1. Pick an area where you consistently feel drained or frustrated
 2. Describe what a healthy boundary would look like in that situation
 3. Plan one small experiment to practice this boundary

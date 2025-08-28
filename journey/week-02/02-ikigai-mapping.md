@@ -20,6 +20,7 @@ Yesterday you discovered your core values. Today we're finding where your natura
 ## Why This Matters
 
 When you find your ikigai:
+
 - Work feels energizing instead of draining
 - You naturally excel because you're using your strengths
 - You make a real impact on problems you care about
@@ -32,21 +33,25 @@ When you find your ikigai:
 Draw four overlapping circles and answer these:
 
 **Circle 1: What do you LOVE doing?**
+
 - What parts of coding/work make you lose track of time?
 - What would you do even if you weren't paid?
 - What are you curious about?
 
 **Circle 2: What are you GOOD at?**
+
 - What do people always ask for your help with?
 - What comes naturally to you?
 - What are your technical strengths?
 
 **Circle 3: What does the world NEED?**
+
 - What problems frustrate you in daily life?
 - What would make people's lives better?
 - What challenges is society facing?
 
 **Circle 4: What can you be PAID for?**
+
 - What skills have market value?
 - What are companies hiring for?
 - What would someone pay you to solve?

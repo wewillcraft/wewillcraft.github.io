@@ -11,6 +11,7 @@ objectives:
 ## You Belong Somewhere
 
 Right now you might feel like:
+
 - Everyone else knows each other already
 - You're too new to contribute
 - Online communities are intimidating
@@ -26,6 +27,7 @@ You belong somewhere. Let's find where.
 ### Where to Find Your People
 
 **Discord Servers:**
+
 - Language/framework specific (React, Python, etc.)
 - Beginner-friendly spaces
 - Local tech communities
@@ -33,6 +35,7 @@ You belong somewhere. Let's find where.
 - Mental health support
 
 **Good signs:**
+
 - Active help channel
 - Beginners asking questions
 - People celebrating small wins
@@ -40,6 +43,7 @@ You belong somewhere. Let's find where.
 - "No stupid questions" rule
 
 **Red flags:**
+
 - Gatekeeping behavior
 - "RTFM" responses
 - Toxic competition
@@ -49,24 +53,28 @@ You belong somewhere. Let's find where.
 ### How to Join Without Feeling Weird
 
 **Week 1: Lurk and Learn**
+
 - Read the rules
 - Observe the vibe
 - See who's helpful
 - Notice common questions
 
 **Week 2: Small Steps**
+
 - React to messages
 - Say hi in introductions
 - Ask ONE question
 - Thank people who help
 
 **Week 3: Start Contributing**
+
 - Answer a question you know
 - Share a resource
 - Celebrate someone's win
 - Post your own small win
 
 **Week 4: You're Part of It**
+
 - Regular interactions
 - Recognize usernames
 - People recognize you
@@ -77,12 +85,14 @@ You belong somewhere. Let's find where.
 ### Free Places to Find People
 
 **Local Meetups:**
+
 - Check Meetup.com
 - University tech clubs
 - Library coding groups
 - Coffee shop coworking
 
 **What to expect:**
+
 - Awkward introductions (normal)
 - Pizza and sodas (usually)
 - A talk or presentation (maybe)
@@ -92,6 +102,7 @@ You belong somewhere. Let's find where.
 ### Your First Meetup Survival Guide
 
 **Before:**
+
 - Check if registration needed
 - Prepare one-sentence intro
 - Bring business cards (or don't)
@@ -99,6 +110,7 @@ You belong somewhere. Let's find where.
 - Arrive 10 minutes late (skip awkward early part)
 
 **During:**
+
 - Find other first-timers
 - Ask "What brings you here?"
 - Listen more than talk
@@ -106,6 +118,7 @@ You belong somewhere. Let's find where.
 - Leave when you want
 
 **After:**
+
 - Connect with one person online
 - Add to calendar for next month
 - Celebrate that you went
@@ -118,23 +131,27 @@ You don't need to be an expert to contribute:
 ### Ways to Help as a Beginner
 
 **Document Your Journey:**
+
 - "I struggled with X, here's what helped"
 - "Resources that actually made sense"
 - "Mistakes I made so you don't have to"
 
 **Be the Welcomer:**
+
 - Greet new members
 - Share what helped you start
 - Connect similar people
 - Celebrate others' wins
 
 **Ask Good Questions:**
+
 - Your confusion helps others
 - Someone else is wondering too
 - It makes experts think deeper
 - It improves documentation
 
 **Share Resources:**
+
 - That YouTube video that clicked
 - The blog post that helped
 - Free courses you found
@@ -168,6 +185,7 @@ Just one. Start there.
 ## The Community Energy Balance
 
 ### Communities That Give Energy
+
 - Celebrate your wins
 - Answer without judgment
 - Share struggles openly
@@ -177,6 +195,7 @@ Just one. Start there.
 **Keep these.**
 
 ### Communities That Drain Energy
+
 - Constant competition
 - Gatekeeping knowledge
 - Drama and politics
@@ -186,6 +205,7 @@ Just one. Start there.
 **Leave these.**
 
 ### The 80/20 Rule
+
 - 80% lurking and learning is fine
 - 20% contributing is plenty
 - You don't owe communities everything
@@ -197,6 +217,7 @@ Just one. Start there.
 Can't find your people? Create the space:
 
 ### Micro-Communities That Work
+
 - Study group (3-4 people)
 - Accountability buddy (1 person)
 - Discord server (10-20 people)
@@ -204,6 +225,7 @@ Can't find your people? Create the space:
 - Slack channel at work/school
 
 ### How to Start Small
+
 1. Find 2 other people with similar goals
 2. Pick a regular time to connect
 3. Share what you're working on
@@ -229,6 +251,7 @@ Stay humble → Keep learning → Remember being new
 ## Community Red Flags to Avoid
 
 Run from communities that:
+
 - Shame beginners
 - Promote hustle culture only
 - Require paid membership for basic access
@@ -238,6 +261,7 @@ Run from communities that:
 ## Your Community Portfolio
 
 Aim for:
+
 - **1-2 online communities** (active participation)
 - **1 local meetup** (monthly)
 - **2-3 people** (regular contact)

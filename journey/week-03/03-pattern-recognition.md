@@ -24,27 +24,34 @@ You know that feeling when you finally understand why something works or doesn't
 ## Your 15-20 Minute Mission
 
 ### Step 1: Find Your Golden Hours (5 minutes)
+
 Look at your tracking data and identify:
+
 - When do you consistently feel most energized and focused?
 - What time of day do you do your best work?
 - How long does this peak energy window usually last?
 - What's happening right before your energy peaks?
 
 ### Step 2: Spot Your Energy Vampires (5 minutes)
+
 Identify what consistently drains you:
+
 - Which activities make you feel exhausted?
 - What types of meetings leave you feeling depleted?
 - Which environments suck your energy?
 - What transitions are hardest for you?
 
 ### Step 3: Discover Your Energy Boosters (5 minutes)
+
 Find what actually restores you:
+
 - What activities give you energy instead of taking it?
 - When do you feel recharged and ready to tackle things?
 - What environments make you feel most alive?
 - Which types of breaks actually help?
 
 ### Step 4: Map Your Daily Rhythm (5 minutes)
+
 Draw a simple curve of your typical energy throughout the day. When do you naturally rise and fall?
 
 ## Quick Win ✅

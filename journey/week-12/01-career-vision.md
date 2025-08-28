@@ -33,16 +33,16 @@ Not in 10 years. Not when you're 40. Today. This year. What do you actually care
 
 ### Quick Priority Check (Pick Your Top 3)
 
-□ Learning new skills fast  
-□ Having evenings and weekends free  
-□ Working on something meaningful  
-□ Making enough to pay off loans  
-□ Building a portfolio  
-□ Having cool coworkers  
-□ Remote work flexibility  
-□ Getting mentorship  
-□ Having creative freedom  
-□ Job security for now  
+□ Learning new skills fast\
+□ Having evenings and weekends free\
+□ Working on something meaningful\
+□ Making enough to pay off loans\
+□ Building a portfolio\
+□ Having cool coworkers\
+□ Remote work flexibility\
+□ Getting mentorship\
+□ Having creative freedom\
+□ Job security for now
 
 **Your top 3:** These are your compass for the next year. Everything else? Nice to have, not essential.
 
@@ -53,21 +53,27 @@ Everyone assumes you want the traditional route: graduate → entry-level job �
 But what about:
 
 ### The Portfolio Path
+
 Build projects → Freelance → Pick your clients → Maybe never get a "real job"
 
-### The Learn-and-Leap Path  
+### The Learn-and-Leap Path
+
 Bootcamp/self-teach → Junior role → Learn everything → Jump to better role in 18 months
 
 ### The Side-Project Path
+
 Day job that pays bills → Passion project on the side → Eventually it becomes the main thing
 
 ### The Apprentice Path
+
 Find someone doing cool work → Offer to help for free/cheap → Learn by doing → Become indispensable
 
 ### The Startup Chaos Path
+
 Join early-stage startup → Wear 10 hats → Learn 10x faster → Use that experience anywhere
 
 ### The Big Company Cushion Path
+
 Join established company → Learn their processes → Save money → Use that stability to plan next move
 
 **Which path feels most "you" right now?** (You can change your mind later!)
@@ -86,10 +92,10 @@ Making around _____________ (be realistic but optimistic)
 
 Learning _____________ (main skill you want to develop)
 
-**The experience I want to gain:**
-- 
-- 
-- 
+## **The experience I want to gain:**
+
+-
+-
 
 **What success looks like in 18 months:**
 "I'll know I'm on track when..."
@@ -109,6 +115,7 @@ If yes to most of these, you're good to go.
 ## Non-Traditional Is Not "Less Than"
 
 Let's be super clear: Taking a non-traditional path doesn't mean you're:
+
 - Less ambitious
 - Avoiding "real work"
 - Taking the easy way out
@@ -123,6 +130,7 @@ Write your "next chapter" statement:
 "In the next year, I want to _____________ so I can _____________ while _____________."
 
 Examples:
+
 - "In the next year, I want to **freelance part-time** so I can **build my portfolio** while **keeping my current job for stability**."
 - "In the next year, I want to **join a small startup** so I can **learn everything about product development** while **working with people who inspire me**."
 - "In the next year, I want to **focus on open source** so I can **build my reputation** while **learning from amazing developers**."
@@ -132,6 +140,7 @@ Examples:
 ## Permission Slips
 
 You have permission to:
+
 - Change your mind in 6 months
 - Want different things than your classmates
 - Start small

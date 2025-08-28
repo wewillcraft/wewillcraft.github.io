@@ -24,6 +24,7 @@ Pick ONE approach that feels easy:
 
 **Option A: Phone Note (Super Simple)**
 Create a note called "Focus Wins" and track:
+
 - Date + time you had good focus
 - How long it lasted
 - What you were working on
@@ -31,12 +32,14 @@ Create a note called "Focus Wins" and track:
 
 **Option B: Quick Daily Check-in**
 Each evening, rate today on these 3 things (1-10):
+
 - Overall focus quality
 - Energy level while working
 - Satisfaction with deep work
 
 **Option C: Weekly Pattern Spotting**
 Every Friday, ask yourself:
+
 - When this week did I have my best focus?
 - What was different about that time/place/feeling?
 - What consistently pulled my attention away?
@@ -46,6 +49,7 @@ Set up your chosen method right now and track your first data point from today's
 
 **Step 3: Look for One Pattern (8 minutes)**
 If you've been doing the Week 5 exercises, reflect on what you've noticed:
+
 - What time of day feels most focused?
 - Which environments support your concentration?
 - What activities help you get back on track when distracted?
@@ -68,6 +72,7 @@ Your brain has natural rhythms and preferences - simple tracking helps you disco
 ## 🎉 Week 5 Complete!
 
 You've now learned the fundamentals of:
+
 - Understanding how your brain focuses naturally
 - Managing digital and mental distractions
 - Creating environments that support deep work

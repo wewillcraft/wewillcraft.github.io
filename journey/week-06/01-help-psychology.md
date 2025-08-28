@@ -21,14 +21,16 @@ Right now, you might be spending hours or days stuck on problems that someone co
 
 **Step 1: Identify Your Help-Seeking Blocks (5 minutes)**
 Be honest - what usually stops you from asking for help?
+
 - "I should be able to figure this out myself"
-- "I don't want to look stupid" 
+- "I don't want to look stupid"
 - "I'm bothering people"
 - "What if I ask the wrong question?"
 - "Everyone will know I don't belong here"
 
 **Step 2: Reality Check These Beliefs (5 minutes)**
 For each block you identified, ask:
+
 - Is this actually true, or just a story I tell myself?
 - What's the worst that would REALLY happen if I asked?
 - How much time have I wasted avoiding asking for help?
@@ -36,6 +38,7 @@ For each block you identified, ask:
 
 **Step 3: Find One Safe Place to Practice (5 minutes)**
 Identify a low-stakes environment where you can practice asking questions:
+
 - A supportive Discord server or Slack community
 - A Stack Overflow-style site for beginners
 - A study group or mentorship program
@@ -44,6 +47,7 @@ Identify a low-stakes environment where you can practice asking questions:
 
 **Step 4: Prepare Your First Question (5 minutes)**
 Think of something you're actually stuck on right now and write it down:
+
 - What are you trying to accomplish?
 - What have you already tried?
 - Where specifically are you stuck?

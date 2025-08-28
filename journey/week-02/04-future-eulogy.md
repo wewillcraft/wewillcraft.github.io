@@ -26,25 +26,33 @@ Here's the thing - we spend so much time putting out daily fires that we forget 
 Picture this: You're 85, you've lived an incredible life, and your memorial service is packed. Four people stand to speak about you. What do they say?
 
 ### Step 1: The Family Speaker (5 minutes)
+
 Write what a close family member would say:
+
 - "[Your name] was the kind of person who..."
 - "What I'll miss most is..."
 - "They taught me that..."
 
 ### Step 2: The Best Friend (5 minutes)
+
 Write what your closest friend would share:
+
 - "If you really knew [Your name], you knew they..."
 - "We laughed most about..."
 - "Their friendship meant..."
 
 ### Step 3: The Professional Colleague (5 minutes)
+
 Write what a work peer would remember:
+
 - "[Your name]'s approach to work was..."
 - "They changed our industry by..."
 - "Every person they mentored learned..."
 
 ### Step 4: Someone You Helped (5 minutes)
+
 Write what someone whose life you changed would say:
+
 - "I wouldn't be here today if [Your name] hadn't..."
 - "They saw in me..."
 - "Because of them, I..."

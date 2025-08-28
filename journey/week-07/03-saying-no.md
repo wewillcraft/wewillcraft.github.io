@@ -18,7 +18,7 @@ Without boundaries, you'll be busy but not productive, helpful but not strategic
 
 ## Why This Matters
 
-Developers get pulled everywhere: "Can you help with this bug?" "Join this committee?" "Quick question about your code?" 
+Developers get pulled everywhere: "Can you help with this bug?" "Join this committee?" "Quick question about your code?"
 
 Without boundaries, you'll spend your career being available but not effective.
 
@@ -27,8 +27,9 @@ Without boundaries, you'll spend your career being available but not effective.
 ### Step 1: The Opportunity Cost Framework (5 minutes)
 
 Before saying yes to anything, ask these 4 questions:
+
 1. **What am I saying no to by saying yes to this?**
-2. **Does this align with my top 3 priorities this quarter?** 
+2. **Does this align with my top 3 priorities this quarter?**
 3. **Will I still be glad I did this in 6 months?**
 4. **Am I the best person for this, or just the available person?**
 
@@ -51,16 +52,19 @@ Every yes has a hidden cost—pay it intentionally.
 ### Step 3: Set Your Boundaries (5 minutes)
 
 **Time Boundaries (pick 2):**
+
 - No meetings before 10am (protect deep work)
-- No Slack after 6pm  
+- No Slack after 6pm
 - No weekend work except emergencies
 
 **Help Boundaries (pick 2):**
+
 - "Let me see your error and what you've tried first"
-- "I can pair for 30 minutes, then you own the solution"  
+- "I can pair for 30 minutes, then you own the solution"
 - "I can help for 15 minutes, then back to my sprint"
 
 **Project Boundaries:**
+
 - "I can't take additional projects this quarter"
 - "I'm focused on [current priority] right now"
 
@@ -69,7 +73,7 @@ Every yes has a hidden cost—pay it intentionally.
 **Right now, identify one thing you wish you'd said no to:**
 
 1. What's the real cost of this commitment?
-2. What would you rather be doing with that time/energy?  
+2. What would you rather be doing with that time/energy?
 3. How can you gracefully reduce your involvement?
 4. What will you say no to next time?
 
@@ -77,7 +81,7 @@ This helps you recognize your yes-saying patterns.
 
 ## Real Talk 💬
 
-The hardest part isn't saying no—it's feeling okay about disappointing someone. Here's the truth: 
+The hardest part isn't saying no—it's feeling okay about disappointing someone. Here's the truth:
 
 Saying yes when you should say no actually helps nobody. You'll do mediocre work because you're stretched thin, and they won't get the help they really need.
 
@@ -86,8 +90,9 @@ Your yes is only valuable when it comes from genuine availability and expertise,
 ## The 24-Hour Rule
 
 For non-urgent requests:
+
 1. Thank them and say you need to check your calendar
-2. Sleep on it (literally—wait 24 hours)  
+2. Sleep on it (literally—wait 24 hours)
 3. Apply your decision framework when your head is clear
 4. Respond with your decision and reasoning
 

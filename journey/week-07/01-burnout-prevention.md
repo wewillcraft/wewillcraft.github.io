@@ -27,7 +27,7 @@ Tech careers are marathons, not sprints. The habits you build now determine whet
 ### Step 1: Know the Three Faces (5 minutes)
 
 **Emotional Exhaustion**: Chronic fatigue that rest doesn't fix
-**Cynicism**: "This code sucks, users are idiots, management is clueless"  
+**Cynicism**: "This code sucks, users are idiots, management is clueless"\
 **Inefficiency**: Working harder but accomplishing less
 
 Recognize these patterns—they're your warning system.
@@ -44,16 +44,19 @@ Recognize these patterns—they're your warning system.
 ### Step 3: Build Your Warning System (5 minutes)
 
 **Physical signals:**
+
 - Sleep problems or constant tiredness
 - More frequent illness
 - Tension headaches or back pain
 
 **Emotional signals:**
+
 - Dreading work you used to enjoy
 - Increased irritability with teammates
 - Loss of excitement about new technologies
 
 **Behavioral signals:**
+
 - Procrastinating on important tasks
 - Isolation from team activities
 - Perfectionism or inability to ship
@@ -63,7 +66,7 @@ Recognize these patterns—they're your warning system.
 **Right now, do a baseline check:**
 
 1. Rate your energy level (1-10) over the past two weeks
-2. Identify your #1 current work stressor  
+2. Identify your #1 current work stressor
 3. Name one thing you've been avoiding/procrastinating
 4. Set a daily reminder: "How's my energy today?"
 
@@ -71,15 +74,16 @@ This creates awareness so you can catch changes early.
 
 ## Real Talk 💬
 
-Developer culture glorifies the hustle. You'll see tweets about 80-hour weeks and coding marathons. 
+Developer culture glorifies the hustle. You'll see tweets about 80-hour weeks and coding marathons.
 
 Here's the truth: The developers with 20-year careers didn't burn out in year 2.
 
 If you've been saying "things will slow down after this project" for months, you're already in the danger zone.
 
 Remember:
+
 - Taking breaks isn't lazy
-- Setting boundaries isn't weak  
+- Setting boundaries isn't weak
 - Saying no isn't selfish
 
 These are professional skills.
@@ -87,7 +91,7 @@ These are professional skills.
 ## Your Burnout Prevention Protocol
 
 **Daily**: Check in with your energy level (1-10)
-**Weekly**: Ask "What drained me? What energized me?"  
+**Weekly**: Ask "What drained me? What energized me?"\
 **Monthly**: Audit your systems and boundaries
 
 ## Today's Takeaway

@@ -32,48 +32,57 @@ Every app, notification, and "urgent" message is designed to capture and monetiz
 ## This Week's Adventure
 
 ### Day 1: [The Neuroscience of Focus](./01-focus-neuroscience)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Understand how your brain actually works when it comes to attention. Spoiler: multitasking is a myth, and context switching is expensive.
 
 ### Day 2: [Digital Minimalism Setup](./02-digital-minimalism)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Turn your devices from distraction machines into focus tools. We'll tame notifications and create environments that support deep work.
 
 ### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Design your personal focus sessions. Every master craftsperson has rituals. Now you will too.
 
 ### Day 4: [Attention Restoration](./04-attention-restoration)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Learn how to truly recharge your mental energy. Scrolling Instagram doesn't count as rest (sorry!).
 
 ### Day 5: [The Pomodoro+ System](./05-pomodoro-plus)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Take the classic Pomodoro Technique and supercharge it with your personal energy patterns and working style.
 
 ### Day 6: [Distraction Proofing](./06-distraction-proofing)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Identify your focus kryptonite and build systems to protect yourself from your own worst habits.
 
 ### Day 7: [Flow State Engineering](./07-flow-state)
-*Time: 15 minutes*
+
+_Time: 15 minutes_
 
 Create the conditions where time disappears and your best work emerges naturally.
 
 ### Day 8: [Focus Tracking](./08-focus-tracking)
-*Time: 20 minutes*
+
+_Time: 20 minutes_
 
 Measure and improve your attention patterns. You can't optimize what you don't track.
 
 ## What You'll Walk Away With
 
 By Sunday night, you'll have:
+
 - ✅ A distraction-free work environment
 - ✅ Personalized deep work rituals that actually stick
 - ✅ Systems to protect your attention from constant interruption
@@ -97,11 +106,13 @@ The goal isn't perfect focus 24/7. It's about having deep focus available when y
 ## Your Week 5 Toolkit
 
 ### 📱 Essential Apps
+
 - **Focus/Do Not Disturb**: Built-in phone features (free)
 - **Forest or Freedom**: Distraction blockers
 - **Timer app**: For focused sessions
 
 ### 🎧 Optional Companions
+
 - **Noise-canceling headphones**: Create instant focus zones
 - **Instrumental music playlist**: Background focus fuel
 - **Desk organization**: Physical clutter = mental clutter

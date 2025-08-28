@@ -11,6 +11,7 @@ objectives:
 ## The Life Admin Reality
 
 Your current "system":
+
 - Bills on autopay (hopefully)
 - Important dates in your head (forgetting most)
 - Passwords on sticky notes (security nightmare)
@@ -49,9 +50,11 @@ Time: 30 seconds per entry
 ## The Minimum Viable Systems
 
 ### Password System (Non-Negotiable)
+
 Stop using "password123" for everything.
 
 **The dead-simple approach:**
+
 1. Get a password manager (Bitwarden is free)
 2. Use it for everything
 3. One strong master password
@@ -61,28 +64,34 @@ Stop using "password123" for everything.
 **Time saved:** Hours of password resets
 
 ### Bill Payment System
+
 Never pay a late fee again.
 
 **The setup:**
+
 1. List all bills and due dates
 2. Set calendar reminders 3 days before
 3. Autopay what you can
 4. Check account weekly
 
 **The maintenance:**
+
 - Sunday: 5-minute money check
 - When bills come: Add to calendar
 - Monthly: Review what's on autopay
 
 ### The Laundry System
+
 Clean clothes without thinking.
 
 **Pick your day:**
+
 - Saturday mornings
 - Wednesday evenings
 - Whenever
 
 **The routine:**
+
 1. All clothes in basket
 2. Wash everything together (unless fancy)
 3. Dry immediately (no mildew)
@@ -94,9 +103,11 @@ No decisions. Just do.
 ## Digital Life Admin
 
 ### Email Management
+
 Your inbox is a disaster. Fix it:
 
 **The 5-Minute Daily Email System:**
+
 1. Delete obvious junk
 2. Unsubscribe from one thing
 3. Reply to urgent stuff
@@ -104,6 +115,7 @@ Your inbox is a disaster. Fix it:
 5. Inbox zero is a myth
 
 **The folders you need:**
+
 - To Do
 - Waiting For
 - Reference
@@ -112,9 +124,11 @@ Your inbox is a disaster. Fix it:
 That's all.
 
 ### File Organization
+
 Your downloads folder is chaos.
 
 **The monthly cleanup:**
+
 - Desktop: Clear it
 - Downloads: Delete or file
 - Photos: Back them up
@@ -125,30 +139,36 @@ Your downloads folder is chaos.
 ## Physical Life Admin
 
 ### The Cleaning System
+
 Your space affects your mind.
 
 **Daily (2 minutes):**
+
 - Make bed
 - Dishes in sink
 - Clothes in hamper
 - Trash in bin
 
 **Weekly (30 minutes):**
+
 - Laundry
 - Bathroom basics
 - Kitchen surfaces
 - Floor (vacuum/sweep)
 
 **Monthly (1 hour):**
+
 - Deep clean one thing
 - Declutter one area
 - Check expired food
 - Change sheets
 
 ### The Meal System
+
 Stop deciding what to eat every day.
 
 **The rotation:**
+
 - Monday: Pasta something
 - Tuesday: Rice something
 - Wednesday: Leftover day
@@ -183,16 +203,19 @@ Stop deciding what to eat every day.
 Attach new systems to existing habits:
 
 **Morning stack:**
+
 - Wake up → Check calendar
 - Brush teeth → Quick email check
 - Coffee → Review today's tasks
 
 **Evening stack:**
+
 - Dinner → Clean kitchen
 - Before bed → Set tomorrow's alarm
 - Lights off → Phone charging across room
 
 **Weekly stack:**
+
 - Sunday morning → Laundry
 - Sunday afternoon → Meal prep
 - Sunday evening → Week planning
@@ -220,6 +243,7 @@ Attach new systems to existing habits:
 ### The Anti-Perfectionist Approach
 
 Your systems don't need to be:
+
 - Beautiful
 - Complex
 - Perfect
@@ -227,6 +251,7 @@ Your systems don't need to be:
 - Like anyone else's
 
 They need to:
+
 - Work for YOU
 - Be easy to maintain
 - Reduce stress
@@ -238,24 +263,28 @@ They need to:
 Think of it as your life's operating system:
 
 **Core Functions (Non-negotiable):**
+
 - Sleep schedule
 - Eating regularly
 - Paying bills
 - Showing up to commitments
 
 **Background Processes (Automated):**
+
 - Autopay bills
 - Calendar reminders
 - Recurring grocery orders
 - Backup systems
 
 **Active Applications (Daily use):**
+
 - Task list
 - Calendar
 - Notes app
 - Banking app
 
 **Updates (Weekly/Monthly):**
+
 - Review what's working
 - Adjust what's not
 - Add one small improvement

@@ -22,11 +22,13 @@ The always-on culture creates pressure to be constantly available. Without clear
 ### Time Audit Reality Check (5 min)
 
 **Track your time for one day:**
+
 - Where does your time actually go vs. where you think it goes?
 - How many interruptions break your focus?
 - What activities drain time without adding value?
 
 **Common Time Drains:**
+
 - Meetings without clear agendas or outcomes
 - "Quick questions" that derail deep work
 - Email and Slack checking throughout the day
@@ -36,6 +38,7 @@ The always-on culture creates pressure to be constantly available. Without clear
 ### Create Your Time Protection System (10 min)
 
 **Calendar Time Blocks:**
+
 1. **Deep Work Blocks**: 2-4 hour protected focus time daily
 2. **Communication Windows**: Designated times for email/Slack (3x daily max)
 3. **Buffer Time**: 15 minutes between meetings
@@ -44,6 +47,7 @@ The always-on culture creates pressure to be constantly available. Without clear
 
 **The "No" Framework:**
 Before saying yes to any time request, ask:
+
 - Does this align with my top 3 priorities this week?
 - What will I have to sacrifice to make room for this?
 - Can this be delegated, automated, or eliminated?
@@ -52,16 +56,19 @@ Before saying yes to any time request, ask:
 ### Essential Time Boundary Scripts (5 min)
 
 **For Meeting Requests:**
+
 - "I can't meet this week, but I have availability next Tuesday at 2 PM"
 - "Can we handle this via email instead? It would be more efficient"
 - "I need an agenda 24 hours in advance to prepare properly"
 
 **For Interruptions:**
+
 - "I'm in deep work mode until 3 PM. Can we discuss this then?"
 - "Let me finish this thought and I'll give you my full attention in 15 minutes"
 - "I want to help you get the best answer—let me block time to focus on this"
 
 **For Scope Creep:**
+
 - "That's an interesting addition. Let's discuss timeline adjustments"
 - "I can deliver the original scope on time, or we can expand the timeline"
 - "Let's prioritize: what's most important to deliver first?"
@@ -71,6 +78,7 @@ Before saying yes to any time request, ask:
 Implement one time boundary this week:
 
 **Options:**
+
 1. **Communication Batching**: Check email only at 9 AM, 1 PM, and 4 PM
 2. **Deep Work Protection**: Block 2-hour morning focus time, no interruptions allowed
 3. **Meeting Buffer**: Schedule 15-minute breaks between all meetings

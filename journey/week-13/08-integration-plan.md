@@ -11,6 +11,7 @@ objectives:
 ## You've Built the Pieces, Now Connect Them
 
 Over the past weeks, you've explored:
+
 - Work-life harmony (not balance)
 - Relationships that matter
 - Money without shame
@@ -26,7 +27,9 @@ Now let's make it all work together without losing your mind.
 Think of your life like an OS that needs occasional updates:
 
 ### Core Processes (Always Running)
+
 **The Non-Negotiables:**
+
 - Sleep schedule (pick one, stick to it)
 - One meal that's not garbage
 - Move your body somehow
@@ -36,7 +39,9 @@ Think of your life like an OS that needs occasional updates:
 These run in the background. No decisions needed.
 
 ### Active Applications (Daily Use)
+
 **Your Daily Tools:**
+
 - Calendar (everything goes here)
 - Task list (keep it simple)
 - Notes app (brain dump spot)
@@ -46,7 +51,9 @@ These run in the background. No decisions needed.
 Pick your tools. Use them. Stop switching.
 
 ### System Updates (Quarterly)
+
 **Every 3 Months, Review:**
+
 - What season of life am I in?
 - What's working?
 - What's breaking?
@@ -60,7 +67,9 @@ Not a complete overhaul. Just minor adjustments.
 Four times a year. That's it.
 
 ### Q1 Review (January)
+
 **"New Year, Same Me, Small Tweaks"**
+
 - Review last year (briefly)
 - Pick focus for this year
 - Set one 90-day goal
@@ -68,7 +77,9 @@ Four times a year. That's it.
 - Start one habit
 
 ### Q2 Review (April)
+
 **"Spring Cleaning Everything"**
+
 - Check progress on yearly focus
 - Drop what's not working
 - Clean up digital/physical space
@@ -76,7 +87,9 @@ Four times a year. That's it.
 - Adjust for summer
 
 ### Q3 Review (July)
+
 **"Mid-Year Reality Check"**
+
 - Celebrate what's working
 - Pivot what's not
 - Plan for busy season
@@ -84,7 +97,9 @@ Four times a year. That's it.
 - Reconnect with people
 
 ### Q4 Review (October)
+
 **"Finish Strong, Rest Well"**
+
 - Final push on goals
 - Plan for holidays
 - Set up next year
@@ -100,7 +115,7 @@ Four times a year. That's it.
    - Q2: ___________
    - Q3: ___________
    - Q4: ___________
-   
+
    Put them in your calendar. Now.
 
 2. **Choose your core 5 habits:**
@@ -114,13 +129,15 @@ Four times a year. That's it.
    - Calendar app: ___________
    - Task app: ___________
    - Money app: ___________
-   
+
    Delete the rest.
 
 ## The Integration Framework
 
 ### Weekly Touchpoints (30 minutes total)
+
 **Sunday Planning:**
+
 - Check calendar for week
 - Review task list
 - Meal plan (or don't)
@@ -128,16 +145,19 @@ Four times a year. That's it.
 - Set one priority
 
 **Wednesday Check:**
+
 - Am I on track?
 - Energy check
 - Adjust if needed
 
 **Friday Wrap:**
+
 - What got done?
 - What's for weekend?
 - Celebrate something
 
 ### Monthly Minimums
+
 - Check all finances
 - Deep clean something
 - Review and adjust systems
@@ -145,6 +165,7 @@ Four times a year. That's it.
 - Try something new
 
 ### Yearly Anchors
+
 - Birthday: Life audit
 - New Year: Fresh start energy
 - Summer: Mid-year pivot
@@ -155,12 +176,14 @@ Four times a year. That's it.
 Remember: Different life seasons need different approaches.
 
 **Current Season Check:**
+
 - [ ] Grind Season (building foundation)
 - [ ] Growth Season (expanding capabilities)
 - [ ] Recovery Season (rest and restoration)
 - [ ] Integration Season (bringing it together)
 
 **What this season needs:**
+
 - Focus area: ___________
 - Let go of: ___________
 - Say no to: ___________
@@ -171,24 +194,28 @@ Remember: Different life seasons need different approaches.
 A day that works with all your systems:
 
 **Morning (15 minutes):**
+
 - Check calendar
 - Review priorities
 - Set one intention
 - Gratitude note
 
 **Work Blocks:**
+
 - Focus time
 - Break every hour
 - Lunch away from desk
 - Afternoon walk
 
 **Evening (15 minutes):**
+
 - Tomorrow's setup
 - Decompress activity
 - Connection time
 - Wind-down routine
 
 **Before Bed:**
+
 - Phone charging elsewhere
 - Tomorrow's one priority
 - Something you're grateful for
@@ -197,23 +224,27 @@ A day that works with all your systems:
 ## The Sustainability Rules
 
 ### Rule 1: Progress Over Perfection
+
 - 60% consistency beats 100% for two weeks
 - Small daily actions beat grand gestures
 - Showing up beats showing off
 
 ### Rule 2: Systems Over Willpower
+
 - Automate what you can
 - Make good choices easier
 - Remove friction from habits
 - Design for tired you
 
 ### Rule 3: Seasons Over Forever
+
 - Nothing needs to be permanent
 - Adjust as life changes
 - Give yourself permission to pivot
 - What works now is enough
 
 ### Rule 4: Connection Over Achievement
+
 - Relationships matter most
 - Share the journey
 - Ask for help
@@ -226,6 +257,7 @@ Keep it simple:
 "I want to live a life where __________ while __________ so that __________."
 
 Examples:
+
 - "I build cool things while staying healthy so that I enjoy the journey"
 - "I grow professionally while maintaining relationships so that success means something"
 - "I learn constantly while taking care of myself so that I can help others"
@@ -235,6 +267,7 @@ Examples:
 ## The Reality Check Questions
 
 Ask yourself monthly:
+
 1. Am I sleeping enough?
 2. Am I eating actual food?
 3. Have I moved today?
@@ -246,6 +279,7 @@ If you can say yes to 3+, you're doing fine.
 ## The Permission Slip Stack
 
 You have permission to:
+
 - Change your mind about what matters
 - Have different priorities than others
 - Take breaks from self-improvement

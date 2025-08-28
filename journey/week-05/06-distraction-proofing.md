@@ -21,6 +21,7 @@ You're not weak because you get distracted easily. Your brain is doing exactly w
 
 **Step 1: Identify Your Distraction Villains (5 minutes)**
 Think about what typically pulls you away from work:
+
 - **Digital villains:** Which apps/websites grab your attention?
 - **Environmental villains:** What in your space distracts you? (noise, visual clutter, people)
 - **Internal villains:** What thoughts or feelings make your mind wander?
@@ -30,22 +31,26 @@ Think about what typically pulls you away from work:
 Choose 3 simple changes you can make RIGHT NOW:
 
 **Digital Protection:**
+
 - Put your phone in another room or in a drawer
 - Close all browser tabs except what you need for current work
 - Turn off notifications for non-essential apps
 
 **Physical Environment:**
+
 - Clear your desk of anything not related to current task
 - Face away from high-traffic areas or distracting views
 - Have water and any needed supplies within arm's reach
 
 **Internal Protection:**
+
 - Keep a "brain dump" notepad for distracting thoughts
 - Set a specific time later today to deal with those concerns
 - Take 3 deep breaths before starting work
 
 **Step 3: Test Your Fortress (5 minutes)**
 Try working for just 15 minutes with these protections in place. Notice:
+
 - How many times you reached for your phone (and it wasn't there)
 - Whether you felt less scattered or anxious
 - If you naturally stayed focused longer

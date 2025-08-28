@@ -21,6 +21,7 @@ Generic productivity advice is like trying to wear someone else's clothes - it m
 
 **Step 1: Discover Your Natural Rhythm (5 minutes)**
 Think about these questions:
+
 - When during the day do you feel most mentally sharp?
 - How long can you usually focus before your mind starts wandering?
 - Do you prefer short bursts of work or longer stretches?
@@ -28,6 +29,7 @@ Think about these questions:
 
 **Step 2: Test Your Personal Formula (10 minutes)**
 Try this experiment today:
+
 1. Pick a task that requires moderate focus
 2. Set a timer for however long feels right to you (don't overthink it)
 3. Work until the timer goes off or you naturally want to stop
@@ -36,6 +38,7 @@ Try this experiment today:
 
 **Step 3: Design Your Basic System (5 minutes)**
 Based on what you discovered, create your simple personal formula:
+
 - **My best focus times:** (morning, afternoon, evening)
 - **My natural work chunks:** (15 min, 30 min, 45 min, longer)
 - **My favorite break activities:** (movement, nature, social, quiet)

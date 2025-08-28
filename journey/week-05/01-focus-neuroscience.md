@@ -29,16 +29,19 @@ Your brain still works this way. It's constantly scanning for "threats" (notific
 Your brain has three attention networks working simultaneously:
 
 **1. The Alert Network**
+
 - Keeps you generally aware and ready
 - Like having your radar on
 - Gets hijacked by caffeine, stress, and excitement
 
-**2. The Orient Network** 
+**2. The Orient Network**
+
 - Points your attention toward specific things
 - What makes you turn your head at a sound
 - Gets pulled by notifications and movement
 
 **3. The Executive Network**
+
 - Manages conflicting demands for attention
 - Your "focus controller"
 - Gets tired from overuse (decision fatigue)
@@ -46,6 +49,7 @@ Your brain has three attention networks working simultaneously:
 ### Test Your Attention (5 minutes)
 
 Try this quick experiment:
+
 1. Set a 5-minute timer
 2. Focus on your breathing
 3. Every time your mind wanders, make a mental tick mark
@@ -58,6 +62,7 @@ Try this quick experiment:
 ## Quick Win ✅
 
 Right now, notice what's competing for your attention:
+
 - Sounds around you
 - Things in your peripheral vision
 - Thoughts popping up

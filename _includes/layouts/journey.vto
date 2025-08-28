@@ -97,7 +97,9 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
     {{ if lessons && index !== undefined }}
       <div class="flex justify-between items-center mt-12 pt-8 border-t border-gray-800 not-prose">
         {{ set currentIndex = index }}
-        {{ set previousLesson = lessons.find((l) => l.index === currentIndex - 1) }}
+        {{
+          set previousLesson = lessons.find((l) => l.index === currentIndex - 1)
+        }}
         {{ set nextLesson = lessons.find((l) => l.index === currentIndex + 1) }}
         {{ set currentWeek = week < 10 ? "0" + week : week }}
 
@@ -148,7 +150,7 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
         </div>
 
         <a
-          href='/journey/week-{{ currentWeek }}/'
+          href="/journey/week-{{ currentWeek }}/"
           class="text-gray-400 hover:text-pink-400 transition-colors"
         >
           Week {{ week }} Overview
@@ -179,9 +181,11 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
           {{ else }}
             {{ set nextWeekNum = week + 1 }}
             {{ if nextWeekNum <= 14 }}
-              {{ set nextWeekPadded = nextWeekNum < 10 ? "0" + nextWeekNum : nextWeekNum }}
+              {{
+                set nextWeekPadded = nextWeekNum < 10 ? "0" + nextWeekNum : nextWeekNum
+              }}
               <a
-                href='/journey/week-{{ nextWeekPadded }}/'
+                href="/journey/week-{{ nextWeekPadded }}/"
                 class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
               >
                 <span>Week {{ nextWeekNum }} Overview</span>

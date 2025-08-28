@@ -31,6 +31,7 @@ Both are valid. Stop trying to be the other one.
 ## The Meeting Survival Guide
 
 ### For Standups
+
 The magic formula: **Yesterday + Today + Blockers**
 
 ```
@@ -44,6 +45,7 @@ No blockers, but I might need Sarah's help later."
 ### For Regular Meetings
 
 **The PREP Method** (when you need to make a point):
+
 - **P**oint: "We should switch to TypeScript"
 - **R**eason: "It'll catch 40% of our bugs"
 - **E**xample: "Last week's outage wouldn't have happened"
@@ -54,12 +56,14 @@ No blockers, but I might need Sarah's help later."
 ### For Video Calls
 
 **Camera Hacks:**
+
 - Look at the camera, not yourself (I know it's hard)
 - Put a tiny arrow pointing to your camera
 - Elevate laptop to eye level (books work)
 - Light source in front, not behind
 
 **Audio Wins:**
+
 - Headphones > speakers (always)
 - Mute when not talking (be that person)
 - "Can you hear me?" is a valid opener
@@ -67,13 +71,15 @@ No blockers, but I might need Sarah's help later."
 ## Presentations That Don't Suck
 
 ### The 10-20-30 Rule
+
 - **10** slides maximum
-- **20** minutes maximum  
+- **20** minutes maximum
 - **30** point font minimum
 
 People came for insights, not an audiobook.
 
 ### The Story Structure
+
 Don't present facts. Tell a story:
 
 1. **The Problem** - "Our deploy takes 45 minutes..."
@@ -85,11 +91,13 @@ Don't present facts. Tell a story:
 ### Dealing With Nerves
 
 **Before Speaking:**
+
 - Power pose for 2 minutes (it actually works)
 - Breathe: 4 counts in, 6 counts out
 - Remember: They WANT you to succeed
 
 **While Speaking:**
+
 - Pause instead of "um" (silence is powerful)
 - Keep water nearby
 - Find three friendly faces to rotate between
@@ -99,6 +107,7 @@ Don't present facts. Tell a story:
 ## One-on-Ones That Matter
 
 ### With Your Manager
+
 ```
 Start: "Here's what's going well..."
 Middle: "Here's what I need help with..."
@@ -106,6 +115,7 @@ End: "Here's what I'm planning next..."
 ```
 
 ### With Direct Reports
+
 ```
 Start: "How are you really?"
 Middle: "What obstacles can I remove?"
@@ -113,6 +123,7 @@ End: "What do you need from me?"
 ```
 
 ### With Peers
+
 ```
 Start: "Got time for a quick sync?"
 Middle: Get to the actual point
@@ -122,14 +133,16 @@ End: "What are the next steps?"
 ## Difficult Conversations
 
 ### The FORMAT Framework
+
 - **F**acts: What actually happened
 - **O**bjective: What you're trying to achieve
-- **R**espect: Acknowledge their perspective  
+- **R**espect: Acknowledge their perspective
 - **M**utual: Find common ground
 - **A**ction: Agree on next steps
 - **T**ime: Set a follow-up
 
 ### Example Script
+
 "Hey, I wanted to talk about the code review yesterday (Facts). I'm hoping we can find a better way to give feedback (Objective). I know you're passionate about code quality (Respect), and I am too (Mutual). Could we try written comments first, then discuss? (Action). Let's check in Friday to see if it's working (Time)."
 
 ## Your Speaking Workout
@@ -153,6 +166,7 @@ Start small. Build confidence. Compound gains.
 ## The Introvert's Secret Weapon
 
 **Pre-meeting prep:**
+
 - Review agenda
 - Write three points you might make
 - Decide your one must-say thing
@@ -163,6 +177,7 @@ You don't need to wing it. Preparation is your superpower.
 ## The Extrovert's Secret Weapon
 
 **The pause practice:**
+
 - Count to 2 before responding
 - Let others finish completely
 - Ask "What do you think?" more

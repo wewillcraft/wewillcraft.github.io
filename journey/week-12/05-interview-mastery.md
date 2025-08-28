@@ -15,8 +15,9 @@ Forget the "where do you see yourself in 5 years" fluff. Here's what they're rea
 ### The Real Technical Questions
 
 **Junior/Entry Level:**
+
 - "Walk me through your code for [project on your GitHub]"
-- "How would you debug this error?" *shows actual error*
+- "How would you debug this error?" _shows actual error_
 - "What's the difference between [concept A] and [concept B]?"
 - "Build a simple [CRUD app/API/component] right now"
 - "Explain how [thing you claim to know] works"
@@ -24,6 +25,7 @@ Forget the "where do you see yourself in 5 years" fluff. Here's what they're rea
 **Why they ask:** Can you actually code, or did someone else do your portfolio?
 
 **Mid-Level:**
+
 - "Design a system for [real business problem]"
 - "How would you optimize this slow query/function?"
 - "Review this code and tell me what's wrong"
@@ -35,6 +37,7 @@ Forget the "where do you see yourself in 5 years" fluff. Here's what they're rea
 ### The Real Behavioral Questions
 
 **They always ask these:**
+
 - "Tell me about a time you disagreed with someone"
 - "Describe a project that went wrong"
 - "How do you handle tight deadlines?"
@@ -58,6 +61,7 @@ A: "I haven't used Redis specifically, but in my experience with caching, I'd gu
 ### Level 2: The Process Answer
 
 "I don't know the answer off the top of my head, but here's how I'd figure it out:
+
 1. [First step]
 2. [Second step]
 3. [Validation step]"
@@ -87,6 +91,7 @@ A: "I haven't used Lambda specifically, but I've built serverless functions on V
 Most interviews are remote now. Here's what matters:
 
 ### Tech Setup (Test Everything Twice)
+
 - Camera at eye level (stack books under laptop)
 - Light source in front of you, not behind
 - Neutral background or subtle virtual background
@@ -94,6 +99,7 @@ Most interviews are remote now. Here's what matters:
 - Phone on silent, notifications off
 
 ### The Virtual Presence
+
 - Look at camera when talking (not screen)
 - Nod and react visually (they can't feel your energy)
 - Speak 10% louder than feels natural
@@ -101,7 +107,9 @@ Most interviews are remote now. Here's what matters:
 - Keep notes visible but don't read from them
 
 ### Virtual-Specific Questions
+
 **They might ask:**
+
 - "Can you share your screen and walk through your code?"
 - "Do you have experience with remote collaboration tools?"
 - "How do you stay productive working from home?"
@@ -133,22 +141,27 @@ This is painful but necessary. Do it now before it matters.
 Most people prep one or the other. You need both.
 
 ### Your Prep Split
+
 **For technical roles:** 60% technical, 40% behavioral
 **For product/design roles:** 40% technical, 60% behavioral
 **For leadership roles:** 30% technical, 70% behavioral
 
 ### Daily Prep Routine (30 minutes)
+
 **Monday/Wednesday/Friday:** Technical prep
+
 - Solve one coding problem
 - Review one system design concept
 - Debug one broken code sample
 
 **Tuesday/Thursday:** Behavioral prep
+
 - Write out one STAR story
 - Practice one answer out loud
 - Research one company deeply
 
 **Weekend:** Mock interview
+
 - Get a friend to ask you random questions
 - Use Pramp or similar for technical practice
 - Review and refine your weak spots
@@ -158,21 +171,25 @@ Most people prep one or the other. You need both.
 Stop asking generic questions. Ask ones that show you're thinking:
 
 ### About the Role
+
 - "What would make someone exceptionally successful in this role?"
 - "What's the biggest challenge this role will tackle in the first 90 days?"
 - "How has this role evolved, and where do you see it going?"
 
 ### About the Team
+
 - "What's the team's biggest win in the last year?"
 - "How does the team handle technical disagreements?"
 - "What's the junior/senior balance on the team?"
 
 ### About Growth
+
 - "What learning resources does the company provide?"
 - "Can you give an example of someone who grew from this role?"
 - "How do you measure and reward growth?"
 
 ### The Killer Question
+
 "What would make you hesitant to hire someone for this role?"
 
 Then address their concern directly.
@@ -182,6 +199,7 @@ Then address their concern directly.
 Most people send generic thank you notes. Stand out:
 
 ### The Same-Day Follow-Up
+
 ```
 Subject: Quick follow-up - [Your name]
 
@@ -197,6 +215,7 @@ Looking forward to next steps!
 ```
 
 ### The Value-Add Follow-Up
+
 ```
 Subject: Additional thoughts on [problem discussed]
 
@@ -217,6 +236,7 @@ Best,
 ## Remember This
 
 The best interview prep isn't memorizing answers. It's:
+
 1. Having real stories from real experience
 2. Being comfortable saying "I don't know" gracefully
 3. Showing genuine interest in their problems

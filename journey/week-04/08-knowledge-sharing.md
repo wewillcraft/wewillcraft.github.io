@@ -22,12 +22,14 @@ Here's what happens when you share knowledge: your brain has to organize scatter
 ## Why This Matters
 
 **Learning in isolation:**
+
 - Knowledge stays fuzzy and unorganized
 - Gaps remain hidden
 - Confidence stays low
 - No external feedback
 
 **Learning through teaching:**
+
 - Forces clear, organized thinking
 - Reveals knowledge gaps immediately
 - Builds confidence through helping others
@@ -42,21 +44,25 @@ Plus, sharing your knowledge opens doors. It's how you build a reputation, netwo
 Pick ONE method that feels natural to you:
 
 📝 **Writing**
+
 - Start a dev blog (dev.to, Hashnode, or personal site)
 - Document your learning journey
 - Write "Today I Learned" posts
 
 🎥 **Video**
+
 - Create learning vlogs on YouTube/TikTok
 - Record yourself solving problems
 - Share quick tips and tricks
 
 💬 **Community**
+
 - Answer questions on Stack Overflow
 - Help in Discord/Slack communities
 - Start discussions on Reddit/Twitter
 
 🏗️ **Building in Public**
+
 - Share your projects on GitHub
 - Document your building process
 - Tweet your progress
@@ -71,6 +77,7 @@ Using your chosen method, share something you learned this week. Could be:
 - A "failure" you learned from
 
 **Keep it simple:**
+
 - 1-2 paragraphs max
 - Share what you learned, not what you already knew
 - Include what you'd do differently next time

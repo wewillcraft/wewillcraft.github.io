@@ -19,8 +19,9 @@ Building in public transforms solo struggle into collaborative adventure.
 ## Why This Matters
 
 The developers who advance fastest aren't the smartest—they're the most connected. When you share your journey:
+
 - People offer help when you're stuck
-- Others learn from your mistakes  
+- Others learn from your mistakes
 - Opportunities find you instead of you chasing them
 - You build a reputation as someone who shares knowledge
 
@@ -31,6 +32,7 @@ Your beginner questions often spark the best discussions.
 ### Step 1: Know What to Share (5 minutes)
 
 **Great content ideas:**
+
 - "TIL (Today I Learned) about [specific concept]"
 - "Building [project], here's what went wrong"
 - "This resource finally made [topic] click for me"
@@ -56,6 +58,7 @@ Start with ONE platform. Master it before adding others.
 **20%** What you're thinking (insights, predictions, opinions)
 
 **Simple weekly schedule:**
+
 - Monday: What I'm learning this week
 - Wednesday: Project progress update
 - Friday: What worked/didn't work reflection
@@ -63,6 +66,7 @@ Start with ONE platform. Master it before adding others.
 ### Step 4: Your First Post (3 minutes)
 
 Use this template:
+
 ```
 TIL: [Specific thing you learned]
 
@@ -91,6 +95,7 @@ Done. You're officially building in public.
 "But who am I to teach this? Everyone already knows this!"
 
 Wrong. Your perspective as someone currently learning is GOLD. You remember:
+
 - What was confusing
 - What resources actually helped
 - What explanations made it click
@@ -102,6 +107,7 @@ That "obvious" thing you just figured out? Someone else is struggling with it ri
 ## Your Building in Public Starter Kit
 
 **Post ideas for your first week:**
+
 - Share a resource that just helped you understand something
 - Ask a question you're genuinely stuck on
 - Show a small project you're working on (however rough)

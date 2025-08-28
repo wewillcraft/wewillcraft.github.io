@@ -21,6 +21,7 @@ We often push through mental fatigue, thinking more willpower will help. But jus
 
 **Step 1: Recognize Your Tired Brain (3 minutes)**
 Notice these signs you need restoration:
+
 - Everything feels harder than usual
 - You're easily irritated or frustrated
 - You keep reading the same line over and over

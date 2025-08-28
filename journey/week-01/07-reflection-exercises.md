@@ -21,6 +21,7 @@ You're not a collection of random traits - you're a beautifully designed system 
 ## Why This Matters
 
 Understanding your overall pattern helps you:
+
 - Make decisions that align with your nature
 - Choose environments where you'll thrive
 - Explain your needs to others clearly
@@ -29,7 +30,9 @@ Understanding your overall pattern helps you:
 ## Your 15-Minute Mission
 
 ### Step 1: Gather Your Results (3 minutes)
+
 Pull up your results from this week:
+
 - Personality type (MBTI)
 - Core motivation (Enneagram)
 - Top strengths
@@ -37,6 +40,7 @@ Pull up your results from this week:
 - Learning preferences
 
 ### Step 2: Find Your Themes (12 minutes)
+
 Look for what shows up consistently across different assessments.
 
 ## Quick Win ✅
@@ -46,22 +50,27 @@ Look for what shows up consistently across different assessments.
 ## Common Patterns To Look For
 
 **The Deep Thinker:**
+
 - Introvert + Investigator/Thinker + Analytical strengths
 - Loves understanding systems, needs quiet time, great at problem-solving
 
 **The People Connector:**
+
 - Extravert + Helper/Enthusiast + Relationship strengths
 - Energized by others, builds bridges, sees potential in everyone
 
 **The Quality Guardian:**
+
 - Detail-oriented + Perfectionist/Loyalist + Execution strengths
 - Values excellence, reliable follow-through, spots what's wrong
 
 **The Innovative Visionary:**
+
 - Intuitive + Individualist/Enthusiast + Strategic strengths
 - Sees possibilities, thinks big picture, loves new challenges
 
 **The Steady Supporter:**
+
 - Gentle + Peacemaker/Helper + Consistency strengths
 - Creates stability, supports others, builds trust slowly
 
@@ -103,8 +112,8 @@ Evidence:
 - Enneagram:
 - Strengths:
 - DISC:
-```
 
+```
 ### The Contradiction Hunt
 
 Where do your assessments seem to disagree? These tensions are often your growth edges.
@@ -129,40 +138,40 @@ Based on Gay Hendricks' model, map your abilities:
 
 **Zone of Incompetence**
 Things you're bad at that others do better.
-
 ```
+
 In coding:
 In work:
 In life:
-```
 
+```
 **Zone of Competence**
 Things you can do but others do just as well.
-
 ```
+
 In coding:
 In work:
 In life:
-```
 
+```
 **Zone of Excellence**
 Things you're very good at but don't love.
-
 ```
+
 In coding:
 In work:
 In life:
-```
 
+```
 **Zone of Genius**
 Things you're uniquely great at AND love doing.
-
 ```
+
 In coding:
 In work:
 In life:
-```
 
+```
 ### Your Genius Statement
 
 Complete this sentence based on your Zone of Genius:
@@ -293,8 +302,8 @@ Based on everything, what three changes will you make immediately?
 ### The One Thing
 
 If you could develop ONE aspect of yourself that would unlock everything else, what would it be?
-
 ```
+
 The Edge:
 
 Why This Matters:
@@ -302,8 +311,8 @@ Why This Matters:
 First Step:
 
 Success Metric:
-```
 
+```
 ## Creating Your Compass
 
 ### Your Personal North Star
@@ -330,4 +339,4 @@ Choose ONE insight from today to implement tomorrow:
 ## Key Takeaway
 
 You've just completed the most comprehensive self-assessment most people never do. You now have data that 99% of developers don't have about themselves. This isn't just interesting information. It's your competitive advantage. Use it.
-
+```

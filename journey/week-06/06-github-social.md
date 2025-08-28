@@ -19,8 +19,9 @@ Most developers treat GitHub as code storage. You're going to use it as a career
 ## Why This Matters
 
 When someone wants to hire you, they check:
-1. Your resume (what you say you can do)  
-2. Your GitHub (what you actually do)  
+
+1. Your resume (what you say you can do)
+2. Your GitHub (what you actually do)
 3. How you communicate in code
 
 Your GitHub either confirms you're legit or raises red flags. Let's make it work for you.
@@ -30,6 +31,7 @@ Your GitHub either confirms you're legit or raises red flags. Let's make it work
 ### Step 1: Quick Profile Audit (5 minutes)
 
 Open your profile in a private browser. Ask yourself:
+
 - Would you hire this person based on what you see?
 - What skills are obvious from the pinned repos?
 - Does the README explain who you are and what you're working on?
@@ -39,12 +41,14 @@ Open your profile in a private browser. Ask yourself:
 ### Step 2: Strategic Repository Cleanup (5 minutes)
 
 **Pin 3-6 repositories that show:**
+
 - Different skills (frontend, backend, data, etc.)
 - Clean, readable code
 - Good READMEs with setup instructions
 - Recent activity
 
 **Hide or delete:**
+
 - Old tutorial code
 - Broken projects
 - Anything with sensitive information
@@ -53,6 +57,7 @@ Open your profile in a private browser. Ask yourself:
 ### Step 3: Find Your First Contribution (5 minutes)
 
 Don't overthink this. Start stupidly simple:
+
 1. Pick a project you actually use
 2. Look for "good first issue" labels
 3. Check for typos in their README
@@ -73,8 +78,9 @@ Done. Your profile is already more professional.
 ## Real Talk 💬
 
 You don't need revolutionary projects. You need clean, practical code that shows you can:
+
 - Solve real problems
-- Write clear documentation  
+- Write clear documentation
 - Work with others' codebases
 - Maintain quality over time
 
@@ -85,18 +91,21 @@ Small, consistent contributions beat sporadic heroic efforts. A tiny doc fix sho
 Copy this and work through it:
 
 **Profile Basics:**
+
 - [ ] Professional photo (doesn't have to be fancy)
 - [ ] Clear bio explaining what you do/learning
 - [ ] Location and contact info
 - [ ] Link to portfolio/website if you have one
 
 **Repository Strategy:**
+
 - [ ] Pin 3-6 best projects
 - [ ] Each pinned repo has a clear README
 - [ ] Remove or hide embarrassing old projects
 - [ ] Add topics/tags to help discovery
 
 **Activity Strategy:**
+
 - [ ] Commit regularly (even small changes count)
 - [ ] Star useful projects you find
 - [ ] Follow developers whose work you admire

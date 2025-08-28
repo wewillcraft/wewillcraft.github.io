@@ -21,6 +21,7 @@ Flow isn't just about feeling good while you work (though that's awesome). When 
 
 **Step 1: Recognize Your Flow History (5 minutes)**
 Think of a time when you were completely absorbed in your work - where you lost track of time and everything clicked:
+
 - What were you working on?
 - What did your environment look like?
 - How challenging was the task compared to your abilities?
@@ -30,22 +31,26 @@ Think of a time when you were completely absorbed in your work - where you lost 
 Set up a simple flow environment right now:
 
 **Clear the Space:**
+
 - Clean your workspace of everything except what you need
 - Close all apps/tabs except one work project
 - Put phone away and turn off notifications
 
 **Set a Clear Goal:**
+
 - Pick one specific task that's challenging but doable
 - Write down exactly what "done" looks like
 - Choose something you're genuinely curious about or interested in
 
 **Prime Your Mind:**
+
 - Take 3 deep breaths and clear your head
 - Remind yourself why this work matters to you
 - Set a timer for 25 minutes and commit to full focus
 
 **Step 3: Flow Experiment (5 minutes)**
 Try working on your chosen task with full attention. Notice:
+
 - When does your mind feel most engaged?
 - Are you checking the time or naturally losing track of it?
 - Does the work feel effortless or forced?

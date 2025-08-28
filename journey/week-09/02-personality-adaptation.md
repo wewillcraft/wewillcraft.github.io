@@ -12,7 +12,7 @@ estimated_time: 30 minutes
 
 ## The People Puzzle 🧩
 
-You know that coworker who needs EVERY detail before making a decision? And that other one who interrupts meetings with "But what if we tried something completely different?" 
+You know that coworker who needs EVERY detail before making a decision? And that other one who interrupts meetings with "But what if we tried something completely different?"
 
 They're not trying to be difficult. They just have different wiring.
 
@@ -23,31 +23,41 @@ Today, we're learning how to speak everyone's language. It's like being a polygl
 Forget complicated personality tests. Here's how to read people in 30 seconds:
 
 ### The Energy Test
+
 Watch them in meetings:
+
 - **Thinks out loud** = Extrovert (E)
 - **Thinks then speaks** = Introvert (I)
 
 ### The Information Test
+
 Listen to their questions:
+
 - **"Show me the data"** = Sensor (S)
 - **"What's possible?"** = Intuitive (N)
 
 ### The Decision Test
+
 Watch how they decide:
+
 - **"What makes logical sense?"** = Thinker (T)
 - **"How will people feel?"** = Feeler (F)
 
 ### The Structure Test
+
 Check their calendar:
+
 - **Color-coded and planned** = Judger (J)
 - **"Let's see how it goes"** = Perceiver (P)
 
 ## Common Dev Team Personalities
 
 ### The Architect (INTJ/INTP)
+
 **You'll know them because:** They're designing systems 5 years into the future while you're still debugging yesterday's code.
 
 **How to talk to them:**
+
 - Skip small talk
 - Bring your A-game logic
 - Let them think before answering
@@ -56,9 +66,11 @@ Check their calendar:
 **Magic words:** "I've thought this through and..."
 
 ### The Builder (ISTP/ESTP)
+
 **You'll know them because:** They're already coding while everyone else is still discussing.
 
 **How to talk to them:**
+
 - Be direct and practical
 - Show, don't tell
 - Focus on what works NOW
@@ -67,9 +79,11 @@ Check their calendar:
 **Magic words:** "Here's the immediate problem..."
 
 ### The Advocate (ENFJ/INFJ)
+
 **You'll know them because:** They remember everyone's birthday and actually care about your weekend.
 
 **How to talk to them:**
+
 - Start with connection
 - Consider team impact
 - Acknowledge feelings
@@ -78,9 +92,11 @@ Check their calendar:
 **Magic words:** "I value your perspective on this..."
 
 ### The Innovator (ENTP/ENFP)
+
 **You'll know them because:** Every standup becomes a brainstorming session.
 
 **How to talk to them:**
+
 - Be open to tangents
 - Connect to the big picture
 - Embrace "what if" discussions
@@ -91,36 +107,42 @@ Check their calendar:
 ## The Adaptation Cheat Sheet
 
 ### Talking to Introverts
+
 ```
 DO: Send agenda ahead, give processing time, use chat
 DON'T: Put them on the spot, demand instant answers
 ```
 
 ### Talking to Extroverts
+
 ```
 DO: Let them process verbally, brainstorm together, hop on calls
 DON'T: Expect them to figure it out alone
 ```
 
 ### Talking to Sensors
+
 ```
 DO: Provide examples, be specific, show proven results
 DON'T: Be vague, skip steps, oversell the vision
 ```
 
 ### Talking to Intuitives
+
 ```
 DO: Start with why, paint the vision, discuss possibilities
 DON'T: Drown them in details, dismiss new ideas
 ```
 
 ### Talking to Thinkers
+
 ```
 DO: Use data, be logical, focus on efficiency
 DON'T: Take criticism personally, use only emotional appeals
 ```
 
 ### Talking to Feelers
+
 ```
 DO: Consider people impact, show appreciation, be warm
 DON'T: Be coldly logical, ignore team morale
@@ -129,14 +151,17 @@ DON'T: Be coldly logical, ignore team morale
 ## Real Scenarios
 
 ### Scenario 1: Code Review with ISTJ Lead
+
 **Wrong way:** "I tried something creative here!"
 **Right way:** "I followed the pattern from module X, with one optimization based on benchmark data..."
 
 ### Scenario 2: Brainstorm with ENFP Designer
+
 **Wrong way:** "That won't work because of technical constraints."
 **Right way:** "I love that energy! Let's explore what's possible and then figure out the technical path..."
 
 ### Scenario 3: Update to INTJ Manager
+
 **Wrong way:** Long story about the journey
 **Right way:** "Result: X. Method: Y. Next step: Z. Questions?"
 
@@ -145,14 +170,17 @@ DON'T: Be coldly logical, ignore team morale
 When two types collide:
 
 **Detail-Lover vs Big-Picture Thinker**
+
 - Meet in the middle: Start with vision, then zoom into details
 - Use the sandwich: Big picture → Details → Big picture
 
 **Fast Mover vs Careful Planner**
+
 - Agree on MVP: What must be perfect vs what can iterate
 - Time-box decisions: "Let's decide by Friday"
 
 **People-First vs Task-First**
+
 - Both matter: "To achieve X goal, we need the team to feel Y"
 - Take turns leading: Task discussion, then people check-in
 
@@ -161,12 +189,14 @@ When two types collide:
 Fill this out for your team:
 
 **Person: ________________**
+
 - Their type (guess): ____
 - They need: ____________
 - I should: _____________
 - Avoid: _______________
 
 **Person: ________________**
+
 - Their type (guess): ____
 - They need: ____________
 - I should: _____________
@@ -185,6 +215,7 @@ This week, try the **Personality Mirror Challenge**:
 ## Quick Personality Hacks
 
 **Universal tips that work with everyone:**
+
 1. **Ask how they prefer to communicate** (revolutionary, I know)
 2. **Watch what energizes vs drains them**
 3. **Notice their decision-making speed**

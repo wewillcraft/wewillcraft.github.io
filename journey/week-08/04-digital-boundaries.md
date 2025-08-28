@@ -22,12 +22,14 @@ The average knowledge worker checks email every 6 minutes and gets interrupted b
 ### Digital Audit (5 min)
 
 **Check your current digital habits:**
+
 - How many times do you check email/Slack per day?
 - When do you first and last check work messages?
 - How many work-related notifications do you get during personal time?
 - Which apps steal the most attention without adding value?
 
 **Red flags:**
+
 - Checking work messages within 30 minutes of waking up
 - Work notifications during dinner, weekends, or vacation
 - Feeling anxious when you can't check messages
@@ -36,12 +38,14 @@ The average knowledge worker checks email every 6 minutes and gets interrupted b
 ### Create Your Digital Boundary System (10 min)
 
 **Communication Schedules:**
+
 - **Work Hours**: Define clear start/stop times for work communication
 - **Check Times**: Batch email/Slack to 3 specific times daily
 - **Response Expectations**: Set and communicate realistic response times
 - **Emergency Protocols**: Define what truly requires immediate response
 
 **Device Management:**
+
 - **Work Phone/Apps**: Separate work and personal devices when possible
 - **Notification Limits**: Turn off all non-essential notifications
 - **Physical Separation**: Charge work devices outside the bedroom
@@ -50,11 +54,13 @@ The average knowledge worker checks email every 6 minutes and gets interrupted b
 ### Essential Digital Scripts (5 min)
 
 **Auto-Response Messages:**
+
 - "I check email at 9 AM, 1 PM, and 4 PM. For urgent matters, please call."
 - "I'm in focus mode until 3 PM and will respond to messages then."
 - "I don't check work messages after 7 PM or on weekends. I'll respond Monday morning."
 
 **Boundary Communications:**
+
 - "I prefer to handle complex discussions via scheduled calls rather than Slack threads"
 - "I won't be checking messages during vacation, but X can help with urgent matters"
 - "I maintain work-life balance by not checking work messages after hours"
@@ -64,6 +70,7 @@ The average knowledge worker checks email every 6 minutes and gets interrupted b
 Choose one digital boundary to implement this week:
 
 **Options:**
+
 1. **Evening Shutdown**: No work messages after 7 PM
 2. **Morning Protection**: No work messages for first hour after waking
 3. **Notification Cleanse**: Turn off all non-essential notifications

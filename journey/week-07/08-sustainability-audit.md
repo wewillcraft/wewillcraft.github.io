@@ -19,6 +19,7 @@ This audit helps you spot potential problems before they become crises.
 ## Why This Matters
 
 Many developers optimize for short-term productivity and pay the price later:
+
 - Burnout that takes months to recover from
 - Health problems from poor habits
 - Relationships damaged by work obsession
@@ -33,30 +34,35 @@ A sustainability audit prevents these costly mistakes.
 Rate each area honestly (1-10, where 10 = "I've got this dialed in"):
 
 **Energy Management:**
+
 - [ ] I know my peak energy hours and protect them
 - [ ] I match tasks to my energy levels effectively
 - [ ] I can maintain consistent performance throughout the week
 - [ ] I rarely feel completely exhausted by Friday
 
 **Boundaries & Balance:**
+
 - [ ] I can say no to requests that don't align with priorities
 - [ ] I have clear start/stop times for work
 - [ ] I maintain relationships outside of tech
 - [ ] I have hobbies unrelated to programming
 
 **Stress & Recovery:**
+
 - [ ] I recognize my stress signals early
 - [ ] I have tools to manage pressure in the moment
 - [ ] I prioritize sleep and recovery
 - [ ] I can handle setbacks without spiraling
 
-**Growth & Motivation:**  
+**Growth & Motivation:**
+
 - [ ] I track progress on meaningful skills
 - [ ] I stay motivated without external pressure
 - [ ] I learn from failures without harsh self-criticism
 - [ ] I have a clear sense of direction for my career
 
 **Health & Well-being:**
+
 - [ ] I move my body regularly
 - [ ] I eat reasonably well most of the time
 - [ ] I have people I can talk to about non-work things
@@ -75,6 +81,7 @@ Write down your highest risk areas. These are your sustainability threats.
 **Right now, pick your #1 sustainability risk and make one small improvement:**
 
 Examples:
+
 - **Low energy management**: Schedule your hardest task for tomorrow morning
 - **Poor boundaries**: Set a work stop time for today and stick to it
 - **No recovery**: Schedule one 30-minute recovery activity this week
@@ -96,16 +103,19 @@ Your future self is depending on the choices you make today.
 Based on your audit:
 
 **This Week (immediate):**
+
 - Fix one high-risk area with a small daily action
 - Experiment with one new boundary or routine
 - Track one metric that matters for sustainability
 
 **This Month:**
+
 - Address all high-risk areas with concrete systems
 - Build routines that support your medium-risk areas
 - Find an accountability partner or support system
 
 **This Quarter:**
+
 - Reassess all areas and adjust systems as needed
 - Build longer-term habits that support sustainable performance
 - Plan for challenges (busy seasons, major projects, life changes)
@@ -133,9 +143,10 @@ If multiple areas are in crisis:
 Copy and personalize this:
 
 "My career is a marathon, not a sprint. I will:
+
 - Protect my energy as carefully as I protect my code
 - Build boundaries that serve my long-term goals
-- Prioritize relationships and health alongside technical growth  
+- Prioritize relationships and health alongside technical growth
 - Create systems that work even when motivation is low
 - Remember that sustainable performance beats heroic efforts
 

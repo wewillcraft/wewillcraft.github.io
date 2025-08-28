@@ -22,11 +22,13 @@ Think of your brain like a computer's RAM: great for active processing, terrible
 ## Why This Matters
 
 **Without a second brain:**
+
 - You re-solve the same problems over and over
 - Brilliant insights get forgotten in the chaos
 - You feel like you're starting from scratch constantly
 
 **With a second brain:**
+
 - Past solutions become building blocks for new ones
 - You build on your knowledge instead of rebuilding it
 - You actually get smarter over time (not just busier)
@@ -58,6 +60,7 @@ That's it. No complex tagging systems. No fancy templates. Just four folders.
 ### Capture Your First Knowledge (5 minutes)
 
 Right now, write a quick note about something you learned recently. Could be:
+
 - A debugging trick that saved you hours
 - A code pattern you discovered
 - An "aha!" moment from a tutorial
@@ -66,13 +69,13 @@ Don't worry about perfect formatting. Just get it out of your head and into your
 
 ## Quick Win ✅
 
-Create a note called "Code Snippets I Always Forget" and add one snippet you've had to Google more than once. 
+Create a note called "Code Snippets I Always Forget" and add one snippet you've had to Google more than once.
 
 Boom! You just saved your future self 10 minutes of searching.
 
 ## Real Talk
 
-You might be thinking, "But I already have bookmarks and random notes everywhere!" True, but scattered information is basically useless information. 
+You might be thinking, "But I already have bookmarks and random notes everywhere!" True, but scattered information is basically useless information.
 
 The magic isn't in collecting everything. It's in having one trusted place where you KNOW you can find what you need.
 

@@ -24,28 +24,36 @@ You've probably tried a bunch of productivity systems that worked for a week and
 ## Your 15-20 Minute Mission
 
 ### Step 1: Personality-Based Design (5 minutes)
+
 Think about your natural tendencies:
+
 - Do you work better with structure or flexibility?
 - Are you a sprinter (intense bursts) or a marathoner (steady pace)?
 - Do you prefer detailed plans or loose frameworks?
 - Are you motivated by deadlines or by curiosity?
 
 ### Step 2: Energy-Informed Scheduling (5 minutes)
+
 Using your energy patterns from earlier this week:
+
 - When should you schedule your hardest work?
 - When are you good for meetings and communication?
 - When do you need breaks or lighter tasks?
 - How long can you focus before you need a reset?
 
 ### Step 3: Design Your Daily Framework (5 minutes)
+
 Create a flexible template for your ideal workday:
+
 - What's your best start-of-day routine?
 - How do you want to structure your peak energy hours?
 - What kind of transitions work best for you?
 - How do you want to wind down your workday?
 
 ### Step 4: Choose Your Tools (5 minutes)
+
 Pick productivity tools that match your style:
+
 - Simple or feature-rich?
 - Visual or text-based?
 - Automated or manual?

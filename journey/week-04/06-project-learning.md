@@ -22,12 +22,14 @@ Tutorial learning is like learning to drive in a parking lot. Project-based lear
 ## Why This Matters
 
 **Tutorial Hell Symptoms:**
+
 - Follow dozens of tutorials but can't build from scratch
 - Know syntax but struggle with real-world application
 - Feel confident during tutorials, lost during real projects
 - Keep starting new tutorials instead of finishing projects
 
 **Project Learning Benefits:**
+
 - Learn skills you'll actually use
 - Build portfolio pieces while learning
 - Solve real problems that motivate you
@@ -40,18 +42,21 @@ Tutorial learning is like learning to drive in a parking lot. Project-based lear
 Don't overthink this. Pick something that would genuinely be useful to you:
 
 **Personal Tools:**
+
 - Expense tracker (learn about data handling)
 - Workout logger (learn about forms and persistence)
 - Recipe organizer (learn about search and filtering)
 - Habit tracker (learn about state management)
 
 **Work Solutions:**
+
 - Team dashboard (learn about APIs)
 - Code snippet manager (learn about databases)
 - Meeting notes app (learn about user authentication)
 - Time tracker (learn about date/time handling)
 
 **Fun Projects:**
+
 - Weather app for your city (learn about external APIs)
 - Random quote generator (learn about UI/UX)
 - Simple game (learn about game logic and events)
@@ -66,12 +71,14 @@ Don't overthink this. Pick something that would genuinely be useful to you:
 Break your project into 3-4 learning milestones:
 
 **Example: Personal Expense Tracker**
+
 1. **Week 1:** Create basic UI with HTML/CSS (learn layout)
 2. **Week 2:** Add JavaScript for form handling (learn DOM manipulation)
 3. **Week 3:** Store data locally (learn localStorage)
 4. **Week 4:** Add charts and analysis (learn data visualization)
 
 **Your project milestones:**
+
 1. Week 1: _________________________
 2. Week 2: _________________________
 3. Week 3: _________________________
@@ -80,6 +87,7 @@ Break your project into 3-4 learning milestones:
 ## Quick Win ✅
 
 Create a folder for your project and write a simple README that explains:
+
 - What problem it solves
 - Who it's for (even if it's just you)
 - What you hope to learn by building it
@@ -88,7 +96,7 @@ Don't code anything yet! Just clarify your vision first.
 
 ## Real Talk 💬
 
-You might be thinking, "But I don't know enough to build a real project yet." That's exactly the point! You learn what you need as you build. 
+You might be thinking, "But I don't know enough to build a real project yet." That's exactly the point! You learn what you need as you build.
 
 Start simple. Your first version doesn't need to be perfect or feature-complete. It just needs to work and solve your problem in a basic way. You can always make it better later.
 

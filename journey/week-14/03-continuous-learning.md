@@ -11,13 +11,13 @@ objectives:
 
 # Learning As a Lifestyle
 
-*Remember Week 1 when everything felt overwhelming? Look at you now - you've been learning consistently for 14 weeks. That's not luck, that's a skill you've developed.*
+_Remember Week 1 when everything felt overwhelming? Look at you now - you've been learning consistently for 14 weeks. That's not luck, that's a skill you've developed._
 
 Here's the beautiful truth: you don't need to learn everything, just the right things. And you definitely don't need to learn them all at once.
 
 ## Why Your Relationship with Learning Matters
 
-The tech world loves to talk about "staying current" and "keeping up," but honestly? That's exhausting and impossible. 
+The tech world loves to talk about "staying current" and "keeping up," but honestly? That's exhausting and impossible.
 
 What we're building instead is **learning as lifestyle** - a gentle, sustainable way to grow that doesn't burn you out or make you feel behind.
 
@@ -36,18 +36,21 @@ After 14 weeks together, you probably have a sense of how you learn best. Let's 
 Think back to your favorite moments in this journey. What made those lessons click?
 
 ✓ **Visual Learning** (seeing it):
+
 - Reading and highlighting
 - Watching tutorials
 - Drawing diagrams
 - Creating mind maps
 
 ✓ **Audio Learning** (hearing it):
+
 - Podcasts during commutes
 - Video explanations
 - Discussing with others
 - Recording yourself explaining concepts
 
 ✓ **Hands-on Learning** (doing it):
+
 - Building projects immediately
 - Learning through mistakes
 - Experimenting with code
@@ -61,6 +64,7 @@ What energizes your learning: _____
 ### Your Learning Environment
 
 **When do you learn best?**
+
 - Time of day: _____ (be honest - are you a morning learner or night owl?)
 - Sweet spot duration: _____ minutes (start with 15-20, not 2 hours)
 - How often feels sustainable: _____ times per week
@@ -90,6 +94,7 @@ Be aware of these:
 
 **How's it going?**
 Honest assessment (no judgment):
+
 - Reading consistently: ___/10
 - Learning new things regularly: ___/10
 - Practicing what you learn: ___/10
@@ -98,6 +103,7 @@ Honest assessment (no judgment):
 - Trying new approaches: ___/10
 
 **Where you're spending learning time:**
+
 - Reading/articles: ___ hours/week
 - Tutorials/courses: ___ hours/week
 - Podcasts/videos: ___ hours/week
@@ -107,6 +113,7 @@ Honest assessment (no judgment):
 **Total realistic learning time:** ___ hours/week
 
 **Your learning budget reality:**
+
 - What you can spend per month: $_____
 - Free resources you love: _____
 - One paid thing worth it: _____
@@ -119,18 +126,21 @@ Instead of trying to learn everything at once, think of three circles:
 
 **Circle 1: Getting Better at What You Do (50% of your learning time)**
 Things directly related to your current work:
+
 1. What I want to get better at: _____
 2. What would make my work easier: _____
 3. What my team keeps talking about: _____
 
 **Circle 2: What's Coming Next (30% of your learning time)**
 Things that seem important for the near future:
+
 1. Technology/skill that keeps popping up: _____
 2. What people in my field are excited about: _____
 3. Something that might be useful in 6 months: _____
 
 **Circle 3: Pure Curiosity (20% of your learning time)**
 Things you just find interesting:
+
 1. Something that has nothing to do with work: _____
 2. A skill that seems fun to learn: _____
 
@@ -139,20 +149,24 @@ Things you just find interesting:
 A sustainable learning diet includes different types of nutrients:
 
 **Technical Skills (40% of learning):**
+
 - Main thing I'm working with: _____
 - How I learn it best: _____
 - Where I practice: _____
 
 **Related Skills (25% of learning):**
+
 - Skills that complement my main thing: _____
 - Ways they connect: _____
 
 **People Skills (20% of learning):**
+
 - Communication thing I want to improve: _____
 - Working with others skill: _____
 - Leadership thing that interests me: _____
 
 **Learning Skills (15% of learning):**
+
 - How to get better at learning: _____
 - Problem-solving approaches: _____
 - Creative techniques: _____
@@ -160,12 +174,15 @@ A sustainable learning diet includes different types of nutrients:
 ### Where You'll Learn
 
 **Daily Learning (5-15 minutes):**
+
 1. Source: _____ | When: _____ | What kind: _____
 
 **Weekly Learning (30-60 minutes):**
+
 1. Source: _____ | Day/time: _____ | Focus: _____
 
 **Monthly Deep Dive (2-4 hours total):**
+
 1. Thing I want to understand better: _____
 2. How I'll learn it: _____
 3. What I'll build/do with it: _____
@@ -175,16 +192,19 @@ A sustainable learning diet includes different types of nutrients:
 **The 70-20-10 Reality:**
 
 **70% Learning by Doing:**
+
 - Working on real projects: _____
 - Trying things and seeing what breaks: _____
 - Solving actual problems: _____
 
 **20% Learning from People:**
+
 - Talking with someone who knows more: _____
 - Working with peers: _____
 - Participating in communities: _____
 
 **10% Formal Learning:**
+
 - Taking courses: _____
 - Reading books/articles: _____
 - Attending workshops: _____
@@ -196,15 +216,18 @@ A sustainable learning diet includes different types of nutrients:
 Pick ONE time that works consistently for you:
 
 **Option 1: Morning Learning (_____ minutes):**
+
 - Time: _____ (before work/school)
 - What: _____ (reading, tutorial, practice)
 - Where: _____
 
 **Option 2: Commute/Transit Learning (_____ minutes):**
+
 - What: _____ (podcast, audiobook, review notes)
 - When: _____ (to/from work/school)
 
 **Option 3: Evening Learning (_____ minutes):**
+
 - Time: _____ (after dinner, before bed)
 - What: _____ (practice, coding, reading)
 - Where: _____
@@ -226,27 +249,32 @@ Keep it simple. Pick 2-3 days that work:
 Pick ONE thing to focus on each month:
 
 **Next Month:**
+
 - What I want to learn: _____
 - How I'll learn it: _____
 - What I'll build/do with it: _____
 - How I'll know I learned it: _____
 
 **Following Month:**
+
 - What I want to learn: _____
 - How I'll learn it: _____
 
 **Third Month:**
+
 - What I want to learn: _____
 - How I'll learn it: _____
 
 ### Keeping Track of What You Learn
 
 **Your Learning Notes System:**
+
 - How I take notes: _____ (notebook, phone, app)
 - Where I put them: _____ (one place you'll actually check)
 - When I review them: _____ (weekly, monthly)
 
 **Making It Useful:**
+
 - How I'll practice what I learn: _____
 - When I'll try it in real work: _____
 - Who I might teach it to: _____
@@ -254,15 +282,18 @@ Pick ONE thing to focus on each month:
 ### Learning with Others
 
 **Your Learning People:**
+
 1. Someone who's learning similar things: _____
 2. Someone you can ask questions: _____
 3. Someone you can teach: _____
 
 **Your Learning Communities:**
+
 1. Online community: _____ (Discord, Reddit, etc.)
 2. Local group: _____ (meetup, study group)
 
 **How you'll stay connected:**
+
 - Share what you're learning: _____
 - Ask for help when stuck: _____
 - Celebrate wins together: _____
@@ -272,16 +303,19 @@ Pick ONE thing to focus on each month:
 ### Simple But Powerful Methods
 
 **The Feynman Technique (Explain It Simply):**
+
 1. Pick something you learned: _____
 2. Explain it to someone (or your rubber duck): _____
 3. Notice where you get stuck: _____
 4. Go back and learn that part better: _____
 
 **Spaced Practice (Review Over Time):**
+
 - Review new things after: 1 day, 3 days, 1 week
 - Tool you'll use: _____ (calendar reminders, flashcards, notes)
 
 **Active Learning (Do Something With It):**
+
 - Build something small: _____
 - Teach someone: _____
 - Write about it: _____
@@ -293,11 +327,13 @@ Pick ONE thing to focus on each month:
 Every few months, try something new:
 
 **Next Experiment (30 days):**
+
 - New way to learn: _____
 - What you hope happens: _____
 - How you'll know if it works: _____
 
 **Future Experiment Ideas:**
+
 - Different learning method: _____
 - New tool or resource: _____
 - Learning with someone new: _____
@@ -305,11 +341,13 @@ Every few months, try something new:
 ### What's Worth Your Time
 
 **Learning activities that give you the most bang for your buck:**
+
 1. Activity: _____ | Time needed: _____ | How much it helps: ___/10
 2. Activity: _____ | Time needed: _____ | How much it helps: ___/10
 3. Activity: _____ | Time needed: _____ | How much it helps: ___/10
 
 **Signs your learning is working:**
+
 - You can do things you couldn't do before: _____
 - You remember and use what you learned: _____
 - It helps in real situations: _____
@@ -327,11 +365,13 @@ Every few months, try something new:
 Example: "When I finish my morning coffee, I will read one dev article for 10 minutes, then I will check my messages."
 
 **Set up your environment:**
+
 - Learning materials in easy reach: _____
 - Remove distractions: _____
 - Visual reminder: _____
 
 **Stay motivated:**
+
 - Remember why this matters: _____
 - Track progress: _____
 - Share wins: _____
@@ -356,12 +396,14 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 ### Sharing What You Know
 
 **Ways to teach others:**
+
 - Help teammates: _____
 - Write about what you learned: _____
 - Speak at meetups: _____
 - Mentor someone newer: _____
 
 **Keep track of your journey:**
+
 - Learning journal: _____
 - Lessons learned notes: _____
 - Resource collection: _____
@@ -369,16 +411,19 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 ## Your Learning Plan Summary
 
 ### Time You'll Invest
+
 - Daily learning: ___ minutes
 - Weekly focused time: ___ hour(s)
 - Monthly deep dive: ___ hours
 
 ### Money You'll Spend
+
 - Learning budget per month: $_____
 - One course/book per: _____ (month/quarter)
 - Free resources you'll use: _____
 
 ### How You'll Know It's Working
+
 - I can do things I couldn't before: _____
 - I feel more confident about: _____
 - People ask me about: _____
@@ -387,6 +432,7 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 ## Quick Start (5 minutes)
 
 ### This Week
+
 1. Pick your daily learning time and stick to it
 2. Choose your first monthly focus
 3. Set up your note-taking system
@@ -394,6 +440,7 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 5. Share one thing you learned in this program
 
 ### This Month
+
 1. Build your daily learning habit
 2. Complete your first monthly focus
 3. Try the Feynman technique once
@@ -401,6 +448,7 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 5. Celebrate your progress
 
 ### Next 3 Months
+
 1. Complete 3 monthly learning focuses
 2. Try one new learning method
 3. Teach someone else
@@ -409,7 +457,7 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 
 ## Remember This
 
-You've already proven you can learn consistently - you just spent 14 weeks doing it! 
+You've already proven you can learn consistently - you just spent 14 weeks doing it!
 
 Learning as a lifestyle isn't about cramming more information into your brain. It's about staying curious, building things, and sharing what you discover along the way.
 

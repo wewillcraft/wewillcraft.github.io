@@ -26,12 +26,14 @@ Think about five years ago. You were probably a completely different person, rig
 Close your eyes. It's exactly 5 years from today. You wake up on a Tuesday morning in your ideal life.
 
 ### Step 1: Picture Your Morning (5 minutes)
+
 - Where do you wake up? (City, home type, view)
 - Who's there with you?
 - What's your morning routine?
 - How do you FEEL as your day starts?
 
 ### Step 2: Envision Your Work (5 minutes)
+
 - What's your role/title?
 - Where do you work? (Company, location, setup)
 - What problem are you solving today?
@@ -39,12 +41,14 @@ Close your eyes. It's exactly 5 years from today. You wake up on a Tuesday morni
 - How many people does your work impact?
 
 ### Step 3: Design Your Evening (5 minutes)
+
 - How do you unwind after work?
 - Who do you spend time with?
 - What fills you with satisfaction?
 - What are you grateful for as you go to sleep?
 
 ### Step 4: Write Your Day (5 minutes)
+
 Write 3-4 sentences describing a typical day in this future life. Start with "I wake up feeling..." and end with "I go to sleep knowing..."
 
 ## Quick Win ✅

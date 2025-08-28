@@ -20,6 +20,7 @@ You've done incredible work this week discovering your values, your sweet spot, 
 ## Why This Matters
 
 A manifesto helps you:
+
 - Make faster, clearer decisions
 - Stay true to yourself under pressure
 - Communicate what you're about
@@ -58,15 +59,15 @@ Don't make it too long or complicated. The best manifestos are simple, clear, an
 
 ## Example Mini-Manifesto
 
-*I am a builder who creates solutions that matter.*
+_I am a builder who creates solutions that matter._
 
-*I believe technology should serve humanity, not the other way around. I believe in continuous learning and authentic relationships.*
+_I believe technology should serve humanity, not the other way around. I believe in continuous learning and authentic relationships._
 
-*I value creativity, integrity, balance, growth, and connection.*
+_I value creativity, integrity, balance, growth, and connection._
 
-*I will work on problems I care about with people I respect. I will keep learning and stay curious. I will maintain my health and relationships.*
+_I will work on problems I care about with people I respect. I will keep learning and stay curious. I will maintain my health and relationships._
 
-*I won't sacrifice my values for money. I won't work on projects that harm others. I won't pretend to be someone I'm not.*
+_I won't sacrifice my values for money. I won't work on projects that harm others. I won't pretend to be someone I'm not._
 
 ## Today's Takeaway
 

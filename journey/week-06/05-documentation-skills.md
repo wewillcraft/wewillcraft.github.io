@@ -19,6 +19,7 @@ Most docs suck because experts write them. You have beginner's eyes—that's you
 ## Why This Matters
 
 Every senior developer lives in documentation. The faster you can:
+
 - Extract what you need from poor docs
 - Fill gaps for the next person
 - Build a reputation for clear communication
@@ -34,11 +35,12 @@ The faster you'll advance in your career.
 **How-To**: "How do I solve X?" (specific problem solutions)
 **Explanation**: "Why does this work?" (concepts and architecture)
 
-*Know what you need before you start reading*
+_Know what you need before you start reading_
 
 ### Step 2: Strategic Reading (5 minutes)
 
 Your reading order:
+
 1. **Scan headers** - Get the layout first
 2. **Find examples** - Code teaches faster than words
 3. **Try as you go** - Don't just read, implement
@@ -55,6 +57,7 @@ Your reading order:
 ### Step 4: Easy Win Contributions (5 minutes)
 
 Start building your reputation:
+
 - Fix typos (seriously, maintainers love this)
 - Add a missing code example
 - Clarify one confusing explanation
@@ -90,14 +93,17 @@ When you find something confusing, use this format:
 
 ```markdown
 ## Problem
+
 When I tried to [specific task], I got confused because [specific issue].
 
 ## Solution
+
 Here's what I learned works:
 
 [Clear explanation + working code example]
 
 ## Why This Helps
+
 This clarifies [specific confusion] that beginners often face.
 ```
 

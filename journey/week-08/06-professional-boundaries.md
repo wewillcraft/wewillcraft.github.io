@@ -22,6 +22,7 @@ Without clear professional boundaries, you become the person everyone dumps extr
 ### Professional Boundary Audit (5 min)
 
 **Signs you need stronger professional boundaries:**
+
 - You regularly work on tasks outside your job description
 - Colleagues assume you'll handle their urgent requests
 - You take on extra work to "help the team" but get no recognition
@@ -30,6 +31,7 @@ Without clear professional boundaries, you become the person everyone dumps extr
 - You're so busy helping others that your own goals suffer
 
 **Common professional boundary violations:**
+
 - Scope creep without timeline adjustments
 - Taking on responsibilities of higher-level positions without promotion
 - Being the unofficial IT support/mentor/therapist for colleagues
@@ -38,18 +40,21 @@ Without clear professional boundaries, you become the person everyone dumps extr
 ### Create Your Professional Framework (10 min)
 
 **Role Clarity Boundaries:**
+
 - Define your core responsibilities clearly
 - Identify what's adjacent but not essential
 - Recognize what's completely outside your role
 - Create criteria for when to take on extra work
 
 **Quality Standards Boundaries:**
+
 - Set realistic quality standards for different types of work
 - Resist perfectionism on low-stakes projects
 - Define "good enough" for routine tasks
 - Protect time for high-quality work on important projects
 
 **Growth-Focused Boundaries:**
+
 - Prioritize tasks that build relevant skills
 - Decline busy work that doesn't advance your career
 - Seek challenging assignments over comfortable ones
@@ -58,16 +63,19 @@ Without clear professional boundaries, you become the person everyone dumps extr
 ### Essential Professional Scripts (5 min)
 
 **For Scope Creep:**
+
 - "I'd love to help, but adding this would impact my ability to deliver X on time"
 - "Let's discuss priorities—what should I deprioritize to take this on?"
 - "This seems like it requires different expertise. Have you considered [appropriate person]?"
 
 **For Unrealistic Deadlines:**
+
 - "I want to deliver quality work. Based on the scope, I need X days to do this well"
 - "I can deliver a quick version by Friday or a comprehensive version by next Wednesday"
 - "Let me break this down into phases so we can deliver value incrementally"
 
 **For Career Protection:**
+
 - "I'm focusing on [specific goal] this quarter to develop my skills in that area"
 - "I'd prefer to take on projects that align with my growth goals"
 - "I want to make sure I'm adding value in the most strategic way"
@@ -77,6 +85,7 @@ Without clear professional boundaries, you become the person everyone dumps extr
 Choose one professional boundary to implement this week:
 
 **Options:**
+
 1. **Scope Guardian**: Before accepting any request, ask "How does this align with my core responsibilities?"
 2. **Quality Standards**: Define "good enough" criteria for routine vs. strategic work
 3. **Growth Filter**: Only take on extra work that builds skills you want to develop
