@@ -1,122 +1,129 @@
-# Week 3: Productivity Design - Style Guide
+# Week 3: Communication Basics - Style Guide
 
 ## Week Overview
 
-Week 3 helps students design their personal productivity system. This is about working WITH their natural patterns, not against them. Anti-hustle culture approach.
+Week 3 focuses on communication basics - the hidden superpower in tech. This week addresses both technical and interpersonal communication with warmth and practical guidance.
 
 ## Specific Tone for This Week
 
-- **Realistic and practical**: Productivity isn't about doing more
-- **Anti-perfectionist**: Progress over productivity
-- **Personalized**: One size doesn't fit all
-- **Sustainable**: Marathon not sprint mindset
+- **Approachable**: Communication anxiety is normal
+- **Practical**: Scripts and templates
+- **Inclusive**: All communication styles valid
+- **Encouraging**: Skills can be learned
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Energy Audit (01-energy-audit.md)
+### Lesson 1: Communication Assessment (01-communication-assessment.md)
 
-- When they naturally have energy
-- Energy givers vs drainers
-- Biological prime time
-- "Work with your body, not against it"
+- Understanding your style
+- Strengths and gaps
+- Communication personality
+- "Your style has value"
 
-### Lesson 2: Daily Tracking (02-daily-tracking.md)
+### Lesson 2: Personality Adaptation (02-personality-adaptation.md)
 
-- Simple tracking methods
-- No complex apps needed
-- Pattern recognition
-- "Data about yourself is power"
+- Reading the room
+- Adapting without losing yourself
+- Different styles for different people
+- "Flexibility is power"
 
-### Lesson 3: Pattern Recognition (03-pattern-recognition.md)
+### Lesson 3: Written Communication (03-written-communication.md)
 
-- What their data tells them
-- Common patterns to notice
-- No judgment, just observation
-- "Patterns reveal possibilities"
+- Emails that get read
+- Slack that works
+- Documentation skills
+- "Clear writing = clear thinking"
 
-### Lesson 4: Procrastination Analysis (04-procrastination-analysis.md)
+### Lesson 4: Verbal Communication (04-verbal-communication.md)
 
-- Why they actually procrastinate
-- Procrastination as information
-- Working with resistance
-- "Procrastination has a message"
+- Meetings without fear
+- Presentations made simple
+- Speaking up strategies
+- "Your voice matters"
 
-### Lesson 5: Success Patterns (05-success-patterns.md)
+### Lesson 5: Difficult Conversations (05-difficult-conversations.md)
 
-- When things go well
-- Conditions for flow
-- Replicating success
-- "You already know how to succeed"
+- Conflict without drama
+- Feedback conversations
+- Boundary discussions
+- "Hard conversations = growth"
 
-### Lesson 6: Productivity Design (06-productivity-design.md)
+### Lesson 6: Feedback Skills (06-feedback-skills.md)
 
-- Build their custom system
-- Tools that fit their style
-- Simple over complex
-- "Design for the real you"
+- Giving without hurting
+- Receiving without defending
+- Growth mindset
+- "Feedback is data"
 
-### Lesson 7: Ideal Schedule (07-ideal-schedule.md)
+### Lesson 7: Networking (07-networking.md)
 
-- Realistic ideal day
-- Energy-based scheduling
-- Buffer time included
-- "Ideal but achievable"
+- Networking for introverts
+- Online networking
+- Authentic connections
+- "Networking = making friends"
+
+### Lesson 8: Communication Practice (08-communication-practice.md)
+
+- Real scenarios
+- Role playing
+- Confidence building
+- "Practice makes progress"
 
 ## Key Messages for Week 3
 
 ### Core Messages:
 
-- "Productivity is personal"
-- "Energy management > time management"
-- "Your patterns are valid"
-- "Simple systems win"
-- "Sustainable > optimal"
+- "Communication is learnable"
+- "Different styles are valid"
+- "Clarity over cleverness"
+- "Listen more than speak"
+- "Authenticity wins"
 
-### Counter-Messages to Hustle Culture:
+### Communication Truths:
 
-- Rest is productive
-- Breaks are necessary
-- 40% effort sustained beats 100% burnout
-- Your limits are information
-- Productivity isn't your worth
+- Everyone fears public speaking
+- Written can be easier
+- Async has advantages
+- Practice really helps
+- Mistakes are normal
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Night owl student success
-- 25-minute focus sessions
-- Energy-based scheduling
-- Pomodoro variations
-- Simple paper systems
+- Stand-up updates
+- Code review comments
+- Slack threading
+- Meeting facilitation
+- Email templates
 
 ### Avoid:
 
-- 5am morning routines
-- 80-hour weeks
-- Hustle porn
-- Complex productivity apps
-- Rigid systems
+- Aggressive communication
+- Passive aggression
+- Over-apologizing
+- Mansplaining
+- Toxic directness
 
 ## Exercises for This Week
 
-Practical experiments:
+Communication practice:
 
-- 3-day energy log
-- Procrastination diary
-- Success condition mapping
-- Schedule experiment
-- System prototype
+- Write one clear email
+- Speak up in one meeting
+- Give one feedback
+- Start one conversation
+- Practice active listening
 
-## Language Specific to Productivity
+## Language Specific to Communication
 
 ### Instead of:
 
-- "Optimize your day" → "Find what works"
-- "Maximum efficiency" → "Sustainable pace"
-- "Productivity hack" → "Helpful pattern"
-- "Time blocking" → "Energy matching"
-- "Peak performance" → "Good enough consistently"
+- "As I said before..." → "To clarify..."
+- "Obviously..." → "In my experience..."
+- "You should..." → "Have you considered..."
+- "That's wrong" → "Another approach might be..."
+- "No offense but..." → [Just don't say it]
 
 ## Writing Style Notes
 
@@ -129,75 +136,85 @@ Practical experiments:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Struggles to Address
+## Common Communication Anxieties
 
-### For Perfectionists:
+### For Introverts:
 
-- 70% consistently > 100% sometimes
-- Done is better than perfect
-- Iteration over perfection
-- "Good enough is great"
+- Written first is fine
+- Preparation helps
+- Small groups work
+- "Introversion is strength"
 
-### For Chaos Minds:
+### For ESL Speakers:
 
-- Flexible structure
-- Minimum viable system
-- Start with one habit
-- "Some structure helps"
+- Accent is not a problem
+- Clarity over perfection
+- Ask for clarification
+- "Your perspective is valuable"
 
-### For Overwhelmed:
+### For Junior Developers:
 
-- Start tiny
-- One thing at a time
-- Systems reduce decisions
-- "Small steps count"
+- Questions show engagement
+- "Stupid" questions don't exist
+- Speaking up is learning
+- "Your fresh eyes matter"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Let's understand your natural rhythms"
-**Wednesday (Lesson 3-4)**: "Your patterns make sense"
-**Friday (Lesson 5-6)**: "Design something that fits"
-**Weekend (Lesson 7)**: "You have a system that works"
+**Monday (Lesson 1-2)**: "Know your style"
+**Wednesday (Lesson 3-4)**: "Build core skills"
+**Friday (Lesson 5-6)**: "Navigate challenges"
+**Weekend (Lesson 7-8)**: "Connect and practice"
 
 ## Success Metrics
 
 Students should finish Week 3 with:
 
-1. Understanding of energy patterns
-2. Personalized productivity approach
-3. Realistic ideal schedule
-4. Procrastination insights
-5. Sustainable system design
+1. Communication style awareness
+2. Email/Slack templates
+3. One difficult conversation done
+4. Feedback experience
+5. Reduced communication anxiety
 
-## Anti-Patterns to Avoid
+## Communication Scenarios
 
-### Don't Promote:
+### Provide Examples:
 
-- Toxic productivity
-- Comparison to others
-- More is better
-- Sleep sacrifice
-- Burnout as badge
+- Asking for help
+- Disagreeing respectfully
+- Admitting mistakes
+- Requesting resources
+- Setting expectations
 
-### Do Promote:
+## Inclusive Communication
 
-- Rest as requirement
-- Personal patterns
-- Sustainable systems
-- Energy awareness
-- Progress celebration
+### Address:
+
+- Gender dynamics
+- Cultural differences
+- Power dynamics
+- Language barriers
+- Neurodiversity
+
+### Promote:
+
+- Inclusive language
+- Patient listening
+- Clear expression
+- Written follow-ups
+- Multiple channels
 
 ## Remember
 
 Week 3 is about:
 
-- Rejecting one-size-fits-all
-- Finding personal patterns
-- Building sustainable systems
-- Energy over hours
-- Self-compassion
+- Building confidence
+- Practical skills
+- Authentic expression
+- Inclusive communication
+- Connection over perfection
 
-Every lesson should reinforce: "Your way of working is valid."
+Every lesson should convey: "Your voice deserves to be heard."
 
 ## Frontmatter Requirements
 
@@ -219,7 +236,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-03/02-daily-tracking/` for all navigation links.
+Use full relative paths like `/journey/week-03/02-communication-basics/` for all navigation links.
 
 Example navigation section:
 
@@ -228,7 +245,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Energy Audit](/journey/week-03/01-energy-audit/) | [Next: Pattern Recognition](/journey/week-03/03-pattern-recognition/) →
+← [Previous: Communication Assessment](/journey/week-09/01-communication-assessment/) | [Next: Active Listening](/journey/week-09/03-active-listening/) →
 
-[← Back to Week 3 Overview](/journey/week-03/)
+[← Back to Week 9 Overview](/journey/week-09/)
 ```

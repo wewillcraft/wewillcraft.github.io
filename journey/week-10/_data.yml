@@ -1,35 +1,32 @@
 layout: layouts/journey.vto
 week: 10
-phase: communication-resilience
+phase: "Phase 2: Systems"
 
 lessons:
   - index: 0
-    title: "Week 10: Failure & Resilience By Type Overview"
-    slug: "index"
+    title: "Week 10: Work-Life Integration Overview"
+    slug: ""
   - index: 1
-    title: "Resilience Assessment"
-    slug: "01-resilience-assessment"
+    title: "Balance Is a Myth (Harmony Is Real)"
+    slug: "01-work-life-harmony"
   - index: 2
-    title: "Stress Signals"
-    slug: "02-stress-signals"
+    title: "Relationships While Building Your Career"
+    slug: "02-relationship-management"
   - index: 3
-    title: "Energy Management"
-    slug: "03-energy-management"
+    title: "Money Without the Shame"
+    slug: "03-financial-wellness"
   - index: 4
-    title: "Recovery Rituals"
-    slug: "04-recovery-rituals"
+    title: "Sleep > Hustle (And Other Health Truths)"
+    slug: "04-health-optimization"
   - index: 5
-    title: "Mindfulness Basics"
-    slug: "05-mindfulness-basics"
+    title: "Life Admin Made Simple"
+    slug: "05-personal-systems"
   - index: 6
-    title: "Burnout Prevention"
-    slug: "06-burnout-prevention"
+    title: "Integration Strategies That Actually Work"
+    slug: "06-integration-strategies"
   - index: 7
-    title: "Crisis Management"
-    slug: "07-crisis-management"
+    title: "Your Personal Life OS"
+    slug: "07-integration-plan"
   - index: 8
-    title: "Resilience Plan"
-    slug: "08-resilience-plan"
-  - index: 9
     title: "Weekly Meditation & Reflection"
-    slug: "09-reflection"
+    slug: "08-reflection"

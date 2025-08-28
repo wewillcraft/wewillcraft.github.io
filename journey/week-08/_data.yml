@@ -1,35 +1,35 @@
 layout: layouts/journey.vto
 week: 8
-phase: boundaries-sustainability
+phase: "Phase 2: Systems"
 
 lessons:
   - index: 0
-    title: "Week 8: Boundaries That Match Your Personality Overview"
+    title: "Week 8: Focus & Deep Work Overview"
     slug: ""
   - index: 1
-    title: "Understanding Your Boundary Style"
-    slug: "01-boundary-style"
+    title: "The Neuroscience of Focus"
+    slug: "01-focus-neuroscience"
   - index: 2
-    title: "Energy Boundaries"
-    slug: "02-energy-boundaries"
+    title: "Digital Minimalism Setup"
+    slug: "02-digital-minimalism"
   - index: 3
-    title: "Time Boundaries"
-    slug: "03-time-boundaries"
+    title: "Deep Work Rituals"
+    slug: "03-deep-work-rituals"
   - index: 4
-    title: "Digital Boundaries"
-    slug: "04-digital-boundaries"
+    title: "Recharge Your Mental Battery"
+    slug: "04-attention-restoration"
   - index: 5
-    title: "Emotional Boundaries"
-    slug: "05-emotional-boundaries"
+    title: "Your Personal Focus Formula"
+    slug: "05-pomodoro-plus"
   - index: 6
-    title: "Professional Boundaries"
-    slug: "06-professional-boundaries"
+    title: "Build Your Focus Fortress"
+    slug: "06-distraction-proofing"
   - index: 7
-    title: "Personal Boundaries"
-    slug: "07-personal-boundaries"
+    title: "Enter the Zone"
+    slug: "07-flow-state"
   - index: 8
-    title: "Boundary Maintenance"
-    slug: "08-boundary-maintenance"
+    title: "Track Your Focus Wins"
+    slug: "08-focus-tracking"
   - index: 9
     title: "Weekly Meditation & Reflection"
     slug: "09-reflection"

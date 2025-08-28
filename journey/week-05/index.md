@@ -1,139 +1,196 @@
 ---
-title: "Week 5: Focus in the Age of Distraction"
-week: 5
-phase: focus-deep-work
-index: 0
-excerpt: Master deep work and attention management in a world designed to scatter your focus
-description: "Master the neuroscience of focus, create distraction-free environments, build deep work rituals, and engineer flow states for peak performance."
-estimated_time: 15-20 min/day
-objectives:
-  - Understand the neuroscience behind focus and attention
-  - Set up digital minimalism and distraction-free environments
-  - Create personal deep work rituals that signal focus time
-  - Learn attention restoration techniques for mental recharging
-  - Build a personalized focus system based on your energy patterns
-  - Develop strategies to protect against distractions
-  - Engineer conditions for flow state and peak performance
-  - Track and optimize your attention patterns
+title: "Week 10: Failure & Resilience By Type"
+week: 10
+phase: life-design
+excerpt: Transform your relationship with failure and build personality-matched resilience strategies.
+estimated_time: 8-10 hours total
 ---
 
-## Hey there, focus warrior! 👋
+## Core Truth
 
-Welcome to Week 5! Ever feel like your brain is like a browser with 47 tabs open, three of which are playing music, and you can't figure out which ones? Yeah, you're not alone. In our always-on, notification-heavy world, the ability to focus deeply has become a rare superpower.
+**Failure is data, not destiny.**
 
-This week, we're taking your attention back.
+Your relationship with failure will determine your ceiling for success. This week, you'll learn to fail forward, build resilience that matches your personality, and turn setbacks into comebacks.
 
-## The Big Idea 💡
+## This Week's Journey
 
-**Attention is your most valuable resource, and everyone wants a piece of it.**
+1. [**Your Failure Story Audit**](./01-failure-story-audit) (60 min)
+   - Examining past failures and patterns
+   - Identifying your failure narrative
+   - Reframing failure as learning
 
-Every app, notification, and "urgent" message is designed to capture and monetize your focus. But here's the thing: deep, sustained attention is where all meaningful work happens. Master your focus, and you master your results.
+2. [**Personality-Based Resilience Strategies**](./02-resilience-by-type) (90 min)
+   - How different types process failure
+   - Matching recovery methods to your style
+   - Building on your natural strengths
 
-## This Week's Adventure
+3. [**The Growth Mindset Toolbox**](./03-growth-mindset) (75 min)
+   - Fixed vs. growth mindset patterns
+   - Reframing challenges as opportunities
+   - The power of "yet" thinking
 
-### Day 1: [The Neuroscience of Focus](./01-focus-neuroscience)
+4. [**Emotional Regulation Techniques**](./04-emotional-regulation) (60 min)
+   - Managing failure-induced emotions
+   - Healthy processing vs. rumination
+   - Building emotional vocabulary
 
-_Time: 15 minutes_
+5. [**Learning from Technical Failures**](./05-technical-failures) (75 min)
+   - Post-mortem practices for bugs
+   - Turning failed projects into wisdom
+   - Building better debugging skills
 
-Understand how your brain actually works when it comes to attention. Spoiler: multitasking is a myth, and context switching is expensive.
+6. [**Support System Architecture**](./06-support-systems) (90 min)
+   - Identifying your support network
+   - Asking for help when struggling
+   - Building reciprocal relationships
 
-### Day 2: [Digital Minimalism Setup](./02-digital-minimalism)
+7. [**Antifragility Building**](./07-antifragility) (60 min)
+   - Moving beyond resilience
+   - Getting stronger from failure
+   - Building adaptive capacity
 
-_Time: 20 minutes_
+8. [**Your Failure Recovery Protocol**](./08-recovery-protocol) (45 min)
+   - Creating your personal playbook
+   - Emergency emotional first aid
+   - Long-term recovery strategies
 
-Turn your devices from distraction machines into focus tools. We'll tame notifications and create environments that support deep work.
+## Week 10 Deliverable
 
-### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
+By Sunday evening, you'll have created:
 
-_Time: 15 minutes_
+- **Your Failure Pattern Analysis** (how you typically respond)
+- **Your Resilience Toolkit** (personality-matched strategies)
+- **Your Failure Recovery Protocol** (step-by-step response plan)
+- **Your Growth Story Reframe** (new narrative about your journey)
 
-Design your personal focus sessions. Every master craftsperson has rituals. Now you will too.
+## Personality-Based Failure Responses
 
-### Day 4: [Attention Restoration](./04-attention-restoration)
+**Perfectionists (Type 1 Enneagram, High Conscientiousness):**
 
-_Time: 15 minutes_
+- **Typical Response:** Self-criticism, analysis paralysis
+- **Growth Strategy:** "Good enough" standards, progress celebration
+- **Recovery Method:** Structured reflection, incremental improvement
 
-Learn how to truly recharge your mental energy. Scrolling Instagram doesn't count as rest (sorry!).
+**Achievers (Type 3 Enneagram, High Extraversion):**
 
-### Day 5: [The Pomodoro+ System](./05-pomodoro-plus)
+- **Typical Response:** Image management, blame externalization
+- **Growth Strategy:** Authenticity practice, vulnerability sharing
+- **Recovery Method:** Goal adjustment, success redefinition
 
-_Time: 20 minutes_
+**Individualists (Type 4 Enneagram, High Openness):**
 
-Take the classic Pomodoro Technique and supercharge it with your personal energy patterns and working style.
+- **Typical Response:** Emotional overwhelm, identity crisis
+- **Growth Strategy:** Emotional regulation, pattern recognition
+- **Recovery Method:** Creative expression, meaning-making
 
-### Day 6: [Distraction Proofing](./06-distraction-proofing)
+**Investigators (Type 5 Enneagram, High Introversion):**
 
-_Time: 15 minutes_
+- **Typical Response:** Withdrawal, over-analysis
+- **Growth Strategy:** Action bias, external perspective
+- **Recovery Method:** Knowledge gathering, system improvement
 
-Identify your focus kryptonite and build systems to protect yourself from your own worst habits.
+**Loyalists (Type 6 Enneagram, High Neuroticism):**
 
-### Day 7: [Flow State Engineering](./07-flow-state)
+- **Typical Response:** Anxiety spirals, worst-case thinking
+- **Growth Strategy:** Reality testing, support system activation
+- **Recovery Method:** Gradual exposure, confidence building
 
-_Time: 15 minutes_
+## The Developer's Relationship with Failure
 
-Create the conditions where time disappears and your best work emerges naturally.
+**Common Tech Failures and Lessons:**
 
-### Day 8: [Focus Tracking](./08-focus-tracking)
+- **Bugs in production** → Better testing practices
+- **Failed deployments** → Improved CI/CD processes
+- **Rejected pull requests** → Code quality awareness
+- **Project cancellations** → Market validation skills
+- **Team conflicts** → Communication improvement
 
-_Time: 20 minutes_
+**The Debugging Mindset:**
 
-Measure and improve your attention patterns. You can't optimize what you don't track.
+1. **Isolate the problem** (don't catastrophize)
+2. **Gather information** (what actually happened?)
+3. **Form hypotheses** (possible causes)
+4. **Test systematically** (try solutions)
+5. **Document learnings** (prevent future occurrences)
 
-## What You'll Walk Away With
+## Resilience vs. Antifragility
 
-By Sunday night, you'll have:
+**Resilient Systems:** Return to original state after stress
 
-- ✅ A distraction-free work environment
-- ✅ Personalized deep work rituals that actually stick
-- ✅ Systems to protect your attention from constant interruption
-- ✅ The ability to enter flow state on command
-- ✅ Recovery techniques that actually restore your mental energy
+- Bounce back from failure
+- Maintain current capabilities
+- Focus on recovery
 
-## Real Talk 💬
+**Antifragile Systems:** Get stronger from stress
 
-Look, improving your focus isn't about becoming a monk or throwing your phone in a drawer. It's about being intentional with your attention instead of letting it be pulled in a million directions.
+- Use failure as fuel for growth
+- Develop new capabilities
+- Focus on adaptation and evolution
 
-The goal isn't perfect focus 24/7. It's about having deep focus available when you need it most.
+## The Failure Resume
 
-## Daily Rhythm
+**Tech Industry Examples:**
 
-**Morning (2 min)**: Quick attention check. How's your mental clarity today?
+- **Rejection letters** from dream companies
+- **Failed startups** and what you learned
+- **Projects that didn't work** and why
+- **Bad hires** and improved judgment
+- **Technical debt** and architectural lessons
 
-**Main Session (15-20 min)**: Complete that day's focus system builder. Small changes, big impact.
+Your failures are your credentials. They prove you've taken risks and learned from them.
 
-**Evening (3 min)**: Reflect on your focus quality today. What supported deep work? What scattered it?
+## Building Psychological Safety
 
-## Your Week 5 Toolkit
+**For Yourself:**
 
-### 📱 Essential Apps
+- Permission to make mistakes
+- Self-compassion practices
+- Learning-focused evaluation
+- Growth celebration rituals
 
-- **Focus/Do Not Disturb**: Built-in phone features (free)
-- **Forest or Freedom**: Distraction blockers
-- **Timer app**: For focused sessions
+**For Your Team:**
 
-### 🎧 Optional Companions
+- Blameless post-mortems
+- Failure party celebrations
+- Learning from others' mistakes
+- Psychological safety metrics
 
-- **Noise-canceling headphones**: Create instant focus zones
-- **Instrumental music playlist**: Background focus fuel
-- **Desk organization**: Physical clutter = mental clutter
+## The Science of Resilience
 
-## Quick Start Challenge
+**Research-Backed Strategies:**
 
-**Right now, before you read another word:**
+- **Cognitive flexibility:** Multiple perspectives on situations
+- **Social support:** Strong relationships for difficult times
+- **Meaning-making:** Finding purpose in adversity
+- **Self-efficacy:** Belief in your ability to handle challenges
+- **Emotional regulation:** Managing intense feelings effectively
 
-1. Put your phone in airplane mode for the next hour
-2. Notice how many times you instinctively reach for it
-3. Set a timer for 25 minutes and do ONE focused task
-4. Write down how it felt different from your normal work
+## Life Lesson for Young Professionals
 
-That's it. You've just experienced what focused work feels like. Now let's make it your default mode! 🧠✨
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 
-## A Friendly Reminder
+Your twenties are the perfect time to fail fast, learn quickly, and build the resilience that will serve you for decades.
 
-Your attention is not broken. It's just been trained by an environment that profits from distraction. This week, we're retraining it to serve your goals instead of everyone else's agenda.
+## Time Investment This Week
 
-## Questions?
+- **Pattern Analysis:** 2-3 hours
+- **Strategy Development:** 3-4 hours
+- **Protocol Creation:** 2-3 hours
+- **Practice and Integration:** 1-2 hours
+- **Total:** 8-10 hours (spread across 7 days)
 
-Write them down! Curiosity is attention's best friend. Every question is your brain asking to go deeper.
+## Resources for Going Deeper
+
+- "Mindset" by Carol Dweck
+- "Option B" by Sheryl Sandberg and Adam Grant
+- "Antifragile" by Nassim Nicholas Taleb
+- "The Resilience Factor" by Karen Reivich
+- [The Failure Resume](https://www.theatlantic.com/education/archive/2019/04/failure-resume-princeton-professor/587831/)
+
+## Quick Navigation
+
+**Start Here →** [01: Your Failure Story Audit](./01-failure-story-audit)
 
 ---
+
+_Remember: The goal isn't to avoid failure. It's to fail better. Every failure is a stepping stone to success if you know how to use it._

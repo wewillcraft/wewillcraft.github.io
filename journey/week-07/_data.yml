@@ -1,32 +1,32 @@
 layout: layouts/journey.vto
 week: 7
-phase: boundaries-sustainability
+phase: "Phase 2: Systems"
 
 lessons:
   - index: 0
-    title: "Week 7: Productivity Without Burnout Overview"
+    title: "Week 7: Energy & Productivity Overview"
     slug: ""
   - index: 1
-    title: "Burnout Prevention"
-    slug: "01-burnout-prevention"
+    title: "How's Your Energy Right Now?"
+    slug: "01-energy-audit"
   - index: 2
-    title: "Energy & Task Management"
-    slug: "02-energy-task-management"
+    title: "Your Energy Detective Week"
+    slug: "02-energy-tracking"
   - index: 3
-    title: "Saying No Skillfully"
-    slug: "03-saying-no"
+    title: "Connecting the Energy Dots"
+    slug: "03-pattern-recognition"
   - index: 4
-    title: "Motivation Systems"
-    slug: "04-motivation-systems"
+    title: "Your Custom Productivity System"
+    slug: "04-productivity-design"
   - index: 5
-    title: "Recovery & Restoration"
-    slug: "05-recovery-restoration"
+    title: "Burnout Prevention Strategies"
+    slug: "05-burnout-prevention"
   - index: 6
-    title: "Stress Management"
-    slug: "06-stress-management"
+    title: "Energy & Task Management"
+    slug: "06-energy-task-management"
   - index: 7
-    title: "Work-Life Integration"
-    slug: "07-work-life-integration"
+    title: "Recovery & Restoration"
+    slug: "07-recovery-restoration"
   - index: 8
     title: "Sustainability Audit"
     slug: "08-sustainability-audit"

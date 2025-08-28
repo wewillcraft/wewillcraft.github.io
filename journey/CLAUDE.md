@@ -34,9 +34,9 @@ The Journey is a 14-week transformational program organized into 3 phases, desig
 
 **Implementation**: 3 clear phases for natural progression
 
-- **Phase 1: Discovery (Weeks 1-5)** - Understanding Your Foundation
-- **Phase 2: Development (Weeks 6-10)** - Building Your Skills
-- **Phase 3: Deployment (Weeks 11-14)** - Applying Your Growth
+- **Phase 1: Foundation (Weeks 1-5)** - Who am I and how do I grow?
+- **Phase 2: Systems (Weeks 6-10)** - How do I create sustainable success?
+- **Phase 3: Impact (Weeks 11-14)** - How do I contribute and lead?
 
 #### 4. 100-Day Mapping
 
@@ -356,34 +356,34 @@ Keep them simple:
 
 ## Three-Phase Journey
 
-### Phase 1: Discovery (Weeks 1-5)
+### Phase 1: Foundation (Weeks 1-5)
 
-"Understanding Your Foundation"
+_"Who am I and how do I grow?"_
 
 - Week 1: Self-Discovery
-- Week 2: Purpose & Vision
-- Week 3: Personal Productivity
-- Week 4: Learning & Growth
-- Week 5: Focus & Deep Work
+- Week 2: Learning How to Learn
+- Week 3: Communication Basics
+- Week 4: Getting Help & Building Community
+- Week 5: Resilience & Growth Mindset
 
-### Phase 2: Development (Weeks 6-10)
+### Phase 2: Systems (Weeks 6-10)
 
-"Building Your Skills"
+_"How do I create sustainable success?"_
 
-- Week 6: Getting Help & Resources
-- Week 7: Sustainability & Balance
-- Week 8: Boundaries & Energy
-- Week 9: Communication & Connection
-- Week 10: Resilience & Adaptability
+- Week 6: Purpose & Vision
+- Week 7: Energy & Productivity
+- Week 8: Focus & Deep Work
+- Week 9: Boundaries
+- Week 10: Work-Life Integration
 
-### Phase 3: Deployment (Weeks 11-14)
+### Phase 3: Impact (Weeks 11-14)
 
-"Applying Your Growth"
+_"How do I contribute and lead?"_
 
-- Week 11: Leadership & Influence
-- Week 12: Career & Professional Development
-- Week 13: Life Integration
-- Week 14: Future Planning & Next Steps
+- Week 11: Career Strategy
+- Week 12: Leadership & Influence
+- Week 13: Giving Back & Legacy
+- Week 14: Future Planning
 
 ## Universal Language Guidelines
 

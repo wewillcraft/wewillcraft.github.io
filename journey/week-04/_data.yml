@@ -1,35 +1,35 @@
 layout: layouts/journey.vto
 week: 4
-phase: learning-productivity
+phase: "Phase 1: Foundation"
 
 lessons:
   - index: 0
-    title: "Week 4: The Learning Operating System Overview"
+    title: "Week 4: Getting Help & Building Community Overview"
     slug: ""
   - index: 1
-    title: "Find Your Learning Style"
-    slug: "01-learning-style"
+    title: "Why Asking for Help is Actually Smart"
+    slug: "01-help-psychology"
   - index: 2
-    title: "Build Your Second Brain"
-    slug: "02-second-brain"
+    title: "Stack Overflow Mastery"
+    slug: "02-stackoverflow-mastery"
   - index: 3
-    title: "Master Spaced Repetition"
-    slug: "03-spaced-repetition"
+    title: "Finding Your Tech Tribe"
+    slug: "03-finding-tribes"
   - index: 4
-    title: "Active Learning Techniques"
-    slug: "04-active-learning"
+    title: "Getting a Mentor"
+    slug: "04-mentorship"
   - index: 5
-    title: "Design Your Information Diet"
-    slug: "05-information-diet"
+    title: "Documentation Skills"
+    slug: "05-documentation-skills"
   - index: 6
-    title: "Learn Through Projects"
-    slug: "06-project-learning"
+    title: "GitHub Social Skills"
+    slug: "06-github-social"
   - index: 7
-    title: "Turn Failures into Fuel"
-    slug: "07-failure-learning"
+    title: "Expert Outreach"
+    slug: "07-expert-outreach"
   - index: 8
-    title: "Share Your Knowledge"
-    slug: "08-knowledge-sharing"
+    title: "Building in Public"
+    slug: "08-building-public"
   - index: 9
     title: "Weekly Meditation & Reflection"
     slug: "09-reflection"

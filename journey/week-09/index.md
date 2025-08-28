@@ -1,197 +1,94 @@
 ---
-title: "Week 9: Communication Styles"
-week: 9
+title: "Week 8: Boundaries That Match Your Personality"
+week: 8
 phase: life-design
-excerpt: Master the art of authentic communication that builds relationships and advances your career.
-estimated_time: 8-10 hours total
+excerpt: Design personal boundaries that protect your energy while staying true to your authentic self.
+estimated_time: 6-8 hours total
 ---
+
+Hey friend! 👋
 
 ## Core Truth
 
-**How you communicate is more important than what you communicate.**
+**Boundaries aren't walls—they're gates with you as the gatekeeper.**
 
-Your technical skills might get you hired, but your communication skills will determine how far you go. This week, you'll develop a communication style that's both authentic to your personality and effective in professional settings.
+Healthy boundaries create sustainable ways to engage with the world that honor your needs, values, and energy patterns.
 
 ## This Week's Journey
 
-1. [**Communication Style Assessment**](./01-communication-assessment) (60 min)
-   - Identifying your natural patterns
-   - Strengths and blind spots analysis
-   - Cultural and family influences
+1. [**Understanding Your Boundary Style**](./01-boundary-style) (30 min)
+   - Identify your current patterns and triggers
+   - Choose one boundary to strengthen this week
 
-2. [**Adapting Across Personality Types**](./02-personality-adaptation) (90 min)
-   - Communicating with different MBTI types
-   - Enneagram-based approaches
-   - Reading and responding to others' styles
+2. [**Energy Boundaries**](./02-energy-boundaries) (45 min)
+   - Protect your mental energy with strategic boundaries
+   - Create your personal energy budget
 
-3. [**Written Communication Mastery**](./03-written-communication) (75 min)
-   - Email effectiveness
-   - Documentation clarity
-   - Slack and instant messaging best practices
+3. [**Time Boundaries**](./03-time-boundaries) (45 min)
+   - Master calendar management and saying no gracefully
+   - Build in buffer time for transitions
 
-4. [**Verbal Communication Skills**](./04-verbal-communication) (60 min)
-   - Meeting participation strategies
-   - Presentation techniques
-   - One-on-one conversation skills
+4. [**Digital Boundaries**](./04-digital-boundaries) (30 min)
+   - Separate work and life in our always-connected world
+   - Tame notification overload
 
-5. [**Difficult Conversations Framework**](./05-difficult-conversations) (90 min)
-   - Preparing for challenging discussions
-   - Managing emotions and conflict
-   - Finding win-win solutions
+5. [**Emotional Boundaries**](./05-emotional-boundaries) (60 min)
+   - Stop absorbing others' emotions as your own
+   - Navigate difficult relationships with confidence
 
-6. [**Feedback and Criticism**](./06-feedback-skills) (75 min)
-   - Giving constructive feedback
-   - Receiving feedback gracefully
-   - Code review communication
+6. [**Professional Boundaries**](./06-professional-boundaries) (45 min)
+   - Set workplace limits that advance your career
+   - Handle scope creep and unrealistic expectations
 
-7. [**Networking and Relationship Building**](./07-networking) (60 min)
-   - Authentic networking strategies
-   - Building professional relationships
-   - Maintaining long-term connections
+7. [**Personal Boundaries**](./07-personal-boundaries) (45 min)
+   - Maintain connection while protecting your space
+   - Navigate family and friendship dynamics
 
-8. [**Communication Systems Design**](./08-communication-systems) (45 min)
-   - Creating communication protocols
-   - Managing information flow
-   - Building feedback loops
+8. [**Boundary Maintenance**](./08-boundary-maintenance) (30 min)
+   - Create a system for regular boundary audits
+   - Adjust boundaries as you grow and change
 
-## Week 9 Deliverable
+## Week 8 Deliverables
 
-By Sunday evening, you'll have created:
+- **Your Boundary Assessment** (strengths and growth areas)
+- **Your Top 3 Boundary Goals** (specific, actionable changes)
+- **Your Boundary Scripts** (phrases for common situations)
+- **Your Maintenance Plan** (regular check-ins and adjustments)
 
-- **Your Communication Style Profile** (strengths, weaknesses, preferences)
-- **Your Adaptation Strategies** (how to communicate with different types)
-- **Your Difficult Conversation Toolkit** (frameworks and scripts)
-- **Your Professional Communication Standards** (your personal guidelines)
+## Boundary Styles Quick Reference
 
-## Personality-Based Communication Patterns
+**People Pleaser:** Need to practice saying no in low-stakes situations first.
+**Rigid Controller:** Can benefit from strategic flexibility in safe relationships.
+**Inconsistent Fluctuator:** Focus on one consistent boundary to build confidence.
+**Healthy Balancer:** Fine-tune existing boundaries for maximum effectiveness.
 
-**Introverted Communicators:**
+## Developer-Specific Boundary Challenges
 
-- **Strengths:** Deep listening, thoughtful responses, written communication
-- **Challenges:** Speaking up in groups, thinking out loud, immediate responses
-- **Growth:** Practice verbal processing, schedule thinking time before meetings
+- After-hours Slack messages and "urgent" weekend requests
+- FOMO with new technologies and conference burnout
+- Open office interruptions and informal mentoring pressure
+- Always-learning expectations and side project overwhelm
 
-**Extraverted Communicators:**
+## Essential Boundary Phrases
 
-- **Strengths:** Verbal processing, group energy, immediate responses
-- **Challenges:** Over-talking, not listening deeply, interrupting
-- **Growth:** Practice pausing, ask more questions, embrace silence
+**Time:** "I check email at 10 AM and 3 PM daily."
+**Energy:** "I need 15 minutes between meetings to transition."
+**Professional:** "I'm at capacity until next month, but here's what I can do..."
 
-**Thinking-Based Communication:**
+## The Boundary Paradox
 
-- **Strengths:** Logical arguments, objective analysis, direct feedback
-- **Challenges:** May seem harsh, overlooks emotional impact, impatience with feelings
-- **Growth:** Consider emotional context, soften delivery, acknowledge feelings
+**Counterintuitive Truth:** The clearer your boundaries, the better your relationships become.
 
-**Feeling-Based Communication:**
+People respect those who respect themselves. Clear boundaries create trust, reduce resentment, and enable authentic connection.
 
-- **Strengths:** Empathy, relationship focus, considers impact on people
-- **Challenges:** Avoiding difficult truths, taking things personally, indirect communication
-- **Growth:** Practice directness, separate person from problem, state needs clearly
+## Life Lesson
 
-## The Developer's Communication Challenge
-
-**Technical Communication Needs:**
-
-- Explaining complex concepts simply
-- Writing clear documentation
-- Debugging collaboratively
-- Presenting solutions to stakeholders
-- Teaching and mentoring others
-
-**Common Communication Pitfalls:**
-
-- Assuming others share your knowledge level
-- Over-explaining technical details
-- Under-explaining business impact
-- Avoiding non-technical stakeholders
-- Perfectionism in communication
-
-## Communication Adaptation Matrix
-
-**When communicating with Sensors:**
-
-- Start with concrete details
-- Use real examples and analogies
-- Provide step-by-step explanations
-- Focus on practical applications
-
-**When communicating with Intuitives:**
-
-- Start with the big picture
-- Discuss possibilities and implications
-- Connect to broader patterns
-- Allow for creative exploration
-
-**When communicating with Thinkers:**
-
-- Lead with logic and data
-- Be direct and concise
-- Provide evidence and reasoning
-- Focus on efficiency and effectiveness
-
-**When communicating with Feelers:**
-
-- Consider personal impact
-- Start with common ground
-- Acknowledge different perspectives
-- Focus on collaboration and harmony
-
-## Difficult Conversations in Tech
-
-**Common Scenarios:**
-
-- Disagreeing with technical decisions
-- Addressing performance issues
-- Discussing workload and capacity
-- Negotiating requirements changes
-- Handling interpersonal conflicts
-
-**The PREP Framework:**
-
-- **P**oint: What's the main issue?
-- **R**eason: Why does this matter?
-- **E**xample: What specific evidence do you have?
-- **P**oint: What action do you want to take?
-
-## Building Your Professional Voice
-
-**Authenticity + Effectiveness = Impact**
-
-Your professional voice should be:
-
-- **Authentic:** True to your personality and values
-- **Respectful:** Considerate of others' perspectives
-- **Clear:** Easy to understand and action-oriented
-- **Consistent:** Reliable across different contexts
-- **Growth-Oriented:** Open to feedback and evolution
-
-## Life Lesson for Career Growth
-
-> "The single biggest problem in communication is the illusion that it has taken place." - George Bernard Shaw
-
-In tech, many brilliant people fail to advance because they can't communicate their brilliance effectively. Your ideas are only as good as your ability to share them.
-
-## Time Investment This Week
-
-- **Assessment and Analysis:** 2-3 hours
-- **Skill Practice:** 3-4 hours
-- **System Development:** 2-3 hours
-- **Real-world Application:** 1-2 hours
-- **Total:** 8-10 hours (spread across 7 days)
-
-## Resources for Going Deeper
-
-- "Crucial Conversations" by Kerry Patterson
-- "Nonviolent Communication" by Marshall Rosenberg
-- "The Charisma Myth" by Olivia Fox Cabane
-- "Made to Stick" by Chip Heath and Dan Heath
-- [16Personalities Communication Styles](https://www.16personalities.com/articles/communication-across-personality-types)
+Your boundaries teach people how to treat you. The patterns you establish in your twenties will follow you throughout your career.
 
 ## Quick Navigation
 
-**Start Here →** [01: Communication Style Assessment](./01-communication-assessment)
+**Start Here →** [01: Understanding Your Boundary Style](./01-boundary-style)
 
 ---
 
-_Remember: Great communication isn't about being perfect—it's about being clear, authentic, and willing to improve. Every conversation is a chance to practice._
+_Boundaries aren't selfish—they're sustainable. They protect your ability to show up fully in what matters most._

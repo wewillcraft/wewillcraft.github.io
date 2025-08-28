@@ -1,129 +1,129 @@
-# Week 8: Boundaries - Style Guide
+# Week 8: Focus & Deep Work - Style Guide
 
 ## Week Overview
 
-Week 8 deep-dives into boundaries - the foundation of sustainable success. Many students struggle with boundaries due to culture, family expectations, or impostor syndrome.
+Week 8 teaches focus in a distracted world. This is about building concentration muscles without becoming a hermit. Balance deep work with real life.
 
 ## Specific Tone for This Week
 
-- **Empowering**: Boundaries are your right
-- **Non-judgmental**: Everyone's boundaries differ
-- **Practical**: Scripts and strategies
-- **Firm**: Non-negotiable self-care
+- **Understanding**: Distractions are designed to be addictive
+- **Practical**: Small improvements matter
+- **Flexible**: Perfect focus isn't the goal
+- **Compassionate**: Focus is hard for everyone
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Boundary Style (01-boundary-style.md)
+### Lesson 1: Focus Neuroscience (01-focus-neuroscience.md)
 
-- How you naturally set boundaries
-- Cultural impacts on boundaries
-- Boundary personality types
-- "Your style is valid"
+- Simple brain science
+- Why focus is actually hard
+- Dopamine and attention
+- "Your brain isn't broken"
 
-### Lesson 2: Energy Boundaries (02-energy-boundaries.md)
+### Lesson 2: Digital Minimalism (02-digital-minimalism.md)
 
-- Protecting your energy
-- Energy vampires
-- Emotional labor limits
-- "Your energy is precious"
+- Reducing without eliminating
+- Practical phone strategies
+- Tool selection criteria
+- "Use tech, don't let it use you"
 
-### Lesson 3: Time Boundaries (03-time-boundaries.md)
+### Lesson 3: Deep Work Rituals (03-deep-work-rituals.md)
 
-- Your time = your life
-- Calendar as boundary tool
-- Saying no to meetings
-- "Time is non-renewable"
+- Creating focus triggers
+- Environment design
+- Starting small
+- "Rituals reduce resistance"
 
-### Lesson 4: Digital Boundaries (04-digital-boundaries.md)
+### Lesson 4: Attention Restoration (04-attention-restoration.md)
 
-- Slack/email boundaries
-- After-hours communication
-- Notification management
-- "Always-on is unsustainable"
+- Why breaks matter
+- Active recovery
+- Nature and focus
+- "Rest is part of focus"
 
-### Lesson 5: Emotional Boundaries (05-emotional-boundaries.md)
+### Lesson 5: Pomodoro Plus (05-pomodoro-plus.md)
 
-- Not taking on others' emotions
-- Workplace emotional safety
-- Feedback boundaries
-- "Their emotions aren't yours"
+- Beyond basic Pomodoro
+- Finding your intervals
+- Matching energy levels
+- "Customize your cycles"
 
-### Lesson 6: Professional Boundaries (06-professional-boundaries.md)
+### Lesson 6: Distraction Proofing (06-distraction-proofing.md)
 
-- Scope creep prevention
-- Role clarity
-- Overtime boundaries
-- "Professional means boundaries"
+- Friction and barriers
+- Environmental design
+- Phone strategies
+- "Make distractions harder"
 
-### Lesson 7: Personal Boundaries (07-personal-boundaries.md)
+### Lesson 7: Flow State (07-flow-state.md)
 
-- Work-life separation
-- Family expectations
-- Friend boundaries
-- "Personal life is personal"
+- Conditions for flow
+- Challenge-skill balance
+- Flow triggers
+- "Flow is achievable"
 
-### Lesson 8: Boundary Maintenance (08-boundary-maintenance.md)
+### Lesson 8: Focus Tracking (08-focus-tracking.md)
 
-- Keeping boundaries strong
-- When boundaries are crossed
-- Boundary evolution
-- "Maintenance is ongoing"
+- Measuring improvement
+- Focus metrics
+- Progress celebration
+- "Small gains compound"
 
 ## Key Messages for Week 8
 
 ### Core Messages:
 
-- "Boundaries are self-care"
-- "No is a complete answer"
-- "Boundaries create freedom"
-- "You teach people how to treat you"
-- "Boundaries aren't mean"
+- "Focus is a skill, not a talent"
+- "Start with 10 minutes"
+- "Breaks improve focus"
+- "Environment matters"
+- "Progress not perfection"
 
-### Boundary Truths:
+### Reality Checks:
 
-- Guilt is normal at first
-- People will test them
-- Consistency is key
-- Boundaries can change
-- Start small
+- 4 hours deep work is MAX
+- Multitasking is a myth
+- Notifications are evil
+- Focus fatigue is real
+- Phone addiction is normal
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Not answering Slack after 6pm
-- Declining scope creep
-- Taking lunch breaks
-- Weekend email ban
-- Family work boundaries
+- 25-minute coding sessions
+- Phone in another room
+- Morning focus blocks
+- Walking breaks
+- Noise-canceling headphones
 
 ### Avoid:
 
-- Doormat mentality
-- People-pleasing
-- Boundary guilt
-- Over-explaining
-- Apologizing for boundaries
+- 8-hour focus sessions
+- Complete digital detox
+- Monk-like discipline
+- Shame about distraction
+- Unrealistic standards
 
 ## Exercises for This Week
 
-Boundary practice:
+Focus experiments:
 
-- Set one digital boundary
-- Practice one "no"
-- Create boundary script
-- Time audit
-- Energy inventory
+- 10-minute focus challenge
+- Phone-free hour
+- Deep work ritual design
+- Distraction log
+- Flow state mapping
 
-## Language Specific to Boundaries
+## Language Specific to Focus
 
 ### Instead of:
 
-- "I'm sorry but..." → "I need to..."
-- "If it's okay..." → "I will be..."
-- "I can't" → "I choose not to"
-- "Is it alright if..." → "I'm going to..."
-- "Would you mind..." → "Please respect..."
+- "Laser focus" → "Gentle concentration"
+- "Eliminate distractions" → "Reduce interruptions"
+- "Total concentration" → "Present attention"
+- "Focus optimization" → "Better focus habits"
+- "Maximum productivity" → "Quality work time"
 
 ## Writing Style Notes
 
@@ -136,86 +136,75 @@ Boundary practice:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Boundary Challenges
+## Common Focus Struggles
 
-### For People-Pleasers:
+### For ADHD/Neurodivergent:
 
-- Others' disappointment is OK
-- Your needs matter equally
-- Resentment signals needed boundaries
-- "Pleasing everyone pleases no one"
+- Your brain works differently
+- Hyperfocus is superpower
+- Movement helps
+- "Find your way"
 
-### For Cultural Expectations:
+### For Anxious Minds:
 
-- Honor culture AND yourself
-- Boundaries can be respectful
-- Evolution is OK
-- "Both/and not either/or"
+- Racing thoughts are normal
+- Start very small
+- Breathing helps
+- "Be patient with yourself"
 
-### For Women/Minorities:
+### For Social Media Addicted:
 
-- Extra boundary challenges acknowledged
-- Double standards are real
-- Self-advocacy is vital
-- "Your boundaries matter"
+- It's designed to hook you
+- Cold turkey isn't necessary
+- Gradual reduction works
+- "You're not weak"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Understand your boundary style"
-**Wednesday (Lesson 3-4)**: "Set practical boundaries"
-**Friday (Lesson 5-6)**: "Professional boundaries"
-**Weekend (Lesson 7-8)**: "Maintain and evolve"
+**Monday (Lesson 1-2)**: "Understand your attention"
+**Wednesday (Lesson 3-4)**: "Design for focus"
+**Friday (Lesson 5-6)**: "Build focus habits"
+**Weekend (Lesson 7-8)**: "Find your flow"
 
 ## Success Metrics
 
 Students should finish Week 8 with:
 
-1. 3-5 clear boundaries set
-2. Boundary scripts ready
-3. Reduced guilt about boundaries
-4. One boundary success story
-5. Maintenance plan
+1. One focus ritual established
+2. Reduced phone usage
+3. Personal focus intervals known
+4. Environmental improvements
+5. Less focus anxiety
 
-## Boundary Scripts
+## Focus Reality Check
 
-### Provide Templates:
+### Normalize:
 
-```
-"I stop checking Slack at 6pm"
-"I don't work weekends"
-"I need 24 hours to consider that"
-"That's outside my capacity"
-"Let me check my bandwidth"
-```
+- Checking phone 100x daily
+- Focus lasting minutes
+- Mental fatigue
+- Distraction urges
+- Gradual improvement
 
-## Cultural Sensitivity
+### Celebrate:
 
-### Acknowledge:
-
-- Family obligation cultures
-- Gender expectations
-- Economic pressures
-- Generational differences
-- Immigration dynamics
-
-### Balance:
-
-- Respect and self-care
-- Tradition and growth
-- Family and individual
-- Culture and boundaries
+- 10 minutes focused
+- One notification turned off
+- One deep work session
+- One phone-free meal
+- Any improvement
 
 ## Remember
 
 Week 8 is about:
 
-- Empowering self-advocacy
-- Practical boundary setting
-- Cultural sensitivity
-- Guilt reduction
-- Long-term sustainability
+- Building focus gradually
+- Working with your brain
+- Environmental design
+- Sustainable practices
+- Self-compassion
 
-Every lesson should affirm: "Your boundaries are valid and necessary."
+Every lesson should convey: "Better focus is possible for you."
 
 ## Frontmatter Requirements
 
@@ -237,7 +226,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-08/02-identifying-boundaries/` for all navigation links.
+Use full relative paths like `/journey/week-08/02-digital-minimalism/` for all navigation links.
 
 Example navigation section:
 
@@ -246,7 +235,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Boundary Assessment](/journey/week-08/01-boundary-assessment/) | [Next: Saying No](/journey/week-08/03-saying-no/) →
+← [Previous: Focus Neuroscience](/journey/week-05/01-focus-neuroscience/) | [Next: Deep Work Rituals](/journey/week-05/03-deep-work-rituals/) →
 
-[← Back to Week 8 Overview](/journey/week-08/)
+[← Back to Week 5 Overview](/journey/week-05/)
 ```

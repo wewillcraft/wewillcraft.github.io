@@ -1,35 +1,35 @@
 layout: layouts/journey.vto
 week: 9
-phase: communication-resilience
+phase: "Phase 2: Systems"
 
 lessons:
   - index: 0
-    title: "Week 9: Communication Styles Overview"
+    title: "Week 9: Boundaries Overview"
     slug: ""
   - index: 1
-    title: "How You Talk, How They Hear"
-    slug: "01-communication-assessment"
+    title: "Understanding Your Boundary Style"
+    slug: "01-boundary-style"
   - index: 2
-    title: "Speaking Their Language"
-    slug: "02-personality-adaptation"
+    title: "Energy Boundaries"
+    slug: "02-energy-boundaries"
   - index: 3
-    title: "Writing That Actually Gets Read"
-    slug: "03-written-communication"
+    title: "Time Boundaries"
+    slug: "03-time-boundaries"
   - index: 4
-    title: "Speaking Without the Anxiety"
-    slug: "04-verbal-communication"
+    title: "Digital Boundaries"
+    slug: "04-digital-boundaries"
   - index: 5
-    title: "Difficult Conversations Without Drama"
-    slug: "05-difficult-conversations"
+    title: "Emotional Boundaries"
+    slug: "05-emotional-boundaries"
   - index: 6
-    title: "Feedback Without the Sting"
-    slug: "06-feedback-skills"
+    title: "Professional Boundaries"
+    slug: "06-professional-boundaries"
   - index: 7
-    title: "Networking for Introverts"
-    slug: "07-networking"
+    title: "Personal Boundaries"
+    slug: "07-personal-boundaries"
   - index: 8
-    title: "Communication Practice Lab"
-    slug: "08-communication-practice"
+    title: "Boundary Maintenance"
+    slug: "08-boundary-maintenance"
   - index: 9
     title: "Weekly Meditation & Reflection"
     slug: "09-reflection"

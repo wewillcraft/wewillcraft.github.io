@@ -1,94 +1,139 @@
 ---
-title: "Week 8: Boundaries That Match Your Personality"
-week: 8
-phase: life-design
-excerpt: Design personal boundaries that protect your energy while staying true to your authentic self.
-estimated_time: 6-8 hours total
+title: "Week 5: Focus in the Age of Distraction"
+week: 5
+phase: focus-deep-work
+index: 0
+excerpt: Master deep work and attention management in a world designed to scatter your focus
+description: "Master the neuroscience of focus, create distraction-free environments, build deep work rituals, and engineer flow states for peak performance."
+estimated_time: 15-20 min/day
+objectives:
+  - Understand the neuroscience behind focus and attention
+  - Set up digital minimalism and distraction-free environments
+  - Create personal deep work rituals that signal focus time
+  - Learn attention restoration techniques for mental recharging
+  - Build a personalized focus system based on your energy patterns
+  - Develop strategies to protect against distractions
+  - Engineer conditions for flow state and peak performance
+  - Track and optimize your attention patterns
 ---
 
-Hey friend! 👋
+## Hey there, focus warrior! 👋
 
-## Core Truth
+Welcome to Week 5! Ever feel like your brain is like a browser with 47 tabs open, three of which are playing music, and you can't figure out which ones? Yeah, you're not alone. In our always-on, notification-heavy world, the ability to focus deeply has become a rare superpower.
 
-**Boundaries aren't walls—they're gates with you as the gatekeeper.**
+This week, we're taking your attention back.
 
-Healthy boundaries create sustainable ways to engage with the world that honor your needs, values, and energy patterns.
+## The Big Idea 💡
 
-## This Week's Journey
+**Attention is your most valuable resource, and everyone wants a piece of it.**
 
-1. [**Understanding Your Boundary Style**](./01-boundary-style) (30 min)
-   - Identify your current patterns and triggers
-   - Choose one boundary to strengthen this week
+Every app, notification, and "urgent" message is designed to capture and monetize your focus. But here's the thing: deep, sustained attention is where all meaningful work happens. Master your focus, and you master your results.
 
-2. [**Energy Boundaries**](./02-energy-boundaries) (45 min)
-   - Protect your mental energy with strategic boundaries
-   - Create your personal energy budget
+## This Week's Adventure
 
-3. [**Time Boundaries**](./03-time-boundaries) (45 min)
-   - Master calendar management and saying no gracefully
-   - Build in buffer time for transitions
+### Day 1: [The Neuroscience of Focus](./01-focus-neuroscience)
 
-4. [**Digital Boundaries**](./04-digital-boundaries) (30 min)
-   - Separate work and life in our always-connected world
-   - Tame notification overload
+_Time: 15 minutes_
 
-5. [**Emotional Boundaries**](./05-emotional-boundaries) (60 min)
-   - Stop absorbing others' emotions as your own
-   - Navigate difficult relationships with confidence
+Understand how your brain actually works when it comes to attention. Spoiler: multitasking is a myth, and context switching is expensive.
 
-6. [**Professional Boundaries**](./06-professional-boundaries) (45 min)
-   - Set workplace limits that advance your career
-   - Handle scope creep and unrealistic expectations
+### Day 2: [Digital Minimalism Setup](./02-digital-minimalism)
 
-7. [**Personal Boundaries**](./07-personal-boundaries) (45 min)
-   - Maintain connection while protecting your space
-   - Navigate family and friendship dynamics
+_Time: 20 minutes_
 
-8. [**Boundary Maintenance**](./08-boundary-maintenance) (30 min)
-   - Create a system for regular boundary audits
-   - Adjust boundaries as you grow and change
+Turn your devices from distraction machines into focus tools. We'll tame notifications and create environments that support deep work.
 
-## Week 8 Deliverables
+### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
 
-- **Your Boundary Assessment** (strengths and growth areas)
-- **Your Top 3 Boundary Goals** (specific, actionable changes)
-- **Your Boundary Scripts** (phrases for common situations)
-- **Your Maintenance Plan** (regular check-ins and adjustments)
+_Time: 15 minutes_
 
-## Boundary Styles Quick Reference
+Design your personal focus sessions. Every master craftsperson has rituals. Now you will too.
 
-**People Pleaser:** Need to practice saying no in low-stakes situations first.
-**Rigid Controller:** Can benefit from strategic flexibility in safe relationships.
-**Inconsistent Fluctuator:** Focus on one consistent boundary to build confidence.
-**Healthy Balancer:** Fine-tune existing boundaries for maximum effectiveness.
+### Day 4: [Attention Restoration](./04-attention-restoration)
 
-## Developer-Specific Boundary Challenges
+_Time: 15 minutes_
 
-- After-hours Slack messages and "urgent" weekend requests
-- FOMO with new technologies and conference burnout
-- Open office interruptions and informal mentoring pressure
-- Always-learning expectations and side project overwhelm
+Learn how to truly recharge your mental energy. Scrolling Instagram doesn't count as rest (sorry!).
 
-## Essential Boundary Phrases
+### Day 5: [The Pomodoro+ System](./05-pomodoro-plus)
 
-**Time:** "I check email at 10 AM and 3 PM daily."
-**Energy:** "I need 15 minutes between meetings to transition."
-**Professional:** "I'm at capacity until next month, but here's what I can do..."
+_Time: 20 minutes_
 
-## The Boundary Paradox
+Take the classic Pomodoro Technique and supercharge it with your personal energy patterns and working style.
 
-**Counterintuitive Truth:** The clearer your boundaries, the better your relationships become.
+### Day 6: [Distraction Proofing](./06-distraction-proofing)
 
-People respect those who respect themselves. Clear boundaries create trust, reduce resentment, and enable authentic connection.
+_Time: 15 minutes_
 
-## Life Lesson
+Identify your focus kryptonite and build systems to protect yourself from your own worst habits.
 
-Your boundaries teach people how to treat you. The patterns you establish in your twenties will follow you throughout your career.
+### Day 7: [Flow State Engineering](./07-flow-state)
 
-## Quick Navigation
+_Time: 15 minutes_
 
-**Start Here →** [01: Understanding Your Boundary Style](./01-boundary-style)
+Create the conditions where time disappears and your best work emerges naturally.
+
+### Day 8: [Focus Tracking](./08-focus-tracking)
+
+_Time: 20 minutes_
+
+Measure and improve your attention patterns. You can't optimize what you don't track.
+
+## What You'll Walk Away With
+
+By Sunday night, you'll have:
+
+- ✅ A distraction-free work environment
+- ✅ Personalized deep work rituals that actually stick
+- ✅ Systems to protect your attention from constant interruption
+- ✅ The ability to enter flow state on command
+- ✅ Recovery techniques that actually restore your mental energy
+
+## Real Talk 💬
+
+Look, improving your focus isn't about becoming a monk or throwing your phone in a drawer. It's about being intentional with your attention instead of letting it be pulled in a million directions.
+
+The goal isn't perfect focus 24/7. It's about having deep focus available when you need it most.
+
+## Daily Rhythm
+
+**Morning (2 min)**: Quick attention check. How's your mental clarity today?
+
+**Main Session (15-20 min)**: Complete that day's focus system builder. Small changes, big impact.
+
+**Evening (3 min)**: Reflect on your focus quality today. What supported deep work? What scattered it?
+
+## Your Week 5 Toolkit
+
+### 📱 Essential Apps
+
+- **Focus/Do Not Disturb**: Built-in phone features (free)
+- **Forest or Freedom**: Distraction blockers
+- **Timer app**: For focused sessions
+
+### 🎧 Optional Companions
+
+- **Noise-canceling headphones**: Create instant focus zones
+- **Instrumental music playlist**: Background focus fuel
+- **Desk organization**: Physical clutter = mental clutter
+
+## Quick Start Challenge
+
+**Right now, before you read another word:**
+
+1. Put your phone in airplane mode for the next hour
+2. Notice how many times you instinctively reach for it
+3. Set a timer for 25 minutes and do ONE focused task
+4. Write down how it felt different from your normal work
+
+That's it. You've just experienced what focused work feels like. Now let's make it your default mode! 🧠✨
+
+## A Friendly Reminder
+
+Your attention is not broken. It's just been trained by an environment that profits from distraction. This week, we're retraining it to serve your goals instead of everyone else's agenda.
+
+## Questions?
+
+Write them down! Curiosity is attention's best friend. Every question is your brain asking to go deeper.
 
 ---
-
-_Boundaries aren't selfish—they're sustainable. They protect your ability to show up fully in what matters most._

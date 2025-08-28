@@ -1,122 +1,129 @@
-# Week 2: Purpose & Vision - Style Guide
+# Week 2: Learning How to Learn - Style Guide
 
 ## Week Overview
 
-Week 2 helps students connect their identity to their future. This is about dreaming without pressure and finding their "why" in tech. Balance aspiration with realism.
+Week 2 helps students become better learners. In tech, learning never stops, so building sustainable learning habits is crucial. Focus on curiosity over competition.
 
 ## Specific Tone for This Week
 
-- **Inspirational but grounded**: Dream big, start small
-- **Patient and understanding**: Purpose takes time to find
-- **Flexible**: Multiple paths are valid
-- **Encouraging**: Every vision matters
+- **Curious and exploratory**: Learning is adventure
+- **Growth-minded**: Mistakes are data
+- **Inclusive**: All learning styles valid
+- **Practical**: Apply immediately
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Values Discovery (01-values-discovery.md)
+### Lesson 1: Learning Style (01-learning-style.md)
 
-- What actually matters to them
-- Values aren't just corporate buzzwords
-- Personal over professional values
-- "Your values are your compass"
+- How they actually learn best
+- Beyond "visual/auditory" basics
+- Code-specific learning patterns
+- "There's no wrong way to learn"
 
-### Lesson 2: Ikigai Mapping (02-ikigai-mapping.md)
+### Lesson 2: Second Brain (02-second-brain.md)
 
-- Simple version, not overwhelming
-- Finding intersection points
-- "Close enough" is fine
-- Purpose evolves over time
+- Simple note-taking systems
+- Free tools only
+- Start small and grow
+- "Your external memory"
 
-### Lesson 3: Life Timeline (03-life-timeline.md)
+### Lesson 3: Spaced Repetition (03-spaced-repetition.md)
 
-- Celebrate their journey so far
-- Patterns in their past
-- No trauma mining
-- "Your story brought you here"
+- Why cramming doesn't work
+- Simple spacing techniques
+- Anki basics for code
+- "Review to remember"
 
-### Lesson 4: Future Eulogy (04-future-eulogy.md)
+### Lesson 4: Active Learning (04-active-learning.md)
 
-- Not morbid, just perspective
-- What legacy for their 80-year-old self?
-- Keep it light and meaningful
-- "What do you want to be remembered for?"
+- Learning by doing
+- Build while learning
+- Teach to learn
+- "Passive learning doesn't stick"
 
-### Lesson 5: Vision Creation (05-vision-creation.md)
+### Lesson 5: Information Diet (05-information-diet.md)
 
-- 1-3 year vision (not 10 years)
-- Specific but flexible
-- Include life beyond career
-- "Where do you want to be?"
+- Quality over quantity
+- Avoiding tutorial hell
+- Choosing resources wisely
+- "Not all content is equal"
 
-### Lesson 6: Technical Calling (06-technical-calling.md)
+### Lesson 6: Project Learning (06-project-learning.md)
 
-- Why tech specifically?
-- Multiple valid reasons
-- Beyond just money
-- "Tech needs people like you"
+- Projects > courses
+- Start ugly, iterate
+- Learning through building
+- "Build to understand"
 
-### Lesson 7: Personal Manifesto (07-personal-manifesto.md)
+### Lesson 7: Failure Learning (07-failure-learning.md)
 
-- Simple statements of intent
-- Their personal constitution
-- Living document
-- "This is who I choose to be"
+- Bugs are teachers
+- Error messages are friends
+- Debugging as learning
+- "Failure is feedback"
+
+### Lesson 8: Knowledge Sharing (08-knowledge-sharing.md)
+
+- Learn in public benefits
+- Simple sharing methods
+- Building while learning
+- "Teaching solidifies learning"
 
 ## Key Messages for Week 2
 
 ### Core Messages:
 
-- "Purpose isn't found, it's built"
-- "Your why can be simple"
-- "It's okay to not know yet"
-- "Multiple passions are valid"
-- "Start where you are"
+- "Curiosity > credentials"
+- "Learn by building"
+- "Mistakes accelerate learning"
+- "Share while learning"
+- "Progress > perfection"
 
-### Reassuring Truths:
+### Learning Truths:
 
-- Purpose can change
-- Small purpose is still purpose
-- Making money is a valid goal
-- Helping family counts
-- You don't need to save the world
+- Everyone googles everything
+- Tutorial hell is real
+- Impostor syndrome is normal
+- Forgetting is human
+- Consistency beats intensity
 
 ## Examples to Use
 
 ### Good Examples:
 
-- First-gen college student goals
-- Supporting family through tech
-- Building cool stuff as purpose
-- Learning as its own reward
-- Community impact through code
+- Building todo apps to learn
+- YouTube University success
+- Free bootcamp resources
+- Study group formation
+- Blog-driven development
 
 ### Avoid:
 
-- Silicon Valley unicorn dreams only
-- Assuming entrepreneurship
-- "Change the world" pressure
-- Privileged starting points
-- Single path to success
+- Expensive course promotion
+- "Learn X in 24 hours"
+- Perfectionist note-taking
+- Information hoarding
+- Passive consumption only
 
 ## Exercises for This Week
 
-Vision-building activities:
+Learning experiments:
 
-- Values card sort (simple)
-- Future letter to self
-- Three-year visualization
-- One-page manifesto
-- Weekly reflection prompts
+- Build something tiny
+- Teach one concept
+- Create one note
+- Debug one error
+- Share one learning
 
-## Language Specific to Purpose
+## Language Specific to Learning
 
 ### Instead of:
 
-- "Find your passion" → "Notice what energizes you"
-- "Life purpose" → "What matters to you"
-- "Calling" → "What pulls you forward"
-- "Mission statement" → "What you're about"
-- "Vision board" → "Future sketch"
+- "Master the fundamentals" → "Get comfortable with basics"
+- "Complete curriculum" → "Learn what you need"
+- "Comprehensive knowledge" → "Working knowledge"
+- "Expert level" → "Confident beginner"
+- "Full understanding" → "Enough to build"
 
 ## Writing Style Notes
 
@@ -129,73 +136,75 @@ Vision-building activities:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Sensitive Topics Approach
+## Common Learning Anxieties
 
-### Past Exploration:
+### For Slow Learners:
 
-- Keep it light
-- No forced vulnerability
-- Focus on strengths from struggles
-- "Only share what's comfortable"
+- Pace doesn't matter
+- Deep > fast
+- Understanding > memorizing
+- "Take your time"
 
-### Future Planning:
+### For Fast Learners:
 
-- Acknowledge uncertainty
-- Multiple futures are okay
-- Plan to plan again
-- "This isn't set in stone"
+- Depth matters too
+- Build to solidify
+- Teach others
+- "Fast isn't always better"
+
+### For Comparison Trap:
+
+- Everyone's journey differs
+- Focus on your progress
+- Yesterday you > others
+- "Run your own race"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Let's explore what matters to you"
-**Wednesday (Lesson 3-4)**: "Your past has prepared you"
-**Friday (Lesson 5-6)**: "Your future is bright"
-**Weekend (Lesson 7)**: "You know where you're headed"
+**Monday (Lesson 1-2)**: "Discover how you learn"
+**Wednesday (Lesson 3-4)**: "Active learning works"
+**Friday (Lesson 5-6)**: "Build to learn"
+**Weekend (Lesson 7-8)**: "Share your journey"
 
 ## Success Metrics
 
 Students should finish Week 2 with:
 
-1. Clear personal values (3-5)
-2. Rough vision for next 2 years
-3. Understanding of their "why"
-4. Personal manifesto draft
-5. Excitement about possibilities
+1. Clear learning preferences
+2. Simple note system started
+3. One learning experiment done
+4. Reduced learning anxiety
+5. Excitement about learning
 
-## Special Considerations
+## Learning Anti-Patterns
 
-### For the Practical:
+### Avoid Promoting:
 
-- Purpose can be practical
-- ROI of purpose-driven work
-- Concrete benefits
-- "Purpose pays off"
+- Tutorial addiction
+- Perfect notes obsession
+- Credential chasing
+- Comparison culture
+- Learning without building
 
-### For the Idealistic:
+### Do Promote:
 
-- Channel idealism productively
-- Small impacts matter
-- Start local
-- "Every bit helps"
-
-### For the Uncertain:
-
-- Uncertainty is normal
-- Purpose clarifies with action
-- Start with experiments
-- "Clarity comes through doing"
+- Just-in-time learning
+- Building constantly
+- Sharing work-in-progress
+- Embracing confusion
+- Celebrating small wins
 
 ## Remember
 
 Week 2 is about:
 
-- Giving permission to dream
-- Grounding dreams in reality
-- Connecting past to future
-- Building personal foundation
-- Creating direction, not pressure
+- Making learning sustainable
+- Building learning confidence
+- Creating personal systems
+- Embracing mistakes
+- Staying curious
 
-Every lesson should inspire: "My future is mine to create."
+Every lesson should inspire: "I can learn anything I need."
 
 ## Frontmatter Requirements
 
@@ -217,7 +226,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-02/02-ikigai-mapping/` for all navigation links.
+Use full relative paths like `/journey/week-02/02-second-brain/` for all navigation links.
 
 Example navigation section:
 
@@ -226,7 +235,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Values Discovery](/journey/week-02/01-values-discovery/) | [Next: Life Timeline](/journey/week-02/03-life-timeline/) →
+← [Previous: Learning Style](/journey/week-02/01-learning-style/) | [Next: Spaced Repetition](/journey/week-02/03-spaced-repetition/) →
 
 [← Back to Week 2 Overview](/journey/week-02/)
 ```

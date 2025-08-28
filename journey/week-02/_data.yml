@@ -1,32 +1,35 @@
 layout: layouts/journey.vto
 week: 2
-phase: self-discovery
+phase: "Phase 1: Foundation"
 
 lessons:
   - index: 0
-    title: "Week 2: Finding Your True North Overview"
+    title: "Week 2: Learning How to Learn Overview"
     slug: ""
   - index: 1
-    title: "What Do You Actually Value?"
-    slug: "01-values-discovery"
+    title: "Find Your Learning Style"
+    slug: "01-learning-style"
   - index: 2
-    title: "Finding Your Sweet Spot"
-    slug: "02-ikigai-mapping"
+    title: "Build Your Second Brain"
+    slug: "02-second-brain"
   - index: 3
-    title: "Your Life Story (The Peaks and Valleys)"
-    slug: "03-life-timeline"
+    title: "Master Spaced Repetition"
+    slug: "03-spaced-repetition"
   - index: 4
-    title: "What They'll Say About You"
-    slug: "04-future-eulogy"
+    title: "Active Learning Techniques"
+    slug: "04-active-learning"
   - index: 5
-    title: "Your Future Self Is Calling"
-    slug: "05-vision-creation"
+    title: "Design Your Information Diet"
+    slug: "05-information-diet"
   - index: 6
-    title: "Your Code, Your Calling"
-    slug: "06-technical-calling"
+    title: "Learn Through Projects"
+    slug: "06-project-learning"
   - index: 7
-    title: "Writing Your Manifesto"
-    slug: "07-personal-manifesto"
+    title: "Turn Failures into Fuel"
+    slug: "07-failure-learning"
   - index: 8
+    title: "Share Your Knowledge"
+    slug: "08-knowledge-sharing"
+  - index: 9
     title: "Weekly Meditation & Reflection"
-    slug: "08-reflection"
+    slug: "09-reflection"

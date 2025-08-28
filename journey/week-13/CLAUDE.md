@@ -1,129 +1,124 @@
-# Week 13: Life Integration - Style Guide
+# Week 13: Giving Back & Legacy - Style Guide
 
 ## Week Overview
 
-Week 13 helps students integrate their growth into a sustainable life. This is about balance, relationships, and building a life beyond code. Extra warmth needed as this gets personal.
+Week 13 focuses on giving back and creating meaningful impact. This is about contributing to others' growth and building something that lasts beyond just personal success. Students learn to mentor, teach, and create positive impact.
 
 ## Specific Tone for This Week
 
-- **Holistic and caring**: Address the whole person
-- **Non-judgmental**: Everyone's life looks different
-- **Flexible**: Multiple right answers
-- **Compassionate**: Life is messy and that's okay
+- **Inspiring and purposeful**: Impact starts now, not later
+- **Inclusive**: Everyone can contribute something
+- **Practical**: Small acts of giving back matter
+- **Humble**: You don't need to be expert to help others
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Work-Life Harmony (01-work-life-harmony.md)
+### Lesson 1: Legacy Thinking (01-legacy-thinking.md)
 
-- "Balance" is a myth, harmony is real
-- Different seasons need different approaches
-- Include student-specific challenges
-- Permission to have boundaries
+- Daily legacy vs deathbed speeches
+- Small actions that compound
+- Impact through everyday choices
+- "Legacy is built daily, not declared"
 
-### Lesson 2: Relationship Management (02-relationship-management.md)
+### Lesson 2: Community Building (02-community-building.md)
 
-- Friends, family, romantic - all matter
-- Tech career impact on relationships
-- Maintaining non-tech friendships
-- Dating while grinding (it's hard!)
+- Finding and building communities
+- Creating spaces for others
+- Connecting people together
+- "Communities create opportunities"
 
-### Lesson 3: Financial Wellness (03-financial-wellness.md)
+### Lesson 3: Mentoring Others (03-mentoring-others.md)
 
-- Start with student budgets
-- Ramen to real food transition
-- First paycheck planning
-- Debt isn't shameful
+- You know more than you think
+- Informal mentoring opportunities
+- Helping newcomers succeed
+- "Teaching solidifies your own learning"
 
-### Lesson 4: Health Optimization (04-health-optimization.md)
+### Lesson 4: Open Source Contributions (04-open-source.md)
 
-- Desk job health hazards
-- Affordable wellness (no gym required)
-- Mental health is health
-- Sleep > hustle culture
+- Contributing to projects
+- Documentation improvements
+- Beginner-friendly contributions
+- "Open source is community building through code"
 
-### Lesson 5: Personal Systems (05-personal-systems.md)
+### Lesson 5: Teaching & Knowledge Sharing (05-teaching-sharing.md)
 
-- Life admin made simple
-- Automate what you can
-- Systems that stick
-- Start tiny
+- Blog posts, tutorials, talks
+- Sharing lessons learned
+- Making complex things simple
+- "The best way to learn is to teach"
 
-### Lesson 6: Legacy Thinking (06-legacy-thinking.md)
+### Lesson 6: Meaningful Projects (06-meaningful-projects.md)
 
-- Not about death, about impact
-- Small legacies count
-- Daily legacy building
-- "What do you want to be remembered for?"
+- Building things that help others
+- Social impact through technology
+- Purpose-driven side projects
+- "Use your skills for good"
 
-### Lesson 7: Community Building (07-community-building.md)
+### Lesson 7: Impact Plan (07-impact-plan.md)
 
-- Finding your people
-- Online and offline community
-- Giving back while growing
-- You belong somewhere
-
-### Lesson 8: Integration Plan (08-integration-plan.md)
-
-- Bringing it all together
-- Your personal life OS
-- Quarterly life reviews
-- Sustainable growth
+- Creating sustainable giving-back systems
+- Regular contribution habits
+- Growing impact over time
+- "Impact is intentional, not accidental"
 
 ## Key Messages for Week 13
 
-### Core Truths to Include:
+### Core Messages:
 
-- "Success without wellbeing is failure"
-- "Your relationships are your real network"
-- "Health compounds like interest"
-- "Community makes everything easier"
-- "You can't code your way out of life problems"
+- "You already have something valuable to give"
+- "Impact starts with small acts of service"
+- "Success includes lifting others up"
+- "Your skills can solve real problems"
+- "Legacy is built through daily choices"
 
-### Practical Elements:
+### Giving Back Truths:
 
-- Budget templates for entry-level salaries
-- Free health resources
-- Relationship maintenance systems
-- Community finding strategies
-- Life planning tools
+- You don't need to be an expert to help
+- Small contributions matter
+- Teaching others helps you learn
+- Communities multiply individual impact
+- Purpose fuels sustainable success
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Managing family expectations about tech career
-- Explaining your job to non-tech friends
-- Building savings on entry-level salary
-- Finding community in a new city
-- Dating app profile for developers (yes, really)
+- Answering Stack Overflow questions
+- Writing beginner-friendly tutorials
+- Mentoring bootcamp students
+- Contributing to open source docs
+- Speaking at local meetups
+- Volunteering coding skills
 
 ### Avoid:
 
-- Assuming traditional family structures
-- High-income financial advice
-- Expensive wellness solutions
-- Perfect morning routines
-- Unrealistic time management
+- Waiting until "qualified enough"
+- Only helping for personal gain
+- Gatekeeping knowledge
+- Contributing just for resume padding
+- All-or-nothing thinking about impact
 
 ## Exercises for This Week
 
-Life-integrated practices:
+Impact experiments:
 
-- Text one friend you miss
-- Move for 10 minutes
-- Check one financial number
-- Join one online community
-- Schedule one non-work thing
+- Write one helpful tutorial
+- Answer one Stack Overflow question
+- Mentor one person informally
+- Contribute to one open source project
+- Speak at one local event
+- Build one purpose-driven feature
 
-## Language Specific to Life Content
+## Language Specific to Impact
 
 ### Instead of:
 
-- "Optimize your life" → "Make life a bit easier"
-- "Life hacking" → "Small changes that help"
-- "Wellness journey" → "Taking care of yourself"
-- "Financial freedom" → "Money stress reduction"
-- "Network building" → "Making real friends"
+- "Give back when successful" → "Start giving back now"
+- "Help when I'm an expert" → "Share what you're learning"
+- "Big impact only" → "Small acts compound"
+- "Perfect contribution" → "Helpful contribution"
+- "When I have time" → "Make time for what matters"
 
 ## Writing Style Notes
 
@@ -136,60 +131,57 @@ Life-integrated practices:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Sensitive Topics Approach
-
-### Money:
-
-- Acknowledge different starting points
-- Include financial trauma awareness
-- Practical over inspirational
-- No shame about current situation
-
-### Health:
-
-- Include mental health equally
-- Accommodate disabilities
-- Free/cheap solutions only
-- No toxic wellness culture
-
-### Relationships:
-
-- All relationship types valid
-- Include chosen family
-- Boundaries are healthy
-- Quality over quantity
-
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Your life matters as much as your code"
-**Wednesday (Lesson 3-4)**: "Small changes make big differences"
-**Friday (Lesson 5-6)**: "You're building something bigger"
-**Weekend (Lesson 7-8)**: "You've got this, all of it"
+**Monday (Lesson 1-2)**: "You can make a difference now"
+**Wednesday (Lesson 3-4)**: "Share your knowledge with others"
+**Friday (Lesson 5-6)**: "Build things that matter"
+**Weekend (Lesson 7-8)**: "Create your impact plan"
 
 ## Success Metrics
 
 Students should finish Week 13 with:
 
-1. One life system implemented
-2. Clearer priorities beyond career
-3. Reduced guilt about life balance
-4. Practical life management tools
-5. Sense of wholeness
+1. Clear sense of how they can contribute
+2. One active giving-back activity
+3. Plan for ongoing contributions
+4. Community connections made
+5. Purpose-aligned projects started
+
+## Special Considerations
+
+### For Impostor Syndrome Students:
+
+- You have more to offer than you think
+- Beginners help other beginners best
+- Your struggles help others relate
+- "Your journey is someone else's roadmap"
+
+### For Self-Focused Students:
+
+- Success is sweeter when shared
+- Communities accelerate individual growth
+- Helping others builds your network
+- "Rising tides lift all boats"
+
+### For Overwhelmed Students:
+
+- Start with 15 minutes per week
+- One small act is better than none
+- Consistency beats intensity
+- "Small acts compound over time"
 
 ## Remember
 
-This week addresses:
+Week 13 is about:
 
-- Loneliness in tech
-- Hustle culture recovery
-- Family/friend disconnection
-- Money anxiety
-- Health neglect
-- Purpose questions
+- Shifting from consuming to contributing
+- Finding ways to help others succeed
+- Building sustainable giving-back habits
+- Creating meaningful impact through skills
+- Understanding that success includes service
 
-Be extra gentle. This stuff is harder than coding.
-
-Every lesson should remind: "You are more than your career."
+Every lesson should make them think: "I can make a positive difference right now."
 
 ## Frontmatter Requirements
 
@@ -198,29 +190,16 @@ For all lesson files in this week, use these required frontmatter fields:
 - `title`: The lesson title
 - `description`: Brief description of the lesson
 - `excerpt`: Summary for listing pages
+- `index`: Lesson number (1-8) to map to the lessons array in _data.yml
 - `objectives`: Learning objectives for the lesson
 - `estimated_time`: (optional) Expected completion time
 
 **DO NOT use**: `day`, `week`, or `lesson` fields in frontmatter.
 
-## Navigation Requirements
+## Navigation System
 
-Every lesson file MUST include navigation links at the end:
+Navigation is managed through the `_data.yml` file in this week's folder.
 
-- Previous lesson link (if applicable)
-- Next lesson link (if applicable)
-- Back to Week Overview link
+The `_data.yml` file contains a `lessons` array that defines the order and structure of all lessons. Each lesson file includes an `index` field in its frontmatter to map to this array.
 
-Use full relative paths like `/journey/week-13/02-life-balance/` for all navigation links.
-
-Example navigation section:
-
-```markdown
----
-
-## Navigation
-
-← [Previous: Life Audit](/journey/week-13/01-life-audit/) | [Next: Relationships](/journey/week-13/03-relationships/) →
-
-[← Back to Week 13 Overview](/journey/week-13/)
-```
+Navigation links are automatically generated by the template - **do not manually add navigation links at the end of lesson files**.

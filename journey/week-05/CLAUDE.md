@@ -1,129 +1,162 @@
-# Week 5: Deep Focus - Style Guide
+# Week 5: Resilience & Growth Mindset - Style Guide
 
 ## Week Overview
 
-Week 5 teaches focus in a distracted world. This is about building concentration muscles without becoming a hermit. Balance deep work with real life.
+Week 5 is about bouncing back stronger. Students need to see failure as a teacher, not an enemy. This week builds mental toughness while maintaining self-compassion.
 
 ## Specific Tone for This Week
 
-- **Understanding**: Distractions are designed to be addictive
-- **Practical**: Small improvements matter
-- **Flexible**: Perfect focus isn't the goal
-- **Compassionate**: Focus is hard for everyone
+- **Empowering**: Failure is just data, not destiny
+- **Realistic**: Acknowledge that setbacks hurt
+- **Growth-focused**: Every failure has a lesson
+- **Compassionate**: Be kind to yourself while being honest
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Focus Neuroscience (01-focus-neuroscience.md)
+### Lesson 1: Failure Story Audit (01-failure-story-audit.md)
 
-- Simple brain science
-- Why focus is actually hard
-- Dopamine and attention
-- "Your brain isn't broken"
+- Normalize failure stories
+- Everyone has them, successful people have more
+- Reframe past failures as learning
+- No toxic positivity
 
-### Lesson 2: Digital Minimalism (02-digital-minimalism.md)
+### Lesson 2: Growth Mindset Development (02-growth-mindset.md)
 
-- Reducing without eliminating
-- Practical phone strategies
-- Tool selection criteria
-- "Use tech, don't let it use you"
+- Fixed vs growth isn't binary
+- We all have both in different areas
+- Practical ways to shift perspective
+- Small wins build big changes
 
-### Lesson 3: Deep Work Rituals (03-deep-work-rituals.md)
+### Lesson 3: Stress Inoculation (03-stress-inoculation.md)
 
-- Creating focus triggers
-- Environment design
-- Starting small
-- "Rituals reduce resistance"
+- Controlled exposure to challenges
+- Building tolerance gradually
+- Not about being tough
+- About being prepared
 
-### Lesson 4: Attention Restoration (04-attention-restoration.md)
+### Lesson 4: Emotional Regulation (04-emotional-regulation.md)
 
-- Why breaks matter
-- Active recovery
-- Nature and focus
-- "Rest is part of focus"
+- Feelings are data, not directives
+- Simple techniques that actually work
+- No meditation shame if it's not for you
+- Find what works for YOUR brain
 
-### Lesson 5: Pomodoro Plus (05-pomodoro-plus.md)
+### Lesson 5: Support Systems (05-support-systems.md)
 
-- Beyond basic Pomodoro
-- Finding your intervals
-- Matching energy levels
-- "Customize your cycles"
+- Asking for help is strategic, not weak
+- Different people for different needs
+- Building your personal board of directors
+- Reciprocal support matters
 
-### Lesson 6: Distraction Proofing (06-distraction-proofing.md)
+### Lesson 6: Bounce-Back Strategies (06-bounce-back-strategies.md)
 
-- Friction and barriers
-- Environmental design
-- Phone strategies
-- "Make distractions harder"
+- Concrete recovery protocols
+- When to push through vs rest
+- Creating your comeback plan
+- Small actions build momentum
 
-### Lesson 7: Flow State (07-flow-state.md)
+### Lesson 7: Post-Traumatic Growth (07-post-traumatic-growth.md)
 
-- Conditions for flow
-- Challenge-skill balance
-- Flow triggers
-- "Flow is achievable"
+- Not all struggles make us stronger
+- But some can if we're intentional
+- Finding meaning without forcing it
+- Growth isn't mandatory
 
-### Lesson 8: Focus Tracking (08-focus-tracking.md)
+### Lesson 8: Resilience Maintenance (08-resilience-maintenance.md)
 
-- Measuring improvement
-- Focus metrics
-- Progress celebration
-- "Small gains compound"
+- Resilience is like fitness
+- You don't build it once
+- Daily practices that maintain it
+- Preventing resilience fatigue
 
 ## Key Messages for Week 5
 
-### Core Messages:
+### Core Truths:
 
-- "Focus is a skill, not a talent"
-- "Start with 10 minutes"
-- "Breaks improve focus"
-- "Environment matters"
-- "Progress not perfection"
+- "Failure is feedback, not a verdict"
+- "Resilience is a skill, not a trait"
+- "You're stronger than you think"
+- "Every setback is a setup for a comeback"
+- "Progress isn't always forward"
 
-### Reality Checks:
+### Normalize These:
 
-- 4 hours deep work is MAX
-- Multitasking is a myth
-- Notifications are evil
-- Focus fatigue is real
-- Phone addiction is normal
+- Crying after a failure
+- Taking time to recover
+- Asking for help
+- Changing your approach
+- Not bouncing back immediately
 
 ## Examples to Use
 
 ### Good Examples:
 
-- 25-minute coding sessions
-- Phone in another room
-- Morning focus blocks
-- Walking breaks
-- Noise-canceling headphones
+- Failed coding interview, learned what to study
+- Project rejection, improved pitch
+- Burned out, learned boundaries
+- Lost job, found better fit
+- Failed class, changed major
 
 ### Avoid:
 
-- 8-hour focus sessions
-- Complete digital detox
-- Monk-like discipline
-- Shame about distraction
-- Unrealistic standards
+- Extreme hardship stories
+- "Everything happens for a reason"
+- Comparing struggles
+- Minimizing real pain
+- Toxic positivity
 
 ## Exercises for This Week
 
-Focus experiments:
+Reflection and action focused:
 
-- 10-minute focus challenge
-- Phone-free hour
-- Deep work ritual design
-- Distraction log
-- Flow state mapping
+- Failure inventory with lessons
+- Stress level assessments
+- Support network mapping
+- Recovery protocol design
+- Growth tracking journals
 
-## Language Specific to Focus
+## Language Specific to Resilience
 
 ### Instead of:
 
-- "Laser focus" → "Gentle concentration"
-- "Eliminate distractions" → "Reduce interruptions"
-- "Total concentration" → "Present attention"
-- "Focus optimization" → "Better focus habits"
-- "Maximum productivity" → "Quality work time"
+- "Bounce back" → "Move forward"
+- "Get over it" → "Work through it"
+- "Stay strong" → "Be human"
+- "Push through" → "Navigate wisely"
+- "Tough it out" → "Find your way"
+
+## Weekly Emotional Arc
+
+**Monday (Lesson 1-2)**: "Let's look at failure differently"
+**Wednesday (Lesson 3-4)**: "You have more tools than you think"
+**Friday (Lesson 5-6)**: "You're not alone in this"
+**Weekend (Lesson 7-8)**: "You can handle whatever comes"
+
+## Success Metrics
+
+Students should finish Week 5 with:
+
+1. Reframed relationship with failure
+2. Concrete resilience strategies
+3. Active support network
+4. Emotional regulation tools
+5. Personal recovery protocols
+
+## Special Considerations
+
+### For Perfectionists:
+
+- Failure doesn't mean you're failing
+- High standards can coexist with self-compassion
+- Mistakes are data points
+- Perfect resilience doesn't exist
+
+### For Those Struggling:
+
+- It's okay to not be okay
+- Resilience isn't about not feeling
+- Take the time you need
+- Professional help is valid
 
 ## Writing Style Notes
 
@@ -136,75 +169,17 @@ Focus experiments:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Focus Struggles
-
-### For ADHD/Neurodivergent:
-
-- Your brain works differently
-- Hyperfocus is superpower
-- Movement helps
-- "Find your way"
-
-### For Anxious Minds:
-
-- Racing thoughts are normal
-- Start very small
-- Breathing helps
-- "Be patient with yourself"
-
-### For Social Media Addicted:
-
-- It's designed to hook you
-- Cold turkey isn't necessary
-- Gradual reduction works
-- "You're not weak"
-
-## Weekly Emotional Arc
-
-**Monday (Lesson 1-2)**: "Understand your attention"
-**Wednesday (Lesson 3-4)**: "Design for focus"
-**Friday (Lesson 5-6)**: "Build focus habits"
-**Weekend (Lesson 7-8)**: "Find your flow"
-
-## Success Metrics
-
-Students should finish Week 5 with:
-
-1. One focus ritual established
-2. Reduced phone usage
-3. Personal focus intervals known
-4. Environmental improvements
-5. Less focus anxiety
-
-## Focus Reality Check
-
-### Normalize:
-
-- Checking phone 100x daily
-- Focus lasting minutes
-- Mental fatigue
-- Distraction urges
-- Gradual improvement
-
-### Celebrate:
-
-- 10 minutes focused
-- One notification turned off
-- One deep work session
-- One phone-free meal
-- Any improvement
-
 ## Remember
 
-Week 5 is about:
+This week is about:
 
-- Building focus gradually
-- Working with your brain
-- Environmental design
-- Sustainable practices
-- Self-compassion
+- Building real resilience
+- Not pretending everything's fine
+- Practical tools over platitudes
+- Self-compassion with accountability
+- Growth through struggle
 
-Every lesson should convey: "Better focus is possible for you."
+Every lesson should reinforce: "You can handle hard things."
 
 ## Frontmatter Requirements
 
@@ -213,29 +188,16 @@ For all lesson files in this week, use these required frontmatter fields:
 - `title`: The lesson title
 - `description`: Brief description of the lesson
 - `excerpt`: Summary for listing pages
+- `index`: Lesson number (1-8) to map to the lessons array in _data.yml
 - `objectives`: Learning objectives for the lesson
 - `estimated_time`: (optional) Expected completion time
 
 **DO NOT use**: `day`, `week`, or `lesson` fields in frontmatter.
 
-## Navigation Requirements
+## Navigation System
 
-Every lesson file MUST include navigation links at the end:
+Navigation is managed through the `_data.yml` file in this week's folder.
 
-- Previous lesson link (if applicable)
-- Next lesson link (if applicable)
-- Back to Week Overview link
+The `_data.yml` file contains a `lessons` array that defines the order and structure of all lessons. Each lesson file includes an `index` field in its frontmatter to map to this array.
 
-Use full relative paths like `/journey/week-05/02-digital-minimalism/` for all navigation links.
-
-Example navigation section:
-
-```markdown
----
-
-## Navigation
-
-← [Previous: Focus Neuroscience](/journey/week-05/01-focus-neuroscience/) | [Next: Deep Work Rituals](/journey/week-05/03-deep-work-rituals/) →
-
-[← Back to Week 5 Overview](/journey/week-05/)
-```
+Navigation links are automatically generated by the template - **do not manually add navigation links at the end of lesson files**.

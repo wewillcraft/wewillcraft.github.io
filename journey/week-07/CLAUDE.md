@@ -1,129 +1,130 @@
-# Week 7: Sustainable Pace - Style Guide
+# Week 7: Energy & Productivity - Style Guide
 
 ## Week Overview
 
-Week 7 is about preventing burnout and building sustainability. This is crucial as many students are prone to overwork. Anti-hustle culture messaging is essential.
+Week 7 helps students design their personal productivity system while preventing burnout. This is about working WITH their natural patterns and building sustainable systems. Anti-hustle culture approach that prioritizes wellbeing.
 
 ## Specific Tone for This Week
 
-- **Protective and caring**: Your wellbeing matters most
+- **Realistic and protective**: Productivity isn't about doing more
+- **Anti-perfectionist**: Progress over productivity
+- **Personalized**: One size doesn't fit all
+- **Sustainable**: Marathon not sprint mindset
 - **Counter-cultural**: Rest is revolutionary
-- **Firm but kind**: Boundaries are non-negotiable
-- **Sustainable**: Long game thinking
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Burnout Prevention (01-burnout-prevention.md)
+### Lesson 1: Energy Audit (01-energy-audit.md)
+
+- When they naturally have energy
+- Energy givers vs drainers
+- Biological prime time
+- "Work with your body, not against it"
+
+### Lesson 2: Energy Tracking (02-energy-tracking.md)
+
+- Simple tracking methods
+- No complex apps needed
+- Pattern recognition over a week
+- "Data about yourself is power"
+
+### Lesson 3: Pattern Recognition (03-pattern-recognition.md)
+
+- What their data tells them
+- Common patterns to notice
+- No judgment, just observation
+- "Patterns reveal possibilities"
+
+### Lesson 4: Productivity Design (04-productivity-design.md)
+
+- Custom systems that fit them
+- Working with their patterns
+- Simple is better
+- "Design your system, don't copy others"
+
+### Lesson 5: Burnout Prevention (05-burnout-prevention.md)
 
 - Recognizing early signs
-- Why burnout happens
-- Tech culture problems
-- "Burnout isn't a badge"
+- Why burnout happens in tech
+- Protective strategies
+- "Burnout isn't a badge of honor"
 
-### Lesson 2: Energy Task Management (02-energy-task-management.md)
+### Lesson 6: Energy & Task Management (06-energy-task-management.md)
 
-- Matching tasks to energy
-- High/low energy work
-- Energy budgeting
-- "Energy is finite"
+- Matching tasks to energy levels
+- High/low energy work planning
+- Energy budgeting principles
+- "Energy is finite, use it wisely"
 
-### Lesson 3: Saying No (03-saying-no.md)
-
-- No is a complete sentence
-- Scripts for declining
-- Protecting your yes
-- "No creates space for yes"
-
-### Lesson 4: Motivation Systems (04-motivation-systems.md)
-
-- Intrinsic vs extrinsic
-- When motivation fails
-- Systems over willpower
-- "Motivation isn't constant"
-
-### Lesson 5: Recovery & Restoration (05-recovery-restoration.md)
+### Lesson 7: Recovery & Restoration (07-recovery-restoration.md)
 
 - Active recovery methods
-- Weekend protection
-- Vacation importance
-- "Rest is productive"
-
-### Lesson 6: Stress Management (06-stress-management.md)
-
-- Tech-specific stressors
-- Coping strategies
-- When to seek help
-- "Stress is information"
-
-### Lesson 7: Work-Life Integration (07-work-life-integration.md)
-
-- Integration over balance
-- Boundaries with remote work
-- Life outside code
-- "You are not your job"
+- Weekend and evening protection
+- Importance of genuine rest
+- "Rest is productive too"
 
 ### Lesson 8: Sustainability Audit (08-sustainability-audit.md)
 
-- Checking your pace
-- Red flags to watch
-- Course correction
-- "Sustainability check-in"
+- Checking their current systems
+- Warning signs to watch for
+- Adjustments needed
+- "Sustainable wins the long game"
 
 ## Key Messages for Week 7
 
 ### Core Messages:
 
-- "Burnout is not normal"
-- "Rest is resistance"
-- "Your health > any deadline"
-- "Boundaries are professional"
-- "Longevity > intensity"
+- "Your energy is your most valuable resource"
+- "Sustainable productivity beats burnout productivity"
+- "Work with your patterns, not against them"
+- "Rest is revolutionary in hustle culture"
+- "Progress over perfection always"
 
-### Counter-Narratives:
+### Energy Truths:
 
-- Hustle culture is toxic
-- 40 hours is enough
-- Crunch is poor planning
-- All-nighters aren't impressive
-- Your worth isn't productivity
+- Everyone has different energy patterns
+- Energy is renewable but not infinite
+- Burnout is preventable, not inevitable
+- Systems matter more than willpower
+- Your wellbeing enables your success
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Taking mental health days
-- Logging off at 5pm
-- Weekend coding bans
-- Vacation without laptop
-- Saying no to overtime
+- Morning person doing hard work early
+- Night owl protecting their peak hours
+- Taking real breaks during the day
+- Saying no to preserve energy
+- Weekend disconnection success stories
 
 ### Avoid:
 
-- Glorifying overwork
-- "Sleep when dead"
-- 100-hour weeks
-- Burnout war stories
-- Sacrifice narratives
+- Hustle culture glorification
+- "Push through" mentalities
+- Grinding success stories
+- Sleep deprivation badges
+- Burnout as necessary suffering
 
 ## Exercises for This Week
 
-Sustainability practices:
+Energy experiments:
 
-- Energy audit
-- Practice saying no
-- Schedule rest
-- Stress inventory
-- Boundary setting
+- Track energy for one week
+- Try one new productivity system
+- Practice saying no once
+- Schedule real recovery time
+- Identify one energy drainer to eliminate
 
-## Language Specific to Sustainability
+## Language Specific to Energy & Productivity
 
 ### Instead of:
 
-- "Push through" → "Listen to your body"
-- "Grind it out" → "Work sustainably"
-- "No pain no gain" → "Consistency wins"
-- "Always be shipping" → "Ship when ready"
-- "110% effort" → "70% sustained"
+- "Maximize productivity" → "Optimize your energy"
+- "Work harder" → "Work smarter"
+- "Push through" → "Work with yourself"
+- "Grind it out" → "Build sustainable systems"
+- "Sleep when you're dead" → "Rest to perform"
 
 ## Writing Style Notes
 
@@ -136,85 +137,57 @@ Sustainability practices:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Sustainability Challenges
-
-### For Overachievers:
-
-- Excellence ≠ exhaustion
-- B+ work consistently > A+ sometimes
-- Rest improves performance
-- "Slow down to speed up"
-
-### For People-Pleasers:
-
-- Disappointing others is OK
-- Your needs matter
-- No explanation needed
-- "Put your mask first"
-
-### For Financial Pressure:
-
-- Health costs more than bills
-- Burnout reduces earning
-- Long-term thinking
-- "Protect your asset (you)"
-
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Recognize the danger"
-**Wednesday (Lesson 3-4)**: "Build protective systems"
-**Friday (Lesson 5-6)**: "Implement recovery"
-**Weekend (Lesson 7-8)**: "Design sustainable life"
+**Monday (Lesson 1-2)**: "Let's understand your energy"
+**Wednesday (Lesson 3-4)**: "Design systems that work for you"
+**Friday (Lesson 5-6)**: "Protect your energy fiercely"
+**Weekend (Lesson 7-8)**: "Build sustainable practices"
 
 ## Success Metrics
 
 Students should finish Week 7 with:
 
-1. Burnout awareness
-2. One firm boundary set
-3. Rest scheduled
-4. No guilt about rest
-5. Sustainability plan
-
-## Sustainability Culture
-
-### Promote:
-
-- Regular working hours
-- Vacation taking
-- Mental health priority
-- Hobby maintenance
-- Life outside tech
-
-### Challenge:
-
-- Crunch culture
-- Competitive exhaustion
-- Productivity worship
-- Always-on mentality
-- Martyrdom complex
+1. Clear understanding of their energy patterns
+2. One simple productivity system in place
+3. Burnout prevention strategies
+4. Energy-task matching skills
+5. Commitment to sustainable practices
 
 ## Special Considerations
 
-### Address:
+### For Overachievers:
 
-- Financial pressures
-- Cultural expectations
-- Impostor syndrome driving overwork
-- Remote work boundary blur
-- Startup culture pressure
+- More isn't always better
+- Your worth isn't your productivity
+- Rest is a strategic advantage
+- "Good enough" is often perfect
+
+### For Underperformers:
+
+- Find your natural rhythms first
+- Small improvements compound
+- Systems beat motivation
+- "You're not broken, you're human"
+
+### For Perfectionists:
+
+- Done is better than perfect
+- Systems can be imperfect and still work
+- Progress is not linear
+- "Perfect productivity doesn't exist"
 
 ## Remember
 
 Week 7 is about:
 
-- Protecting students from burnout
-- Building sustainable habits
-- Challenging tech culture
-- Prioritizing wellbeing
-- Playing the long game
+- Understanding their unique energy patterns
+- Building sustainable productivity systems
+- Preventing burnout before it starts
+- Working with themselves, not against
+- Creating long-term success habits
 
-Every lesson should convey: "Your wellbeing is non-negotiable."
+Every lesson should make them think: "I can be productive AND healthy."
 
 ## Frontmatter Requirements
 
@@ -223,29 +196,16 @@ For all lesson files in this week, use these required frontmatter fields:
 - `title`: The lesson title
 - `description`: Brief description of the lesson
 - `excerpt`: Summary for listing pages
+- `index`: Lesson number (1-9) to map to the lessons array in _data.yml
 - `objectives`: Learning objectives for the lesson
 - `estimated_time`: (optional) Expected completion time
 
 **DO NOT use**: `day`, `week`, or `lesson` fields in frontmatter.
 
-## Navigation Requirements
+## Navigation System
 
-Every lesson file MUST include navigation links at the end:
+Navigation is managed through the `_data.yml` file in this week's folder.
 
-- Previous lesson link (if applicable)
-- Next lesson link (if applicable)
-- Back to Week Overview link
+The `_data.yml` file contains a `lessons` array that defines the order and structure of all lessons. Each lesson file includes an `index` field in its frontmatter to map to this array.
 
-Use full relative paths like `/journey/week-07/02-nutrition-basics/` for all navigation links.
-
-Example navigation section:
-
-```markdown
----
-
-## Navigation
-
-← [Previous: Health Audit](/journey/week-07/01-health-audit/) | [Next: Sleep Hygiene](/journey/week-07/03-sleep-hygiene/) →
-
-[← Back to Week 7 Overview](/journey/week-07/)
-```
+Navigation links are automatically generated by the template - **do not manually add navigation links at the end of lesson files**.
