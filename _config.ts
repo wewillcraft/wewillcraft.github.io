@@ -87,14 +87,15 @@ site.use(
 
 site.ignore("LICENSE.md");
 site.ignore("README.md");
-site.ignore((path) => {
-  return path.match(/CLAUDE\.md$/) !== null;
-});
-site.ignore((path) => {
-  return path.match(/TODO\.md$/) !== null;
-});
+site.ignore("BRANDING.md");
+
+site.ignore((path) => path.endsWith("CLAUDE.md"));
+site.ignore((path) => path.endsWith("TODO.md"));
 
 site.copy("uploads");
 site.copy("static", ".");
+
+// Configure the 404 page
+site.data("page404", "/404.html");
 
 export default site;
