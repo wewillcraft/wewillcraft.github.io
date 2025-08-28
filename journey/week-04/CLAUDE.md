@@ -1,129 +1,129 @@
-# Week 4: Learning Optimization - Style Guide
+# Week 4: Getting Help & Building Community - Style Guide
 
 ## Week Overview
 
-Week 4 helps students become better learners. In tech, learning never stops, so building sustainable learning habits is crucial. Focus on curiosity over competition.
+Week 4 teaches the underrated skill of asking for and receiving help. In tech, nobody succeeds alone. This week breaks down the myth of the lone genius coder.
 
 ## Specific Tone for This Week
 
-- **Curious and exploratory**: Learning is adventure
-- **Growth-minded**: Mistakes are data
-- **Inclusive**: All learning styles valid
-- **Practical**: Apply immediately
+- **Vulnerability-positive**: Asking for help is strength
+- **Community-focused**: We're all in this together
+- **Practical**: How to actually get help
+- **Encouraging**: Everyone needs help
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Learning Style (01-learning-style.md)
+### Lesson 1: Help Psychology (01-help-psychology.md)
 
-- How they actually learn best
-- Beyond "visual/auditory" basics
-- Code-specific learning patterns
-- "There's no wrong way to learn"
+- Why asking feels hard
+- Cultural barriers to help
+- Reframing help-seeking
+- "Smart people ask for help"
 
-### Lesson 2: Second Brain (02-second-brain.md)
+### Lesson 2: Stack Overflow Mastery (02-stackoverflow-mastery.md)
 
-- Simple note-taking systems
-- Free tools only
-- Start small and grow
-- "Your external memory"
+- Search before asking
+- Question formatting
+- Dealing with harsh responses
+- "SO can be kind"
 
-### Lesson 3: Spaced Repetition (03-spaced-repetition.md)
+### Lesson 3: Finding Tribes (03-finding-tribes.md)
 
-- Why cramming doesn't work
-- Simple spacing techniques
-- Anki basics for code
-- "Review to remember"
+- Online communities
+- Local meetups
+- Discord/Slack groups
+- "Your people exist"
 
-### Lesson 4: Active Learning (04-active-learning.md)
+### Lesson 4: Mentorship (04-mentorship.md)
 
-- Learning by doing
-- Build while learning
-- Teach to learn
-- "Passive learning doesn't stick"
+- Finding mentors organically
+- Being a good mentee
+- Peer mentorship
+- "Mentors are everywhere"
 
-### Lesson 5: Information Diet (05-information-diet.md)
+### Lesson 5: Documentation Skills (05-documentation-skills.md)
 
-- Quality over quantity
-- Avoiding tutorial hell
-- Choosing resources wisely
-- "Not all content is equal"
+- Reading docs effectively
+- When docs fail
+- Contributing back
+- "Docs are your friend"
 
-### Lesson 6: Project Learning (06-project-learning.md)
+### Lesson 6: GitHub Social (06-github-social.md)
 
-- Projects > courses
-- Start ugly, iterate
-- Learning through building
-- "Build to understand"
+- Issues and discussions
+- Contributing to projects
+- Building reputation
+- "GitHub is social media"
 
-### Lesson 7: Failure Learning (07-failure-learning.md)
+### Lesson 7: Expert Outreach (07-expert-outreach.md)
 
-- Bugs are teachers
-- Error messages are friends
-- Debugging as learning
-- "Failure is feedback"
+- When to reach out
+- How to ask experts
+- Respecting their time
+- "Experts were beginners once"
 
-### Lesson 8: Knowledge Sharing (08-knowledge-sharing.md)
+### Lesson 8: Building Public (08-building-public.md)
 
-- Learn in public benefits
-- Simple sharing methods
-- Building while learning
-- "Teaching solidifies learning"
+- Learning in public
+- Attracting help
+- Helping others
+- "Visibility brings help"
 
 ## Key Messages for Week 4
 
 ### Core Messages:
 
-- "Curiosity > credentials"
-- "Learn by building"
-- "Mistakes accelerate learning"
-- "Share while learning"
-- "Progress > perfection"
+- "Nobody knows everything"
+- "Help accelerates learning"
+- "Giving help helps you"
+- "Community > competition"
+- "Questions show wisdom"
 
-### Learning Truths:
+### Myth-Busting:
 
-- Everyone googles everything
-- Tutorial hell is real
-- Impostor syndrome is normal
-- Forgetting is human
-- Consistency beats intensity
+- Experts Google constantly
+- Everyone gets stuck
+- Senior devs ask questions
+- Impostor syndrome is universal
+- Collaboration is the norm
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Building todo apps to learn
-- YouTube University success
-- Free bootcamp resources
-- Study group formation
-- Blog-driven development
+- Rubber duck debugging
+- Study group success
+- Open source collaboration
+- Twitter tech help
+- Discord server support
 
 ### Avoid:
 
-- Expensive course promotion
-- "Learn X in 24 hours"
-- Perfectionist note-taking
-- Information hoarding
-- Passive consumption only
+- Lone wolf programming
+- Never asking questions
+- Suffering in silence
+- Knowledge hoarding
+- Toxic masculinity in tech
 
 ## Exercises for This Week
 
-Learning experiments:
+Help-seeking practice:
 
-- Build something tiny
-- Teach one concept
-- Create one note
-- Debug one error
-- Share one learning
+- Ask one question online
+- Join one community
+- Help one person
+- Read one documentation
+- Attend one event (virtual OK)
 
-## Language Specific to Learning
+## Language Specific to Help
 
 ### Instead of:
 
-- "Master the fundamentals" → "Get comfortable with basics"
-- "Complete curriculum" → "Learn what you need"
-- "Comprehensive knowledge" → "Working knowledge"
-- "Expert level" → "Confident beginner"
-- "Full understanding" → "Enough to build"
+- "I should know this" → "I'm learning this"
+- "Stupid question" → "Quick question"
+- "Sorry to bother" → "Could you help"
+- "I'm stuck" → "I need guidance"
+- "I give up" → "Time to ask for help"
 
 ## Writing Style Notes
 
@@ -136,75 +136,75 @@ Learning experiments:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Learning Anxieties
+## Common Help Barriers
 
-### For Slow Learners:
+### For Prideful:
 
-- Pace doesn't matter
-- Deep > fast
-- Understanding > memorizing
-- "Take your time"
+- Everyone asks for help
+- It's efficient, not weak
+- You'd help others
+- "Let people help you"
 
-### For Fast Learners:
+### For Shy/Introverted:
 
-- Depth matters too
-- Build to solidify
-- Teach others
-- "Fast isn't always better"
+- Online first is fine
+- Async communication works
+- One-on-one is valid
+- "Start where comfortable"
 
-### For Comparison Trap:
+### For Impostor Syndrome:
 
-- Everyone's journey differs
-- Focus on your progress
-- Yesterday you > others
-- "Run your own race"
+- Your questions help others
+- Beginners ask best questions
+- Everyone was new once
+- "You belong here"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Discover how you learn"
-**Wednesday (Lesson 3-4)**: "Active learning works"
-**Friday (Lesson 5-6)**: "Build to learn"
-**Weekend (Lesson 7-8)**: "Share your journey"
+**Monday (Lesson 1-2)**: "Normalize asking for help"
+**Wednesday (Lesson 3-4)**: "Find your support system"
+**Friday (Lesson 5-6)**: "Use available resources"
+**Weekend (Lesson 7-8)**: "Join the community"
 
 ## Success Metrics
 
 Students should finish Week 4 with:
 
-1. Clear learning preferences
-2. Simple note system started
-3. One learning experiment done
-4. Reduced learning anxiety
-5. Excitement about learning
+1. Reduced help-seeking shame
+2. One community joined
+3. One question asked publicly
+4. Help-giving experience
+5. Resource bookmark collection
 
-## Learning Anti-Patterns
+## Help Culture Building
 
-### Avoid Promoting:
+### Promote:
 
-- Tutorial addiction
-- Perfect notes obsession
-- Credential chasing
-- Comparison culture
-- Learning without building
+- Questions are valuable
+- Helping helps you learn
+- Community contribution
+- Knowledge sharing
+- Collaborative growth
 
-### Do Promote:
+### Discourage:
 
-- Just-in-time learning
-- Building constantly
-- Sharing work-in-progress
-- Embracing confusion
-- Celebrating small wins
+- Suffering alone
+- Perfectionism
+- Knowledge gatekeeping
+- Harsh criticism
+- Lone wolf mentality
 
 ## Remember
 
 Week 4 is about:
 
-- Making learning sustainable
-- Building learning confidence
-- Creating personal systems
-- Embracing mistakes
-- Staying curious
+- Normalizing help-seeking
+- Building support networks
+- Contributing to community
+- Reducing isolation
+- Growing together
 
-Every lesson should inspire: "I can learn anything I need."
+Every lesson should reinforce: "Asking for help is how you level up."
 
 ## Frontmatter Requirements
 
@@ -226,7 +226,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-04/02-active-note-taking/` for all navigation links.
+Use full relative paths like `/journey/week-04/02-support-systems/` for all navigation links.
 
 Example navigation section:
 
@@ -235,7 +235,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Learning Assessment](/journey/week-04/01-learning-assessment/) | [Next: Study Methods](/journey/week-04/03-study-methods/) →
+← [Previous: Help Assessment](/journey/week-06/01-help-assessment/) | [Next: Developer Communities](/journey/week-06/03-developer-communities/) →
 
-[← Back to Week 4 Overview](/journey/week-04/)
+[← Back to Week 6 Overview](/journey/week-06/)
 ```

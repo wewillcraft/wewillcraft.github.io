@@ -1,35 +1,32 @@
 layout: layouts/journey.vto
 week: 13
-phase: integration-future
+phase: "Phase 3: Impact"
 
 lessons:
   - index: 0
-    title: "Week 13: Purpose-Aligned Career Overview"
+    title: "Week 13: Giving Back & Legacy Overview"
     slug: ""
   - index: 1
-    title: "Balance Is a Myth (Harmony Is Real)"
-    slug: "01-work-life-harmony"
-  - index: 2
-    title: "Relationships While Grinding"
-    slug: "02-relationship-management"
-  - index: 3
-    title: "Money Without the Shame"
-    slug: "03-financial-wellness"
-  - index: 4
-    title: "Sleep > Hustle (And Other Health Truths)"
-    slug: "04-health-optimization"
-  - index: 5
-    title: "Life Admin Made Simple"
-    slug: "05-personal-systems"
-  - index: 6
     title: "Your Daily Legacy (Not Your Deathbed Speech)"
-    slug: "06-legacy-thinking"
+    slug: "01-legacy-thinking"
+  - index: 2
+    title: "Finding Your People & Building Community"
+    slug: "02-community-building"
+  - index: 3
+    title: "Mentoring Others (You Know More Than You Think)"
+    slug: "03-mentoring-others"
+  - index: 4
+    title: "Contributing to Open Source"
+    slug: "04-open-source"
+  - index: 5
+    title: "Teaching and Knowledge Sharing"
+    slug: "05-teaching-sharing"
+  - index: 6
+    title: "Building Something That Matters"
+    slug: "06-meaningful-projects"
   - index: 7
-    title: "Finding Your People"
-    slug: "07-community-building"
+    title: "Creating Your Impact Plan"
+    slug: "07-impact-plan"
   - index: 8
-    title: "Your Personal Life OS"
-    slug: "08-integration-plan"
-  - index: 9
     title: "Weekly Meditation & Reflection"
-    slug: "09-reflection"
+    slug: "08-reflection"

@@ -1,129 +1,122 @@
-# Week 6: Getting Help - Style Guide
+# Week 6: Purpose & Vision - Style Guide
 
 ## Week Overview
 
-Week 6 teaches the underrated skill of asking for and receiving help. In tech, nobody succeeds alone. This week breaks down the myth of the lone genius coder.
+Week 6 helps students connect their identity to their future. This is about dreaming without pressure and finding their "why" in tech. Balance aspiration with realism.
 
 ## Specific Tone for This Week
 
-- **Vulnerability-positive**: Asking for help is strength
-- **Community-focused**: We're all in this together
-- **Practical**: How to actually get help
-- **Encouraging**: Everyone needs help
+- **Inspirational but grounded**: Dream big, start small
+- **Patient and understanding**: Purpose takes time to find
+- **Flexible**: Multiple paths are valid
+- **Encouraging**: Every vision matters
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Help Psychology (01-help-psychology.md)
+### Lesson 1: Values Discovery (01-values-discovery.md)
 
-- Why asking feels hard
-- Cultural barriers to help
-- Reframing help-seeking
-- "Smart people ask for help"
+- What actually matters to them
+- Values aren't just corporate buzzwords
+- Personal over professional values
+- "Your values are your compass"
 
-### Lesson 2: Stack Overflow Mastery (02-stackoverflow-mastery.md)
+### Lesson 2: Ikigai Mapping (02-ikigai-mapping.md)
 
-- Search before asking
-- Question formatting
-- Dealing with harsh responses
-- "SO can be kind"
+- Simple version, not overwhelming
+- Finding intersection points
+- "Close enough" is fine
+- Purpose evolves over time
 
-### Lesson 3: Finding Tribes (03-finding-tribes.md)
+### Lesson 3: Life Timeline (03-life-timeline.md)
 
-- Online communities
-- Local meetups
-- Discord/Slack groups
-- "Your people exist"
+- Celebrate their journey so far
+- Patterns in their past
+- No trauma mining
+- "Your story brought you here"
 
-### Lesson 4: Mentorship (04-mentorship.md)
+### Lesson 4: Future Eulogy (04-future-eulogy.md)
 
-- Finding mentors organically
-- Being a good mentee
-- Peer mentorship
-- "Mentors are everywhere"
+- Not morbid, just perspective
+- What legacy for their 80-year-old self?
+- Keep it light and meaningful
+- "What do you want to be remembered for?"
 
-### Lesson 5: Documentation Skills (05-documentation-skills.md)
+### Lesson 5: Vision Creation (05-vision-creation.md)
 
-- Reading docs effectively
-- When docs fail
-- Contributing back
-- "Docs are your friend"
+- 1-3 year vision (not 10 years)
+- Specific but flexible
+- Include life beyond career
+- "Where do you want to be?"
 
-### Lesson 6: GitHub Social (06-github-social.md)
+### Lesson 6: Technical Calling (06-technical-calling.md)
 
-- Issues and discussions
-- Contributing to projects
-- Building reputation
-- "GitHub is social media"
+- Why tech specifically?
+- Multiple valid reasons
+- Beyond just money
+- "Tech needs people like you"
 
-### Lesson 7: Expert Outreach (07-expert-outreach.md)
+### Lesson 7: Personal Manifesto (07-personal-manifesto.md)
 
-- When to reach out
-- How to ask experts
-- Respecting their time
-- "Experts were beginners once"
-
-### Lesson 8: Building Public (08-building-public.md)
-
-- Learning in public
-- Attracting help
-- Helping others
-- "Visibility brings help"
+- Simple statements of intent
+- Their personal constitution
+- Living document
+- "This is who I choose to be"
 
 ## Key Messages for Week 6
 
 ### Core Messages:
 
-- "Nobody knows everything"
-- "Help accelerates learning"
-- "Giving help helps you"
-- "Community > competition"
-- "Questions show wisdom"
+- "Purpose isn't found, it's built"
+- "Your why can be simple"
+- "It's okay to not know yet"
+- "Multiple passions are valid"
+- "Start where you are"
 
-### Myth-Busting:
+### Reassuring Truths:
 
-- Experts Google constantly
-- Everyone gets stuck
-- Senior devs ask questions
-- Impostor syndrome is universal
-- Collaboration is the norm
+- Purpose can change
+- Small purpose is still purpose
+- Making money is a valid goal
+- Helping family counts
+- You don't need to save the world
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Rubber duck debugging
-- Study group success
-- Open source collaboration
-- Twitter tech help
-- Discord server support
+- First-gen college student goals
+- Supporting family through tech
+- Building cool stuff as purpose
+- Learning as its own reward
+- Community impact through code
 
 ### Avoid:
 
-- Lone wolf programming
-- Never asking questions
-- Suffering in silence
-- Knowledge hoarding
-- Toxic masculinity in tech
+- Silicon Valley unicorn dreams only
+- Assuming entrepreneurship
+- "Change the world" pressure
+- Privileged starting points
+- Single path to success
 
 ## Exercises for This Week
 
-Help-seeking practice:
+Vision-building activities:
 
-- Ask one question online
-- Join one community
-- Help one person
-- Read one documentation
-- Attend one event (virtual OK)
+- Values card sort (simple)
+- Future letter to self
+- Three-year visualization
+- One-page manifesto
+- Weekly reflection prompts
 
-## Language Specific to Help
+## Language Specific to Purpose
 
 ### Instead of:
 
-- "I should know this" → "I'm learning this"
-- "Stupid question" → "Quick question"
-- "Sorry to bother" → "Could you help"
-- "I'm stuck" → "I need guidance"
-- "I give up" → "Time to ask for help"
+- "Find your passion" → "Notice what energizes you"
+- "Life purpose" → "What matters to you"
+- "Calling" → "What pulls you forward"
+- "Mission statement" → "What you're about"
+- "Vision board" → "Future sketch"
 
 ## Writing Style Notes
 
@@ -136,75 +129,73 @@ Help-seeking practice:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Help Barriers
+## Sensitive Topics Approach
 
-### For Prideful:
+### Past Exploration:
 
-- Everyone asks for help
-- It's efficient, not weak
-- You'd help others
-- "Let people help you"
+- Keep it light
+- No forced vulnerability
+- Focus on strengths from struggles
+- "Only share what's comfortable"
 
-### For Shy/Introverted:
+### Future Planning:
 
-- Online first is fine
-- Async communication works
-- One-on-one is valid
-- "Start where comfortable"
-
-### For Impostor Syndrome:
-
-- Your questions help others
-- Beginners ask best questions
-- Everyone was new once
-- "You belong here"
+- Acknowledge uncertainty
+- Multiple futures are okay
+- Plan to plan again
+- "This isn't set in stone"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Normalize asking for help"
-**Wednesday (Lesson 3-4)**: "Find your support system"
-**Friday (Lesson 5-6)**: "Use available resources"
-**Weekend (Lesson 7-8)**: "Join the community"
+**Monday (Lesson 1-2)**: "Let's explore what matters to you"
+**Wednesday (Lesson 3-4)**: "Your past has prepared you"
+**Friday (Lesson 5-6)**: "Your future is bright"
+**Weekend (Lesson 7)**: "You know where you're headed"
 
 ## Success Metrics
 
 Students should finish Week 6 with:
 
-1. Reduced help-seeking shame
-2. One community joined
-3. One question asked publicly
-4. Help-giving experience
-5. Resource bookmark collection
+1. Clear personal values (3-5)
+2. Rough vision for next 2 years
+3. Understanding of their "why"
+4. Personal manifesto draft
+5. Excitement about possibilities
 
-## Help Culture Building
+## Special Considerations
 
-### Promote:
+### For the Practical:
 
-- Questions are valuable
-- Helping helps you learn
-- Community contribution
-- Knowledge sharing
-- Collaborative growth
+- Purpose can be practical
+- ROI of purpose-driven work
+- Concrete benefits
+- "Purpose pays off"
 
-### Discourage:
+### For the Idealistic:
 
-- Suffering alone
-- Perfectionism
-- Knowledge gatekeeping
-- Harsh criticism
-- Lone wolf mentality
+- Channel idealism productively
+- Small impacts matter
+- Start local
+- "Every bit helps"
+
+### For the Uncertain:
+
+- Uncertainty is normal
+- Purpose clarifies with action
+- Start with experiments
+- "Clarity comes through doing"
 
 ## Remember
 
 Week 6 is about:
 
-- Normalizing help-seeking
-- Building support networks
-- Contributing to community
-- Reducing isolation
-- Growing together
+- Giving permission to dream
+- Grounding dreams in reality
+- Connecting past to future
+- Building personal foundation
+- Creating direction, not pressure
 
-Every lesson should reinforce: "Asking for help is how you level up."
+Every lesson should inspire: "My future is mine to create."
 
 ## Frontmatter Requirements
 
@@ -226,7 +217,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-06/02-support-systems/` for all navigation links.
+Use full relative paths like `/journey/week-06/02-ikigai-mapping/` for all navigation links.
 
 Example navigation section:
 
@@ -235,7 +226,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Help Assessment](/journey/week-06/01-help-assessment/) | [Next: Developer Communities](/journey/week-06/03-developer-communities/) →
+← [Previous: Values Discovery](/journey/week-02/01-values-discovery/) | [Next: Life Timeline](/journey/week-02/03-life-timeline/) →
 
-[← Back to Week 6 Overview](/journey/week-06/)
+[← Back to Week 2 Overview](/journey/week-02/)
 ```

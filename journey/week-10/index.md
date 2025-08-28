@@ -1,196 +1,257 @@
 ---
-title: "Week 10: Failure & Resilience By Type"
-week: 10
+title: "Week 13: Purpose-Aligned Career"
+week: 13
 phase: life-design
-excerpt: Transform your relationship with failure and build personality-matched resilience strategies.
+excerpt: Align your career trajectory with your deepest values and long-term life vision.
 estimated_time: 8-10 hours total
 ---
 
 ## Core Truth
 
-**Failure is data, not destiny.**
+**Purpose is not a destination - it's a direction.**
 
-Your relationship with failure will determine your ceiling for success. This week, you'll learn to fail forward, build resilience that matches your personality, and turn setbacks into comebacks.
+Career satisfaction comes not from finding the "perfect" job, but from aligning your work with your values, using your strengths, and making progress toward meaningful goals.
 
 ## This Week's Journey
 
-1. [**Your Failure Story Audit**](./01-failure-story-audit) (60 min)
-   - Examining past failures and patterns
-   - Identifying your failure narrative
-   - Reframing failure as learning
+1. [**Career Values Assessment**](./01-career-values) (60 min)
+   - Identifying what matters most in work
+   - Values hierarchy and trade-offs
+   - Non-negotiables vs. nice-to-haves
 
-2. [**Personality-Based Resilience Strategies**](./02-resilience-by-type) (90 min)
-   - How different types process failure
-   - Matching recovery methods to your style
-   - Building on your natural strengths
+2. [**Purpose Discovery Framework**](./02-purpose-discovery) (90 min)
+   - Finding your "why" in technology
+   - Impact you want to make
+   - Legacy you want to leave
 
-3. [**The Growth Mindset Toolbox**](./03-growth-mindset) (75 min)
-   - Fixed vs. growth mindset patterns
-   - Reframing challenges as opportunities
-   - The power of "yet" thinking
+3. [**Strengths-Based Career Planning**](./03-strengths-career-planning) (75 min)
+   - Leveraging your natural talents
+   - Complementing weaknesses with strengths
+   - Career paths that energize you
 
-4. [**Emotional Regulation Techniques**](./04-emotional-regulation) (60 min)
-   - Managing failure-induced emotions
-   - Healthy processing vs. rumination
-   - Building emotional vocabulary
+4. [**Industry and Role Exploration**](./04-industry-exploration) (90 min)
+   - Tech industry landscape mapping
+   - Emerging opportunities and trends
+   - Alternative career paths in tech
 
-5. [**Learning from Technical Failures**](./05-technical-failures) (75 min)
-   - Post-mortem practices for bugs
-   - Turning failed projects into wisdom
-   - Building better debugging skills
+5. [**Skills Gap Analysis**](./05-skills-gap-analysis) (60 min)
+   - Current capabilities assessment
+   - Future requirements identification
+   - Learning and development planning
 
-6. [**Support System Architecture**](./06-support-systems) (90 min)
-   - Identifying your support network
-   - Asking for help when struggling
-   - Building reciprocal relationships
+6. [**Career Experimentation Design**](./06-career-experimentation) (75 min)
+   - Low-risk ways to test career paths
+   - Side projects and volunteer opportunities
+   - Informational interviews and shadowing
 
-7. [**Antifragility Building**](./07-antifragility) (60 min)
-   - Moving beyond resilience
-   - Getting stronger from failure
-   - Building adaptive capacity
+7. [**Long-term Vision Creation**](./07-long-term-vision) (90 min)
+   - 5, 10, and 20-year career scenarios
+   - Multiple path planning
+   - Vision-reality gap analysis
 
-8. [**Your Failure Recovery Protocol**](./08-recovery-protocol) (45 min)
-   - Creating your personal playbook
-   - Emergency emotional first aid
-   - Long-term recovery strategies
+8. [**Career Navigation System**](./08-career-navigation) (60 min)
+   - Regular review and adjustment processes
+   - Decision-making frameworks
+   - Course correction strategies
 
-## Week 10 Deliverable
+## Week 13 Deliverable
 
 By Sunday evening, you'll have created:
 
-- **Your Failure Pattern Analysis** (how you typically respond)
-- **Your Resilience Toolkit** (personality-matched strategies)
-- **Your Failure Recovery Protocol** (step-by-step response plan)
-- **Your Growth Story Reframe** (new narrative about your journey)
+- **Your Career Values Hierarchy** (ranked priorities for work)
+- **Your Purpose Statement** (why you do what you do)
+- **Your Career Vision Board** (visual representation of your future)
+- **Your Career Experimentation Plan** (next steps for exploration)
 
-## Personality-Based Failure Responses
+## Values-Based Career Frameworks
 
-**Perfectionists (Type 1 Enneagram, High Conscientiousness):**
+**Core Work Values Categories:**
 
-- **Typical Response:** Self-criticism, analysis paralysis
-- **Growth Strategy:** "Good enough" standards, progress celebration
-- **Recovery Method:** Structured reflection, incremental improvement
+**Achievement Values:**
 
-**Achievers (Type 3 Enneagram, High Extraversion):**
+- Mastery and expertise development
+- Innovation and creativity
+- Leadership and influence
+- Recognition and status
 
-- **Typical Response:** Image management, blame externalization
-- **Growth Strategy:** Authenticity practice, vulnerability sharing
-- **Recovery Method:** Goal adjustment, success redefinition
+**Security Values:**
 
-**Individualists (Type 4 Enneagram, High Openness):**
+- Job stability and predictability
+- Financial security and benefits
+- Work-life balance
+- Low stress and conflict
 
-- **Typical Response:** Emotional overwhelm, identity crisis
-- **Growth Strategy:** Emotional regulation, pattern recognition
-- **Recovery Method:** Creative expression, meaning-making
+**Social Values:**
 
-**Investigators (Type 5 Enneagram, High Introversion):**
+- Collaboration and teamwork
+- Helping others and service
+- Community and belonging
+- Diversity and inclusion
 
-- **Typical Response:** Withdrawal, over-analysis
-- **Growth Strategy:** Action bias, external perspective
-- **Recovery Method:** Knowledge gathering, system improvement
+**Autonomy Values:**
 
-**Loyalists (Type 6 Enneagram, High Neuroticism):**
+- Independence and self-direction
+- Flexibility and freedom
+- Entrepreneurship opportunities
+- Creative control
 
-- **Typical Response:** Anxiety spirals, worst-case thinking
-- **Growth Strategy:** Reality testing, support system activation
-- **Recovery Method:** Gradual exposure, confidence building
+## Purpose-Driven Tech Careers
 
-## The Developer's Relationship with Failure
+**Making an Impact Through Code:**
 
-**Common Tech Failures and Lessons:**
+**Social Good Technology:**
 
-- **Bugs in production** → Better testing practices
-- **Failed deployments** → Improved CI/CD processes
-- **Rejected pull requests** → Code quality awareness
-- **Project cancellations** → Market validation skills
-- **Team conflicts** → Communication improvement
+- Healthcare and medical technology
+- Education technology and accessibility
+- Environmental and sustainability tech
+- Social justice and equality platforms
 
-**The Debugging Mindset:**
+**Innovation and Discovery:**
 
-1. **Isolate the problem** (don't catastrophize)
-2. **Gather information** (what actually happened?)
-3. **Form hypotheses** (possible causes)
-4. **Test systematically** (try solutions)
-5. **Document learnings** (prevent future occurrences)
+- Research and development roles
+- Emerging technology exploration
+- Artificial intelligence and machine learning
+- Space technology and exploration
 
-## Resilience vs. Antifragility
+**Economic Empowerment:**
 
-**Resilient Systems:** Return to original state after stress
+- Fintech and financial inclusion
+- Small business and entrepreneur tools
+- Economic development platforms
+- Cryptocurrency and blockchain
 
-- Bounce back from failure
-- Maintain current capabilities
-- Focus on recovery
+**Human Connection:**
 
-**Antifragile Systems:** Get stronger from stress
+- Communication and collaboration tools
+- Community building platforms
+- Entertainment and creativity software
+- Mental health and wellness technology
 
-- Use failure as fuel for growth
-- Develop new capabilities
-- Focus on adaptation and evolution
+## Personality-Based Career Paths
 
-## The Failure Resume
+**For Introverts:**
 
-**Tech Industry Examples:**
+- **Deep work roles:** Research, architecture, specialized development
+- **Independent contributor paths:** Senior individual contributor tracks
+- **Written communication focus:** Technical writing, documentation
+- **Smaller team environments:** Startups, specialized teams
 
-- **Rejection letters** from dream companies
-- **Failed startups** and what you learned
-- **Projects that didn't work** and why
-- **Bad hires** and improved judgment
-- **Technical debt** and architectural lessons
+**For Extraverts:**
 
-Your failures are your credentials. They prove you've taken risks and learned from them.
+- **People-facing roles:** Developer advocacy, sales engineering, consulting
+- **Leadership tracks:** Team lead, engineering management, CTO path
+- **Presentation opportunities:** Conference speaking, training, evangelism
+- **Large organization energy:** Big tech companies, enterprise environments
 
-## Building Psychological Safety
+**For Sensing Types:**
 
-**For Yourself:**
+- **Practical application focus:** Product development, user experience
+- **Systems and processes:** DevOps, infrastructure, quality assurance
+- **Tangible outcomes:** Hardware integration, IoT, physical products
+- **Step-by-step approaches:** Implementation, maintenance, optimization
 
-- Permission to make mistakes
-- Self-compassion practices
-- Learning-focused evaluation
-- Growth celebration rituals
+**For Intuitive Types:**
 
-**For Your Team:**
+- **Conceptual work:** System architecture, research, innovation
+- **Future-focused roles:** Emerging tech, strategy, product vision
+- **Pattern recognition:** Data science, machine learning, AI
+- **Big picture thinking:** Technical strategy, consulting, entrepreneurship
 
-- Blameless post-mortems
-- Failure party celebrations
-- Learning from others' mistakes
-- Psychological safety metrics
+## The Modern Tech Career Landscape
 
-## The Science of Resilience
+**Traditional Path Evolution:**
 
-**Research-Backed Strategies:**
+- Junior → Senior → Lead → Manager → Director
+- **Alternative:** Individual contributor → Staff → Principal → Distinguished Engineer
 
-- **Cognitive flexibility:** Multiple perspectives on situations
-- **Social support:** Strong relationships for difficult times
-- **Meaning-making:** Finding purpose in adversity
-- **Self-efficacy:** Belief in your ability to handle challenges
-- **Emotional regulation:** Managing intense feelings effectively
+**Emerging Opportunities:**
 
-## Life Lesson for Young Professionals
+- **Developer Relations:** Bridge between technology and community
+- **Product Engineering:** Intersection of product and engineering
+- **DevOps/Platform Engineering:** Infrastructure and developer experience
+- **Data Engineering:** Building systems for data scientists and analysts
 
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+**Entrepreneurial Paths:**
 
-Your twenties are the perfect time to fail fast, learn quickly, and build the resilience that will serve you for decades.
+- **SaaS Products:** Building software-as-a-service businesses
+- **Consulting/Freelancing:** Independent technical expertise
+- **Open Source Maintenance:** Sponsored development of tools
+- **Content Creation:** Technical education and media
+
+## Career Experimentation Strategies
+
+**Low-Risk Testing Methods:**
+
+**Side Projects:**
+
+- Build something in the domain you're interested in
+- Contribute to open source in that area
+- Create content about the field
+- Connect with people working in the space
+
+**Volunteer Opportunities:**
+
+- Code for nonprofits (Code for America, etc.)
+- Pro bono work for local businesses
+- Technical mentoring and teaching
+- Community organization support
+
+**Learning Experiments:**
+
+- Take courses in areas of interest
+- Attend industry events and conferences
+- Join professional communities
+- Follow thought leaders and practitioners
+
+**Informational Interviews:**
+
+- Reach out to people in roles you're interested in
+- Ask about their day-to-day work
+- Learn about career progression paths
+- Understand industry challenges and opportunities
+
+## Building Your Career GPS
+
+**Navigation Questions for Decision Making:**
+
+1. **Values Alignment:** Does this opportunity align with what matters most to me?
+2. **Strengths Utilization:** Will I get to use and develop my natural talents?
+3. **Growth Potential:** Will this challenge me and help me grow?
+4. **Purpose Connection:** Does this contribute to something I find meaningful?
+5. **Life Integration:** How does this fit with my overall life vision?
+
+**Regular Review Process:**
+
+- **Monthly:** Progress check and tactical adjustments
+- **Quarterly:** Strategic review and goal refinement
+- **Annually:** Major direction evaluation and planning
+
+## Life Lesson for Career Fulfillment
+
+> "The two most important days in your life are the day you are born and the day you find out why." - Mark Twain
+
+Your career will span 40+ years. The time you invest now in understanding your purpose will pay dividends for decades to come.
 
 ## Time Investment This Week
 
-- **Pattern Analysis:** 2-3 hours
-- **Strategy Development:** 3-4 hours
-- **Protocol Creation:** 2-3 hours
-- **Practice and Integration:** 1-2 hours
+- **Values and Purpose Work:** 3-4 hours
+- **Career Exploration:** 3-4 hours
+- **Vision and Planning:** 2-3 hours
+- **System Design:** 1-2 hours
 - **Total:** 8-10 hours (spread across 7 days)
 
 ## Resources for Going Deeper
 
-- "Mindset" by Carol Dweck
-- "Option B" by Sheryl Sandberg and Adam Grant
-- "Antifragile" by Nassim Nicholas Taleb
-- "The Resilience Factor" by Karen Reivich
-- [The Failure Resume](https://www.theatlantic.com/education/archive/2019/04/failure-resume-princeton-professor/587831/)
+- "Designing Your Life" by Bill Burnett and Dave Evans
+- "What Color Is Your Parachute?" by Richard N. Bolles
+- "The Purpose-Driven Life" by Rick Warren
+- "Strengths Finder 2.0" by Tom Rath
+- [O*NET Interest Profiler](https://www.mynextmove.org/explore/ip) for career exploration
 
 ## Quick Navigation
 
-**Start Here →** [01: Your Failure Story Audit](./01-failure-story-audit)
+**Start Here →** [01: Career Values Assessment](./01-career-values)
 
 ---
 
-_Remember: The goal isn't to avoid failure. It's to fail better. Every failure is a stepping stone to success if you know how to use it._
+_Remember: There's no single "right" career path. There are only paths that align with who you are and who you want to become. Trust your journey._

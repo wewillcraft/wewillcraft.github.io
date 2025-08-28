@@ -1,35 +1,35 @@
 layout: layouts/journey.vto
 week: 12
-phase: leadership-career
+phase: "Phase 3: Impact"
 
 lessons:
   - index: 0
-    title: "Week 12: Health Habits That Stick Overview"
+    title: "Week 12: Leadership & Influence Overview"
     slug: ""
   - index: 1
-    title: "Your Next Chapter (Not Your Whole Book)"
-    slug: "01-career-vision"
+    title: "Leadership Styles"
+    slug: "01-leadership-styles"
   - index: 2
-    title: "Your Growth Roadmap"
-    slug: "02-skill-gap-analysis"
+    title: "Emotional Intelligence"
+    slug: "02-emotional-intelligence"
   - index: 3
-    title: "How People Remember You"
-    slug: "03-personal-brand"
+    title: "Decision Making"
+    slug: "03-decision-making"
   - index: 4
-    title: "Smart Job Hunting (Quality Over Spray-and-Pray)"
-    slug: "04-job-search-strategy"
+    title: "Delegation"
+    slug: "04-delegation"
   - index: 5
-    title: "Interviews Without the BS"
-    slug: "05-interview-mastery"
+    title: "Team Dynamics"
+    slug: "05-team-dynamics"
   - index: 6
-    title: "Negotiation Is Normal (Not Greedy)"
-    slug: "06-negotiation-skills"
+    title: "Conflict Resolution"
+    slug: "06-conflict-resolution"
   - index: 7
-    title: "Career Changes Are Normal (Not Failures)"
-    slug: "07-career-pivots"
+    title: "Influence"
+    slug: "07-influence"
   - index: 8
-    title: "Your 90-Day Career Sprint"
-    slug: "08-career-roadmap"
+    title: "Leadership Practice"
+    slug: "08-leadership-practice"
   - index: 9
     title: "Weekly Meditation & Reflection"
     slug: "09-reflection"

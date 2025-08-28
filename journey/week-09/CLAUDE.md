@@ -1,129 +1,129 @@
-# Week 9: Communication - Style Guide
+# Week 9: Boundaries - Style Guide
 
 ## Week Overview
 
-Week 9 focuses on communication skills - the hidden superpower in tech. This week addresses both technical and interpersonal communication with warmth and practical guidance.
+Week 9 deep-dives into boundaries - the foundation of sustainable success. Many students struggle with boundaries due to culture, family expectations, or impostor syndrome.
 
 ## Specific Tone for This Week
 
-- **Approachable**: Communication anxiety is normal
-- **Practical**: Scripts and templates
-- **Inclusive**: All communication styles valid
-- **Encouraging**: Skills can be learned
+- **Empowering**: Boundaries are your right
+- **Non-judgmental**: Everyone's boundaries differ
+- **Practical**: Scripts and strategies
+- **Firm**: Non-negotiable self-care
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Communication Assessment (01-communication-assessment.md)
+### Lesson 1: Boundary Style (01-boundary-style.md)
 
-- Understanding your style
-- Strengths and gaps
-- Communication personality
-- "Your style has value"
+- How you naturally set boundaries
+- Cultural impacts on boundaries
+- Boundary personality types
+- "Your style is valid"
 
-### Lesson 2: Personality Adaptation (02-personality-adaptation.md)
+### Lesson 2: Energy Boundaries (02-energy-boundaries.md)
 
-- Reading the room
-- Adapting without losing yourself
-- Different styles for different people
-- "Flexibility is power"
+- Protecting your energy
+- Energy vampires
+- Emotional labor limits
+- "Your energy is precious"
 
-### Lesson 3: Written Communication (03-written-communication.md)
+### Lesson 3: Time Boundaries (03-time-boundaries.md)
 
-- Emails that get read
-- Slack that works
-- Documentation skills
-- "Clear writing = clear thinking"
+- Your time = your life
+- Calendar as boundary tool
+- Saying no to meetings
+- "Time is non-renewable"
 
-### Lesson 4: Verbal Communication (04-verbal-communication.md)
+### Lesson 4: Digital Boundaries (04-digital-boundaries.md)
 
-- Meetings without fear
-- Presentations made simple
-- Speaking up strategies
-- "Your voice matters"
+- Slack/email boundaries
+- After-hours communication
+- Notification management
+- "Always-on is unsustainable"
 
-### Lesson 5: Difficult Conversations (05-difficult-conversations.md)
+### Lesson 5: Emotional Boundaries (05-emotional-boundaries.md)
 
-- Conflict without drama
-- Feedback conversations
-- Boundary discussions
-- "Hard conversations = growth"
+- Not taking on others' emotions
+- Workplace emotional safety
+- Feedback boundaries
+- "Their emotions aren't yours"
 
-### Lesson 6: Feedback Skills (06-feedback-skills.md)
+### Lesson 6: Professional Boundaries (06-professional-boundaries.md)
 
-- Giving without hurting
-- Receiving without defending
-- Growth mindset
-- "Feedback is data"
+- Scope creep prevention
+- Role clarity
+- Overtime boundaries
+- "Professional means boundaries"
 
-### Lesson 7: Networking (07-networking.md)
+### Lesson 7: Personal Boundaries (07-personal-boundaries.md)
 
-- Networking for introverts
-- Online networking
-- Authentic connections
-- "Networking = making friends"
+- Work-life separation
+- Family expectations
+- Friend boundaries
+- "Personal life is personal"
 
-### Lesson 8: Communication Practice (08-communication-practice.md)
+### Lesson 8: Boundary Maintenance (08-boundary-maintenance.md)
 
-- Real scenarios
-- Role playing
-- Confidence building
-- "Practice makes progress"
+- Keeping boundaries strong
+- When boundaries are crossed
+- Boundary evolution
+- "Maintenance is ongoing"
 
 ## Key Messages for Week 9
 
 ### Core Messages:
 
-- "Communication is learnable"
-- "Different styles are valid"
-- "Clarity over cleverness"
-- "Listen more than speak"
-- "Authenticity wins"
+- "Boundaries are self-care"
+- "No is a complete answer"
+- "Boundaries create freedom"
+- "You teach people how to treat you"
+- "Boundaries aren't mean"
 
-### Communication Truths:
+### Boundary Truths:
 
-- Everyone fears public speaking
-- Written can be easier
-- Async has advantages
-- Practice really helps
-- Mistakes are normal
+- Guilt is normal at first
+- People will test them
+- Consistency is key
+- Boundaries can change
+- Start small
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Stand-up updates
-- Code review comments
-- Slack threading
-- Meeting facilitation
-- Email templates
+- Not answering Slack after 6pm
+- Declining scope creep
+- Taking lunch breaks
+- Weekend email ban
+- Family work boundaries
 
 ### Avoid:
 
-- Aggressive communication
-- Passive aggression
-- Over-apologizing
-- Mansplaining
-- Toxic directness
+- Doormat mentality
+- People-pleasing
+- Boundary guilt
+- Over-explaining
+- Apologizing for boundaries
 
 ## Exercises for This Week
 
-Communication practice:
+Boundary practice:
 
-- Write one clear email
-- Speak up in one meeting
-- Give one feedback
-- Start one conversation
-- Practice active listening
+- Set one digital boundary
+- Practice one "no"
+- Create boundary script
+- Time audit
+- Energy inventory
 
-## Language Specific to Communication
+## Language Specific to Boundaries
 
 ### Instead of:
 
-- "As I said before..." → "To clarify..."
-- "Obviously..." → "In my experience..."
-- "You should..." → "Have you considered..."
-- "That's wrong" → "Another approach might be..."
-- "No offense but..." → [Just don't say it]
+- "I'm sorry but..." → "I need to..."
+- "If it's okay..." → "I will be..."
+- "I can't" → "I choose not to"
+- "Is it alright if..." → "I'm going to..."
+- "Would you mind..." → "Please respect..."
 
 ## Writing Style Notes
 
@@ -136,85 +136,86 @@ Communication practice:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Common Communication Anxieties
+## Common Boundary Challenges
 
-### For Introverts:
+### For People-Pleasers:
 
-- Written first is fine
-- Preparation helps
-- Small groups work
-- "Introversion is strength"
+- Others' disappointment is OK
+- Your needs matter equally
+- Resentment signals needed boundaries
+- "Pleasing everyone pleases no one"
 
-### For ESL Speakers:
+### For Cultural Expectations:
 
-- Accent is not a problem
-- Clarity over perfection
-- Ask for clarification
-- "Your perspective is valuable"
+- Honor culture AND yourself
+- Boundaries can be respectful
+- Evolution is OK
+- "Both/and not either/or"
 
-### For Junior Developers:
+### For Women/Minorities:
 
-- Questions show engagement
-- "Stupid" questions don't exist
-- Speaking up is learning
-- "Your fresh eyes matter"
+- Extra boundary challenges acknowledged
+- Double standards are real
+- Self-advocacy is vital
+- "Your boundaries matter"
 
 ## Weekly Emotional Arc
 
-**Monday (Lesson 1-2)**: "Know your style"
-**Wednesday (Lesson 3-4)**: "Build core skills"
-**Friday (Lesson 5-6)**: "Navigate challenges"
-**Weekend (Lesson 7-8)**: "Connect and practice"
+**Monday (Lesson 1-2)**: "Understand your boundary style"
+**Wednesday (Lesson 3-4)**: "Set practical boundaries"
+**Friday (Lesson 5-6)**: "Professional boundaries"
+**Weekend (Lesson 7-8)**: "Maintain and evolve"
 
 ## Success Metrics
 
 Students should finish Week 9 with:
 
-1. Communication style awareness
-2. Email/Slack templates
-3. One difficult conversation done
-4. Feedback experience
-5. Reduced communication anxiety
+1. 3-5 clear boundaries set
+2. Boundary scripts ready
+3. Reduced guilt about boundaries
+4. One boundary success story
+5. Maintenance plan
 
-## Communication Scenarios
+## Boundary Scripts
 
-### Provide Examples:
+### Provide Templates:
 
-- Asking for help
-- Disagreeing respectfully
-- Admitting mistakes
-- Requesting resources
-- Setting expectations
+```
+"I stop checking Slack at 6pm"
+"I don't work weekends"
+"I need 24 hours to consider that"
+"That's outside my capacity"
+"Let me check my bandwidth"
+```
 
-## Inclusive Communication
+## Cultural Sensitivity
 
-### Address:
+### Acknowledge:
 
-- Gender dynamics
-- Cultural differences
-- Power dynamics
-- Language barriers
-- Neurodiversity
+- Family obligation cultures
+- Gender expectations
+- Economic pressures
+- Generational differences
+- Immigration dynamics
 
-### Promote:
+### Balance:
 
-- Inclusive language
-- Patient listening
-- Clear expression
-- Written follow-ups
-- Multiple channels
+- Respect and self-care
+- Tradition and growth
+- Family and individual
+- Culture and boundaries
 
 ## Remember
 
 Week 9 is about:
 
-- Building confidence
-- Practical skills
-- Authentic expression
-- Inclusive communication
-- Connection over perfection
+- Empowering self-advocacy
+- Practical boundary setting
+- Cultural sensitivity
+- Guilt reduction
+- Long-term sustainability
 
-Every lesson should convey: "Your voice deserves to be heard."
+Every lesson should affirm: "Your boundaries are valid and necessary."
 
 ## Frontmatter Requirements
 
@@ -236,7 +237,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-09/02-communication-basics/` for all navigation links.
+Use full relative paths like `/journey/week-09/02-identifying-boundaries/` for all navigation links.
 
 Example navigation section:
 
@@ -245,7 +246,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Communication Assessment](/journey/week-09/01-communication-assessment/) | [Next: Active Listening](/journey/week-09/03-active-listening/) →
+← [Previous: Boundary Assessment](/journey/week-09/01-boundary-assessment/) | [Next: Saying No](/journey/week-09/03-saying-no/) →
 
 [← Back to Week 9 Overview](/journey/week-09/)
 ```

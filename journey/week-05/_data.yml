@@ -1,35 +1,35 @@
 layout: layouts/journey.vto
 week: 5
-phase: focus-deep-work
+phase: "Phase 1: Foundation"
 
 lessons:
   - index: 0
-    title: "Week 5: Focus in the Age of Distraction Overview"
-    slug: ""
+    title: "Week 5: Resilience & Growth Mindset Overview"
+    slug: "index"
   - index: 1
-    title: "The Neuroscience of Focus"
-    slug: "01-focus-neuroscience"
+    title: "Resilience Assessment"
+    slug: "01-resilience-assessment"
   - index: 2
-    title: "Digital Minimalism Setup"
-    slug: "02-digital-minimalism"
+    title: "Stress Signals"
+    slug: "02-stress-signals"
   - index: 3
-    title: "Deep Work Rituals"
-    slug: "03-deep-work-rituals"
+    title: "Energy Management"
+    slug: "03-energy-management"
   - index: 4
-    title: "Recharge Your Mental Battery"
-    slug: "04-attention-restoration"
+    title: "Recovery Rituals"
+    slug: "04-recovery-rituals"
   - index: 5
-    title: "Your Personal Focus Formula"
-    slug: "05-pomodoro-plus"
+    title: "Mindfulness Basics"
+    slug: "05-mindfulness-basics"
   - index: 6
-    title: "Build Your Focus Fortress"
-    slug: "06-distraction-proofing"
+    title: "Burnout Prevention"
+    slug: "06-burnout-prevention"
   - index: 7
-    title: "Enter the Zone"
-    slug: "07-flow-state"
+    title: "Crisis Management"
+    slug: "07-crisis-management"
   - index: 8
-    title: "Track Your Focus Wins"
-    slug: "08-focus-tracking"
+    title: "Resilience Plan"
+    slug: "08-resilience-plan"
   - index: 9
     title: "Weekly Meditation & Reflection"
     slug: "09-reflection"

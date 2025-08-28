@@ -1,64 +1,102 @@
 ---
-title: "Week 6: Ask for Help Like a Pro"
-week: 6
-phase: tool-mastery
-excerpt: Transform from isolated learner to connected community member through strategic help-seeking.
-estimated_time: 15-20 minutes per day
+title: "Week 2: Finding Your True North 🧭"
+week: 2
+phase: self-discovery
+index: 0
+excerpt: "Discovering what you actually care about (hint: it might not be what you think)"
+description: "Discover your true values, find your sweet spot, and create a vision that actually inspires you - all while building your personal manifesto."
+estimated_time: 15-20 min/day
+objectives:
+  - Identify your authentic core values (not what you think you should value)
+  - Map your ikigai - where passion, talents, and opportunities align
+  - Create a compelling 5-year vision that pulls you forward
+  - Define your unique technical calling and developer mission
+  - Write a personal manifesto that guides your decisions
 ---
 
-# Week 6: Ask for Help Like a Pro
+## Hey friend! 👋
 
-Hey friend! 👋
+Last week you discovered WHO you are. This week we're diving into WHAT you care about at your deepest level. Think of it as finding your internal GPS - that inner compass that points toward what truly matters to you.
 
-This week is about breaking one of the biggest myths in tech: that you have to figure everything out alone. The truth? The best developers are fantastic at asking for help, building relationships, and tapping into community knowledge. Let's turn you into a pro at getting unstuck quickly.
+## The Big Idea 💡
 
-## Big Picture This Week
+**When you're clear on what matters most, decisions become easier.**
 
-You'll learn to:
+You know that feeling when you're torn between options? That confusion usually comes from unclear values. Once you know what you truly care about, choices become obvious. You stop second-guessing yourself and start living with more confidence and purpose.
 
-- Ask technical questions that actually get helpful answers
-- Find the right communities for different types of help
-- Build relationships that accelerate your learning
-- Contribute back to the community in meaningful ways
+## This Week's Adventure
 
-## This Week's Journey
+### Day 1: [What Do You Actually Value?](./01-values-discovery)
 
-1. [**Day 1: Why Asking for Help is Actually Smart**](./01-help-psychology) (~15 min)
-   Get over the mental barriers and reframe help-seeking as a superpower
+_Time: 15 minutes_
 
-2. [**Day 2: Stack Overflow Like a Boss**](./02-stackoverflow-mastery) (~20 min)\
-   Master the art of asking questions that get great answers fast
+Not what you think you should value - what you ACTUALLY value. There's often a gap, and we're going to find it.
 
-3. [**Day 3: Find Your Developer Tribe**](./03-finding-tribes) (~15 min)
-   Discover communities where you belong and can grow
+### Day 2: [Finding Your Sweet Spot](./02-ikigai-mapping)
 
-4. [**Day 4: Connect with Mentors**](./04-mentorship) (~20 min)
-   Find guidance from developers who've been where you want to go
+_Time: 15 minutes_
 
-5. [**Day 5: Read Docs Like a Detective**](./05-documentation-skills) (~15 min)
-   Turn documentation from confusing walls of text into goldmines
+Where your passions, talents, and the world's needs overlap. Spoiler: This is where magic happens.
 
-6. [**Day 6: GitHub Community Magic**](./06-github-social) (~20 min)
-   Use GitHub to build relationships and contribute to projects
+### Day 3: [Your Story So Far](./03-life-timeline)
 
-7. [**Day 7: Reach Out to Experts**](./07-expert-outreach) (~15 min)
-   Connect with experienced developers without being annoying
+_Time: 20 minutes_
 
-8. [**Day 8: Share Your Learning Journey**](./08-building-public) (~20 min)
-   Build your reputation by helping others learn from your experience
+Looking back to understand your patterns. Your past holds clues to your future direction.
 
-## This Week's Big Win
+### Day 4: [How Do You Want to be Remembered?](./04-future-eulogy)
 
-By Sunday, you'll have asked one great question online and received helpful answers - proving you can get unstuck faster by leveraging community knowledge.
+_Time: 15 minutes_
 
-## Remember: Smart Developers Ask for Help
+A bit intense, but incredibly clarifying. What legacy do you want to leave?
 
-The myth of the lone genius developer is holding you back. Every successful developer has learned to leverage community knowledge, build relationships, and contribute back to others. This week, you'll join that community.
+### Day 5: [Painting Your Future](./05-vision-creation)
 
-## Quick Navigation
+_Time: 20 minutes_
 
-**Start Here →** [Day 1: Why Asking for Help is Actually Smart](./01-help-psychology)
+Creating a vision that actually inspires you (not just looks good on paper).
+
+### Day 6: [Your Tech Purpose](./06-technical-calling)
+
+_Time: 15 minutes_
+
+Why are you in tech? What problems do you want to solve with your skills?
+
+### Day 7: [Writing Your Manifesto](./07-personal-manifesto)
+
+_Time: 15 minutes_
+
+Pulling it all together into a personal declaration. Your "this is what I stand for" statement.
+
+## What You'll Walk Away With
+
+By Sunday, you'll have:
+
+- ✅ Your top 5 core values (the ones that are actually true for you)
+- ✅ A clear picture of where your passions and talents align
+- ✅ A vision that genuinely excites you
+- ✅ Your personal manifesto - your "line in the sand"
+
+## Real Talk 💬
+
+Values work can feel abstract or touchy-feely. But here's the thing - unclear values are the root of most career unhappiness. When you take a job that conflicts with what you really care about, you'll feel it every single day.
+
+This isn't about finding the "perfect" values. It's about getting honest about what's already driving your decisions (whether you realize it or not).
+
+## Why This Matters Right Now
+
+In a world of infinite options, values are your filter. They help you say no to good opportunities so you can say yes to great ones. They give you a reason to get up on hard days. They connect you with like-minded people and meaningful work.
+
+Plus, when you're clear on your values, imposter syndrome starts to fade. You're not trying to be someone else - you're being authentically you.
+
+## Your Daily Rhythm
+
+Each day this week:
+
+1. **Read the lesson** (5 minutes)
+2. **Do the exercise** (10-15 minutes)
+3. **Write one insight** - What surprised you? What felt true?
+
+Keep it simple. The goal is clarity, not perfection.
 
 ---
-
-_The best developers aren't the ones who know everything - they're the ones who know how to find answers quickly._

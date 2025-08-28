@@ -1,6 +1,6 @@
 layout: layouts/journey.vto
 week: 1
-phase: self-discovery
+phase: "Phase 1: Foundation"
 
 lessons:
   - index: 0

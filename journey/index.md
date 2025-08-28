@@ -1,143 +1,182 @@
 ---
 layout: layouts/journey.vto
 title: 100 Day Journey
-excerpt: Know Yourself → Master Your Tools → Design Your Life. A comprehensive transformation program for young developers.
+excerpt: Discover Your Foundation → Build Your Systems → Create Your Impact. A transformative 100-day program for students and early-career professionals.
 ---
 
-# Life Foundations Curriculum
+# The 100-Day Journey
 
-**Know Yourself → Master Your Tools → Design Your Life**
+**Discover Your Foundation → Build Your Systems → Create Your Impact**
 
-A 14-week journey designed specifically for young developers who want to build not just great code, but a great life. Discover who you are, master personalized productivity systems, and design a career aligned with your values.
+A 14-week transformation program designed for college students and early-career professionals ready to build not just great skills, but a meaningful life. Master self-knowledge, create sustainable systems, and develop the influence to make your mark.
 
 ## Overview
 
 - **Duration:** 14 weeks (100 days)
-- **Daily Commitment:** 60-90 minutes
+- **Daily Commitment:** 20-30 minutes
 - **Format:** Self-paced with weekly themes
-- **Approach:** Personality-driven customization
+- **Approach:** Progressive skill-building across three phases
 
 ## Core Philosophy
 
-You can't optimize what you don't understand. This journey starts with deep self-discovery because generic advice fails when applied to unique individuals. Every tool, system, and strategy you'll learn will be customized to YOUR personality, learning style, and life goals.
+True growth happens in layers. You can't build sustainable success without understanding yourself first. This journey guides you through three essential phases: discovering who you are, building systems that work for you, and creating meaningful impact in your world.
+
+## The Three Phases
+
+### Phase 1: Foundation (Weeks 1-5)
+
+_"Who am I and how do I grow?"_
+
+Build your personal foundation through self-discovery, learning optimization, communication skills, community building, and resilience development.
+
+### Phase 2: Systems (Weeks 6-10)
+
+_"How do I create sustainable success?"_
+
+Design personal systems for purpose-driven work, sustainable productivity, deep focus, healthy boundaries, and work-life integration.
+
+### Phase 3: Impact (Weeks 11-14)
+
+_"How do I contribute and lead?"_
+
+Develop your capacity for career strategy, leadership influence, meaningful contribution, and future planning.
 
 ## The Journey Ahead
 
-### Phase 1: Self-Discovery (Weeks 1-3)
+### Phase 1: Foundation (Weeks 1-5)
 
-_You can't optimize what you don't understand_
+_Understanding yourself and building core capabilities_
 
-#### [Week 1: The Deep Dive Into You](/journey/week-01/)
+#### [Week 1: Self-Discovery](/journey/week-01/)
 
-Begin your transformation with 8 comprehensive personality assessments. Discover your cognitive preferences, emotional patterns, and natural strengths.
+Begin your transformation with comprehensive personality assessments. Discover your cognitive preferences, emotional patterns, and natural strengths.
 
-#### [Week 2: Your Values, Mission, and Calling](/journey/week-02/)
+#### [Week 2: Learning How to Learn](/journey/week-02/)
 
-Uncover what truly matters to you. Define your personal mission and identify your calling beyond just coding.
+Master learning techniques that match your style. Build a second brain, overcome information overload, and develop sustainable learning habits.
 
-#### [Week 3: Understanding Your Energy and Patterns](/journey/week-03/)
+#### [Week 3: Communication Basics](/journey/week-03/)
 
-Map your energy cycles, identify your peak performance times, and learn to work with your natural rhythms.
+Develop essential communication skills early. Learn to express ideas clearly, listen actively, and connect authentically with others.
 
----
+#### [Week 4: Getting Help & Building Community](/journey/week-04/)
 
-### Phase 2: Tool Mastery (Weeks 4-7)
+Learn to ask for help effectively and build supportive networks. Develop the confidence to reach out and the skills to give back.
 
-_Build your personal operating system_
+#### [Week 5: Resilience & Growth Mindset](/journey/week-05/)
 
-#### [Week 4: The Learning Operating System](/journey/week-04/)
-
-Design a learning system tailored to your cognitive style. Master techniques that match how YOUR brain processes information.
-
-#### [Week 5: Focus in the Age of Distraction](/journey/week-05/)
-
-Develop deep work practices customized to your personality type. Build focus without fighting your nature.
-
-#### [Week 6: Asking for Help & Building Knowledge](/journey/week-06/)
-
-Learn to leverage others' expertise effectively. Build a personal knowledge management system.
-
-#### [Week 7: Productivity Without Burnout](/journey/week-07/)
-
-Create sustainable productivity systems that honor your energy patterns and prevent burnout.
+Build mental toughness and adaptability. Learn to bounce back from setbacks and turn challenges into growth opportunities.
 
 ---
 
-### Phase 3: Life Design (Weeks 8-14)
+### Phase 2: Systems (Weeks 6-10)
 
-_Build a life that honors who you are_
+_Creating sustainable patterns for success_
 
-#### [Week 8: Boundaries That Match Your Personality](/journey/week-08/)
+#### [Week 6: Purpose & Vision](/journey/week-06/)
 
-Set boundaries that protect your energy while maintaining relationships. Learn to say no in your style.
+Define your personal mission and long-term vision. Align your daily actions with what truly matters to you.
 
-#### [Week 9: Communication Styles](/journey/week-09/)
+#### [Week 7: Energy & Productivity](/journey/week-07/)
 
-Master communication patterns that work for your personality. Bridge gaps with different types.
+Master sustainable productivity by understanding your energy patterns. Build systems that prevent burnout while maximizing output.
 
-#### [Week 10: Failure & Resilience By Type](/journey/week-10/)
+#### [Week 8: Focus & Deep Work](/journey/week-08/)
 
-Build resilience strategies that match your emotional patterns. Turn setbacks into growth.
+Develop laser-sharp focus in a distracted world. Create environments and routines that support sustained concentration.
 
-#### [Week 11: Building Your Network Authentically](/journey/week-11/)
+#### [Week 9: Boundaries](/journey/week-09/)
 
-Network in ways that feel natural to you. Build genuine connections without the awkwardness.
+Set healthy boundaries that protect your energy and time. Learn to say no gracefully while maintaining relationships.
 
-#### [Week 12: Health Habits That Stick](/journey/week-12/)
+#### [Week 10: Work-Life Integration](/journey/week-10/)
 
-Design health routines that work with your lifestyle and preferences, not against them.
+Design a life where work and personal fulfillment complement each other. Move beyond balance to true integration.
 
-#### [Week 13: Purpose-Aligned Career](/journey/week-13/)
+---
 
-Align your career trajectory with your values and strengths. Design work that energizes you.
+### Phase 3: Impact (Weeks 11-14)
 
-#### [Week 14: Designing Your Next 100 Days](/journey/week-14/)
+_Leading, contributing, and planning your future_
 
-Create a concrete action plan for your future. Set up systems for continued growth.
+#### [Week 11: Career Strategy](/journey/week-11/)
+
+Develop a strategic approach to your career. Build skills, navigate opportunities, and position yourself for growth.
+
+#### [Week 12: Leadership & Influence](/journey/week-12/)
+
+Cultivate leadership skills regardless of your role. Learn to inspire, influence, and create positive change.
+
+#### [Week 13: Giving Back & Legacy](/journey/week-13/)
+
+Discover how to contribute meaningfully to your community. Build a legacy through mentoring, service, and impact.
+
+#### [Week 14: Future Planning](/journey/week-14/)
+
+Create a concrete action plan for your next phase. Set up systems for continued growth and evolution.
 
 ## What Makes This Different
 
-- **Personality-first approach** - Not one-size-fits-all advice
-- **8+ assessment tools** - Deep, multi-dimensional self-knowledge
-- **Customized strategies** - Every technique adapted to YOUR type
-- **Daily practical application** - Theory meets real-world practice
-- **Real-world focused** - Understanding the challenges young professionals face
-- **Holistic approach** - Address the whole person, not just coding skills
+- **Progressive structure** - Each phase builds on the previous
+- **Universal application** - For all fields, not just tech
+- **Practical focus** - Daily exercises you can actually do
+- **Research-backed** - Based on proven psychological principles
+- **Community-oriented** - Emphasis on connection and contribution
+- **Holistic approach** - Address the whole person, not just career
 
 ## Perfect For
 
-- College students feeling overwhelmed by future choices
-- Young professionals seeking structure and direction
-- Anyone struggling with impostor syndrome
-- People who've tried generic productivity systems that didn't stick
-- Those wanting work-life integration (not just balance)
-- Anyone ready to build a sustainable, meaningful life and career
+- College students navigating their path
+- Early-career professionals seeking direction
+- Anyone feeling stuck or overwhelmed
+- People ready to level up their personal effectiveness
+- Those wanting meaningful work-life integration
+- Anyone committed to personal growth
 
-## What You'll Discover
+## What You'll Gain
 
-- Your unique personality profile across 8 dimensions
-- Your optimal learning style and environment
-- Your natural strengths and how to leverage them
-- Your values and non-negotiables
-- Your personalized productivity system
-- Your communication and collaboration style
-- Your path to sustainable success
+**Foundation Phase:**
+
+- Deep self-knowledge and awareness
+- Optimized learning capabilities
+- Strong communication skills
+- Supportive community connections
+- Resilience and adaptability
+
+**Systems Phase:**
+
+- Clear purpose and vision
+- Sustainable productivity methods
+- Deep focus abilities
+- Healthy boundaries
+- Integrated life design
+
+**Impact Phase:**
+
+- Strategic career planning
+- Leadership capabilities
+- Service mindset
+- Clear future direction
 
 ## Expected Transformations
 
 - **From confused to clear** about your path
-- **From burned out to sustainably productive** in your work
-- **From impostor to confident** contributor
-- **From scattered to systematized** in your approach
-- **From isolated to connected** in your community
-- **From surviving to thriving** in your career
+- **From overwhelmed to organized** in your approach
+- **From isolated to connected** in community
+- **From reactive to strategic** in decisions
+- **From surviving to thriving** in all areas
+- **From follower to leader** in your sphere
+
+## The 100-Day Commitment
+
+This isn't about perfection. It's about consistent progress. Each day builds on the last, creating compound growth over 100 days. Miss a day? No problem. Just pick up where you left off. The journey is yours to customize.
 
 ## Ready to Begin?
 
-Your journey to self-mastery starts with understanding who you are. No more generic advice. No more one-size-fits-all solutions. This is YOUR personalized path to excellence.
+Your transformation starts with a single step. Week 1 awaits with powerful self-discovery tools that will illuminate your path forward.
 
 <div class="mt-8 flex gap-4">
   <a href="/journey/week-01/" class="inline-block px-6 py-3 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors">
-    Start Week 1: The Deep Dive →
+    Start Week 1: Self-Discovery →
   </a>
 </div>

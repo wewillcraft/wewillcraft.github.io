@@ -1,240 +1,240 @@
 ---
-title: "Week 11: Building Your Network Authentically"
-week: 11
+title: "Week 12: Health Habits That Stick"
+week: 12
 phase: life-design
-excerpt: Create meaningful professional relationships that align with your personality and values.
+excerpt: Build sustainable health practices that enhance your cognitive performance and long-term career success.
 estimated_time: 8-10 hours total
 ---
 
 ## Core Truth
 
-**Your network is your net worth, but only if it's built on authentic relationships.**
+**Your body is your most important development environment.**
 
-Networking isn't about collecting business cards or LinkedIn connections. It's about building genuine relationships with people who share your interests, values, and professional goals.
+Peak cognitive performance requires peak physical health. This week, you'll design health habits that fit your lifestyle, personality, and professional demands as a developer.
 
 ## This Week's Journey
 
-1. [**Authentic Networking Assessment**](./01-networking-assessment) (45 min)
-   - Your current networking style
-   - Comfort zones and growth edges
-   - Values-based relationship building
+1. [**Health Baseline Assessment**](./01-health-baseline) (60 min)
+   - Current health status audit
+   - Energy patterns and pain points
+   - Lifestyle factor analysis
 
-2. [**Building Your Network Map**](./02-network-mapping) (90 min)
-   - Existing relationship audit
-   - Identifying network gaps
-   - Strategic relationship planning
+2. [**The Developer's Health Challenges**](./02-developer-health-challenges) (45 min)
+   - Sedentary lifestyle impacts
+   - Screen time and eye health
+   - Posture and ergonomics
 
-3. [**Personality-Based Networking Strategies**](./03-networking-by-type) (75 min)
-   - Introvert vs. extravert approaches
-   - Online vs. offline preferences
-   - Energy-preserving techniques
+3. [**Movement for Mind and Body**](./03-movement-systems) (90 min)
+   - Exercise that fits your schedule
+   - Movement breaks and micro-workouts
+   - Building activity into your day
 
-4. [**Digital Presence Optimization**](./04-digital-presence) (60 min)
-   - LinkedIn profile enhancement
-   - Twitter/GitHub professional branding
-   - Content creation strategies
+4. [**Nutrition for Cognitive Performance**](./04-cognitive-nutrition) (75 min)
+   - Brain-boosting foods and supplements
+   - Meal prep for busy developers
+   - Managing coding session fuel
 
-5. [**Meaningful Conversation Skills**](./05-conversation-skills) (90 min)
-   - Moving beyond small talk
-   - Active listening techniques
-   - Finding common ground quickly
+5. [**Sleep Optimization**](./05-sleep-optimization) (90 min)
+   - Sleep hygiene for developers
+   - Managing blue light exposure
+   - Creating optimal sleep environments
 
-6. [**Community Building and Contribution**](./06-community-building) (75 min)
-   - Finding your professional tribes
-   - Adding value before asking
-   - Building long-term relationships
+6. [**Stress Management and Recovery**](./06-stress-recovery) (60 min)
+   - Recognizing and managing tech stress
+   - Active recovery techniques
+   - Building resilience reserves
 
-7. [**Mentorship and Reverse Mentoring**](./07-mentorship-networks) (60 min)
-   - Finding and working with mentors
-   - Mentoring others effectively
-   - Creating mentorship circles
+7. [**Mental Health Maintenance**](./07-mental-health) (75 min)
+   - Anxiety and depression awareness
+   - Building emotional regulation skills
+   - When and how to seek help
 
-8. [**Network Maintenance Systems**](./08-network-maintenance) (60 min)
-   - Staying in touch systematically
-   - Relationship nurturing strategies
-   - Giving and receiving support
+8. [**Sustainable Habit Architecture**](./08-habit-architecture) (60 min)
+   - Habit stacking and triggers
+   - Making health convenient
+   - Tracking and accountability systems
 
-## Week 11 Deliverable
+## Week 12 Deliverable
 
 By Sunday evening, you'll have created:
 
-- **Your Network Map** (visual representation of relationships)
-- **Your Digital Presence Audit** (optimized profiles and content)
-- **Your Networking Action Plan** (specific outreach and engagement strategies)
-- **Your Network Maintenance System** (regular touchpoint schedule)
+- **Your Health Baseline Report** (current state and goals)
+- **Your Movement Integration Plan** (exercise and activity schedule)
+- **Your Nutrition Strategy** (meal planning and preparation system)
+- **Your Health Habit Stack** (integrated daily and weekly routines)
 
-## Personality-Based Networking Approaches
+## Personality-Based Health Approaches
 
-**For Introverts:**
+**For Structured Types (High Conscientiousness):**
 
-- **Strengths:** Deep one-on-one conversations, thoughtful follow-up, quality relationships
-- **Strategies:** Coffee chats over cocktail parties, online communities, small group events
-- **Energy Management:** Shorter interactions, preparation time, recovery periods
+- **Strengths:** Consistent routines, goal tracking, long-term planning
+- **Strategies:** Detailed workout schedules, meal prep Sundays, health metrics tracking
+- **Challenges:** Perfectionism, all-or-nothing thinking, schedule disruption anxiety
 
-**For Extraverts:**
+**For Flexible Types (High Openness):**
 
-- **Strengths:** Meeting new people easily, group energy, enthusiasm
-- **Strategies:** Conference networking, large events, group activities
-- **Energy Management:** Variety of interactions, social stimulation, group environments
+- **Strengths:** Variety seeking, experimental approaches, adaptive routines
+- **Strategies:** Diverse activities, trying new healthy recipes, seasonal adjustments
+- **Challenges:** Inconsistency, shiny object syndrome, lack of structure
 
-**For Thinking Types:**
+**For Social Types (High Extraversion):**
 
-- **Strengths:** Professional focus, logical connection-making, competency-based relationships
-- **Strategies:** Industry expertise sharing, problem-solving collaborations, skill-based networking
-- **Connection Points:** Technical discussions, career advancement, project collaborations
+- **Strengths:** Group activities, accountability partners, external motivation
+- **Strategies:** Fitness classes, workout buddies, team sports, social challenges
+- **Challenges:** Depending too much on others, social eating temptations
 
-**For Feeling Types:**
+**For Independent Types (High Introversion):**
 
-- **Strengths:** Relationship building, empathy, supportive connections
-- **Strategies:** Value-aligned communities, personal story sharing, collaborative projects
-- **Connection Points:** Shared values, personal growth, team dynamics
+- **Strengths:** Self-directed routines, home workouts, individual goals
+- **Strategies:** Solo activities, private fitness spaces, self-monitoring apps
+- **Challenges:** Isolation, lack of external accountability, limited variety
 
-## The Developer's Networking Landscape
+## The Developer's Physical Challenges
 
-**Essential Network Categories:**
+**Common Issues:**
 
-**Technical Community:**
+- **"Text neck"** from looking down at screens
+- **Carpal tunnel syndrome** from repetitive typing
+- **Eye strain** from prolonged screen exposure
+- **Lower back pain** from prolonged sitting
+- **Weight gain** from sedentary lifestyle
+- **Poor sleep** from blue light and stress
 
-- Open source contributors
-- Technology meetup attendees
-- Conference speakers and organizers
-- Online community members (Discord, Reddit, Stack Overflow)
+**Professional Impact:**
 
-**Career Network:**
+- Decreased cognitive function
+- Reduced problem-solving ability
+- Increased error rates
+- Lower creativity and innovation
+- Higher burnout risk
+- Shortened career longevity
 
-- Current and former colleagues
-- Industry professionals
-- Recruiters and hiring managers
-- Career coaches and mentors
+## Movement Integration for Developers
 
-**Learning Network:**
+**Desk-Based Exercises (every hour):**
 
-- Educators and trainers
-- Fellow learners and bootcamp cohorts
-- Conference attendees
-- Online course communities
+- Neck rolls and shoulder shrugs
+- Wrist and finger stretches
+- Seated spinal twists
+- Ankle rotations and calf raises
 
-**Innovation Network:**
+**Micro-Workouts (5-10 minutes):**
 
-- Startup founders and entrepreneurs
-- Product managers and designers
-- Investors and business leaders
-- Cross-industry professionals
+- Stair climbing during breaks
+- Standing desk intervals
+- Walking meetings when possible
+- Bodyweight exercises between coding sessions
 
-## Authentic Networking Strategies
+**Developer-Friendly Activities:**
 
-**Value-First Approach:**
+- Walking while debugging mentally
+- Standing desk for certain tasks
+- Balance ball chair periods
+- Walking or cycling commute
 
-1. **Identify what you can offer** (skills, knowledge, connections)
-2. **Find people you can help** (research their challenges and goals)
-3. **Make specific, helpful introductions** (connect people who should know each other)
-4. **Share valuable resources** (articles, tools, opportunities)
-5. **Ask thoughtful questions** (show genuine interest in their work)
+## Cognitive Nutrition Strategies
 
-**The Slow Networking Method:**
+**Brain-Boosting Foods:**
 
-- Focus on building fewer, deeper relationships
-- Invest time in getting to know people well
-- Create value consistently over time
-- Build trust through reliability and authenticity
-- Let relationships develop naturally
+- **Omega-3 fatty acids** (fish, walnuts, flax seeds)
+- **Antioxidants** (berries, dark chocolate, green tea)
+- **Complex carbohydrates** (whole grains, sweet potatoes)
+- **Protein** (eggs, lean meats, legumes)
 
-## Digital Networking Best Practices
+**Coding Session Fuel:**
 
-**LinkedIn Optimization:**
+- **Sustained energy:** Nuts, seeds, fruit
+- **Hydration:** Water, herbal teas, avoid excessive caffeine
+- **Blood sugar stability:** Avoid high-sugar snacks
+- **Mental clarity:** Dark leafy greens, avocados
 
-- Professional headline that shows value
-- Summary that tells your story
-- Regular content sharing and commenting
-- Thoughtful connection requests
-- Engagement with others' content
+**Meal Prep for Busy Developers:**
 
-**Twitter/X for Developers:**
+- Batch cooking on weekends
+- Pre-portioned healthy snacks
+- Slow cooker meals for busy weeks
+- Emergency healthy meal options
 
-- Share learning journey insights
-- Engage in technical discussions
-- Build in public documentation
-- Connect with developer communities
-- Participate in Twitter chats and hashtags
+## Sleep Optimization for Developers
 
-**GitHub as Social Network:**
+**The Sleep-Performance Connection:**
 
-- Contribute to open source projects
-- Comment thoughtfully on issues
-- Share your own projects clearly
-- Follow and star interesting repositories
-- Build a strong developer profile
+- Memory consolidation happens during sleep
+- Problem-solving insights often come after rest
+- Creativity and innovation require adequate sleep
+- Debugging ability decreases with sleep deprivation
 
-## Overcoming Networking Anxiety
+**Developer-Specific Sleep Hygiene:**
 
-**Common Fears and Solutions:**
+- Blue light blocking glasses/software
+- No screens 1 hour before bed
+- Cool, dark bedroom environment
+- Consistent sleep schedule (even on weekends)
+- Wind-down routine with non-screen activities
 
-**"I have nothing valuable to offer"**
+## Building Your Health Habit Stack
 
-- Everyone has unique perspectives and experiences
-- Your beginner's mind is valuable to others
-- Focus on asking good questions and listening
+**Morning Stack:**
 
-**"I don't want to seem pushy"**
+1. Wake up → Drink water → 5-minute stretch
+2. Coffee → Healthy breakfast → Vitamins
+3. Commute → Walking/movement → Start work energized
 
-- Lead with genuine interest in others
-- Offer help before asking for anything
-- Build relationships slowly over time
+**Work Day Stack:**
 
-**"I'm not good at small talk"**
+1. Pomodoro break → Stand and stretch → Resume work
+2. Lunch break → Walk outside → Eat mindfully
+3. Afternoon slump → Healthy snack → Brief walk
 
-- Prepare conversation starters about industry topics
-- Ask about projects people are working on
-- Share what you're learning or building
+**Evening Stack:**
 
-**"Online networking feels fake"**
+1. Work ends → Change clothes → Exercise
+2. Dinner → Walk → Wind-down activity
+3. Blue light off → Reading → Sleep routine
 
-- Bring your authentic personality to digital spaces
-- Comment meaningfully on others' content
-- Turn online connections into offline conversations
+## The 1% Rule for Health
 
-## The Compound Effect of Networking
+**Small Changes, Big Results:**
 
-**Short-term Benefits:**
+- 1% better each day = 37x improvement over a year
+- Focus on consistency over intensity
+- Make health habits so small you can't fail
+- Stack new habits onto existing routines
 
-- Learning opportunities
-- Job referrals and recommendations
-- Collaboration partnerships
-- Skill development feedback
+**Examples:**
 
-**Long-term Benefits:**
+- Park further away → More daily steps
+- Take stairs → More cardio
+- Water before coffee → Better hydration
+- Stretch while code compiles → More movement
 
-- Career advancement opportunities
-- Entrepreneurial partnerships
-- Industry reputation building
-- Lifelong professional friendships
+## Life Lesson for Long-Term Success
 
-## Life Lesson for Career Growth
+> "Take care of your body. It's the only place you have to live." - Jim Rohn
 
-> "Your network is not just who you know. It's who knows what you're capable of." - Reid Hoffman
-
-The relationships you build in your twenties will open doors throughout your career. Invest in people, not just skills.
+Your health is your wealth. The habits you build in your twenties will determine your energy and capability in your forties, fifties, and beyond.
 
 ## Time Investment This Week
 
-- **Assessment and Mapping:** 2-3 hours
-- **Digital Presence Work:** 2-3 hours
-- **Outreach and Engagement:** 3-4 hours
-- **System Setup:** 1-2 hours
+- **Assessment and Planning:** 2-3 hours
+- **Habit Experimentation:** 3-4 hours
+- **System Setup:** 2-3 hours
+- **Implementation and Tracking:** 1-2 hours
 - **Total:** 8-10 hours (spread across 7 days)
 
 ## Resources for Going Deeper
 
-- "Never Eat Alone" by Keith Ferrazzi
-- "The Like Switch" by Jack Schafer
-- "How to Win Friends and Influence People" by Dale Carnegie
-- "The Connector's Advantage" by Michelle Tillis Lederman
-- [LinkedIn Learning Networking Courses](https://www.linkedin.com/learning/topics/networking)
+- "Atomic Habits" by James Clear
+- "The 4-Hour Body" by Timothy Ferriss
+- "Sleep Smarter" by Shawn Stevenson
+- "The Upward Spiral" by Alex Korb
+- [MyFitnessPal](https://www.myfitnesspal.com/) for nutrition tracking
+- [f.lux](https://justgetflux.com/) for blue light management
 
 ## Quick Navigation
 
-**Start Here →** [01: Authentic Networking Assessment](./01-networking-assessment)
+**Start Here →** [01: Health Baseline Assessment](./01-health-baseline)
 
 ---
 
-_Remember: Networking is not about using people. It's about building mutually beneficial relationships. Focus on how you can help others, and help will come back to you._
+_Remember: You don't need to be perfect, just consistent. Small, sustainable changes compound into significant health improvements over time._

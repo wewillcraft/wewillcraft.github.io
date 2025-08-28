@@ -80,6 +80,9 @@ site.ignore("README.md");
 site.ignore((path) => {
   return path.match(/CLAUDE\.md$/) !== null;
 });
+site.ignore((path) => {
+  return path.match(/TODO\.md$/) !== null;
+});
 
 site.copy("uploads");
 site.copy("static", ".");

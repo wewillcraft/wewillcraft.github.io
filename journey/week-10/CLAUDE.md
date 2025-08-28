@@ -1,162 +1,122 @@
-# Week 10: Resilience Building - Style Guide
+# Week 10: Work-Life Integration - Style Guide
 
 ## Week Overview
 
-Week 10 is about bouncing back stronger. Students need to see failure as a teacher, not an enemy. This week builds mental toughness while maintaining self-compassion.
+Week 10 focuses on integrating career growth with personal life. This isn't about perfect balance but sustainable harmony. Students learn to manage relationships, health, finances, and personal systems while building their career.
 
 ## Specific Tone for This Week
 
-- **Empowering**: Failure is just data, not destiny
-- **Realistic**: Acknowledge that setbacks hurt
-- **Growth-focused**: Every failure has a lesson
-- **Compassionate**: Be kind to yourself while being honest
+- **Realistic and honest**: Perfect balance doesn't exist
+- **Holistic**: Success includes relationships and health
+- **Practical**: Systems that actually work
+- **Anti-guilt**: You can have both career and life
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Failure Story Audit (01-failure-story-audit.md)
+### Lesson 1: Work-Life Harmony (01-work-life-harmony.md)
 
-- Normalize failure stories
-- Everyone has them, successful people have more
-- Reframe past failures as learning
-- No toxic positivity
+- Balance is myth, harmony is achievable
+- Seasons and flow vs rigid balance
+- Integration over separation
+- "Harmony > Balance"
 
-### Lesson 2: Growth Mindset Development (02-growth-mindset.md)
+### Lesson 2: Relationship Management (02-relationship-management.md)
 
-- Fixed vs growth isn't binary
-- We all have both in different areas
-- Practical ways to shift perspective
-- Small wins build big changes
+- Maintaining relationships during career growth
+- Communication about priorities
+- Quality time vs quantity time
+- "Relationships enable success"
 
-### Lesson 3: Stress Inoculation (03-stress-inoculation.md)
+### Lesson 3: Financial Wellness (03-financial-wellness.md)
 
-- Controlled exposure to challenges
-- Building tolerance gradually
-- Not about being tough
-- About being prepared
+- Money mindset for tech careers
+- Basic financial planning
+- Avoiding lifestyle inflation
+- "Money is a tool, not a goal"
 
-### Lesson 4: Emotional Regulation (04-emotional-regulation.md)
+### Lesson 4: Health Optimization (04-health-optimization.md)
 
-- Feelings are data, not directives
-- Simple techniques that actually work
-- No meditation shame if it's not for you
-- Find what works for YOUR brain
+- Sleep as performance enhancer
+- Movement for developers
+- Nutrition for brain power
+- "Health enables everything else"
 
-### Lesson 5: Support Systems (05-support-systems.md)
+### Lesson 5: Personal Systems (05-personal-systems.md)
 
-- Asking for help is strategic, not weak
-- Different people for different needs
-- Building your personal board of directors
-- Reciprocal support matters
+- Life admin automation
+- Personal productivity systems
+- Managing personal tasks
+- "Systems free your mind"
 
-### Lesson 6: Bounce-Back Strategies (06-bounce-back-strategies.md)
+### Lesson 6: Integration Strategies (06-integration-strategies.md)
 
-- Concrete recovery protocols
-- When to push through vs rest
-- Creating your comeback plan
-- Small actions build momentum
+- Practical integration techniques
+- Boundary management at home
+- Career growth without sacrifice
+- "Integration is intentional"
 
-### Lesson 7: Post-Traumatic Growth (07-post-traumatic-growth.md)
+### Lesson 7: Integration Plan (07-integration-plan.md)
 
-- Not all struggles make us stronger
-- But some can if we're intentional
-- Finding meaning without forcing it
-- Growth isn't mandatory
-
-### Lesson 8: Resilience Maintenance (08-resilience-maintenance.md)
-
-- Resilience is like fitness
-- You don't build it once
-- Daily practices that maintain it
-- Preventing resilience fatigue
+- Creating their personal life OS
+- Regular review systems
+- Adjustment strategies
+- "Your life needs a system too"
 
 ## Key Messages for Week 10
 
-### Core Truths:
+### Core Messages:
 
-- "Failure is feedback, not a verdict"
-- "Resilience is a skill, not a trait"
-- "You're stronger than you think"
-- "Every setback is a setup for a comeback"
-- "Progress isn't always forward"
+- "You don't have to choose between career and life"
+- "Integration is better than balance"
+- "Systems enable both success and relationships"
+- "Health and career reinforce each other"
+- "Sustainable success includes personal life"
 
-### Normalize These:
+### Integration Truths:
 
-- Crying after a failure
-- Taking time to recover
-- Asking for help
-- Changing your approach
-- Not bouncing back immediately
+- Perfect balance is impossible and unnecessary
+- Different life seasons require different approaches
+- Systems matter more than willpower
+- Quality matters more than quantity
+- Success without relationships is hollow
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Failed coding interview, learned what to study
-- Project rejection, improved pitch
-- Burned out, learned boundaries
-- Lost job, found better fit
-- Failed class, changed major
+- Scheduling date nights like important meetings
+- Morning routines that include family time
+- Financial planning that supports relationships
+- Health habits that boost work performance
+- Systems that reduce life admin stress
 
 ### Avoid:
 
-- Extreme hardship stories
-- "Everything happens for a reason"
-- Comparing struggles
-- Minimizing real pain
-- Toxic positivity
+- Perfect work-life balance mythology
+- Hustle culture that sacrifices relationships
+- Money as only success metric
+- Health sacrifice for career gains
+- All-or-nothing thinking
 
 ## Exercises for This Week
 
-Reflection and action focused:
+Integration experiments:
 
-- Failure inventory with lessons
-- Stress level assessments
-- Support network mapping
-- Recovery protocol design
-- Growth tracking journals
+- Design one integration strategy
+- Set up one personal system
+- Schedule relationship time
+- Create financial awareness
+- Plan health habits
 
-## Language Specific to Resilience
+## Language Specific to Integration
 
 ### Instead of:
 
-- "Bounce back" → "Move forward"
-- "Get over it" → "Work through it"
-- "Stay strong" → "Be human"
-- "Push through" → "Navigate wisely"
-- "Tough it out" → "Find your way"
-
-## Weekly Emotional Arc
-
-**Monday (Lesson 1-2)**: "Let's look at failure differently"
-**Wednesday (Lesson 3-4)**: "You have more tools than you think"
-**Friday (Lesson 5-6)**: "You're not alone in this"
-**Weekend (Lesson 7-8)**: "You can handle whatever comes"
-
-## Success Metrics
-
-Students should finish Week 10 with:
-
-1. Reframed relationship with failure
-2. Concrete resilience strategies
-3. Active support network
-4. Emotional regulation tools
-5. Personal recovery protocols
-
-## Special Considerations
-
-### For Perfectionists:
-
-- Failure doesn't mean you're failing
-- High standards can coexist with self-compassion
-- Mistakes are data points
-- Perfect resilience doesn't exist
-
-### For Those Struggling:
-
-- It's okay to not be okay
-- Resilience isn't about not feeling
-- Take the time you need
-- Professional help is valid
+- "Work-life balance" → "Work-life integration"
+- "Choose one or the other" → "Find harmony between both"
+- "Sacrifice for success" → "Sustainable success"
+- "All work or all life" → "Intentional integration"
+- "Perfect balance" → "Dynamic harmony"
 
 ## Writing Style Notes
 
@@ -169,17 +129,57 @@ Students should finish Week 10 with:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
+## Weekly Emotional Arc
+
+**Monday (Lesson 1-2)**: "You can have both career and life"
+**Wednesday (Lesson 3-4)**: "Health and money support everything"
+**Friday (Lesson 5-6)**: "Systems make integration possible"
+**Weekend (Lesson 7-8)**: "Create your integration plan"
+
+## Success Metrics
+
+Students should finish Week 10 with:
+
+1. Clear integration strategy
+2. Personal systems in place
+3. Relationship communication plan
+4. Basic financial awareness
+5. Health habits that support career
+
+## Special Considerations
+
+### For Career-Obsessed Students:
+
+- Relationships fuel long-term success
+- Health enables sustained performance
+- Money without relationships is empty
+- "Career success includes personal success"
+
+### For Relationship-Focused Students:
+
+- Career growth can strengthen relationships
+- Financial security reduces relationship stress
+- Professional success builds confidence
+- "You can grow both simultaneously"
+
+### For Perfectionists:
+
+- Integration is messy and dynamic
+- Different seasons require different approaches
+- Good enough is often perfect
+- "Progress over perfection in all areas"
+
 ## Remember
 
-This week is about:
+Week 10 is about:
 
-- Building real resilience
-- Not pretending everything's fine
-- Practical tools over platitudes
-- Self-compassion with accountability
-- Growth through struggle
+- Building sustainable success
+- Integrating career with personal life
+- Creating systems that support both
+- Rejecting false either/or choices
+- Planning for whole-life success
 
-Every lesson should reinforce: "You can handle hard things."
+Every lesson should make them think: "I can build a career AND have a life."
 
 ## Frontmatter Requirements
 

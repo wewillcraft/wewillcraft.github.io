@@ -1,102 +1,139 @@
 ---
-title: "Week 2: Finding Your True North 🧭"
-week: 2
-phase: self-discovery
+title: "Week 4: The Learning Operating System"
+week: 4
+phase: learning-productivity
 index: 0
-excerpt: "Discovering what you actually care about (hint: it might not be what you think)"
-description: "Discover your true values, find your sweet spot, and create a vision that actually inspires you - all while building your personal manifesto."
+excerpt: Let's build a learning system that actually works with your brain (not against it)
+description: "Build a personalized learning system that matches your style, create a second brain for knowledge management, and develop active learning techniques that make knowledge stick."
 estimated_time: 15-20 min/day
 objectives:
-  - Identify your authentic core values (not what you think you should value)
-  - Map your ikigai - where passion, talents, and opportunities align
-  - Create a compelling 5-year vision that pulls you forward
-  - Define your unique technical calling and developer mission
-  - Write a personal manifesto that guides your decisions
+  - Discover your natural learning style and preferences
+  - Build a second brain system for knowledge management
+  - Master spaced repetition for long-term retention
+  - Develop active learning techniques that improve understanding
+  - Design a curated information diet that feeds your growth
+  - Learn through projects that build real skills
+  - Turn failures and mistakes into learning fuel
+  - Share knowledge to deepen your own understanding
 ---
 
-## Hey friend! 👋
+## Hey there, learning champion! 👋
 
-Last week you discovered WHO you are. This week we're diving into WHAT you care about at your deepest level. Think of it as finding your internal GPS - that inner compass that points toward what truly matters to you.
+Welcome to Week 4! Remember how frustrating it was trying to cram for exams or learn new tech skills using methods that just didn't stick? Yeah, we've all been there. This week, we're throwing out the generic "study harder" advice and building a learning system that's designed specifically for YOUR brain.
+
+Think of this like upgrading from dial-up to fiber internet, but for your mind. Same information, way better processing power.
 
 ## The Big Idea 💡
 
-**When you're clear on what matters most, decisions become easier.**
+**You don't need to learn more. You need to learn smarter.**
 
-You know that feeling when you're torn between options? That confusion usually comes from unclear values. Once you know what you truly care about, choices become obvious. You stop second-guessing yourself and start living with more confidence and purpose.
+Here's the thing: your brain isn't broken if traditional study methods don't work for you. You just haven't found your learning sweet spot yet. This week, we're finding that sweet spot and turning it into your personal learning superpower.
 
 ## This Week's Adventure
 
-### Day 1: [What Do You Actually Value?](./01-values-discovery)
+### Day 1: [Find Your Learning Style](./01-learning-style)
 
 _Time: 15 minutes_
 
-Not what you think you should value - what you ACTUALLY value. There's often a gap, and we're going to find it.
+Are you a visual learner who thinks in diagrams? An audio learner who processes best through conversation? Let's find out and stop fighting against your natural wiring.
 
-### Day 2: [Finding Your Sweet Spot](./02-ikigai-mapping)
-
-_Time: 15 minutes_
-
-Where your passions, talents, and the world's needs overlap. Spoiler: This is where magic happens.
-
-### Day 3: [Your Story So Far](./03-life-timeline)
+### Day 2: [Build Your Second Brain](./02-second-brain)
 
 _Time: 20 minutes_
 
-Looking back to understand your patterns. Your past holds clues to your future direction.
+Create an external knowledge system so your actual brain can focus on thinking instead of storing everything. Think of it as your personal Wikipedia.
 
-### Day 4: [How Do You Want to be Remembered?](./04-future-eulogy)
+### Day 3: [Master Spaced Repetition](./03-spaced-repetition)
 
 _Time: 15 minutes_
 
-A bit intense, but incredibly clarifying. What legacy do you want to leave?
+Learn the science behind forgetting (and how to beat it). This one technique alone can cut your study time in half while doubling retention.
 
-### Day 5: [Painting Your Future](./05-vision-creation)
+### Day 4: [Active Learning Techniques](./04-active-learning)
 
 _Time: 20 minutes_
 
-Creating a vision that actually inspires you (not just looks good on paper).
+Stop being a passive consumer of information. We'll turn you into an active learner who actually understands (and remembers) what they learn.
 
-### Day 6: [Your Tech Purpose](./06-technical-calling)
-
-_Time: 15 minutes_
-
-Why are you in tech? What problems do you want to solve with your skills?
-
-### Day 7: [Writing Your Manifesto](./07-personal-manifesto)
+### Day 5: [Design Your Information Diet](./05-information-diet)
 
 _Time: 15 minutes_
 
-Pulling it all together into a personal declaration. Your "this is what I stand for" statement.
+Curate what goes into your brain like you curate your Netflix queue. Quality over quantity, always.
+
+### Day 6: [Learn Through Projects](./06-project-learning)
+
+_Time: 20 minutes_
+
+The best way to learn is by building. We'll design a project-based approach that makes learning stick naturally.
+
+### Day 7: [Turn Failures into Fuel](./07-failure-learning)
+
+_Time: 15 minutes_
+
+Reframe every bug, mistake, and "failed" attempt as valuable data. Spoiler alert: there are no failures, only lessons.
+
+### Day 8: [Share Your Knowledge](./08-knowledge-sharing)
+
+_Time: 20 minutes_
+
+The fastest way to cement your learning? Teach it to someone else. We'll build systems for sharing and reinforcing what you learn.
 
 ## What You'll Walk Away With
 
-By Sunday, you'll have:
+By Sunday night, you'll have:
 
-- ✅ Your top 5 core values (the ones that are actually true for you)
-- ✅ A clear picture of where your passions and talents align
-- ✅ A vision that genuinely excites you
-- ✅ Your personal manifesto - your "line in the sand"
+- ✅ Your personal learning style blueprint (no more one-size-fits-all methods)
+- ✅ A "second brain" system that captures and connects your knowledge
+- ✅ A curated information diet that feeds your growth
+- ✅ Your first project-based learning experiment
+- ✅ A system that turns every mistake into progress
 
 ## Real Talk 💬
 
-Values work can feel abstract or touchy-feely. But here's the thing - unclear values are the root of most career unhappiness. When you take a job that conflicts with what you really care about, you'll feel it every single day.
+Look, we know everyone has an opinion about the "best" way to learn. Some people swear by flashcards, others by videos, others by just diving in and breaking things. Here's the truth: they're all right for someone.
 
-This isn't about finding the "perfect" values. It's about getting honest about what's already driving your decisions (whether you realize it or not).
+This week isn't about finding the "perfect" method. It's about finding YOUR method. The one that feels natural, works with your schedule, and actually sticks.
 
-## Why This Matters Right Now
+## Daily Rhythm
 
-In a world of infinite options, values are your filter. They help you say no to good opportunities so you can say yes to great ones. They give you a reason to get up on hard days. They connect you with like-minded people and meaningful work.
+**Morning (2 min)**: Quick brain check. How's your energy for learning today?
 
-Plus, when you're clear on your values, imposter syndrome starts to fade. You're not trying to be someone else - you're being authentically you.
+**Main Session (15-20 min)**: Complete that day's learning system builder. Experiment, don't stress about perfection.
 
-## Your Daily Rhythm
+**Evening (3 min)**: Capture one insight in your new system. Just one. Build the habit.
 
-Each day this week:
+## Your Week 4 Toolkit
 
-1. **Read the lesson** (5 minutes)
-2. **Do the exercise** (10-15 minutes)
-3. **Write one insight** - What surprised you? What felt true?
+### 📱 Essential Tools
 
-Keep it simple. The goal is clarity, not perfection.
+- **Note-taking app**: Your "second brain" home (we'll help you choose)
+- **Timer**: For focused learning sessions
+- **Learning journal**: Track what works and what doesn't
+
+### 🎧 Optional Companions
+
+- **Noise-canceling headphones**: For deeper focus
+- **Standing desk**: Some brains learn better while moving
+- **Study buddy**: Share insights and stay accountable
+
+## Quick Start Challenge
+
+**Right now, before you read another word:**
+
+1. Finish this sentence: "I learn best when..."
+2. Think of the last thing you learned quickly and enjoyed learning. What made it click?
+3. Set your daily learning time (we suggest the same time every day)
+4. Create a note titled "My Learning Experiments - Week 4"
+
+That's it. You've officially started building your learning operating system! 🧠✨
+
+## A Friendly Reminder
+
+Your brain is already incredible at learning. You've been doing it since you were born. We're just optimizing the process and removing the friction. Be patient with yourself as you experiment with new methods.
+
+## Questions?
+
+Write them down! Questions are your brain's way of pointing you toward what matters most. Every question is worth exploring.
 
 ---

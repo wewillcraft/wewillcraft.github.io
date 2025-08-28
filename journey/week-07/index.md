@@ -1,170 +1,111 @@
 ---
-title: "Week 7: Productivity Without Burnout"
-week: 7
-phase: tool-mastery
-excerpt: Build sustainable systems that optimize for long-term performance over short-term sprints.
-estimated_time: 8-10 hours total
+title: "Week 3: Working With Your Natural Rhythms ⚡"
+week: 3
+phase: learning-productivity
+index: 0
+excerpt: Stop fighting your energy patterns and start working with them
+description: "Discover your natural energy patterns, understand procrastination triggers, and design a productivity system that works with your rhythms instead of against them."
+estimated_time: 15-20 min/day
+objectives:
+  - Track and understand your natural energy patterns
+  - Identify what energizes vs. drains you throughout the day
+  - Analyze your personal procrastination triggers
+  - Reverse-engineer your peak performance conditions
+  - Design a custom productivity system that fits your personality
+  - Create an energy-optimized weekly schedule
 ---
 
-## Core Truth
+## Hey friend! 👋
 
-**Sustainable productivity > Hustle culture productivity.**
+You've discovered who you are and what you value. Now let's figure out WHEN and HOW you work best. This week is about understanding your natural energy patterns and designing a life that flows with them instead of against them.
 
-Burnout isn't a badge of honor—it's a system failure. This week, you'll design productivity systems that work with your human nature, not against it, creating sustainable high performance.
+## The Big Idea 💡
 
-## This Week's Journey
+**You can't manage time, but you can manage energy.** Everyone gets 24 hours, but not everyone has the same energy at the same times. When you align your hardest work with your highest energy, everything becomes easier.
 
-1. [**The Burnout Prevention Framework**](./01-burnout-prevention) (60 min)
-   - Recognizing early warning signs
-   - Understanding your stress patterns
-   - Building recovery protocols
+## This Week's Adventure
 
-2. [**Energy-Based Task Management**](./02-energy-task-management) (75 min)
-   - Matching tasks to energy levels
-   - The Eisenhower Matrix 2.0
-   - Seasonal and cyclical planning
+### Day 1: [How's Your Energy Right Now?](./01-energy-audit)
 
-3. [**The Art of Saying No**](./03-saying-no) (45 min)
-   - Boundary setting strategies
-   - Opportunity cost analysis
-   - Scripts for common situations
+_Time: 15 minutes_
 
-4. [**Sustainable Motivation Systems**](./04-motivation-systems) (90 min)
-   - Intrinsic vs. extrinsic motivation
-   - Progress tracking methods
-   - Reward system design
+Setting up a simple system to track when you feel amazing vs. when you feel drained.
 
-5. [**Recovery and Restoration**](./05-recovery-restoration) (60 min)
-   - Active vs. passive recovery
-   - Micro-breaks and macro-breaks
-   - Sleep optimization for developers
+### Day 2: [The Energy Detective](./02-daily-tracking)
 
-6. [**Stress Management Toolkit**](./06-stress-management) (75 min)
-   - Acute stress responses
-   - Chronic stress mitigation
-   - Personality-based coping strategies
+_Time: 15 minutes (ongoing all week)_
 
-7. [**Work-Life Integration**](./07-work-life-integration) (45 min)
-   - Beyond work-life balance
-   - Creating clear transitions
-   - Remote work boundaries
+Starting to notice patterns - when are you sharp? When do you crash?
 
-8. [**Long-term Sustainability Audit**](./08-sustainability-audit) (60 min)
-   - Evaluating your systems
-   - Identifying sustainability gaps
-   - Creating maintenance routines
+### Day 3: [Connecting the Dots](./03-pattern-recognition)
 
-## Week 7 Deliverable
+_Time: 20 minutes_
 
-By Sunday evening, you'll have created:
+Looking at your patterns to understand what gives you energy and what steals it.
 
-- **Your Burnout Early Warning System** (signs and triggers)
-- **Your Energy-Optimized Schedule** (tasks matched to energy)
-- **Your Recovery Protocol** (daily and weekly restoration)
-- **Your Sustainable Productivity Manifesto** (your principles)
+### Day 4: [Why You Procrastinate](./04-procrastination-analysis)
 
-## The Developer Burnout Epidemic
+_Time: 15 minutes_
 
-**Common Burnout Triggers in Tech:**
+Understanding the real reasons behind your procrastination (hint: it's usually not laziness).
 
-- Constant learning pressure
-- Imposter syndrome cycles
-- Crunch time culture
-- Always-on availability
-- Perfectionist tendencies
-- Comparison with others
+### Day 5: [When You're Unstoppable](./05-success-patterns)
 
-**Sustainable Alternatives:**
+_Time: 15 minutes_
 
-- Learning at your natural pace
-- Celebrating progress over perfection
-- Sustainable work rhythms
-- Clear availability boundaries
-- Growth-focused self-talk
-- Personal journey focus
+Identifying the conditions that make you feel like you can conquer the world.
 
-## Personality-Based Productivity Approaches
+### Day 6: [Designing Your System](./06-productivity-design)
 
-**For Perfectionists:**
+_Time: 20 minutes_
 
-- "Good enough" standards
-- Time-boxed iterations
-- Progress celebration rituals
-- Done lists over to-do lists
+Creating productivity approaches that actually work for YOUR brain and energy.
 
-**For People Pleasers:**
+### Day 7: [Your Perfect Week](./07-ideal-schedule)
 
-- Boundary scripts and practice
-- Automatic no responses
-- Value-based decision filters
-- Support system activation
+_Time: 15 minutes_
 
-**For Overthinkers:**
+Mapping out when to do what based on your natural energy patterns.
 
-- Decision deadlines
-- Analysis paralysis breaks
-- Action-bias building
-- Thought stopping techniques
+## What You'll Walk Away With
 
-**For Underestimators:**
+By Sunday, you'll have:
 
-- Buffer time multiplication
-- Past project time analysis
-- Energy accounting methods
-- Realistic planning tools
+- ✅ A clear picture of your energy patterns
+- ✅ Understanding of what drains vs. energizes you
+- ✅ Your personal "success formula"
+- ✅ A schedule that works with your nature, not against it
 
-## The Compound Interest of Sustainability
+## Real Talk 💬
 
-**Daily Choices That Compound:**
+Most productivity advice assumes everyone is the same. "Wake up at 5am!" "Work in 25-minute chunks!" "Batch similar tasks!" But what if you're a night owl? What if you think better with music? What if you thrive on variety?
 
-- 7-8 hours of sleep vs. 5-6 hours
-- Regular breaks vs. marathon sessions
-- Saying no to one thing vs. saying yes to everything
-- 30 minutes of exercise vs. zero movement
-- Nutritious meals vs. convenience food
-- Mindful work vs. reactive work
+This week, you're discovering YOUR unique operating system. No more forcing yourself into someone else's mold.
 
-Over time, these small differences create dramatically different outcomes in energy, creativity, and career longevity.
+## Why This Matters Right Now
 
-## Building Anti-Fragile Systems
+When you fight your natural rhythms:
 
-**Fragile:** Breaks under pressure
-**Resilient:** Returns to original state after pressure
-**Anti-fragile:** Gets stronger under pressure
+- Everything feels harder than it should
+- You blame yourself for being "lazy" or "unmotivated"
+- You burn out faster
+- You never feel like you're performing at your best
 
-Your productivity system should be anti-fragile:
+When you work with your rhythms:
 
-- Stress reveals improvement opportunities
-- Setbacks teach system refinement
-- Challenges build adaptive capacity
-- Recovery periods enable growth
+- Tasks feel more manageable
+- You have more consistent energy
+- You recover faster from difficult work
+- You feel more like yourself
 
-## Life Lesson for 20-Somethings
+## Your Daily Rhythm
 
-> "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change." - Charles Darwin
+This week is special - you're becoming a scientist of your own patterns:
 
-Your career is a marathon, not a sprint. The habits you build in your twenties will determine your thirties, forties, and beyond.
+1. **Quick check-in** (2 min): Rate your energy 1-10
+2. **Note what you're doing** (1 min): Work type, environment, etc.
+3. **One insight** (2 min): What did you notice today?
 
-## Time Investment This Week
-
-- **System Audit:** 2-3 hours
-- **Recovery Protocol Design:** 2-3 hours
-- **Boundary Practice:** 2-3 hours
-- **Sustainability Planning:** 1-2 hours
-- **Total:** 8-10 hours (spread across 7 days)
-
-## Resources for Going Deeper
-
-- "The Power of Full Engagement" by Jim Loehr
-- "Essentialism" by Greg McKeown
-- "Rest" by Alex Soojung-Kim Pang
-- "The Upward Spiral" by Alex Korb
-- [Burnout Self-Test](https://www.mindgarden.com/117-maslach-burnout-toolkit)
-
-## Quick Navigation
-
-**Start Here →** [01: The Burnout Prevention Framework](./01-burnout-prevention)
+The goal isn't perfect tracking - it's awareness.
 
 ---
-
-_Remember: Productivity without sustainability is just organized self-destruction. You're building a system for the long game._

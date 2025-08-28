@@ -1,136 +1,129 @@
-# Week 12: Career Development - Style Guide
+# Week 12: Leadership - Style Guide
 
 ## Week Overview
 
-Week 12 focuses on career planning and job search strategies for students transitioning into tech. This is often their most anxious topic, so extra warmth and practicality are essential.
+Week 12 develops leadership skills regardless of title or seniority. Every developer can lead from where they are. Focus on inclusive, servant leadership.
 
 ## Specific Tone for This Week
 
-- **Extra encouraging**: Job hunting is scary
-- **Realistic but hopeful**: Acknowledge the challenges without discouraging
-- **Practical focus**: They need actionable steps, not theory
-- **Permission to start small**: Entry-level is totally fine
+- **Inclusive**: Everyone can lead
+- **Humble**: Leadership serves others
+- **Practical**: Start where you are
+- **Empowering**: You're ready to lead
 
 ## Lesson-by-Lesson Guidelines
 
-### Lesson 1: Career Vision (01-career-vision.md)
+### Lesson 1: Leadership Styles (01-leadership-styles.md)
 
-- Help them dream without pressure
-- Focus on 1-2 year horizons (not 10-year plans)
-- Include non-traditional paths
-- Normalize changing directions
+- Different ways to lead
+- Find your natural style
+- No one right way
+- "Leadership looks different"
 
-### Lesson 2: Skill Gap Analysis (02-skill-gap-analysis.md)
+### Lesson 2: Emotional Intelligence (02-emotional-intelligence.md)
 
-- Make it feel like growth opportunity, not deficit
-- Focus on top 3 skills only
-- Include soft skills equally with technical
-- Provide free learning resources
+- EQ in tech
+- Reading the room
+- Managing emotions
+- "EQ > IQ in leadership"
 
-### Lesson 3: Personal Brand (03-personal-brand.md)
+### Lesson 3: Decision Making (03-decision-making.md)
 
-- Keep it authentic, not corporate
-- GitHub/portfolio > LinkedIn perfection
-- "Your work speaks louder than your bio"
-- Include introvert-friendly strategies
+- Making choices confidently
+- Data vs intuition
+- Reversible decisions
+- "Decide and iterate"
 
-### Lesson 4: Job Search Strategy (04-job-search-strategy.md)
+### Lesson 4: Delegation (04-delegation.md)
 
-- Quality over quantity in applications
-- Network > job boards
-- Include remote/freelance options
-- Address imposter syndrome directly
+- Asking for help
+- Trusting others
+- Clear handoffs
+- "Delegation is leadership"
 
-### Lesson 5: Interview Mastery (05-interview-mastery.md)
+### Lesson 5: Team Dynamics (05-team-dynamics.md)
 
-- Prep for real questions they'll face
-- Include "I don't know" strategies
-- Technical + behavioral balance
-- Virtual interview specific tips
+- Understanding team stages
+- Building psychological safety
+- Inclusive practices
+- "Teams > individuals"
 
-### Lesson 6: Negotiation Skills (06-negotiation-skills.md)
+### Lesson 6: Conflict Resolution (06-conflict-resolution.md)
 
-- Start with "negotiation is normal"
-- Include non-salary negotiations
-- Scripts for common scenarios
-- "No" is not the end of the world
+- Healthy conflict
+- Mediation basics
+- Finding common ground
+- "Conflict creates clarity"
 
-### Lesson 7: Career Pivots (07-career-pivots.md)
+### Lesson 7: Influence (07-influence.md)
 
-- Normalize career changes
-- Transferable skills focus
-- Side project strategies
-- "It's never too late/early to pivot"
+- Leading without authority
+- Building buy-in
+- Persuasion ethics
+- "Influence through value"
 
-### Lesson 8: Career Roadmap (08-career-roadmap.md)
+### Lesson 8: Leadership Practice (08-leadership-practice.md)
 
-- 90-day focus (not 5-year plans)
-- Concrete next steps
-- Accountability without pressure
-- Celebrate how far they've come
+- Small leadership acts
+- Daily practice
+- Growth tracking
+- "Lead from anywhere"
 
 ## Key Messages for Week 12
 
-### Reassuring Truths to Include:
+### Core Messages:
 
-- "Everyone's first job is rough around the edges"
-- "Rejection is protection (redirecting you to better fits)"
-- "Your first job won't be your last job"
-- "Skills matter more than pedigree"
-- "It's okay to start wherever you can"
+- "Junior devs can lead"
+- "Leadership is service"
+- "Start with small acts"
+- "Lead by example"
+- "Everyone has influence"
 
-### Practical Elements to Emphasize:
+### Leadership Truths:
 
-- Free resources only (no paid courses)
-- Real entry-level job titles
-- Actual salary ranges (realistic)
-- Common interview questions
-- Email templates they can copy
+- Title isn't required
+- Mistakes are expected
+- Vulnerability is powerful
+- Questions show strength
+- Growth takes practice
 
 ## Examples to Use
 
 ### Good Examples:
 
-- Bootcamp to first developer job
-- Self-taught success stories
-- Community college to tech
-- Career changer stories
-- Freelance to full-time transitions
+- Code review leadership
+- Mentoring newer students
+- Documentation champion
+- Meeting facilitator
+- Culture contributor
 
 ### Avoid:
 
-- Stanford/MIT examples
-- FAANG-only focus
-- "6-figure in 6 months" stories
-- Assuming CS degree
-- Perfect linear careers
+- Command and control
+- Ego-driven leadership
+- Perfectionist leading
+- Authoritarian style
+- Exclusionary practices
 
 ## Exercises for This Week
 
-Keep them immediately actionable:
+Leadership practice:
 
-- Update ONE section of resume
-- Send ONE connection request
-- Apply to ONE job
-- Practice ONE interview question
-- Research ONE company
+- Lead one small thing
+- Make one decision
+- Resolve one conflict
+- Influence one outcome
+- Help one person
 
-Not:
-
-- Revamp entire online presence
-- Apply to 50 jobs
-- Master all interview types
-- Network with 100 people
-
-## Language Specific to Career Content
+## Language Specific to Leadership
 
 ### Instead of:
 
-- "Leverage your competencies" → "Use what you're good at"
-- "Optimize your profile" → "Make your profile work for you"
-- "Executive presence" → "Professional but still you"
-- "Thought leadership" → "Share what you learn"
-- "Personal brand" → "How people remember you"
+- "Do this" → "What if we..."
+- "I decided" → "We agreed"
+- "Follow me" → "Let's explore"
+- "I know best" → "In my experience"
+- "Trust me" → "Here's my thinking"
 
 ## Writing Style Notes
 
@@ -143,34 +136,85 @@ Not:
 - Questions can break things up too. See?
 - Just write like you're talking to a friend
 
-## Weekly Encouragement Arc
+## Leadership for Different Personalities
 
-**Monday (Lesson 1-2)**: "You have more to offer than you think"
-**Wednesday (Lesson 3-4)**: "The right opportunity is out there"
-**Friday (Lesson 5-6)**: "You're worth investing in"
-**Weekend (Lesson 7-8)**: "Your career is a marathon, not a sprint"
+### For Introverts:
+
+- Quiet leadership valid
+- Written leadership works
+- One-on-one influence
+- "Lead your way"
+
+### For Individual Contributors:
+
+- Technical leadership counts
+- Expertise as influence
+- Leading through code
+- "IC leadership matters"
+
+### For Underrepresented:
+
+- Your voice needed
+- Different perspective valuable
+- Breaking barriers
+- "Representation matters"
+
+## Weekly Emotional Arc
+
+**Monday (Lesson 1-2)**: "Discover your style"
+**Wednesday (Lesson 3-4)**: "Build core skills"
+**Friday (Lesson 5-6)**: "Navigate challenges"
+**Weekend (Lesson 7-8)**: "Practice leading"
 
 ## Success Metrics
 
 Students should finish Week 12 with:
 
-1. A clear next career step (not whole plan)
-2. One improved job application asset
-3. Reduced anxiety about job hunting
-4. Practical templates and scripts
-5. Confidence to start applying
+1. Leadership style identified
+2. One leadership act done
+3. Influence experience
+4. Team contribution made
+5. Leadership confidence grown
+
+## Inclusive Leadership
+
+### Emphasize:
+
+- Diverse leadership styles
+- Cultural leadership differences
+- Gender-inclusive approaches
+- Neurodiversity in leadership
+- Age-agnostic leading
+
+### Challenge:
+
+- Traditional hierarchies
+- Masculine-only models
+- Extrovert bias
+- Seniority requirements
+- Perfect leader myth
+
+## Servant Leadership
+
+### Promote:
+
+- Serving the team
+- Removing blockers
+- Amplifying others
+- Sharing credit
+- Taking responsibility
 
 ## Remember
 
-This week, students need:
+Week 12 is about:
 
-- Hope that they'll find something
-- Permission to start small
-- Practical tools over theory
-- Celebration of their progress
-- Confidence they're enough
+- Democratizing leadership
+- Starting small
+- Serving others
+- Building confidence
+- Leading authentically
 
-Every lesson should combat the voice saying "You're not ready yet."
+Every lesson should inspire: "You're already a leader."
 
 ## Frontmatter Requirements
 
@@ -192,7 +236,7 @@ Every lesson file MUST include navigation links at the end:
 - Next lesson link (if applicable)
 - Back to Week Overview link
 
-Use full relative paths like `/journey/week-12/02-skills-inventory/` for all navigation links.
+Use full relative paths like `/journey/week-12/02-leadership-principles/` for all navigation links.
 
 Example navigation section:
 
@@ -201,7 +245,7 @@ Example navigation section:
 
 ## Navigation
 
-← [Previous: Self Assessment](/journey/week-12/01-self-assessment/) | [Next: Portfolio Review](/journey/week-12/03-portfolio-review/) →
+← [Previous: Leadership Assessment](/journey/week-12/01-leadership-assessment/) | [Next: Emotional Intelligence](/journey/week-12/03-emotional-intelligence/) →
 
 [← Back to Week 12 Overview](/journey/week-12/)
 ```
