@@ -10,7 +10,7 @@ objectives:
 
 ## Let's Kill the Linear Career Myth
 
-Your parents had one career. You'll have five. Maybe seven. That's not instability—that's adaptation.
+Your parents had one career. You'll have five. Maybe seven. That's not instability - that's adaptation.
 
 The idea that you pick a career at 22 and stick with it until retirement? That's as outdated as fax machines.
 
@@ -135,7 +135,7 @@ Also wrong. Senior pivots bring:
 - Professional network
 - Leadership experience
 
-**If you're mid/late career:** Your experience is the bridge. You're not starting over—you're cross-pollinating.
+**If you're mid/late career:** Your experience is the bridge. You're not starting over - you're cross-pollinating.
 
 ## Try This Now (15 minutes)
 
@@ -155,7 +155,7 @@ Also wrong. Senior pivots bring:
    What role or field combines these?
    - ___________
 
-That's your pivot north star. Not a commitment—just a direction to explore.
+That's your pivot north star. Not a commitment - just a direction to explore.
 
 ## Real Pivots That Worked
 
@@ -237,7 +237,7 @@ You have permission to:
 
 Every successful person you admire has pivoted. They just don't lead with that story.
 
-Your career is not a ladder—it's a jungle gym. You can move sideways, diagonally, even backward sometimes if it sets you up for a better leap.
+Your career is not a ladder - it's a jungle gym. You can move sideways, diagonally, even backward sometimes if it sets you up for a better leap.
 
 The skills you have transfer. The experience you gained matters. The network you built comes with you.
 

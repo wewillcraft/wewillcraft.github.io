@@ -1,7 +1,7 @@
 ---
 title: "Negotiation Is Normal (Not Greedy)"
 description: "Learn to negotiate like it's a normal conversation, because it is"
-excerpt: "Negotiation isn't about being pushy—it's about having an adult conversation about value. And yes, 'no' is not the end of the world."
+excerpt: "Negotiation isn't about being pushy - it's about having an adult conversation about value. And yes, 'no' is not the end of the world."
 objectives:
   - "Understand that negotiation is expected and normal"
   - "Learn to negotiate beyond just salary"

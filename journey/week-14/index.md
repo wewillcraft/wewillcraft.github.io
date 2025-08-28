@@ -240,7 +240,7 @@ The gap between where you are and where you want to be is bridged by daily actio
 
 ## Final Reflection
 
-You've completed an intensive 14-week journey of self-discovery, skill building, and life design. But this isn't the end—it's the beginning of a lifetime of intentional growth and authentic success.
+You've completed an intensive 14-week journey of self-discovery, skill building, and life design. But this isn't the end - it's the beginning of a lifetime of intentional growth and authentic success.
 
 The tools you've built, the insights you've gained, and the systems you've created will serve you not just for the next 100 days, but for the next decade and beyond.
 

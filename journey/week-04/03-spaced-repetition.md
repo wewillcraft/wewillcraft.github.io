@@ -11,7 +11,7 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever feel like you're constantly relearning the same stuff? Like you master React hooks one week, then forget the syntax the next? Today we're fixing that with spaced repetition—the closest thing to a cheat code for your memory.
+Ever feel like you're constantly relearning the same stuff? Like you master React hooks one week, then forget the syntax the next? Today we're fixing that with spaced repetition, the closest thing to a cheat code for your memory.
 
 ## Today's Big Idea 💡
 

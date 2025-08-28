@@ -8,7 +8,7 @@ estimated_time: 8-10 hours total
 
 ## Core Truth
 
-**Purpose is not a destination—it's a direction.**
+**Purpose is not a destination - it's a direction.**
 
 Career satisfaction comes not from finding the "perfect" job, but from aligning your work with your values, using your strengths, and making progress toward meaningful goals.
 

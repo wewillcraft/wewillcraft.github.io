@@ -25,7 +25,7 @@ This week, we're taking your attention back.
 
 ## The Big Idea 💡
 
-**Attention is your most valuable resource—and everyone wants a piece of it.**
+**Attention is your most valuable resource, and everyone wants a piece of it.**
 
 Every app, notification, and "urgent" message is designed to capture and monetize your focus. But here's the thing: deep, sustained attention is where all meaningful work happens. Master your focus, and you master your results.
 
@@ -44,7 +44,7 @@ Turn your devices from distraction machines into focus tools. We'll tame notific
 ### Day 3: [Deep Work Rituals](./03-deep-work-rituals)
 *Time: 15 minutes*
 
-Design your personal focus sessions. Every master craftsperson has rituals—now you will too.
+Design your personal focus sessions. Every master craftsperson has rituals. Now you will too.
 
 ### Day 4: [Attention Restoration](./04-attention-restoration)
 *Time: 15 minutes*

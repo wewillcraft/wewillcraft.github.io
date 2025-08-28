@@ -361,6 +361,6 @@ Which resonates most?
 
 ## Key Takeaway
 
-Your ikigai isn't fixed—it evolves as you grow. The goal isn't perfection but direction. Move toward the center, even if slowly. Every project, every job, every skill you develop can bring you closer to that sweet spot where Sunday night doesn't fill you with dread.
+Your ikigai isn't fixed. It evolves as you grow. The goal isn't perfection but direction. Move toward the center, even if slowly. Every project, every job, every skill you develop can bring you closer to that sweet spot where Sunday night doesn't fill you with dread.
 
 ---

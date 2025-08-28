@@ -1,6 +1,6 @@
 ---
 title: "Your 90-Day Career Sprint"
-description: "Forget 5-year plans—focus on the next 90 days and celebrate how far you've come"
+description: "Forget 5-year plans - focus on the next 90 days and celebrate how far you've come"
 excerpt: "Your career is a marathon, not a sprint. But you run it in 90-day bursts. Let's plan your next one and celebrate your progress."
 objectives:
   - "Create a focused 90-day action plan"

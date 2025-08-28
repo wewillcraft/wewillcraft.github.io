@@ -207,7 +207,7 @@ How far is your current role from this ideal? \_\_\_\_%
 
 ### Your Underdeveloped Functions
 
-Every personality framework has shadows—underdeveloped areas that, when grown, become superpowers.
+Every personality framework has shadows. These are underdeveloped areas that, when grown, become superpowers.
 
 **MBTI Inferior Function:**
 
@@ -329,5 +329,5 @@ Choose ONE insight from today to implement tomorrow:
 
 ## Key Takeaway
 
-You've just completed the most comprehensive self-assessment most people never do. You now have data that 99% of developers don't have about themselves. This isn't just interesting information—it's your competitive advantage. Use it.
+You've just completed the most comprehensive self-assessment most people never do. You now have data that 99% of developers don't have about themselves. This isn't just interesting information. It's your competitive advantage. Use it.
 

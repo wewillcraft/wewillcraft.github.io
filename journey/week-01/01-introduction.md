@@ -12,7 +12,7 @@ estimated_time: 15 minutes
 
 ## Hey, you made it! 🎉
 
-First things first—thanks for showing up. Seriously. In a world of endless notifications and "urgent" tasks, you chose to invest 15 minutes in yourself. That's already a win.
+First things first: thanks for showing up. Seriously. In a world of endless notifications and "urgent" tasks, you chose to invest 15 minutes in yourself. That's already a win.
 
 ## Why Are We Here?
 
@@ -102,7 +102,7 @@ Over the next week, you might discover:
 - Why some "should do" tasks never get done
 - Why traditional advice hasn't worked for you
 
-This can be confronting. It might make you want to make big changes immediately. That's normal. But remember—awareness comes first, action comes later. This week, we're just gathering intel.
+This can be confronting. It might make you want to make big changes immediately. That's normal. But remember: awareness comes first, action comes later. This week, we're just gathering intel.
 
 ## Before You Go
 
@@ -110,11 +110,11 @@ Take a second to celebrate. You started. That's huge.
 
 Most people spend their entire lives trying to be someone else's version of successful. You just took the first step toward being your own.
 
-See you tomorrow for your MBTI assessment. It's going to be fun—like those personality quizzes but actually useful.
+See you tomorrow for your MBTI assessment. It's going to be fun. Like those personality quizzes but actually useful.
 
 ## Today's Takeaway
 
-You don't need to be fixed. You need to be understood—starting with understanding yourself.
+You don't need to be fixed. You need to be understood, starting with understanding yourself.
 
 ---
 

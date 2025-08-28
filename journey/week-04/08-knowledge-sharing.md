@@ -11,7 +11,7 @@ objectives:
 
 ## Hey friend! 👋
 
-Ready for a counterintuitive truth? The best way to learn something deeply is to teach it to someone else. Today we're building systems to share what you're learning—not because you're an expert, but because sharing makes you one.
+Ready for a counterintuitive truth? The best way to learn something deeply is to teach it to someone else. Today we're building systems to share what you're learning. Not because you're an expert, but because sharing makes you one.
 
 ## Today's Big Idea 💡
 
@@ -94,7 +94,7 @@ Your learning journey IS valuable content. Someone else is exactly where you wer
 
 ## Today's Takeaway
 
-Stop learning in isolation. When you share what you're learning—even imperfectly—you learn it better, help others, and build your reputation simultaneously.
+Stop learning in isolation. When you share what you're learning (even imperfectly), you learn it better, help others, and build your reputation simultaneously.
 
 The best time to share knowledge isn't after you've mastered it. It's while you're learning it.
 

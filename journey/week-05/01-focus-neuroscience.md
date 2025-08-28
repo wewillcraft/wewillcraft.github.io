@@ -12,7 +12,7 @@ Ever wonder why it's so hard to focus these days? Like, our ancestors didn't see
 
 ## Today's Big Idea 💡
 
-**Your brain isn't broken—it's just doing exactly what it evolved to do.**
+**Your brain isn't broken. It's just doing exactly what it evolved to do.**
 
 Your attention system was designed for survival in the wild, not for deep work in the digital age. Understanding this changes everything about how you approach focus.
 
@@ -52,7 +52,7 @@ Try this quick experiment:
 4. Count your tick marks
 
 **0-2 ticks:** Congrats, you're naturally focused!
-**3-5 ticks:** Normal range—your brain is doing its job
+**3-5 ticks:** Normal range. Your brain is doing its job
 **6+ ticks:** Your attention system needs some TLC (which is why you're here!)
 
 ## Quick Win ✅
@@ -63,7 +63,7 @@ Right now, notice what's competing for your attention:
 - Thoughts popping up
 - Physical sensations
 
-Just notice them without judgment. This is your brain's default mode—it's not a bug, it's a feature! But now you know what you're working with.
+Just notice them without judgment. This is your brain's default mode. It's not a bug, it's a feature! But now you know what you're working with.
 
 ## Real Talk 💬
 
@@ -73,7 +73,7 @@ Your brain is incredibly adaptable. The same plasticity that made you check your
 
 ## Today's Takeaway
 
-Your distractibility isn't a character flaw—it's your brain trying to keep you alive. But what helped your ancestors survive can work against you in the modern world.
+Your distractibility isn't a character flaw. It's your brain trying to keep you alive. But what helped your ancestors survive can work against you in the modern world.
 
 The good news? Now that you know how your attention system works, you can start working WITH it instead of fighting against it.
 

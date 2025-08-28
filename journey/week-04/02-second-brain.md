@@ -17,7 +17,7 @@ Remember that feeling when you solved a complex problem, then completely forgot 
 
 **Your brain is for having ideas, not storing them.**
 
-Think of your brain like a computer's RAM—great for active processing, terrible for long-term storage. Your second brain is like having unlimited cloud storage that's perfectly organized and searchable.
+Think of your brain like a computer's RAM: great for active processing, terrible for long-term storage. Your second brain is like having unlimited cloud storage that's perfectly organized and searchable.
 
 ## Why This Matters
 
