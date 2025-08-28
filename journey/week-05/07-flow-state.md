@@ -66,9 +66,3 @@ Flow isn't about forcing yourself into some peak performance zone. It's more lik
 ## Today's Takeaway
 
 Flow isn't magic - it's the natural result of matching your skills to the right challenge in an environment designed for deep focus.
-
----
-
-## Navigation
-
-← [Previous: Distraction Proofing](/journey/week-05/06-distraction-proofing/) | [Next: Focus Tracking →](/journey/week-05/08-focus-tracking/)

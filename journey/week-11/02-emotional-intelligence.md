@@ -12,7 +12,7 @@ estimated_time: 30 minutes
 
 # Emotional Intelligence 🧠💚
 
-**Time:** 30 minutes  
+**Time:** 30 minutes\
 **Purpose:** Learn to understand and manage emotions like a boss (literally!)
 
 Hey friend! Remember that classmate who always seemed to know exactly what to say? Or that professor who could calm down even the most heated discussion? They probably had high emotional intelligence (EQ). Today we're going to build yours too! 🎯
@@ -20,6 +20,7 @@ Hey friend! Remember that classmate who always seemed to know exactly what to sa
 ## What's Emotional Intelligence Anyway?
 
 Think of EQ as your emotional GPS. It helps you:
+
 - Navigate your own feelings without crashing
 - Read other people's emotional signals
 - Build better relationships
@@ -29,16 +30,16 @@ Here's the cool part: research shows EQ matters more than IQ for success. Smart 
 
 ## The Four EQ Superpowers
 
-**1. Self-Awareness** �mirror  
+**1. Self-Awareness** �mirror\
 "Wait, why am I feeling this way?"
 
-**2. Self-Management** 🎛️  
+**2. Self-Management** 🎛️\
 "I'm frustrated, but I've got this."
 
-**3. Social Awareness** 👀  
+**3. Social Awareness** 👀\
 "I can tell my roommate is stressed about exams."
 
-**4. Relationship Management** 🤝  
+**4. Relationship Management** 🤝\
 "Let me help us work through this together."
 
 ## Quick EQ Check-In
@@ -46,21 +47,25 @@ Here's the cool part: research shows EQ matters more than IQ for success. Smart 
 Rate yourself honestly (1-5):
 
 **Self-Awareness:**
+
 - I notice when my mood shifts: ___/5
 - I know what triggers my stress: ___/5
 - I understand how my emotions affect others: ___/5
 
 **Self-Management:**
+
 - I stay calm under pressure: ___/5
 - I bounce back from setbacks: ___/5
 - I think before reacting: ___/5
 
 **Social Awareness:**
+
 - I pick up on others' emotions: ___/5
 - I notice body language and tone: ___/5
 - I sense group dynamics: ___/5
 
 **Relationship Management:**
+
 - I handle difficult conversations well: ___/5
 - I help others feel heard: ___/5
 - I build trust easily: ___/5
@@ -92,23 +97,27 @@ We all have them. Here are common college triggers:
 □ Overwhelming schedules
 
 **Your Top 3 Triggers:**
-1. _______________
-2. _______________
-3. _______________
+
+1. ---
+2. ---
+3. ---
 
 ## The EQ Toolkit 🧰
 
 ### When You're Stressed:
+
 - **The 5-4-3-2-1 Technique:** Name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste
 - **Box Breathing:** In for 4, hold for 4, out for 4, hold for 4
 - **Call a Friend:** Sometimes you just need to vent to your person
 
 ### When You're Angry:
+
 - **Pause Rule:** Count to 10 before responding to that group chat message
 - **Move Your Body:** Take a walk, do jumping jacks, dance it out
 - **Write It Out:** Angry text in notes app (don't send!), then delete
 
 ### When You're Anxious:
+
 - **Control vs. Can't Control:** Make two lists - focus only on the first one
 - **Future Self Check:** "Will this matter in 5 years? 5 months? 5 days?"
 - **Positive Self-Talk:** Replace "I can't handle this" with "I'm figuring this out"
@@ -116,18 +125,21 @@ We all have them. Here are common college triggers:
 ## Reading the Room (Social Awareness Level Up)
 
 **Body Language Decoder:**
+
 - Arms crossed = defensive or cold
 - Looking at phone = disengaged or nervous
 - Leaning in = interested
 - Avoiding eye contact = uncomfortable or shy
 
 **Tone Detective:**
+
 - Short responses = something's up
 - Higher pitch = excited or stressed
 - Slower speech = tired or thinking
 - Louder volume = passionate or frustrated
 
 **Group Dynamics:**
+
 - Who talks first/most? (Natural leader or attention-seeker?)
 - Who stays quiet? (Shy, thinking, or disengaged?)
 - How do people position themselves? (Cliques, comfort zones)
@@ -149,10 +161,12 @@ If you have ANY disagreement (even small ones), practice the formula:
 ### Real-Life EQ Scenarios:
 
 **Scenario 1:** Your study group partner keeps showing up unprepared.
+
 - **Low EQ Response:** "You never come prepared! This is so unfair!"
 - **High EQ Response:** "I've noticed we might be on different pages about prep work. Can we figure out a system that works for both of us?"
 
 **Scenario 2:** You got a lower grade than expected.
+
 - **Low EQ Response:** Spiral into self-doubt or blame the professor
 - **High EQ Response:** Feel the disappointment, then ask "What can I learn from this?"
 
@@ -176,6 +190,7 @@ Evening: "What emotional experiences did I have today?"
 ## The EQ Advantage
 
 People with high EQ:
+
 - Get promoted faster 📈
 - Have better relationships ❤️
 - Handle stress like champions 💪
@@ -196,7 +211,3 @@ People with high EQ:
 Emotional intelligence isn't about being touchy-feely or overly emotional. It's about being smart with feelings - yours and others'. You're not trying to be perfect; you're trying to be aware and intentional.
 
 Every interaction is practice. Every difficult moment is a chance to grow your EQ muscles. And trust me, future you will thank present you for developing this superpower! 🌟
-
----
-
-[← Previous: Leadership Styles](/journey/week-11/01-leadership-styles/) | [Continue to Decision Making →](/journey/week-11/03-decision-making/)

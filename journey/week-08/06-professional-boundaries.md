@@ -104,9 +104,3 @@ Remember: you teach people how to treat you professionally. If you always say ye
 ## Today's Takeaway
 
 Strong professional boundaries don't limit your career—they focus it. When you're clear about your role, standards, and priorities, you can excel at what matters most while building the reputation and skills that lead to advancement.
-
----
-
-## Navigation
-
-[← Previous: Emotional Boundaries](/journey/week-08/05-emotional-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Personal Boundaries →](/journey/week-08/07-personal-boundaries/)

@@ -83,9 +83,3 @@ Also, remember that contributing answers is often more valuable than asking ques
 ## Today's Takeaway
 
 Stack Overflow mastery is about understanding that you're contributing to a knowledge base that will help thousands of future developers. Whether you're asking or answering, always think: "Will this be useful to someone facing this problem six months from now?"
-
----
-
-## Navigation
-
-[← Previous: The Psychology of Help-Seeking](/journey/week-06/01-help-psychology/) | [Week 6 Overview ↑](/journey/week-06/) | [Next: Finding Your Tribes →](/journey/week-06/03-finding-tribes/)

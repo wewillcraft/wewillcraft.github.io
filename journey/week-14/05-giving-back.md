@@ -11,9 +11,9 @@ objectives:
 
 # You Already Know Enough to Help
 
-*Here's something amazing: after 14 weeks of learning and growing, you now know things that someone else desperately needs to learn. You don't need to wait until you "make it" to start helping others.*
+_Here's something amazing: after 14 weeks of learning and growing, you now know things that someone else desperately needs to learn. You don't need to wait until you "make it" to start helping others._
 
-Let's flip the script on giving back. It's not about waiting until you're successful enough or rich enough or experienced enough. 
+Let's flip the script on giving back. It's not about waiting until you're successful enough or rich enough or experienced enough.
 
 You're enough right now.
 
@@ -30,17 +30,20 @@ Giving back isn't about grand gestures or major donations. It's about using what
 Let's start by recognizing the ways you're already helping others:
 
 **Time you give:**
+
 - Helping classmates/coworkers: ___
 - Volunteering anywhere: ___
 - Supporting friends/family: ___
 - Community involvement: ___
 
 **Money you share:**
+
 - Any donations (big or small): $_____
 - Causes you support: ___
 - Times you've helped someone financially: ___
 
 **Knowledge you share:**
+
 - Teaching/explaining things: ___
 - Answering questions online: ___
 - Helping with projects: ___
@@ -51,15 +54,18 @@ Let's start by recognizing the ways you're already helping others:
 ### Your Current Impact
 
 **People you've helped recently:**
+
 1. Person: _____ | How you helped: _____ | What happened: _____
 2. Person: _____ | How you helped: _____ | What happened: _____
 3. Person: _____ | How you helped: _____ | What happened: _____
 
 **Problems you've helped solve:**
+
 1. Problem: _____ | Your contribution: _____ | Result: _____
 2. Problem: _____ | Your contribution: _____ | Result: _____
 
 **Ways you add value:**
+
 - At work/school: _____
 - In your community: _____
 - With family/friends: _____
@@ -68,14 +74,16 @@ Let's start by recognizing the ways you're already helping others:
 ### What Energizes Your Giving
 
 **Ways of helping that feel good:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **Ways of helping that drain you:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **What holds you back from helping more:**
 Check what resonates:
@@ -93,16 +101,19 @@ Check what resonates:
 ### Your Values and Interests
 
 **What you care about most:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **Causes that connect to your values:**
+
 1. Value: _____ | Related cause: _____
 2. Value: _____ | Related cause: _____
 3. Value: _____ | Related cause: _____
 
 **What gets you fired up (rate 1-10):**
+
 - Education and learning: ___
 - Health and wellness: ___
 - Economic opportunity: ___
@@ -112,35 +123,40 @@ Check what resonates:
 - Fairness and justice: ___
 - Community building: ___
 - Helping entrepreneurs: ___
-- Something else: _____ 
+- Something else: _____
 
 **Your top 3 "I care about this" areas:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 ### What You Have to Offer
 
 **Skills you could share:**
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 **People in your network who could help others:**
+
 - Industry connections: _____
 - People with expertise: _____
 - People who create opportunities: _____
 - People with resources: _____
 
 **Ways you could spread the word:**
+
 - Social media: _____
 - Talking/presenting: _____
 - Writing/creating content: _____
 - Your influence in communities: _____
 
 **Money you could contribute:**
+
 - Comfortable monthly amount: $_____
 - Stretch goal monthly: $_____
 - One-time contribution: $_____
@@ -148,17 +164,20 @@ Check what resonates:
 ### Your Giving Mix
 
 **Time you can give (start small!):**
-- Hands-on helping: ___% 
-- Teaching/mentoring: ___% 
-- Promoting causes: ___% 
-- Leadership stuff: ___% 
+
+- Hands-on helping: ___%
+- Teaching/mentoring: ___%
+- Promoting causes: ___%
+- Leadership stuff: ___%
 
 **Money you can give (whatever you can):**
+
 - Monthly donations: $_____
 - Bigger annual gifts: $_____
 - Emergency/crisis help: $_____
 
 **Skills you can share:**
+
 - Professional services: _____
 - Volunteering your expertise: _____
 - Mentoring/coaching: _____
@@ -167,18 +186,21 @@ Check what resonates:
 ### How to Make Your Impact Bigger
 
 **Direct help to people:**
+
 - Mentoring individuals: _____
 - Helping with money: _____
 - Teaching skills: _____
 - Making connections: _____
 
 **Bigger picture help:**
+
 - Supporting policy changes: _____
 - Helping build organizations: _____
 - Working on system changes: _____
 - Supporting research/innovation: _____
 
 **Ways to multiply your impact:**
+
 - Matching gift programs: _____
 - Getting groups involved: _____
 - Teaching others to help: _____
@@ -189,24 +211,28 @@ Check what resonates:
 ### Opportunities Around You
 
 **At work/school:**
+
 - Help someone newer: _____
 - Share what you know: _____
 - Organize a group volunteer activity: _____
 - Lead or join a good cause initiative: _____
 
 **In your community:**
+
 - Local organizations that need help: _____
 - Problems you could help solve: _____
 - Neighbors/friends you could support: _____
 - Ways to get involved locally: _____
 
 **In tech/your industry:**
+
 - Answer questions in forums: _____
 - Contribute to open source: _____
 - Mentor someone online: _____
 - Share knowledge through content: _____
 
 **Online opportunities:**
+
 - Virtual mentoring: _____
 - Online communities you could help: _____
 - Causes you could support digitally: _____
@@ -217,6 +243,7 @@ Check what resonates:
 Look into 3 organizations that interest you:
 
 **Organization 1:** _____
+
 - How well it matches what you care about: ___/10
 - How effective they seem: ___/10
 - How good the volunteer experience looks: ___/10
@@ -224,6 +251,7 @@ Look into 3 organizations that interest you:
 - What you could do: _____
 
 **Organization 2:** _____
+
 - Match with your interests: ___/10
 - How effective they seem: ___/10
 - Volunteer experience quality: ___/10
@@ -231,6 +259,7 @@ Look into 3 organizations that interest you:
 - Ways you could help: _____
 
 **Organization 3:** _____
+
 - Alignment with your values: ___/10
 - Their effectiveness: ___/10
 - Volunteer experience: ___/10
@@ -240,6 +269,7 @@ Look into 3 organizations that interest you:
 ### Leadership Opportunities (Future)
 
 **Are you ready for board/leadership roles? (1-10):**
+
 - Your expertise level: ___
 - Knowledge of how organizations work: ___
 - Network that could help the org: ___
@@ -247,6 +277,7 @@ Look into 3 organizations that interest you:
 - Financial capacity to contribute: ___
 
 **Types of boards/leadership you might want (someday):**
+
 1. Organization type: _____ | When: _____
 2. Organization type: _____ | When: _____
 
@@ -255,18 +286,21 @@ Look into 3 organizations that interest you:
 ### Starting Small and Building
 
 **This month:**
+
 - Choose one way to help regularly: _____
 - Set up one small donation (even $5/month): _____
 - Help one person with something you know: _____
 - Share something useful online: _____
 
 **Next month:**
+
 - Join a volunteer activity: _____
 - Use your skills to help someone: _____
 - Get one friend involved: _____
 - Try a new way of helping: _____
 
 **Third month:**
+
 - Find your sustainable rhythm: _____
 - See what impact you're making: _____
 - Plan what's next: _____
@@ -277,17 +311,21 @@ Look into 3 organizations that interest you:
 Pick what works for your life:
 
 **Option 1: Daily tiny helps**
+
 - Answer one question online each day
 - Share one useful resource
 - Check in with someone you're helping
 
 **Option 2: Weekly focused time**
+
 - _____ day: _____ hours of helping
 
 **Option 3: Weekend service**
+
 - Saturday/Sunday: _____ activity
 
 **Monthly commitments you can handle:**
+
 - Volunteering: _____ hours
 - Mentoring/helping individuals: _____ hours
 - Donations: $_____
@@ -295,27 +333,31 @@ Pick what works for your life:
 ### Keeping Track of Your Impact
 
 **Numbers that might matter:**
+
 - Hours you help per month: ___
 - People you've helped: ___
 - Money donated per year: $_____
 - Organizations you support: ___
 
 **How it feels:**
+
 - Personal satisfaction: ___/10
 - Sense of making a difference: ___/10
 - Connection to community: ___/10
 - Building something meaningful: ___/10
 
 **Stories of difference you've made:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 ## Your Long-term Impact Vision (5 minutes)
 
 ### What You Want to Build
 
 **In 5-10 years:**
+
 - Annual giving goal: $_____
 - Hours helping others: _____ per year
 - People you've helped significantly: _____
@@ -326,6 +368,7 @@ Pick what works for your life:
 "I want to be remembered for _____"
 
 **Ways you could create lasting change:**
+
 - Programs you could start: _____
 - Systems you could build: _____
 - People you could develop: _____
@@ -334,16 +377,19 @@ Pick what works for your life:
 ### Growing Your Impact Over Time
 
 **Stage 1: Starting Out (Now)**
+
 - Direct helping: _____
 - Individual mentoring: _____
 - Small regular donations: _____
 
 **Stage 2: Getting More Involved (Years 2-5)**
+
 - Leadership roles: _____
 - Program development: _____
 - Bigger financial contributions: _____
 
 **Stage 3: Creating Change (Years 5+)**
+
 - Building new solutions: _____
 - Leading movements: _____
 - Systematic impact: _____
@@ -351,6 +397,7 @@ Pick what works for your life:
 ### Bringing Others Along
 
 **Getting others involved:**
+
 - Family/friends activities: _____
 - Team volunteer projects: _____
 - Network mobilization: _____
@@ -359,6 +406,7 @@ Pick what works for your life:
 ## Start Right Now (5 minutes)
 
 ### This Week
+
 1. Help one person with something you know
 2. Set up one small recurring donation
 3. Answer one question in an online community
@@ -366,6 +414,7 @@ Pick what works for your life:
 5. Thank someone who helped you
 
 ### This Month
+
 1. Start one regular helping activity
 2. Have your first mentoring conversation
 3. Use your skills to help someone
@@ -373,6 +422,7 @@ Pick what works for your life:
 5. Share your knowledge through content or teaching
 
 ### Next 3 Months
+
 1. Build a sustainable helping routine
 2. See the impact you're making
 3. Join or lead a bigger helping initiative
@@ -398,11 +448,3 @@ The person you were 14 weeks ago would be amazed by what you have to offer now.
 Someone out there needs exactly what you've learned. Go find them and help.
 
 You've got this.
-
----
-
-## Navigation
-
-← [Previous: Mentor Relationships](/journey/week-14/04-mentor-relationships/) | [Next: Future-Proofing](/journey/week-14/06-future-proofing/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

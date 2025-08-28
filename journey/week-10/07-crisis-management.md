@@ -12,7 +12,7 @@ estimated_time: 30 minutes
 
 # Crisis Management
 
-**Time:** 20 minutes  
+**Time:** 20 minutes\
 **Vibe:** Your emergency resilience toolkit 🧰
 
 Sometimes life doesn't just knock - it kicks down the door. Job loss, health scares, relationship endings, family crises... we all face moments when everything feels like it's falling apart. This isn't about preventing crises (some are inevitable) - it's about having a plan when they hit.
@@ -20,8 +20,9 @@ Sometimes life doesn't just knock - it kicks down the door. Job loss, health sca
 ## What Counts as a Crisis?
 
 A crisis is any situation that:
+
 - Threatens your wellbeing, security, or values
-- Feels overwhelming or beyond your current coping skills  
+- Feels overwhelming or beyond your current coping skills
 - Disrupts your normal life significantly
 - Creates intense emotional distress
 - Requires immediate attention or decision-making
@@ -37,9 +38,10 @@ A crisis is any situation that:
 □ Death of someone close
 
 **Top 3 you want to be prepared for:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ## Your Crisis Response Plan
 
@@ -69,7 +71,7 @@ Backup: ___________
 **Practical steps:**
 □ Make a basic plan for the week
 □ Handle only essential tasks
-□ Ask for help with daily responsibilities  
+□ Ask for help with daily responsibilities\
 □ Communicate with work/school about your situation
 □ Gather information you need (but don't overwhelm yourself)
 
@@ -92,27 +94,34 @@ Backup: ___________
 ## Crisis Coping Toolkit
 
 ### When You're Overwhelmed
+
 **The STOP technique:**
+
 - **S**top what you're doing
 - **T**ake a deep breath (or several)
 - **O**bserve what you're feeling and thinking
 - **P**roceed with one small step
 
 ### When You Can't Think Clearly
+
 **Break it down:**
+
 1. What needs to happen today?
 2. What can wait until tomorrow?
 3. What can someone else handle?
 4. What's actually my responsibility?
 
 ### When Emotions Are Intense
+
 **The RAIN approach:**
+
 - **R**ecognize what you're feeling
 - **A**llow it to be there
 - **I**nvestigate with kindness
 - **N**urture yourself through it
 
 ### When You Feel Alone
+
 **Connection strategies:**
 □ Text someone: "I'm going through something hard"
 □ Call a crisis hotline if you need to talk
@@ -123,20 +132,25 @@ Backup: ___________
 ## Building Your Crisis Support Network
 
 ### Inner Circle (2-3 people)
+
 These people you can call at 2 AM:
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ### Practical Support (3-5 people)
+
 Who can help with logistics, tasks, advice:
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 ### Professional Support
+
 □ Therapist/counselor
 □ Doctor
 □ Financial advisor
@@ -145,12 +159,15 @@ Who can help with logistics, tasks, advice:
 □ Other: ___________
 
 ### Crisis Resources
+
 **National Crisis Hotlines:**
+
 - Crisis Text Line: Text HOME to 741741
 - National Suicide Prevention Lifeline: 988
 - SAMHSA National Helpline: 1-800-662-4357
 
 **Your local emergency resources:**
+
 - Hospital: ___________
 - Crisis center: ___________
 - Police (non-emergency): ___________
@@ -158,6 +175,7 @@ Who can help with logistics, tasks, advice:
 ## Your Personal Crisis Plan
 
 ### Before a Crisis Hits:
+
 □ Keep important documents in one place
 □ Have emergency fund if possible (even $100 helps)
 □ Maintain relationships during good times
@@ -165,6 +183,7 @@ Who can help with logistics, tasks, advice:
 □ Know your early warning signs
 
 ### Your Crisis Mantras:
+
 - "This is temporary"
 - "I've survived difficult things before"
 - "I don't have to do this alone"
@@ -174,6 +193,7 @@ Who can help with logistics, tasks, advice:
 **Your personal crisis mantra:** ___________
 
 ### Recovery Reminders:
+
 - Healing isn't linear
 - Some days will be harder than others
 - Asking for help is strength, not weakness
@@ -198,7 +218,3 @@ Crisis often brings out capabilities you didn't know you had. It also shows you 
 You've got this - and if you don't feel like you do today, that's okay too. Each new day brings fresh possibilities. 💙
 
 **Next up:** Time to put it all together in your personalized resilience plan →
-
----
-
-[Continue to Resilience Plan →](/journey/week-10/08-resilience-plan/)

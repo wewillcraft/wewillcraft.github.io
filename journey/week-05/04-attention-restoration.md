@@ -52,9 +52,3 @@ You might feel guilty taking restoration breaks, thinking they're "wasted time."
 ## Today's Takeaway
 
 Mental restoration isn't a luxury - it's maintenance that keeps your focus running smoothly all day long.
-
----
-
-## Navigation
-
-← [Previous: Deep Work Rituals](/journey/week-05/03-deep-work-rituals/) | [Next: Pomodoro Plus →](/journey/week-05/05-pomodoro-plus/)

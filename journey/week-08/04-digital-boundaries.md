@@ -89,9 +89,3 @@ Start with small boundaries and gradually expand them. Most "urgent" messages ar
 ## Today's Takeaway
 
 Digital boundaries aren't about being less connected—they're about being more intentionally connected. When you control your digital environment, you can be fully present in both work and life, leading to better performance in both areas.
-
----
-
-## Navigation
-
-[← Previous: Time Boundaries](/journey/week-08/03-time-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Emotional Boundaries →](/journey/week-08/05-emotional-boundaries/)

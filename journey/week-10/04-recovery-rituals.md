@@ -12,7 +12,7 @@ estimated_time: 25 minutes
 
 # Recovery Rituals
 
-**Time:** 25 minutes  
+**Time:** 25 minutes\
 **Vibe:** Building your bounce-back playbook 📖
 
 Recovery isn't just "doing nothing." It's like charging your phone - you need the right practices to actually restore your energy and resilience.
@@ -21,7 +21,7 @@ Recovery isn't just "doing nothing." It's like charging your phone - you need th
 
 Be honest - after a tough day, what do you actually do?
 
-□ Scroll social media for hours  
+□ Scroll social media for hours\
 □ Binge-watch Netflix
 □ Go to bed early (but can't sleep)
 □ Work more to distract yourself
@@ -36,7 +36,7 @@ Be honest - after a tough day, what do you actually do?
 ## What Makes Recovery Hard?
 
 □ Feel guilty for "not being productive"
-□ Mind won't stop racing  
+□ Mind won't stop racing\
 □ Don't know how to actually relax
 □ No time (or so it feels)
 □ Don't recognize when I need it
@@ -48,21 +48,27 @@ Be honest - after a tough day, what do you actually do?
 ## The 4 Types of Recovery
 
 ### 🛁 Passive Recovery
+
 Your body/mind rests while you're still awake
+
 - Hot bath or shower
 - Gentle stretching
 - Listening to calming music
 - Reading fiction
 - Meditation or breathing
 
-### 😴 Sleep Recovery  
+### 😴 Sleep Recovery
+
 The ultimate restoration (non-negotiable!)
+
 - Quality sleep
 - Power naps (10-20 minutes)
 - Sleep hygiene practices
 
 ### 🎨 Active Recovery
+
 Light activity that's restorative
+
 - Easy walks in nature
 - Creative hobbies
 - Cooking something you enjoy
@@ -70,7 +76,9 @@ Light activity that's restorative
 - Dancing to favorite songs
 
 ### 🤝 Social Recovery
+
 Connection that fills you up
+
 - Quality time with people you love
 - Calling someone who gets you
 - Hugging (seriously!)
@@ -104,22 +112,25 @@ Connection that fills you up
 
 **Spiritual restoration:**
 □ Time in nature
-□ Prayer or reflection  
+□ Prayer or reflection\
 □ Values-aligned activities
 □ Helping others
 □ Art or creativity
 
 **Your top 5 recovery activities:**
-1. ___________
-2. ___________  
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 ## Building Your Recovery Rituals
 
 ### Micro-Recovery (2-5 minutes)
+
 For when you need a quick reset:
+
 - 5 deep breaths
 - Stretch your neck and shoulders
 - Step outside
@@ -129,7 +140,9 @@ For when you need a quick reset:
 **Your go-to micro-recovery:** ___________
 
 ### Mini-Recovery (15-30 minutes)
+
 For daily stress relief:
+
 - Short walk
 - Hot shower
 - Call a friend
@@ -139,7 +152,9 @@ For daily stress relief:
 **Your regular mini-recovery:** ___________
 
 ### Major Recovery (1+ hours)
+
 For weekly restoration:
+
 - Long nature walk
 - Creative project
 - Quality time with loved ones
@@ -149,7 +164,9 @@ For weekly restoration:
 **Your weekly major recovery:** ___________
 
 ### Crisis Recovery (Half day+)
+
 For when you're really depleted:
+
 - Sleep in
 - Spa day (DIY counts!)
 - Retreat from responsibilities
@@ -170,13 +187,15 @@ For when you're really depleted:
 □ Prepare tomorrow so today can end
 
 **Your evening recovery routine:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ## Recovery Reminders
 
 **Permission statements to tell yourself:**
+
 - "Rest is productive"
 - "I deserve to recover"
 - "Taking care of myself helps me take care of others"
@@ -198,11 +217,3 @@ Recovery isn't optional - it's essential. You don't earn rest by working hard en
 Think of recovery as sharpening your saw. The sharper it is, the easier everything else becomes. 🌟
 
 **Next up:** Let's learn some mindfulness basics that don't require sitting in silence for hours →
-
----
-
----
-
-[← Previous Lesson](/journey/week-10/03-energy-management/) | [Next Lesson →](/journey/week-10/05-mindfulness-basics/)
-
-[← Back to Week 10 Overview](/journey/week-10/)

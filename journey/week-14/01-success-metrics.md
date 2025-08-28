@@ -10,7 +10,7 @@ objectives:
 
 ## You Made It to Week 14!
 
-Holy shit. Seriously. 
+Holy shit. Seriously.
 
 14 weeks ago, you started this journey. You've shown up, done the work, faced the hard stuff. Before we talk about where you're going, let's acknowledge where you are.
 
@@ -19,6 +19,7 @@ Holy shit. Seriously.
 ## Redefining Success (Because LinkedIn Is Lying)
 
 Success on social media:
+
 - 6-figure salary at 22
 - Startup founder by 25
 - 10x engineer
@@ -26,6 +27,7 @@ Success on social media:
 - Hustle 24/7
 
 Success in real life:
+
 - Paying your bills
 - Learning something new
 - Having friends
@@ -39,6 +41,7 @@ Which one actually matters to you?
 ## Your Personal Success Metrics
 
 ### Career Success (Redefined)
+
 Traditional metrics are boring. Try these:
 
 **Instead of salary:** "Can I afford my life without panic?"
@@ -52,6 +55,7 @@ Traditional metrics are boring. Try these:
 ### Life Success (The Real Stuff)
 
 Rate yourself now (1-10):
+
 - Sleep quality: ___
 - Relationship health: ___
 - Physical energy: ___
@@ -67,15 +71,17 @@ If these are above 6, you're winning. Seriously.
 **New metric:** "I know more than yesterday"
 
 **This week, I learned:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 That's three successes right there.
 
 ## The Progress You Can't See
 
 Look back 14 weeks. You probably:
+
 - Can't remember what you didn't know
 - Forgot how scared you were
 - Normalized your growth
@@ -119,6 +125,7 @@ Example: "I'm healthier and happier than last year"
 ## The Anti-Metrics (What NOT to Measure)
 
 Stop tracking:
+
 - How fast others are moving
 - Perfect days
 - Zero-failure rates
@@ -130,6 +137,7 @@ These aren't success metrics. They're anxiety metrics.
 ## Success in Different Life Seasons
 
 ### Student Success
+
 - Showing up to class (mostly)
 - Turning in assignments (eventually)
 - Making friends
@@ -139,6 +147,7 @@ These aren't success metrics. They're anxiety metrics.
 You don't need a 4.0. You need to graduate and stay sane.
 
 ### Early Career Success
+
 - Getting a job (any job in your field)
 - Not getting fired
 - Learning the ropes
@@ -148,6 +157,7 @@ You don't need a 4.0. You need to graduate and stay sane.
 You don't need to be senior in 2 years. You need to be learning.
 
 ### Life Transition Success
+
 - Handling change without breaking
 - Asking for help
 - Taking it one day at a time
@@ -161,6 +171,7 @@ You don't need to have it figured out. You need to keep going.
 Small wins + Time = Big success
 
 **Daily 1% improvements:**
+
 - Day 1: 1.00
 - Day 30: 1.35
 - Day 100: 2.70
@@ -173,16 +184,16 @@ You're not supposed to see daily progress. You're supposed to trust the process.
 **List 10 successes from the past 14 weeks:**
 (Yes, sleeping counts. So does showing up.)
 
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
-6. ___________
-7. ___________
-8. ___________
-9. ___________
-10. ___________
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
+6. ---
+7. ---
+8. ---
+9. ---
+10. ---
 
 Harder than you thought? That's because you're not tracking the right things.
 
@@ -198,6 +209,7 @@ The more you focus on personal growth metrics, the more successful you become.
 ## Weekly Success Ritual
 
 Every Sunday, ask yourself:
+
 1. What went well this week?
 2. What did I learn?
 3. Who did I help?
@@ -238,9 +250,3 @@ Your metrics don't need to impress anyone else. They need to matter to you. And 
 Keep measuring what matters. Keep celebrating small wins. Keep defining success on your terms.
 
 You've got this. Hell, you've already got it. 🎯
-
----
-
-[Next: Accountability Systems →](/journey/week-14/02-accountability-systems/)
-
-[← Back to Week 14 Overview](/journey/week-14/)

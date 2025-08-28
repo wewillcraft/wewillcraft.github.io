@@ -131,9 +131,3 @@ Remember: boundaries are a skill. They get easier with practice.
 ## Today's Takeaway
 
 Your boundary style shapes every aspect of your professional life. Understanding your patterns—strengths and challenges—gives you the power to make intentional changes. Strong boundaries don't limit your success; they create the foundation for sustainable excellence.
-
----
-
-## Navigation
-
-[Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Energy Boundaries →](/journey/week-08/02-energy-boundaries/)

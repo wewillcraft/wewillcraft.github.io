@@ -11,7 +11,7 @@ objectives:
 
 # Finding Your People
 
-*Here's something cool: you've been in a mentoring relationship for 14 weeks. Whether you realized it or not, this program has been mentoring you, and you've probably been mentoring classmates along the way.*
+_Here's something cool: you've been in a mentoring relationship for 14 weeks. Whether you realized it or not, this program has been mentoring you, and you've probably been mentoring classmates along the way._
 
 Let's talk about something that sounds scary but is actually happening all around you: mentoring.
 
@@ -33,20 +33,24 @@ And here's the secret: you're already qualified to mentor someone too.
 Let's map out the mentoring relationships you already have (you probably have more than you think):
 
 **People Who Help You Learn:**
+
 1. Person: _____ | What they're good at: _____ | How you connect: _____
 2. Person: _____ | What they're good at: _____ | How you connect: _____
 3. Person: _____ | What they're good at: _____ | How you connect: _____
 
 **People You Help:**
+
 1. Person: _____ | How you help them: _____ | How you connect: _____
 2. Person: _____ | How you help them: _____ | How you connect: _____
 
 **People Who've Made a Difference:**
+
 1. Person: _____ | What they taught you: _____
 2. Person: _____ | What they taught you: _____
 
 **How's it going?**
 Rate your current mentoring relationships (1-10, no judgment):
+
 - Getting helpful guidance when you need it: ___
 - Having people you can ask honest questions: ___
 - Getting feedback that actually helps: ___
@@ -69,9 +73,10 @@ Check what resonates:
 □ Just general life advice
 
 **Your top 3 "I could use help with this" areas:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **Things you know that might help others:**
 □ Technical skills you've learned
@@ -83,21 +88,24 @@ Check what resonates:
 □ Networks or communities you know
 
 **Your top 3 "I could help someone with this" areas:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 ## Finding Mentors Naturally (15 minutes)
 
 ### What Makes Someone a Good Mentor for You
 
 **For your top mentoring need:** _____
+
 - Someone who: _____
 - Experience level: _____ (they don't need to be 20 years ahead!)
 - Personality that works for you: _____
 - How available they seem: _____
 
 **For your second mentoring need:** _____
+
 - Someone who: _____
 - What kind of person: _____
 - How you'd like to connect: _____
@@ -105,18 +113,21 @@ Check what resonates:
 ### Where to Look for Mentors
 
 **Start close to home:**
+
 - Current workplace: _____
 - Previous jobs: _____
 - School connections: _____
 - Professional groups: _____
 
 **Branch out naturally:**
+
 - LinkedIn (but make it personal): _____
 - Industry Discord/Slack communities: _____
 - Local meetups: _____
 - Twitter tech community: _____
 
 **Think beyond traditional:**
+
 - Peer mentors (same level, different strengths): _____
 - Reverse mentors (younger but different perspective): _____
 - Group mentoring (meetups, book clubs): _____
@@ -138,6 +149,7 @@ Thanks!
 [Your name]"
 
 **What makes this work:**
+
 - You mentioned something specific
 - You're not asking for their whole life story
 - You're offering something in return
@@ -146,18 +158,21 @@ Thanks!
 ### How Mentoring Relationships Grow
 
 **Stage 1: Getting to Know Each Other**
+
 - Have genuine conversations
 - Be curious about their experience
 - Share your own perspective
 - See if there's natural connection
 
 **Stage 2: Regular Connection**
+
 - Check in occasionally
 - Ask specific questions
 - Share what you're working on
 - Follow up on their advice
 
 **Stage 3: Mutual Support**
+
 - Deeper conversations about challenges
 - You start helping them too
 - You become someone they trust
@@ -168,23 +183,27 @@ Thanks!
 ### What Makes a Great Mentee
 
 **Come prepared:**
+
 - Have specific questions, not "tell me everything": _____
 - Do your homework first: _____
 - Come with your own thoughts too: _____
 
 **Actually listen:**
+
 - Listen more than you talk: _____
 - Ask follow-up questions: _____
 - Take notes (shows you care): _____
 - Ask for examples: _____
 
 **Follow through:**
+
 - Try what they suggest: _____
 - Report back on how it went: _____
 - Share what you learned: _____
 - Be honest about what didn't work: _____
 
 **Be a good human:**
+
 - Say thank you (and mean it): _____
 - Respect their time: _____
 - Help them when you can: _____
@@ -193,16 +212,19 @@ Thanks!
 ### Making the Most of Conversations
 
 **Before you meet:**
+
 - One specific challenge: _____
 - Two real questions: _____
 - Update on previous advice: _____
 
 **During the conversation:**
+
 - Focus on what's most valuable: _____
 - Write down key insights: _____
 - Be clear about next steps: _____
 
 **After you meet:**
+
 - Review your notes: _____
 - Actually try what they suggested: _____
 - Follow up when you said you would: _____
@@ -233,9 +255,10 @@ Thanks!
 ### Your Mentoring Approach
 
 **What matters to you when helping others?**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **How do you naturally help people?**
 Check what feels right:
@@ -248,6 +271,7 @@ Check what feels right:
 **Your natural style:** _____
 
 **What you can realistically offer:**
+
 - Time per week: ___ hours (start small!)
 - Number of people to help regularly: ___
 - Interested in group mentoring: Yes/No
@@ -278,21 +302,25 @@ Check what feels right:
 **The GROW approach (just a helpful guide):**
 
 **Goal:** What do they want to achieve?
+
 - Help them get specific
 - Connect it to something bigger
 - Make it realistic
 
 **Reality:** What's actually happening?
+
 - Understand their situation
 - Figure out what they have to work with
 - Identify what's in their way
 
 **Options:** What could they try?
+
 - Brainstorm ideas together
 - Share what worked for you
 - Think of different approaches
 
 **Way Forward:** What will they actually do?
+
 - Pick specific next steps
 - Set a check-in time
 - Make sure they're committed
@@ -300,6 +328,7 @@ Check what feels right:
 ### How to Be a Great Mentor
 
 **What works:**
+
 - Listen more than you talk: _____
 - Ask questions that make them think: _____
 - Tell stories from your experience: _____
@@ -310,6 +339,7 @@ Check what feels right:
 - Celebrate their wins: _____
 
 **How you'll connect:**
+
 - How often: _____
 - Method (coffee, video, text): _____
 - How long: _____
@@ -320,12 +350,14 @@ Check what feels right:
 ### The People You'll Connect With
 
 **People who help you:**
+
 - Someone further ahead: _____
 - Someone at your level with different strengths: _____
 - Someone newer with fresh perspectives: _____
 - Someone with specific expertise you need: _____
 
 **People you help:**
+
 - Someone newer to the field: _____
 - Someone at your level: _____
 - Someone who needs a skill you have: _____
@@ -333,11 +365,13 @@ Check what feels right:
 ### Making Time for Mentoring
 
 **Weekly mentoring time:**
+
 - Day/time for mentor conversations: _____
 - Day/time for helping others: _____
 - Time for mentoring community: _____
 
 **Monthly mentoring activities:**
+
 - Deeper mentor conversations: _____
 - Check in with people you're helping: _____
 - Group activities (meetups, etc.): _____
@@ -345,12 +379,14 @@ Check what feels right:
 ### How You'll Know It's Working
 
 **Getting mentored well:**
+
 - You're implementing what you learn: ___%
 - Your skills are improving: ___/10
 - You're reaching goals faster: ___/10
 - The relationships feel good: ___/10
 
 **Mentoring others well:**
+
 - They're making progress: ___/10
 - They seem happy with your help: ___/10
 - You're learning from them too: ___/10
@@ -361,22 +397,26 @@ Check what feels right:
 **In 3 years:**
 
 **Learning from others:**
+
 - What you want to get better at: _____
 - Types of people you want to learn from: _____
 - Depth of relationships you want: _____
 
 **Helping others:**
+
 - Who you want to help: _____
 - Impact you want to have: _____
 - What you want to be known for: _____
 
 **Community:**
+
 - Groups you want to be part of: _____
 - Things you might start: _____
 
 ## Your Next Steps (5 minutes)
 
 ### This Week
+
 1. Reach out to one person who could mentor you
 2. Offer to help one person with something you know
 3. Join one community where mentoring happens naturally
@@ -384,6 +424,7 @@ Check what feels right:
 5. Share one lesson you've learned with others
 
 ### This Month
+
 1. Have your first mentor conversation
 2. Start helping someone regularly
 3. Go to a meetup or community event
@@ -391,6 +432,7 @@ Check what feels right:
 5. Connect two people who should know each other
 
 ### Next 3 Months
+
 1. Build consistent mentoring relationships
 2. Find your rhythm for helping others
 3. Join a formal program if you want structure
@@ -410,11 +452,3 @@ You've spent 14 weeks learning and growing. That journey has given you something
 Start somewhere. Help someone. Let people help you. Build relationships.
 
 You've got this.
-
----
-
-## Navigation
-
-← [Previous: Continuous Learning](/journey/week-14/03-continuous-learning/) | [Next: Giving Back](/journey/week-14/05-giving-back/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

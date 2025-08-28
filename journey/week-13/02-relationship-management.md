@@ -22,27 +22,33 @@ And yet, your relationships matter more than your code ever will.
 ## The Tech Career Relationship Challenges
 
 ### Challenge 1: The Language Barrier
+
 **The problem:** You excitedly tell someone about finally fixing that bug. Their eyes glaze over.
 
 **The fix:**
+
 - Learn to translate: "I solved a really hard puzzle at work today"
 - Focus on feelings, not technical details
 - Save the tech talk for tech friends
 - Ask about their work with genuine interest
 
 ### Challenge 2: The Time Vampire
+
 **The problem:** Learning to code eats all your free time.
 
 **The fix:**
+
 - Schedule relationship time like you schedule coding time
 - Quality over quantity (one real hour > five distracted hours)
 - Include people in your journey when possible
 - Be honest about your temporary time constraints
 
 ### Challenge 3: The Growth Gap
+
 **The problem:** You're changing fast. Some relationships might not keep up.
 
 **The fix:**
+
 - Accept that some friendships might fade (it's okay)
 - Invest more in relationships that support your growth
 - Stay humble about your journey
@@ -64,6 +70,7 @@ Your non-tech friends are gold. They keep you grounded. Here's how to keep them:
 **Say:** "Work systems are broken today"
 
 ### Shared Activities That Work
+
 - Gaming (even non-techies game)
 - Sports/fitness activities
 - Food adventures
@@ -72,6 +79,7 @@ Your non-tech friends are gold. They keep you grounded. Here's how to keep them:
 - Literally anything not involving screens
 
 ### The Friendship Maintenance Schedule
+
 **Weekly:** Quick text check-ins
 **Bi-weekly:** Voice/video calls
 **Monthly:** In-person hangs
@@ -95,12 +103,14 @@ Explaining your tech career to family is like teaching git to your grandma. Here
 **What to tell them:** "Solving a tricky problem at work"
 
 ### Including Family in Your Journey
+
 - Show them something visual you built
 - Celebrate wins they can understand (job offers, raises)
 - Explain how tech helps with their interests
 - Be patient with their questions (even the silly ones)
 
 ### Setting Family Boundaries
+
 "I love spending time with you. When I'm at my computer, I'm working/studying. Can we plan specific times to hang out so I can be fully present?"
 
 ## Dating While Grinding (The Real Talk)
@@ -108,22 +118,26 @@ Explaining your tech career to family is like teaching git to your grandma. Here
 Yes, you can date while learning to code. No, it's not easy. Here's the honest guide:
 
 ### Your Dating Profile (Be Real)
+
 **Don't hide the grind:**
 "Learning to code and building my career. Looking for someone who gets ambition and appreciates quality time over quantity."
 
 **What attracts the right people:**
+
 - Ambition and drive
 - Growth mindset
 - Clear communication
 - Passion for something
 
 **What filters out incompatible matches:**
+
 - Need for constant attention
 - Discomfort with independent partners
 - Inflexibility
 - Competing rather than supporting
 
 ### Date Ideas for Busy Techies
+
 - Coffee shop coding sessions (they work/read, you code)
 - Lunch dates (you have to eat anyway)
 - Walking meetings/dates
@@ -140,6 +154,7 @@ Yes, you can date while learning to code. No, it's not easy. Here's the honest g
 "This week is crazy with [project/studying]. Can we plan something nice for Saturday when I can be fully present?"
 
 **Maintaining connection:**
+
 - Good morning/night texts (10 seconds)
 - Funny memes during breaks
 - Voice messages while commuting
@@ -150,19 +165,23 @@ Yes, you can date while learning to code. No, it's not easy. Here's the honest g
 If you're already in a relationship:
 
 ### The Support System Setup
+
 **What you need from them:**
+
 - Understanding during crunch times
 - Celebration of small wins
 - Space to focus when needed
 - Patience with the journey
 
 **What they need from you:**
+
 - Clear communication about busy periods
 - Protected couple time
 - Presence when you're together
 - Appreciation for their support
 
 ### The Couple's Tech Balance
+
 - Tech-free zones/times
 - Explaining what you're learning (if they're interested)
 - Including them in the journey
@@ -173,13 +192,15 @@ If you're already in a relationship:
 **The Relationship Audit**
 
 Who are your top 5 relationships?
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 Rate each (1-5):
+
 - How supported do you feel? ___
 - How well do you maintain it? ___
 - How much energy does it take? ___
@@ -194,18 +215,21 @@ Do that text. Now. Just "Thinking of you" is enough.
 ## The Friendship Investment Strategy
 
 ### Your Inner Circle (3-5 people)
+
 - Weekly touchpoints
 - Know your current struggles
 - Celebrate your wins
 - Call you on your BS
 
 ### Your Wider Circle (10-15 people)
+
 - Monthly connections
 - General life updates
 - Shared interests/activities
 - Positive energy exchange
 
 ### Your Network (Everyone else)
+
 - Quarterly check-ins
 - LinkedIn connections
 - Professional relationships
@@ -234,9 +258,3 @@ Yes, building your career requires sacrifice. But don't sacrifice the people who
 You don't need to be perfect at relationships. You just need to show up consistently, communicate honestly, and remember that the people who really care about you will understand your journey.
 
 And if someone doesn't? That's information too. Not everyone is meant to come with you to the next level. That's not failure - that's growth. 💝
-
----
-
-[← Previous: Work-Life Harmony](/journey/week-13/01-work-life-harmony/) | [Next: Financial Wellness →](/journey/week-13/03-financial-wellness/)
-
-[← Back to Week 13 Overview](/journey/week-13/)

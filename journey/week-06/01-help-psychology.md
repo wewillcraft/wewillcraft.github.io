@@ -60,9 +60,3 @@ Here's the truth: every developer you admire went through the same struggles you
 ## Today's Takeaway
 
 Asking for help isn't a sign of weakness - it's a sign of wisdom and a fast track to becoming the developer you want to be.
-
----
-
-## Navigation
-
-[Week 6: Ask for Help Like a Pro Overview ↑](/journey/week-06/) | [Next: Stack Overflow Like a Boss →](/journey/week-06/02-stackoverflow-mastery/)

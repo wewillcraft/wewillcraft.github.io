@@ -12,7 +12,7 @@ estimated_time: 30 minutes
 
 # Energy Management
 
-**Time:** 30 minutes  
+**Time:** 30 minutes\
 **Vibe:** Treating yourself like a phone that needs charging 🔋
 
 You know how your phone gets sluggish when the battery's low? That's you running on fumes! Let's figure out your personal charging system.
@@ -22,15 +22,19 @@ You know how your phone gets sluggish when the battery's low? That's you running
 You're not just physically tired - you've got four different "batteries" that need attention:
 
 ### 🏃‍♀️ Physical Energy
+
 Your body's fuel tank - affects everything else
 
-### 💭 Mental Energy  
+### 💭 Mental Energy
+
 Your brain's processing power - focus, decisions, problem-solving
 
 ### ❤️ Emotional Energy
+
 Your feelings fuel - how you connect, create, and care
 
 ### ✨ Spiritual Energy
+
 Your purpose battery - what gives your life meaning
 
 ## Your Energy Check-In
@@ -38,6 +42,7 @@ Your purpose battery - what gives your life meaning
 Rate your typical levels (1=dead battery, 10=fully charged):
 
 **Morning person or night owl?**
+
 - Morning physical energy: ___/10
 - Morning mental clarity: ___/10
 - Evening physical energy: ___/10
@@ -49,6 +54,7 @@ Rate your typical levels (1=dead battery, 10=fully charged):
 ## What's Draining Your Batteries?
 
 ### Energy Vampires 🧛‍♂️
+
 Check what sucks your energy:
 
 **Physical drains:**
@@ -80,13 +86,15 @@ Check what sucks your energy:
 □ Lack of growth/challenge
 
 **Your top 3 energy vampires:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ## What Charges You Up?
 
 ### Energy Boosters ⚡
+
 What actually gives you life?
 
 **Physical boosters:**
@@ -118,21 +126,23 @@ What actually gives you life?
 □ Values-aligned activities
 
 **Your top 5 energy boosters:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 ## Your Personal Energy Management Plan
 
 ### Daily Non-Negotiables
+
 Pick ONE from each category to do every day:
 
 **Physical:** ___________
 (Examples: 8 hours sleep, 10-minute walk, drink 64oz water)
 
-**Mental:** ___________  
+**Mental:** ___________\
 (Examples: 5-minute meditation, no phone first hour, single-tasking)
 
 **Emotional:** ___________
@@ -156,6 +166,7 @@ Pick ONE from each category to do every day:
 ## Emergency Energy Kit
 
 ### When You're Running on Empty:
+
 **Quick fixes (5 minutes):**
 □ Take 10 deep breaths
 □ Drink a glass of water
@@ -178,7 +189,9 @@ Pick ONE from each category to do every day:
 □ Have quality time with someone important
 
 ### Your Personal Emergency Kit:
+
 When I'm totally drained, I will:
+
 1. **Immediately:** ___________
 2. **Soon as possible:** ___________
 3. **By end of day:** ___________
@@ -186,6 +199,7 @@ When I'm totally drained, I will:
 ## Weekly Energy Review
 
 Every Sunday, ask yourself:
+
 - What gave me energy this week?
 - What drained me?
 - What do I need more of next week?
@@ -205,11 +219,3 @@ You can't pour from an empty cup. Taking care of your energy isn't selfish - it'
 Start small. Pick ONE energy booster and ONE energy vampire to focus on this week. You've got this! 🌟
 
 **Next up:** Time to create some recovery rituals that actually work →
-
----
-
----
-
-[← Previous Lesson](/journey/week-10/02-stress-signals/) | [Next Lesson →](/journey/week-10/04-recovery-rituals/)
-
-[← Back to Week 10 Overview](/journey/week-10/)

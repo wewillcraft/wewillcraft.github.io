@@ -96,9 +96,3 @@ You're not responsible for managing other people's emotions, even if they're ups
 ## Today's Takeaway
 
 Healthy emotional boundaries allow you to be present and supportive without losing yourself in others' emotional experiences. When you maintain your emotional center, you can respond thoughtfully rather than react impulsively, leading to better relationships and decisions.
-
----
-
-## Navigation
-
-[← Previous: Digital Boundaries](/journey/week-08/04-digital-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Professional Boundaries →](/journey/week-08/06-professional-boundaries/)

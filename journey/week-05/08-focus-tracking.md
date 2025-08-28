@@ -82,9 +82,3 @@ You've now learned the fundamentals of:
 - Tracking your progress to improve over time
 
 Take a moment to celebrate - these are serious skills that will serve you for life. You're building the foundation for doing your best, most meaningful work.
-
----
-
-## Navigation
-
-← [Previous: Flow State Mastery](/journey/week-05/07-flow-state/) | [Week 5: Focus & Deep Work Overview ↑](/journey/week-05/)

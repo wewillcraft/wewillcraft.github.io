@@ -37,28 +37,33 @@ Your imposter syndrome is not a bug - it's a feature. It means you're pushing yo
 Forget the 100 applications. Here's what actually works:
 
 ### 10 Target Companies
+
 Companies you genuinely want to work for. Not 50. Not "anywhere that'll hire me." Ten.
 
 **Your Dream 5:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 **Your Realistic 5:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 Research them deeply. Know their products, their challenges, their culture.
 
 ### 10 Real Connections
+
 Not LinkedIn randos. People who could actually help or hire you.
 
 **People to connect with:**
+
 - Alumni from your school working in tech
 - Speakers from meetups you attended
 - Contributors to projects you use
@@ -66,16 +71,19 @@ Not LinkedIn randos. People who could actually help or hire you.
 - People whose work you genuinely admire
 
 **Your list:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
+
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 ### 10 Quality Applications
+
 When you do apply, make it count.
 
 **Each application gets:**
+
 - Tailored resume highlighting relevant experience
 - Cover letter that shows you understand their problems
 - Follow-up message to someone on the team
@@ -98,6 +106,7 @@ Stop asking for jobs. Start asking for stories.
 "Hi [Name], I've been following your work on [specific thing]. Your approach to [specific detail] really resonated with me. I'm early in my career in [field] and would love to hear about your journey. Could I buy you coffee (virtual or real) for 20 minutes of your time?"
 
 **Why this works:**
+
 - You're offering value (coffee, genuine interest)
 - You're being specific (shows you did homework)
 - You're time-conscious (20 minutes, not "pick your brain")
@@ -123,23 +132,27 @@ This is how "networking" becomes "having professional friends."
 Not every good opportunity is a full-time office job.
 
 ### Remote-First Companies
+
 - Often more flexible with requirements
 - Judge you on work quality, not pedigree
 - Usually better work-life balance
 
 **Where to find them:**
+
 - RemoteOK
 - We Work Remotely
 - AngelList (filter for remote)
 - Companies with distributed teams
 
 ### Freelance to Full-Time Pipeline
+
 1. Start with small freelance projects
 2. Deliver exceptional work
 3. Become their go-to contractor
 4. Convert to full-time when it makes sense
 
 **Benefits:**
+
 - Lower barrier to entry
 - Prove yourself through work
 - Build portfolio while earning
@@ -150,11 +163,13 @@ Not every good opportunity is a full-time office job.
 **Step 1:** Pick your top 3 target companies (3 minutes)
 
 **Step 2:** Find one person at each company to connect with (5 minutes)
+
 - Search LinkedIn for "[Company] [Your role]"
 - Look for people 1-2 levels above where you'd start
 - Check if they post/write/speak publicly
 
 **Step 3:** Draft one connection message (7 minutes)
+
 - Mention something specific about their work
 - Ask one thoughtful question
 - Keep it under 100 words
@@ -164,16 +179,19 @@ Send it. Right now. Before you overthink it.
 ## The Weekly Rhythm
 
 **Monday:** Research and planning (1 hour)
+
 - Find new companies/roles
 - Research your targets
 - Plan the week's outreach
 
 **Wednesday:** Connection day (1 hour)
+
 - Send 3 connection requests
 - Follow up on previous conversations
 - Engage with people's content
 
 **Friday:** Application day (2 hours)
+
 - Submit 1-2 quality applications
 - Customize everything
 - Follow up on previous applications
@@ -185,13 +203,16 @@ That's 4 hours a week. Sustainable and effective.
 It will. Here's your emergency kit:
 
 ### The Reality Check
+
 - Job postings list wishes, not requirements
 - If you meet 60% of the "requirements," apply
 - Everyone learns on the job
 - Your fresh perspective has value
 
 ### The Confidence Builders
+
 **Before reaching out:**
+
 - List 3 things you've built/learned recently
 - Remember one problem you solved
 - Read one positive piece of feedback you received
@@ -199,6 +220,7 @@ It will. Here's your emergency kit:
 **The mantra:** "I may not know everything, but I can learn anything."
 
 ### The Perspective Shift
+
 **Instead of:** "Why would they hire me?"
 **Think:** "How can I help them?"
 
@@ -213,6 +235,7 @@ It will. Here's your emergency kit:
 Keep it simple. Track only what matters:
 
 **For each opportunity:**
+
 - Company name
 - Role
 - Contact person
@@ -221,6 +244,7 @@ Keep it simple. Track only what matters:
 - Energy level (😊/😐/😔)
 
 **Weekly check:**
+
 - How many connections made?
 - How many applications sent?
 - How many responses received?
@@ -233,9 +257,3 @@ The best job search strategy isn't about being the most qualified candidate. It'
 Quality beats quantity. Relationships beat resumes. Authenticity beats perfection.
 
 And yes, you belong in those rooms you're afraid to enter. The only way to prove it to yourself is to walk through the door. 💪
-
----
-
-[← Previous: Personal Brand](/journey/week-12/03-personal-brand/) | [Next: Interview Mastery →](/journey/week-12/05-interview-mastery/)
-
-[← Back to Week 12 Overview](/journey/week-12/)

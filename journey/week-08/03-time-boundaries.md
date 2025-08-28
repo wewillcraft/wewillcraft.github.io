@@ -97,9 +97,3 @@ Remember: you teach people how to treat your time. If you don't value it, why sh
 ## Today's Takeaway
 
 Time boundaries aren't restrictions—they're enablers. When you protect your time intentionally, you create space for your most important work and relationships to flourish while modeling sustainable practices for others.
-
----
-
-## Navigation
-
-[← Previous: Energy Boundaries](/journey/week-08/02-energy-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Digital Boundaries →](/journey/week-08/04-digital-boundaries/)
