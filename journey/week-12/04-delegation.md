@@ -7,7 +7,6 @@ objectives:
   - Build trust and accountability systems with team members
   - Create clear expectations and communication frameworks
   - Develop others while maintaining quality and deadlines
-estimated_time: 30 minutes
 ---
 
 # Delegation 🤝✨

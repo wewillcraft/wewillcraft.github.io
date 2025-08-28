@@ -1,7 +1,6 @@
 ---
 title: "Day 4: Getting a Mentor"
 excerpt: "Build meaningful connections that accelerate your growth"
-estimated_time: 15 minutes
 day: 4
 week: 6
 ---

@@ -7,7 +7,6 @@ objectives:
   - Discover your natural communication style
   - Learn how to connect better with others
   - Understand why some people energize or drain you
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

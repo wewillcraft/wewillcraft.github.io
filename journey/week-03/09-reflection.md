@@ -8,7 +8,6 @@ objectives:
   - Find healing from harsh words and grace for communication failures
   - Practice speaking truth in love and listening as ministry
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 9: Meditation & Reflection

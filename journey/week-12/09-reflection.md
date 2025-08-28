@@ -8,7 +8,6 @@ objectives:
   - Find freedom from worldly definitions of success and power
   - Practice leading through service, humility, and love
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 11: Meditation & Reflection

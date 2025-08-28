@@ -7,7 +7,6 @@ objectives:
   - Develop comfortable networking approaches for introverted personalities
   - Build online and offline professional connections strategically
   - Create a networking system that feels authentic to your personality
-estimated_time: 30 minutes
 ---
 
 ## The Networking Truth 🤝

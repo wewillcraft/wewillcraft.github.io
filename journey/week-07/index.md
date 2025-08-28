@@ -5,7 +5,6 @@ phase: learning-productivity
 index: 0
 excerpt: Stop fighting your energy patterns and start working with them
 description: "Discover your natural energy patterns, understand procrastination triggers, and design a productivity system that works with your rhythms instead of against them."
-estimated_time: 15-20 min/day
 objectives:
   - Track and understand your natural energy patterns
   - Identify what energizes vs. drains you throughout the day

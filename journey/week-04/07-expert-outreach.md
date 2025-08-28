@@ -1,7 +1,6 @@
 ---
 title: "Day 7: Expert Outreach"
 excerpt: "Connect with industry experts without being annoying"
-estimated_time: 15 minutes
 day: 7
 week: 6
 ---

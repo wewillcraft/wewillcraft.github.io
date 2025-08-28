@@ -1,6 +1,5 @@
 ---
 title: "How's Your Energy Right Now? 🔋"
-estimated_time: 15 minutes
 index: 1
 excerpt: "Start tracking your energy patterns and understand the four types of energy that drive your daily performance."
 objectives:

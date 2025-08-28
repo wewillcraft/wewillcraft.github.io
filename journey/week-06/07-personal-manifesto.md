@@ -1,6 +1,5 @@
 ---
 title: "Writing Your Manifesto 📜"
-estimated_time: 15 minutes
 index: 7
 excerpt: "Pull everything together into a personal declaration that guides your decisions."
 objectives:

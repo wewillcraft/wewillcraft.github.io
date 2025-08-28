@@ -7,7 +7,6 @@ objectives:
   - Structure verbal communication for maximum impact
   - Handle presentations and meetings with confidence
   - Deal with interruptions and difficult questions gracefully
-estimated_time: 30 minutes
 ---
 
 ## Let's Talk About Talking 🎙️

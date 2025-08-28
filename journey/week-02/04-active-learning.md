@@ -1,7 +1,6 @@
 ---
 title: "Active Learning Techniques"
 excerpt: "Stop being a passive sponge. Start being an active learner who actually gets it."
-estimated_time: 20 minutes
 index: 4
 objectives:
   - Replace passive consumption with active engagement

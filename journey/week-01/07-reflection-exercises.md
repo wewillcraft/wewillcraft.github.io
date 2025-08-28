@@ -7,7 +7,6 @@ objectives:
   - See the bigger picture of who you are
   - Identify your core patterns across assessments
   - Create your personal "user manual"
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

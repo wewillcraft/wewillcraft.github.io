@@ -2,7 +2,6 @@
 title: "Your Custom Productivity System"
 excerpt: "Tired of trying productivity systems that don't fit you? in this lesson we design a system that actually works with your personality and energy patterns."
 index: 6
-estimated_time: 20 minutes
 objectives:
   - Design a productivity system that matches your personality
   - Align your system with your natural energy patterns

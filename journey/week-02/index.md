@@ -5,7 +5,6 @@ phase: learning-productivity
 index: 0
 excerpt: Let's build a learning system that actually works with your brain (not against it)
 description: "Build a personalized learning system that matches your style, create a second brain for knowledge management, and develop active learning techniques that make knowledge stick."
-estimated_time: 15-20 min/day
 objectives:
   - Discover your natural learning style and preferences
   - Build a second brain system for knowledge management

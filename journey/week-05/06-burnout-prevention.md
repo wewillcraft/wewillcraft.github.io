@@ -7,7 +7,6 @@ objectives:
   - Understand the difference between stress and burnout
   - Create sustainable work habits and boundaries
   - Build a personal burnout prevention system with early interventions
-estimated_time: 25 minutes
 ---
 
 # Burnout Prevention

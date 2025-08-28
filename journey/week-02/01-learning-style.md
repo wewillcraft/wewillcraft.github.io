@@ -1,7 +1,6 @@
 ---
 title: "Find Your Learning Style"
 excerpt: "Discover how your brain actually likes to learn (hint: it's probably not how you've been trying)"
-estimated_time: 15 minutes
 index: 1
 objectives:
   - Identify your natural learning preferences

@@ -8,7 +8,6 @@ objectives:
   - Find freedom from compartmentalizing faith vs. "real life"
   - Practice living with integrity across all relationships and contexts
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 13: Meditation & Reflection

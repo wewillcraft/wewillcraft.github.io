@@ -1,0 +1,22 @@
+---
+layout: layouts/base.vto
+body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
+---
+
+<main class="flex-1 container mx-auto px-6 py-8 max-w-6xl">
+  <article class="prose prose-invert prose-pink max-w-none">
+    {{ if title }}
+      <h1 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-8 pb-1">
+        {{ title }}
+      </h1>
+    {{ /if }}
+
+    {{ if description }}
+      <p class="text-xl text-gray-400 mb-8">{{ description }}</p>
+    {{ /if }}
+
+    <div class="content">
+      {{ content }}
+    </div>
+  </article>
+</main>

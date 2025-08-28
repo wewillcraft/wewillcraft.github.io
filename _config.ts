@@ -10,6 +10,7 @@ import tailwindcss from "lume/plugins/tailwindcss.ts";
 import mermaid from "lume_mermaid";
 import typography from "npm:@tailwindcss/typography";
 import tailwindcssAnimated from "npm:tailwindcss-animated";
+import readingTime from "./_plugins/reading_time.ts";
 
 import "npm:prismjs@1.29.0/components/prism-bash.js";
 import "npm:prismjs@1.29.0/components/prism-typescript.js";
@@ -75,6 +76,14 @@ site.use(
 );
 site.use(postcss());
 site.use(lightningCss());
+site.use(
+  readingTime({
+    wordsPerMinute: 200, // Average reading speed for technical content
+    minimumTime: 1, // At least 1 minute
+    roundUp: true, // Round up to nearest minute
+    pattern: ".md", // Apply to all markdown files
+  }),
+);
 
 site.ignore("README.md");
 site.ignore((path) => {

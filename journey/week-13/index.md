@@ -3,7 +3,6 @@ title: "Week 13: Purpose-Aligned Career"
 week: 13
 phase: life-design
 excerpt: Align your career trajectory with your deepest values and long-term life vision.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

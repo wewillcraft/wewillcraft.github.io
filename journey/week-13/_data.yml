@@ -7,22 +7,22 @@ lessons:
     title: "Week 13: Giving Back & Legacy Overview"
     slug: ""
   - index: 1
-    title: "Your Daily Legacy (Not Your Deathbed Speech)"
+    title: "Daily Legacy vs Deathbed Speeches"
     slug: "01-legacy-thinking"
   - index: 2
-    title: "Finding Your People & Building Community"
+    title: "Finding and Building Communities"
     slug: "02-community-building"
   - index: 3
-    title: "Mentoring Others (You Know More Than You Think)"
+    title: "You Know More Than You Think"
     slug: "03-mentoring-others"
   - index: 4
-    title: "Contributing to Open Source"
+    title: "Your First Open Source Contribution"
     slug: "04-open-source"
   - index: 5
-    title: "Teaching and Knowledge Sharing"
+    title: "Teaching What You're Learning"
     slug: "05-teaching-sharing"
   - index: 6
-    title: "Building Something That Matters"
+    title: "Building Things That Matter"
     slug: "06-meaningful-projects"
   - index: 7
     title: "Creating Your Impact Plan"

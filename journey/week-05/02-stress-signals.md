@@ -7,7 +7,6 @@ objectives:
   - Create an early warning system to catch stress before it escalates
   - Develop healthy response strategies for different stress levels
   - Build awareness of your stress patterns and triggers
-estimated_time: 25 minutes
 ---
 
 # Stress Signals

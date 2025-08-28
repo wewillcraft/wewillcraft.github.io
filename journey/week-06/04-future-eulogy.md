@@ -2,7 +2,6 @@
 title: "What They'll Say About You"
 excerpt: "Ever wonder what your legacy will actually be? In this lesson we're figuring out what really matters by imagining the end of your story."
 index: 4
-estimated_time: 15 minutes
 objectives:
   - Clarify what legacy you want to leave behind
   - Understand what truly matters to you

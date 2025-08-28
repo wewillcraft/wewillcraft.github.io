@@ -1,7 +1,6 @@
 ---
 title: "Your Life Story (The Peaks and Valleys)"
 excerpt: "Let's map your journey to understand what really makes you thrive"
-estimated_time: 20 minutes
 index: 3
 objectives:
   - Map your life's peaks and valleys to identify patterns

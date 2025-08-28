@@ -7,7 +7,6 @@ objectives:
   - Consider God's model of Sabbath
   - Find peace in sustainable rhythms
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 7: Meditation & Reflection

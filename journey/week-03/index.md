@@ -3,7 +3,6 @@ title: "Week 9: Communication Styles"
 week: 9
 phase: life-design
 excerpt: Master the art of authentic communication that builds relationships and advances your career.
-estimated_time: 8-10 hours total
 ---
 
 ## Core Truth

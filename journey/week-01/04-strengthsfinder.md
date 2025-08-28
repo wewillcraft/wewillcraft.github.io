@@ -7,7 +7,6 @@ objectives:
   - Discover what you're naturally gifted at
   - Learn how to leverage your talents
   - Stop trying to fix what isn't broken
-estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋

@@ -202,7 +202,6 @@ objectives:
   - "Clear learning objective 1"
   - "Clear learning objective 2"
   - "Clear learning objective 3"
-estimated_time: 30 minutes # Optional - can be calculated by plugin
 ---
 ```
 

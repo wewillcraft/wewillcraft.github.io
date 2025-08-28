@@ -1,7 +1,6 @@
 ---
 title: "Master Spaced Repetition"
 excerpt: "The science-backed way to remember what you learn forever (seriously!)"
-estimated_time: 15 minutes
 index: 3
 objectives:
   - Understand the science of spaced repetition

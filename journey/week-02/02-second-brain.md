@@ -1,7 +1,6 @@
 ---
 title: "Build Your Second Brain"
 excerpt: "Create your personal knowledge system so your actual brain can focus on the fun stuff"
-estimated_time: 20 minutes
 index: 2
 objectives:
   - Set up an external knowledge management system

@@ -8,7 +8,6 @@ objectives:
   - Find humility and wonder in the learning process
   - Practice approaching learning as an act of worship
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Weekly Meditation & Reflection

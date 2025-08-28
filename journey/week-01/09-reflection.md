@@ -7,7 +7,6 @@ objectives:
   - Find encouragement in how you were created
   - Rest in God's intentional design for you
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 1: Meditation & Reflection

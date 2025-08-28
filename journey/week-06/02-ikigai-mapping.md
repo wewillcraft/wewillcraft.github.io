@@ -1,6 +1,5 @@
 ---
 title: "Finding Your Sweet Spot 🎯"
-estimated_time: 15 minutes
 index: 2
 excerpt: "Map where your passions, talents, and opportunities align to discover your potential career sweet spot."
 objectives:

@@ -7,7 +7,6 @@ objectives:
   - Learn to recognize different leadership styles in others
   - Practice adapting your style to different situations and team needs
   - Build confidence in your leadership abilities across various contexts
-estimated_time: 30 minutes
 ---
 
 # Leadership Styles

@@ -8,7 +8,6 @@ objectives:
   - Find freedom from guilt about protecting your energy and heart
   - Practice setting boundaries as an act of love and stewardship
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 8: Meditation & Reflection

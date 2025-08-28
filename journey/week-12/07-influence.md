@@ -7,7 +7,6 @@ objectives:
   - Learn ethical influence techniques that build trust and respect
   - Practice leading without formal authority or hierarchy
   - Develop skills for inspiring action and building consensus
-estimated_time: 30 minutes
 ---
 
 # Influence 🌟💫

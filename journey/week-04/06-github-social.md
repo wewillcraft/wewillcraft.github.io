@@ -1,7 +1,6 @@
 ---
 title: "Day 6: GitHub Social Skills"
 excerpt: "Turn your profile into a career accelerator"
-estimated_time: 15 minutes
 day: 6
 week: 6
 ---

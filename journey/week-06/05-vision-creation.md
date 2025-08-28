@@ -2,7 +2,6 @@
 title: "Your Future Self Is Calling"
 excerpt: "Ready to paint a picture so vivid it literally pulls you forward? In this lesson we're designing the future version of yourself."
 index: 5
-estimated_time: 20 minutes
 objectives:
   - Create a clear 5-year vision of your ideal life
   - Design specific goals that inspire action

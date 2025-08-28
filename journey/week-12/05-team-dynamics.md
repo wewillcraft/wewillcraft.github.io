@@ -7,7 +7,6 @@ objectives:
   - Learn to assess team roles and contribution styles
   - Practice interventions to improve team collaboration and performance
   - Build skills for facilitating effective team interactions
-estimated_time: 30 minutes
 ---
 
 # Team Dynamics 👥⚡

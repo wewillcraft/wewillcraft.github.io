@@ -1,7 +1,6 @@
 ---
 title: "Design Your Information Diet"
 excerpt: "Stop drowning in tech content. Start feeding your brain what it actually needs."
-estimated_time: 15 minutes
 index: 5
 objectives:
   - Audit and curate your information sources

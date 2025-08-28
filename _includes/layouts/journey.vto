@@ -8,48 +8,110 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
     <!-- Journey Header -->
     {{ if week }}
       <div class="mb-8 pb-4 border-b border-gray-800">
-        <div class="flex items-center gap-4 text-sm text-gray-400 mb-2">
-          <a href="/journey/" class="hover:text-pink-400">Journey</a>
-          <span>/</span>
+        <div class="flex items-center gap-2 text-sm text-gray-400">
+          <a href="/journey/" class="hover:text-pink-400 transition-colors"
+          >Journey</a>
+          <span class="text-gray-600">/</span>
+          {{ if phase }}
+            {{ set phaseNumber = week <= 5 ? "1" : week <= 10 ? "2" : "3" }}
+            {{
+              set phaseTitle = week <= 5
+              ? "Foundation"
+              : week <= 10
+              ? "Systems"
+              : "Impact"
+            }}
+          {{ /if }}
           <a
             href='/journey/week-{{ week < 10 ? "0" + week : week }}/'
-            class="hover:text-pink-400"
-          >Week {{ week }}</a>
+            class="hover:text-pink-400 transition-colors"
+          >
+            {{ if phase }}
+              <span>Phase {{ phaseNumber }}: {{ phaseTitle }} - Week {{
+                  week
+                }}</span>
+            {{ else }}
+              <span>Week {{ week }}</span>
+            {{ /if }}
+          </a>
           {{ if index && index > 0 }}
-            <span>/</span>
+            <span class="text-gray-600">/</span>
             <span class="text-gray-300">Lesson {{ index }}</span>
           {{ /if }}
         </div>
-
-        {{ if phase }}
-          <div class="inline-block px-3 py-1 bg-pink-500/20 text-pink-400 rounded-full text-xs uppercase tracking-wider">
-            Phase: {{ phase }}
-          </div>
-        {{ /if }}
       </div>
     {{ /if }}
 
     <!-- Main Title -->
-    <h1 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-4">
+    <h1 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-4 pb-1">
       {{ title }}
     </h1>
 
     <!-- Metadata -->
     {{ if objectives || estimated_time }}
       <div class="bg-gray-900/50 rounded-lg p-6 mb-8 not-prose">
-        {{ if objectives }}
+        {{ if estimated_time || word_count }}
           <div class="mb-4">
             <h3 class="text-sm uppercase tracking-wider text-gray-400 mb-2">
-              Objectives
+              At a Glance
+            </h3>
+            <div class="flex items-center gap-4 text-sm text-gray-400">
+              {{ if estimated_time }}
+                <div class="flex items-center gap-2">
+                  <svg
+                    class="w-4 h-4"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+                    >
+                    </path>
+                  </svg>
+                  <span>{{ estimated_time }} read</span>
+                </div>
+              {{ /if }}
+              {{ if word_count }}
+                <div class="flex items-center gap-2">
+                  <svg
+                    class="w-4 h-4"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                    >
+                    </path>
+                  </svg>
+                  <span>{{ word_count }} words</span>
+                </div>
+              {{ /if }}
+            </div>
+          </div>
+        {{ /if }}
+
+        {{ if objectives }}
+          <div>
+            <h3 class="text-sm uppercase tracking-wider text-gray-400 mb-2">
+              Learning Objectives
             </h3>
             <ul class="space-y-2">
               {{ for objective of objectives }}
                 <li class="flex items-start gap-2">
                   <svg
-                    class="w-5 h-5 text-pink-400 mt-0.5 flex-shrink-0"
+                    class="w-4 h-4 text-pink-400 flex-shrink-0"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
+                    style="margin-top: 2px"
                   >
                     <path
                       stroke-linecap="round"
@@ -59,30 +121,10 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
                     >
                     </path>
                   </svg>
-                  <span class="text-gray-300">{{ objective }}</span>
+                  <span class="text-gray-300 text-sm">{{ objective }}</span>
                 </li>
               {{ /for }}
             </ul>
-          </div>
-        {{ /if }}
-
-        {{ if estimated_time }}
-          <div class="flex items-center gap-2 text-sm text-gray-400">
-            <svg
-              class="w-4 h-4"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-              >
-              </path>
-            </svg>
-            <span>Estimated time: {{ estimated_time }}</span>
           </div>
         {{ /if }}
       </div>

@@ -8,7 +8,6 @@ objectives:
   - Find freedom from career idolatry while pursuing excellence
   - Practice bringing God's heart into your workplace and professional relationships
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Week 12: Meditation & Reflection

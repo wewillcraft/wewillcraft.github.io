@@ -8,7 +8,6 @@ objectives:
   - Find peace in the practice of single-minded devotion
   - Practice focusing as a spiritual discipline
 index: 9
-estimated_time: 5 minutes
 ---
 
 # Weekly Meditation & Reflection

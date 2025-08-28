@@ -8,7 +8,6 @@ objectives:
   - Find peace in knowing you're exactly where you need to be
   - Practice trusting the journey even when the path isn't clear
 index: 8
-estimated_time: 5 minutes
 ---
 
 # Week 2: Meditation & Reflection

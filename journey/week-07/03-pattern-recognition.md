@@ -2,7 +2,6 @@
 title: "Connecting the Energy Dots"
 excerpt: "Ready to turn your energy tracking data into pure gold? In this lesson we're spotting the patterns that will change how you work forever."
 index: 3
-estimated_time: 20 minutes
 objectives:
   - Analyze your energy tracking data for patterns
   - Identify your golden hours and energy vampires
