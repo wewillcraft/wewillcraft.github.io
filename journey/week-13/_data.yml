@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 13
-phase: life-design
+phase: integration-future
+
+lessons:
+  - index: 0
+    title: "Week 13: Purpose-Aligned Career Overview"
+    slug: ""
+  - index: 1
+    title: "Balance Is a Myth (Harmony Is Real)"
+    slug: "01-work-life-harmony"
+  - index: 2
+    title: "Relationships While Grinding"
+    slug: "02-relationship-management"
+  - index: 3
+    title: "Money Without the Shame"
+    slug: "03-financial-wellness"
+  - index: 4
+    title: "Sleep > Hustle (And Other Health Truths)"
+    slug: "04-health-optimization"
+  - index: 5
+    title: "Life Admin Made Simple"
+    slug: "05-personal-systems"
+  - index: 6
+    title: "Your Daily Legacy (Not Your Deathbed Speech)"
+    slug: "06-legacy-thinking"
+  - index: 7
+    title: "Finding Your People"
+    slug: "07-community-building"
+  - index: 8
+    title: "Your Personal Life OS"
+    slug: "08-integration-plan"

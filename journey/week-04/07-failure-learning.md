@@ -1,9 +1,12 @@
 ---
-title: "Day 7: Turn Failures into Fuel"
-description: "Every bug is a teacher. Every mistake is a masterclass. Here's how to learn from both."
+title: "Turn Failures into Fuel"
+excerpt: "Every bug is a teacher. Every mistake is a masterclass. Here's how to learn from both."
 estimated_time: 15 minutes
-day: 7
-week: 4
+index: 7
+objectives:
+  - Reframe failures as learning opportunities
+  - Develop resilience and growth mindset
+  - Create systems for extracting wisdom from mistakes
 ---
 
 ## Hey friend! 👋

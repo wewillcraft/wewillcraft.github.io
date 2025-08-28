@@ -1,10 +1,13 @@
 ---
 title: "What Really Drives You? 💫"
-estimated_time: 15 minutes
+description: "Explore your core motivations, fears, and desires through the Enneagram personality system"
+excerpt: "Discover your Enneagram type and understand the deep 'why' behind your actions and behaviors"
+index: 3
 objectives:
   - Discover what motivates you at the deepest level
   - Understand your core fears and desires
   - Learn how to recognize when you're stressed vs. growing
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -102,8 +105,3 @@ Your type isn't an excuse or a box - it's a spotlight on your unconscious patter
 
 You are not broken. You are not too much or too little. You have a beautiful, complex inner world, and understanding it is the key to living with more peace and purpose. 🎯
 
----
-
-**Ready to discover your natural talents?**
-
-[Continue to StrengthsFinder →](/journey/week-01/04-strengthsfinder/)

@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 8
-phase: life-design
+phase: boundaries-sustainability
+
+lessons:
+  - index: 0
+    title: "Week 8: Boundaries That Match Your Personality Overview"
+    slug: ""
+  - index: 1
+    title: "Understanding Your Boundary Style"
+    slug: "01-boundary-style"
+  - index: 2
+    title: "Energy Boundaries"
+    slug: "02-energy-boundaries"
+  - index: 3
+    title: "Time Boundaries"
+    slug: "03-time-boundaries"
+  - index: 4
+    title: "Digital Boundaries"
+    slug: "04-digital-boundaries"
+  - index: 5
+    title: "Emotional Boundaries"
+    slug: "05-emotional-boundaries"
+  - index: 6
+    title: "Professional Boundaries"
+    slug: "06-professional-boundaries"
+  - index: 7
+    title: "Personal Boundaries"
+    slug: "07-personal-boundaries"
+  - index: 8
+    title: "Boundary Maintenance"
+    slug: "08-boundary-maintenance"

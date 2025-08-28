@@ -1,10 +1,13 @@
 ---
 title: "Connecting The Dots 🔗"
-estimated_time: 15 minutes
+description: "Synthesize your assessment results into a coherent understanding of your personality patterns"
+excerpt: "Connect insights from all your assessments to see the bigger picture of who you are and how you work best"
+index: 7
 objectives:
   - See the bigger picture of who you are
   - Identify your core patterns across assessments
   - Create your personal "user manual"
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -328,8 +331,3 @@ Choose ONE insight from today to implement tomorrow:
 
 You've just completed the most comprehensive self-assessment most people never do. You now have data that 99% of developers don't have about themselves. This isn't just interesting information—it's your competitive advantage. Use it.
 
----
-
-**Ready to create your Personal User Manual?**
-
-[Continue to Creating Your User Manual →](/journey/week-01/08-user-manual/)

@@ -1,3 +1,29 @@
 layout: layouts/journey.vto
 week: 2
 phase: self-discovery
+
+lessons:
+  - index: 0
+    title: "Week 2: Finding Your True North Overview"
+    slug: ""
+  - index: 1
+    title: "What Do You Actually Value?"
+    slug: "01-values-discovery"
+  - index: 2
+    title: "Finding Your Sweet Spot"
+    slug: "02-ikigai-mapping"
+  - index: 3
+    title: "Your Life Story (The Peaks and Valleys)"
+    slug: "03-life-timeline"
+  - index: 4
+    title: "What They'll Say About You"
+    slug: "04-future-eulogy"
+  - index: 5
+    title: "Your Future Self Is Calling"
+    slug: "05-vision-creation"
+  - index: 6
+    title: "Your Code, Your Calling"
+    slug: "06-technical-calling"
+  - index: 7
+    title: "Writing Your Manifesto"
+    slug: "07-personal-manifesto"

@@ -1,10 +1,13 @@
 ---
 title: "Your Natural Superpowers 🦸‍♀️"
-estimated_time: 15 minutes
+description: "Identify your natural talents and learn how to develop them into genuine strengths"
+excerpt: "Take a strengths assessment to discover what you're naturally gifted at and how to leverage those talents"
+index: 4
 objectives:
   - Discover what you're naturally gifted at
   - Learn how to leverage your talents
   - Stop trying to fix what isn't broken
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -378,8 +381,3 @@ Consider:
 
 You don't have to be well-rounded. The best developers lean into their strengths and manage around their weaknesses. Now you know your natural talents—time to develop them into world-class strengths.
 
----
-
-**Ready to understand your communication style?**
-
-[Continue to DISC Assessment →](/journey/week-01/05-disc-assessment/)

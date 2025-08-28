@@ -1,10 +1,13 @@
 ---
 title: "How You Show Up In The World 🌟"
-estimated_time: 15 minutes
+description: "Understand your natural communication and behavioral style through DISC assessment"
+excerpt: "Learn how you naturally interact with others and adapt your communication for better relationships"
+index: 5
 objectives:
   - Discover your natural communication style
   - Learn how to connect better with others
   - Understand why some people energize or drain you
+estimated_time: 15 minutes
 ---
 
 ## Hey friend! 👋
@@ -224,8 +227,3 @@ Remember: You can flex your style based on the situation.
 
 DISC isn't about personality—it's about behavior. And behavior can be adapted. Now you know your default communication style AND how to speak the language of others. Use this superpower wisely.
 
----
-
-**Ready to understand how you learn best?**
-
-[Continue to Learning & Energy Assessments →](/journey/week-01/06-learning-energy/)

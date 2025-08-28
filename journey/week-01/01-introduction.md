@@ -1,9 +1,13 @@
 ---
-title: "Day 1: Let's Start This Journey Together"
+title: "Let's Start This Journey Together"
 description: "Why knowing yourself is your secret weapon"
+excerpt: "Discover why self-knowledge is your secret weapon for success and begin your 14-week transformation journey"
+index: 1
+objectives:
+  - "Set your intention for the 14-week journey"
+  - "Understand why self-knowledge matters more than generic advice"
+  - "Make a commitment to show up for yourself"
 estimated_time: 15 minutes
-day: 1
-week: 1
 ---
 
 ## Hey, you made it! 🎉
@@ -115,5 +119,3 @@ You don't need to be fixed. You need to be understood—starting with understand
 ---
 
 **P.S.** If you're feeling overwhelmed, that's okay. You don't have to be ready. You just have to be willing. That's enough for now.
-
-→ [Tomorrow: Discover Your Personality Blueprint (MBTI)](./02-mbti-assessment)

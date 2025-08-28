@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 14
-phase: life-design
+phase: integration-future
+
+lessons:
+  - index: 0
+    title: "Week 14: Designing Your Next 100 Days Overview"
+    slug: ""
+  - index: 1
+    title: "Success On Your Terms"
+    slug: "01-success-metrics"
+  - index: 2
+    title: "Gentle Accountability That Works"
+    slug: "02-accountability-systems"
+  - index: 3
+    title: "Learning As a Lifestyle"
+    slug: "03-continuous-learning"
+  - index: 4
+    title: "Finding Your People"
+    slug: "04-mentor-relationships"
+  - index: 5
+    title: "You Already Know Enough to Help"
+    slug: "05-giving-back"
+  - index: 6
+    title: "Embracing Change"
+    slug: "06-future-proofing"
+  - index: 7
+    title: "Look How Far You've Come"
+    slug: "07-celebration-reflection"
+  - index: 8
+    title: "Your Next Chapter"
+    slug: "08-next-100-days"

@@ -1,6 +1,8 @@
 ---
 title: "Finding Your Sweet Spot 🎯"
 estimated_time: 15 minutes
+index: 2
+excerpt: "Map where your passions, talents, and opportunities align to discover your potential career sweet spot."
 objectives:
   - Map where your passions, talents, and opportunities align
   - Discover your potential career sweet spot
@@ -362,7 +364,3 @@ Which resonates most?
 Your ikigai isn't fixed—it evolves as you grow. The goal isn't perfection but direction. Move toward the center, even if slowly. Every project, every job, every skill you develop can bring you closer to that sweet spot where Sunday night doesn't fill you with dread.
 
 ---
-
-**Ready to understand your journey so far?**
-
-[Continue to Life Timeline Analysis →](/journey/week-02/03-life-timeline/)

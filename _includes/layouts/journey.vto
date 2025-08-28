@@ -3,23 +3,21 @@ layout: layouts/base.vto
 body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
 ---
 
-<main class="flex-1 container mx-auto px-4 py-8 max-w-4xl">
+<main class="flex-1 container mx-auto px-6 py-8 max-w-6xl">
   <article class="prose prose-invert prose-pink max-w-none">
     <!-- Journey Header -->
-    {{ if week || day }}
+    {{ if week }}
       <div class="mb-8 pb-4 border-b border-gray-800">
         <div class="flex items-center gap-4 text-sm text-gray-400 mb-2">
           <a href="/journey/" class="hover:text-pink-400">Journey</a>
           <span>/</span>
-          {{ if week }}
-            <a
-              href='/journey/week-{{ week < 10 ? "0" + week : week }}/'
-              class="hover:text-pink-400"
-            >Week {{ week }}</a>
-          {{ /if }}
-          {{ if day }}
+          <a
+            href='/journey/week-{{ week < 10 ? "0" + week : week }}/'
+            class="hover:text-pink-400"
+          >Week {{ week }}</a>
+          {{ if index && index > 0 }}
             <span>/</span>
-            <span class="text-gray-300">Day {{ day }}</span>
+            <span class="text-gray-300">Lesson {{ index }}</span>
           {{ /if }}
         </div>
 
@@ -96,77 +94,97 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
     </div>
 
     <!-- Navigation -->
-    {{ if day }}
+    {{ if lessons && index !== undefined }}
       <div class="flex justify-between items-center mt-12 pt-8 border-t border-gray-800 not-prose">
-        {{ set previousDay = day - 1 }}
-        {{ set nextDay = day + 1 }}
+        {{ set currentIndex = index }}
+        {{ set previousLesson = lessons.find((l) => l.index === currentIndex - 1) }}
+        {{ set nextLesson = lessons.find((l) => l.index === currentIndex + 1) }}
         {{ set currentWeek = week < 10 ? "0" + week : week }}
-        {{ set previousWeek = week - 1 < 10 ? "0" + (week - 1) : week - 1 }}
-        {{ set nextWeek = week + 1 < 10 ? "0" + (week + 1) : week + 1 }}
 
         <div>
-          {{ if previousDay > 0 }}
-            {{ if previousDay % 7 == 0 }}
-              <a
-                href='/journey/week-{{ previousWeek }}/day-{{ previousDay < 10 ? "00" + previousDay : previousDay < 100 ? "0" + previousDay : previousDay }}'
-                class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
+          {{ if previousLesson }}
+            <a
+              href='/journey/week-{{ currentWeek }}/{{ previousLesson.slug ? previousLesson.slug + "/" : "" }}'
+              class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
+            >
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
               >
-                <svg
-                  class="w-5 h-5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
                 >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M15 19l-7-7 7-7"
-                  >
-                  </path>
-                </svg>
-                <span>Day {{ previousDay }}: Previous</span>
-              </a>
-            {{ else }}
-              <a
-                href='/journey/week-{{ currentWeek }}/day-{{ previousDay < 10 ? "00" + previousDay : previousDay < 100 ? "0" + previousDay : previousDay }}'
-                class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
+                </path>
+              </svg>
+              <span>{{ previousLesson.title }}</span>
+            </a>
+          {{ else }}
+            <a
+              href="/journey/"
+              class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
+            >
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
               >
-                <svg
-                  class="w-5 h-5"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M15 19l-7-7 7-7"
                 >
-                  <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    d="M15 19l-7-7 7-7"
-                  >
-                  </path>
-                </svg>
-                <span>Day {{ previousDay }}: Previous</span>
-              </a>
-            {{ /if }}
+                </path>
+              </svg>
+              <span>Journey Overview</span>
+            </a>
           {{ /if }}
         </div>
 
         <a
-          href="/journey/"
+          href='/journey/week-{{ currentWeek }}/'
           class="text-gray-400 hover:text-pink-400 transition-colors"
         >
-          Overview
+          Week {{ week }} Overview
         </a>
 
         <div>
-          {{ if nextDay <= 100 }}
-            {{ if nextDay % 7 == 1 && nextDay > 7 }}
+          {{ if nextLesson }}
+            <a
+              href='/journey/week-{{ currentWeek }}/{{ nextLesson.slug ? nextLesson.slug + "/" : "" }}'
+              class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
+            >
+              <span>{{ nextLesson.title }}</span>
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M9 5l7 7-7 7"
+                >
+                </path>
+              </svg>
+            </a>
+          {{ else }}
+            {{ set nextWeekNum = week + 1 }}
+            {{ if nextWeekNum <= 14 }}
+              {{ set nextWeekPadded = nextWeekNum < 10 ? "0" + nextWeekNum : nextWeekNum }}
               <a
-                href='/journey/week-{{ nextWeek }}/day-{{ nextDay < 10 ? "00" + nextDay : nextDay < 100 ? "0" + nextDay : nextDay }}'
+                href='/journey/week-{{ nextWeekPadded }}/'
                 class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
               >
-                <span>Day {{ nextDay }}: Next</span>
+                <span>Week {{ nextWeekNum }} Overview</span>
                 <svg
                   class="w-5 h-5"
                   fill="none"
@@ -184,10 +202,10 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
               </a>
             {{ else }}
               <a
-                href='/journey/week-{{ currentWeek }}/day-{{ nextDay < 10 ? "00" + nextDay : nextDay < 100 ? "0" + nextDay : nextDay }}'
+                href="/journey/"
                 class="flex items-center gap-2 text-gray-400 hover:text-pink-400 transition-colors"
               >
-                <span>Day {{ nextDay }}: Next</span>
+                <span>Complete Journey</span>
                 <svg
                   class="w-5 h-5"
                   fill="none"
@@ -198,7 +216,7 @@ body_class: bg-gray-950 text-gray-200 min-h-screen flex flex-col
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    d="M9 5l7 7-7 7"
+                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"
                   >
                   </path>
                 </svg>

@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 5
-phase: tool-mastery
+phase: focus-deep-work
+
+lessons:
+  - index: 0
+    title: "Week 5: Focus in the Age of Distraction Overview"
+    slug: ""
+  - index: 1
+    title: "The Neuroscience of Focus"
+    slug: "01-focus-neuroscience"
+  - index: 2
+    title: "Digital Minimalism Setup"
+    slug: "02-digital-minimalism"
+  - index: 3
+    title: "Deep Work Rituals"
+    slug: "03-deep-work-rituals"
+  - index: 4
+    title: "Recharge Your Mental Battery"
+    slug: "04-attention-restoration"
+  - index: 5
+    title: "Your Personal Focus Formula"
+    slug: "05-pomodoro-plus"
+  - index: 6
+    title: "Build Your Focus Fortress"
+    slug: "06-distraction-proofing"
+  - index: 7
+    title: "Enter the Zone"
+    slug: "07-flow-state"
+  - index: 8
+    title: "Track Your Focus Wins"
+    slug: "08-focus-tracking"

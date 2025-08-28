@@ -1,9 +1,12 @@
 ---
-title: "Day 3: Master Spaced Repetition"
-description: "The science-backed way to remember what you learn forever (seriously!)"
+title: "Master Spaced Repetition"
+excerpt: "The science-backed way to remember what you learn forever (seriously!)"
 estimated_time: 15 minutes
-day: 3
-week: 4
+index: 3
+objectives:
+  - Understand the science of spaced repetition
+  - Set up a spaced repetition system for tech learning
+  - Apply memory techniques to coding concepts
 ---
 
 ## Hey friend! 👋

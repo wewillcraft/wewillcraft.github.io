@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 12
-phase: life-design
+phase: leadership-career
+
+lessons:
+  - index: 0
+    title: "Week 12: Health Habits That Stick Overview"
+    slug: ""
+  - index: 1
+    title: "Your Next Chapter (Not Your Whole Book)"
+    slug: "01-career-vision"
+  - index: 2
+    title: "Your Growth Roadmap"
+    slug: "02-skill-gap-analysis"
+  - index: 3
+    title: "How People Remember You"
+    slug: "03-personal-brand"
+  - index: 4
+    title: "Smart Job Hunting (Quality Over Spray-and-Pray)"
+    slug: "04-job-search-strategy"
+  - index: 5
+    title: "Interviews Without the BS"
+    slug: "05-interview-mastery"
+  - index: 6
+    title: "Negotiation Is Normal (Not Greedy)"
+    slug: "06-negotiation-skills"
+  - index: 7
+    title: "Career Changes Are Normal (Not Failures)"
+    slug: "07-career-pivots"
+  - index: 8
+    title: "Your 90-Day Career Sprint"
+    slug: "08-career-roadmap"

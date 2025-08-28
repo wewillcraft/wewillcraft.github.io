@@ -1,8 +1,12 @@
 ---
 title: "Week 1: Getting to Know the Real You"
-week: 1
-phase: self-discovery
-excerpt: Let's discover what makes you tick (and why that matters for your growth)
+description: "Discover your personality, strengths, and natural wiring to build a life that actually fits you"
+excerpt: "Let's discover what makes you tick (and why that matters for your growth)"
+index: 0
+objectives:
+  - "Complete personality assessments to understand your natural wiring"
+  - "Discover your strengths and how to leverage them"
+  - "Create a personal user manual for working with yourself"
 estimated_time: 15-20 min/day
 ---
 
@@ -111,6 +115,3 @@ Remember: You're not behind. You're not too late. You're exactly where you need 
 
 Drop them in our community space or journal them for reflection. Every question is worth exploring—they're often where the biggest breakthroughs hide.
 
----
-
-**Ready to meet yourself? Let's go!** → [Day 1: Let's Start This Journey](./01-introduction)

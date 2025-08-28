@@ -1,6 +1,8 @@
 ---
 title: "Writing Your Manifesto 📜"
 estimated_time: 15 minutes
+index: 7
+excerpt: "Pull everything together into a personal declaration that guides your decisions."
 objectives:
   - Pull everything together into a personal declaration
   - Create a document that guides your decisions
@@ -413,21 +415,3 @@ Print it. Frame it. Live it.
 Your manifesto isn't just words—it's your operating system. It's the code that runs your life. When everything else is uncertain, your manifesto is your constant. It's not about being perfect; it's about being intentional. Every day you either honor it or betray it. Choose wisely.
 
 ---
-
-**Congratulations!** 🎉
-
-You've completed Week 2. You now have:
-
-- Your core values identified
-- Your ikigai mapped
-- Your life patterns understood
-- Your legacy designed
-- Your 5-year vision created
-- Your technical calling discovered
-- Your personal manifesto declared
-
-You know your WHY. Next week, we'll explore your HOW.
-
-[Return to Week 2 Overview →](/journey/week-02/)
-
-[Continue to Week 3 →](/journey/week-03/)

@@ -1,3 +1,32 @@
 layout: layouts/journey.vto
 week: 1
 phase: self-discovery
+
+lessons:
+  - index: 0
+    title: "Week 1: Self-Discovery Overview"
+    slug: ""
+  - index: 1
+    title: "Let's Start This Journey Together"
+    slug: "01-introduction"
+  - index: 2
+    title: "Understanding Your Brain's Operating System"
+    slug: "02-mbti-assessment"
+  - index: 3
+    title: "What Really Drives You?"
+    slug: "03-enneagram-assessment"
+  - index: 4
+    title: "Your Natural Superpowers"
+    slug: "04-strengthsfinder"
+  - index: 5
+    title: "How You Show Up In The World"
+    slug: "05-disc-assessment"
+  - index: 6
+    title: "When Your Brain Works Best"
+    slug: "06-learning-energy"
+  - index: 7
+    title: "Connecting The Dots"
+    slug: "07-reflection-exercises"
+  - index: 8
+    title: "Your Personal README"
+    slug: "08-user-manual"

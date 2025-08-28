@@ -1,6 +1,8 @@
 ---
 title: "What Do You Actually Value? 🎯"
 estimated_time: 15 minutes
+index: 1
+excerpt: "Discover your true core values and understand why some decisions feel easy while others feel impossible."
 objectives:
   - Discover your true core values (not the ones you think you should have)
   - Understand why some decisions feel easy while others feel impossible
@@ -288,7 +290,3 @@ For the next 7 days:
 Your values aren't just words—they're your operating system. When you make decisions aligned with your values, you build a life you don't need to escape from. When you violate them, no amount of success feels satisfying.
 
 ---
-
-**Ready to find your ikigai?**
-
-[Continue to Ikigai Mapping →](/journey/week-02/02-ikigai-mapping/)

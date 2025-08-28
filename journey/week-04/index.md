@@ -1,9 +1,20 @@
 ---
 title: "Week 4: The Learning Operating System"
 week: 4
-phase: tool-mastery
+phase: learning-productivity
+index: 0
 excerpt: Let's build a learning system that actually works with your brain (not against it)
+description: "Build a personalized learning system that matches your style, create a second brain for knowledge management, and develop active learning techniques that make knowledge stick."
 estimated_time: 15-20 min/day
+objectives:
+  - Discover your natural learning style and preferences
+  - Build a second brain system for knowledge management
+  - Master spaced repetition for long-term retention
+  - Develop active learning techniques that improve understanding
+  - Design a curated information diet that feeds your growth
+  - Learn through projects that build real skills
+  - Turn failures and mistakes into learning fuel
+  - Share knowledge to deepen your own understanding
 ---
 
 ## Hey there, learning champion! 👋
@@ -115,5 +126,3 @@ Your brain is already incredible at learning—you've been doing it since you we
 Write them down! Questions are your brain's way of pointing you toward what matters most. Every question is worth exploring.
 
 ---
-
-**Ready to supercharge your learning?** → [Day 1: Find Your Learning Style](./01-learning-style)

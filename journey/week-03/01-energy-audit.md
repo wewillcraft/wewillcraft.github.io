@@ -1,6 +1,8 @@
 ---
 title: "How's Your Energy Right Now? 🔋"
 estimated_time: 15 minutes
+index: 1
+excerpt: "Start tracking your energy patterns and understand the four types of energy that drive your daily performance."
 objectives:
   - Start tracking your energy patterns
   - Understand the four types of energy
@@ -311,7 +313,3 @@ This week, we stop forcing ourselves into arbitrary schedules and start designin
 Data first. Optimization later.
 
 ---
-
-**Start tracking immediately.**
-
-[Continue to Daily Energy Tracking →](/journey/week-03/02-daily-tracking/)

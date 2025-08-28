@@ -1,9 +1,12 @@
 ---
-title: "Day 3: Your Life Story (The Peaks and Valleys)"
+title: "Your Life Story (The Peaks and Valleys)"
 excerpt: "Let's map your journey to understand what really makes you thrive"
 estimated_time: 20 minutes
-day: 3
-week: 2
+index: 3
+objectives:
+  - Map your life's peaks and valleys to identify patterns
+  - Discover what conditions help you thrive
+  - Understand what factors lead to your low points
 ---
 
 ## Hey friend! 👋
@@ -109,7 +112,3 @@ What if your next peak could be your highest one yet? What if you now know exact
 Your life has been teaching you what works for YOU all along. The peaks show you what to pursue. The valleys show you what to avoid. Now you have the map.
 
 ---
-
-**Tomorrow, we're going to dream big about your future. See you then!**
-
-→ [Day 4: Writing Your Future Story](./04-future-eulogy)
