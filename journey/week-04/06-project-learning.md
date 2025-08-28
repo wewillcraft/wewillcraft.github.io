@@ -11,7 +11,7 @@ objectives:
 
 ## Hey friend! 👋
 
-Tired of tutorial hell? You know, that endless cycle of following tutorials, feeling like you "get it," then staring at a blank screen when it's time to build something real? Today we're breaking free with project-based learning—where you learn by building stuff you actually want to create.
+Tired of tutorial hell? You know, that endless cycle of following tutorials, feeling like you "get it," then staring at a blank screen when it's time to build something real? Today we're breaking free with project-based learning, where you learn by building stuff you actually want to create.
 
 ## Today's Big Idea 💡
 

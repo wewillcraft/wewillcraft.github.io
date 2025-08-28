@@ -412,6 +412,6 @@ Print it. Frame it. Live it.
 
 ## Key Takeaway
 
-Your manifesto isn't just words—it's your operating system. It's the code that runs your life. When everything else is uncertain, your manifesto is your constant. It's not about being perfect; it's about being intentional. Every day you either honor it or betray it. Choose wisely.
+Your manifesto isn't just words. It's your operating system. It's the code that runs your life. When everything else is uncertain, your manifesto is your constant. It's not about being perfect; it's about being intentional. Every day you either honor it or betray it. Choose wisely.
 
 ---

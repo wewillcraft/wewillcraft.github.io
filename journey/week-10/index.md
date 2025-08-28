@@ -193,4 +193,4 @@ Your twenties are the perfect time to fail fast, learn quickly, and build the re
 
 ---
 
-_Remember: The goal isn't to avoid failure—it's to fail better. Every failure is a stepping stone to success if you know how to use it._
+_Remember: The goal isn't to avoid failure. It's to fail better. Every failure is a stepping stone to success if you know how to use it._

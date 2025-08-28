@@ -15,9 +15,9 @@ Feeling overwhelmed by the endless stream of dev content? New frameworks, hot ta
 
 ## Today's Big Idea 💡
 
-**You are what you consume—and most of us are consuming junk information.**
+**You are what you consume, and most of us are consuming junk information.**
 
-Just like eating fast food every meal makes your body sluggish, consuming random tech content makes your mind scattered. An information diet isn't about consuming less—it's about consuming intentionally.
+Just like eating fast food every meal makes your body sluggish, consuming random tech content makes your mind scattered. An information diet isn't about consuming less. It's about consuming intentionally.
 
 ## Why This Matters
 
@@ -91,7 +91,7 @@ Remember: Your competition isn't learning about every new thing. Your competitio
 
 ## Today's Takeaway
 
-Information is like food—the goal isn't to consume as much as possible. It's to consume what nourishes your growth and supports your goals.
+Information is like food. The goal isn't to consume as much as possible. It's to consume what nourishes your growth and supports your goals.
 
 A curated information diet lets you go deeper instead of wider, and deeper is where mastery lives.
 

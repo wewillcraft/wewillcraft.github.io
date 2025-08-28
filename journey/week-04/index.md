@@ -82,7 +82,7 @@ By Sunday night, you'll have:
 
 ## Real Talk 💬
 
-Look, we know everyone has an opinion about the "best" way to learn. Some people swear by flashcards, others by videos, others by just diving in and breaking things. Here's the truth: they're all right—for someone.
+Look, we know everyone has an opinion about the "best" way to learn. Some people swear by flashcards, others by videos, others by just diving in and breaking things. Here's the truth: they're all right for someone.
 
 This week isn't about finding the "perfect" method. It's about finding YOUR method. The one that feels natural, works with your schedule, and actually sticks.
 
@@ -119,7 +119,7 @@ That's it. You've officially started building your learning operating system! �
 
 ## A Friendly Reminder
 
-Your brain is already incredible at learning—you've been doing it since you were born. We're just optimizing the process and removing the friction. Be patient with yourself as you experiment with new methods.
+Your brain is already incredible at learning. You've been doing it since you were born. We're just optimizing the process and removing the friction. Be patient with yourself as you experiment with new methods.
 
 ## Questions?
 

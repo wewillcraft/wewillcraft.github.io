@@ -287,6 +287,6 @@ For the next 7 days:
 
 ## Key Takeaway
 
-Your values aren't just words—they're your operating system. When you make decisions aligned with your values, you build a life you don't need to escape from. When you violate them, no amount of success feels satisfying.
+Your values aren't just words. They're your operating system. When you make decisions aligned with your values, you build a life you don't need to escape from. When you violate them, no amount of success feels satisfying.
 
 ---

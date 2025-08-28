@@ -8,7 +8,7 @@ week: 5
 
 ## Hey friend! 👋
 
-Ever notice how professional athletes have pre-game rituals? They're not just superstitions—they're signals that prepare the mind and body for peak performance. Today we're creating your personal focus rituals that make deep work feel automatic.
+Ever notice how professional athletes have pre-game rituals? They're not just superstitions. They're signals that prepare the mind and body for peak performance. Today we're creating your personal focus rituals that make deep work feel automatic.
 
 ## Today's Big Idea 💡
 
@@ -72,7 +72,7 @@ Start simple and adjust as you learn what works for your brain.
 
 ## Today's Takeaway
 
-Deep work isn't just about the work itself—it's about the transition INTO the work. A good ritual makes that transition smooth and automatic.
+Deep work isn't just about the work itself. It's about the transition INTO the work. A good ritual makes that transition smooth and automatic.
 
 When you remove the friction from starting, you remove the biggest barrier to consistent deep work.
 

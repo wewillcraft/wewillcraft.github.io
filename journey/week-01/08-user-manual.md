@@ -399,7 +399,7 @@ Here's an example of a completed section:
 
 ## Key Takeaway
 
-Your User Manual isn't about demanding special treatment—it's about transparent communication. You're giving others the cheat code to successful collaboration with you. That's not selfish; it's professional.
+Your User Manual isn't about demanding special treatment. It's about transparent communication. You're giving others the cheat code to successful collaboration with you. That's not selfish; it's professional.
 
 ---
 

@@ -233,7 +233,7 @@ Yes, building your career requires sacrifice. But don't sacrifice the people who
 
 You don't need to be perfect at relationships. You just need to show up consistently, communicate honestly, and remember that the people who really care about you will understand your journey.
 
-And if someone doesn't? That's information too. Not everyone is meant to come with you to the next level. That's not failure—that's growth. 💝
+And if someone doesn't? That's information too. Not everyone is meant to come with you to the next level. That's not failure - that's growth. 💝
 
 ---
 

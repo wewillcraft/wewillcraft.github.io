@@ -107,7 +107,7 @@ That's it! You've just identified your learning superpower.
 
 You might be thinking, "But what if I'm a mix of styles?" Great question! Most people are. The key is knowing your PRIMARY style so you can lean into it when learning gets tough.
 
-Also, your learning style might be different from what school taught you. That's totally normal. You're not broken—you just haven't been learning in your native language.
+Also, your learning style might be different from what school taught you. That's totally normal. You're not broken. You just haven't been learning in your native language.
 
 ## Today's Takeaway
 

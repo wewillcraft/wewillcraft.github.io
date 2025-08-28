@@ -11,7 +11,7 @@ objectives:
 
 # Learning As a Lifestyle
 
-*Remember Week 1 when everything felt overwhelming? Look at you now—you've been learning consistently for 14 weeks. That's not luck, that's a skill you've developed.*
+*Remember Week 1 when everything felt overwhelming? Look at you now - you've been learning consistently for 14 weeks. That's not luck, that's a skill you've developed.*
 
 Here's the beautiful truth: you don't need to learn everything, just the right things. And you definitely don't need to learn them all at once.
 
@@ -19,7 +19,7 @@ Here's the beautiful truth: you don't need to learn everything, just the right t
 
 The tech world loves to talk about "staying current" and "keeping up," but honestly? That's exhausting and impossible. 
 
-What we're building instead is **learning as lifestyle**—a gentle, sustainable way to grow that doesn't burn you out or make you feel behind.
+What we're building instead is **learning as lifestyle** - a gentle, sustainable way to grow that doesn't burn you out or make you feel behind.
 
 Think of it like physical fitness. You don't go to the gym once and expect to be fit forever. But you also don't need to run a marathon every day. You need something you can do consistently over time.
 
@@ -61,7 +61,7 @@ What energizes your learning: _____
 ### Your Learning Environment
 
 **When do you learn best?**
-- Time of day: _____ (be honest—are you a morning learner or night owl?)
+- Time of day: _____ (be honest - are you a morning learner or night owl?)
 - Sweet spot duration: _____ minutes (start with 15-20, not 2 hours)
 - How often feels sustainable: _____ times per week
 - Where you focus best: _____ (kitchen table? coffee shop? couch?)
@@ -409,7 +409,7 @@ Example: "When I finish my morning coffee, I will read one dev article for 10 mi
 
 ## Remember This
 
-You've already proven you can learn consistently—you just spent 14 weeks doing it! 
+You've already proven you can learn consistently - you just spent 14 weeks doing it! 
 
 Learning as a lifestyle isn't about cramming more information into your brain. It's about staying curious, building things, and sharing what you discover along the way.
 

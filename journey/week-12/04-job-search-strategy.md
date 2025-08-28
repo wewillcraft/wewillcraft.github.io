@@ -30,7 +30,7 @@ Before we dive into strategy, let's address the elephant in the room:
 
 The difference between people who get hired and people who don't? The ones who get hired apply anyway, reach out anyway, show up anyway.
 
-Your imposter syndrome is not a bug—it's a feature. It means you're pushing yourself into growth territory. Good.
+Your imposter syndrome is not a bug - it's a feature. It means you're pushing yourself into growth territory. Good.
 
 ## The 10-10-10 Strategy
 

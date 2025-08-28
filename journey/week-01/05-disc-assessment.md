@@ -225,5 +225,5 @@ Remember: You can flex your style based on the situation.
 
 ## Key Takeaway
 
-DISC isn't about personality—it's about behavior. And behavior can be adapted. Now you know your default communication style AND how to speak the language of others. Use this superpower wisely.
+DISC isn't about personality. It's about behavior. And behavior can be adapted. Now you know your default communication style AND how to speak the language of others. Use this superpower wisely.
 

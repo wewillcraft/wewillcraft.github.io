@@ -8,7 +8,7 @@ estimated_time: 8-10 hours total
 
 ## Core Truth
 
-**Your network is your net worth—but only if it's built on authentic relationships.**
+**Your network is your net worth, but only if it's built on authentic relationships.**
 
 Networking isn't about collecting business cards or LinkedIn connections. It's about building genuine relationships with people who share your interests, values, and professional goals.
 
@@ -211,7 +211,7 @@ By Sunday evening, you'll have created:
 
 ## Life Lesson for Career Growth
 
-> "Your network is not just who you know—it's who knows what you're capable of." - Reid Hoffman
+> "Your network is not just who you know. It's who knows what you're capable of." - Reid Hoffman
 
 The relationships you build in your twenties will open doors throughout your career. Invest in people, not just skills.
 
@@ -237,4 +237,4 @@ The relationships you build in your twenties will open doors throughout your car
 
 ---
 
-_Remember: Networking is not about using people—it's about building mutually beneficial relationships. Focus on how you can help others, and help will come back to you._
+_Remember: Networking is not about using people. It's about building mutually beneficial relationships. Focus on how you can help others, and help will come back to you._

@@ -12,7 +12,7 @@ estimated_time: 15-20 min/day
 
 ## Hey there, friend! 👋
 
-Welcome to Week 1! This week isn't about fixing anything or becoming someone else. It's about discovering who you already are—because honestly? You're pretty awesome, and we just need to figure out how to work WITH your natural wiring instead of against it.
+Welcome to Week 1! This week isn't about fixing anything or becoming someone else. It's about discovering who you already are. Because honestly? You're pretty awesome, and we just need to figure out how to work WITH your natural wiring instead of against it.
 
 Think of this week like finally reading the user manual for yourself. You know when you get a new gadget and you try to figure it out without the instructions? That's what most of us do with our lives. This week, we're changing that.
 
@@ -20,7 +20,7 @@ Think of this week like finally reading the user manual for yourself. You know w
 
 **You can't level up if you don't know your starting stats.**
 
-Imagine playing a video game where you don't know if you're a warrior, mage, or healer. You'd probably make some pretty bad choices, right? Same with life. When you understand your personality type, suddenly everything clicks—why certain tasks drain you, why some people are easy to work with, and why generic productivity advice never seems to stick.
+Imagine playing a video game where you don't know if you're a warrior, mage, or healer. You'd probably make some pretty bad choices, right? Same with life. When you understand your personality type, suddenly everything clicks: why certain tasks drain you, why some people are easy to work with, and why generic productivity advice never seems to stick.
 
 ## This Week's Adventure
 
@@ -37,7 +37,7 @@ Discover how your brain prefers to work. Are you more like a careful architect o
 ### Day 3: [What Drives You (Enneagram)](./03-enneagram-assessment)
 *Time: 20 minutes*
 
-This one's about your core motivations—what really makes you tick deep down. Spoiler: It's probably not what you think.
+This one's about your core motivations. What really makes you tick deep down. Spoiler: It's probably not what you think.
 
 ### Day 4: [Your Natural Superpowers (Strengths)](./04-strengthsfinder)
 *Time: 20 minutes*
@@ -52,7 +52,7 @@ Quick assessment on your communication and work style. Super practical for under
 ### Day 6: [Making Sense of It All](./06-synthesis-session)
 *Time: 20 minutes*
 
-We'll connect all the dots and create your personal "User Manual"—a cheat sheet for working with your natural design.
+We'll connect all the dots and create your personal "User Manual": a cheat sheet for working with your natural design.
 
 ### Day 7: [Your Personalized Playbook](./07-create-playbook)
 *Time: 15 minutes*
@@ -70,7 +70,7 @@ By Sunday night, you'll have:
 
 ## Real Talk 💬
 
-Look, we know personality tests can feel a bit like horoscopes sometimes. But here's the thing—we're not using these to put you in a box. We're using them to understand your default settings so you can work WITH them, not against them.
+Look, we know personality tests can feel a bit like horoscopes sometimes. But here's the thing: we're not using these to put you in a box. We're using them to understand your default settings so you can work WITH them, not against them.
 
 It's like knowing if you're a morning person or night owl. You CAN force yourself to be the opposite, but why make life harder than it needs to be?
 
@@ -78,7 +78,7 @@ It's like knowing if you're a morning person or night owl. You CAN force yoursel
 
 **Morning (5 min)**: Quick check-in with yourself. How's your energy? What feels important today?
 
-**Main Session (15-20 min)**: Complete that day's assessment or exercise. Be honest—there are no wrong answers.
+**Main Session (15-20 min)**: Complete that day's assessment or exercise. Be honest. There are no wrong answers.
 
 **Evening (2 min)**: Jot down one insight that surprised you. Just one. We're keeping this simple.
 
@@ -113,5 +113,5 @@ Remember: You're not behind. You're not too late. You're exactly where you need 
 
 ## Questions?
 
-Drop them in our community space or journal them for reflection. Every question is worth exploring—they're often where the biggest breakthroughs hide.
+Drop them in our community space or journal them for reflection. Every question is worth exploring. They're often where the biggest breakthroughs hide.
 

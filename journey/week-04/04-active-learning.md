@@ -70,7 +70,7 @@ Active learning feels harder because it IS harder. Your brain has to work instea
 
 Don't worry if you feel slow at first. You're building thinking muscles, not just collecting information. Quality over quantity, always.
 
-Also, you don't have to actively learn everything. Save it for the important stuff—concepts you'll use regularly or topics that really matter for your goals.
+Also, you don't have to actively learn everything. Save it for the important stuff: concepts you'll use regularly or topics that really matter for your goals.
 
 ## Today's Takeaway
 

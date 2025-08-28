@@ -11,11 +11,11 @@ objectives:
 
 ## Hey friend! 👋
 
-Today we're going on a little trip down memory lane. Not to get stuck in the past, but to find the gold hidden in your story. Because here's the thing—your life has been teaching you what works for you all along. We just need to connect the dots.
+Today we're going on a little trip down memory lane. Not to get stuck in the past, but to find the gold hidden in your story. Because here's the thing: your life has been teaching you what works for you all along. We just need to connect the dots.
 
 ## Today's Big Idea 💡
 
-**Your peaks and valleys aren't random—they're clues to what makes you come alive.**
+**Your peaks and valleys aren't random. They're clues to what makes you come alive.**
 
 Think of your life like a video game where you've been collecting data points. Every high moment shows you what to pursue. Every low moment shows you what to avoid. Today, we decode that data.
 
@@ -27,7 +27,7 @@ Ever notice how some people thrive in chaos while others need calm? Or how some 
 
 ### Part 1: Draw Your Lifeline (10 minutes)
 
-Grab a piece of paper (or use your phone's drawing app). Draw a simple line across the page—this is your life from birth to now.
+Grab a piece of paper (or use your phone's drawing app). Draw a simple line across the page. This is your life from birth to now.
 
 **Above the line**: Mark your peaks (the good times)
 **Below the line**: Mark your valleys (the tough times)
@@ -77,7 +77,7 @@ Write it down and do it this week.
 
 ## Real Talk 💬
 
-Looking at your valleys might bring up some feelings. That's okay. Those tough times? They weren't failures—they were teachers. Every valley taught you something about what you need to thrive.
+Looking at your valleys might bring up some feelings. That's okay. Those tough times? They weren't failures. They were teachers. Every valley taught you something about what you need to thrive.
 
 And here's what's beautiful: You survived every single valley. You're here, reading this, ready to grow. That's not small. That's warrior stuff right there.
 
@@ -91,7 +91,7 @@ If you work in tech, also notice:
 - When did you feel most proud of your work?
 - What environments helped you do your best work?
 
-These aren't just preferences—they're requirements for your best work.
+These aren't just preferences. They're requirements for your best work.
 
 ## Going Deeper (Optional)
 

@@ -15,7 +15,7 @@ Had any good failures lately? I know, I know—that sounds weird. But in the cod
 
 ## Today's Big Idea 💡
 
-**Failures aren't obstacles to learning—they're the express lane to expertise.**
+**Failures aren't obstacles to learning. They're the express lane to expertise.**
 
 Think about it: when your code works perfectly on the first try, you learn almost nothing. But when it breaks in weird ways? That's when you discover how things actually work, not just how they're supposed to work.
 
@@ -82,7 +82,7 @@ Your "failures" are actually your curriculum.
 
 ## Real Talk 💬
 
-It's hard to see failures as learning opportunities when you're frustrated or on a deadline. That's normal. The goal isn't to celebrate every bug—it's to extract value once you've solved it.
+It's hard to see failures as learning opportunities when you're frustrated or on a deadline. That's normal. The goal isn't to celebrate every bug. It's to extract value once you've solved it.
 
 Also, don't try to learn from every tiny mistake. Focus on the ones that:
 - Took you more than 20 minutes to solve

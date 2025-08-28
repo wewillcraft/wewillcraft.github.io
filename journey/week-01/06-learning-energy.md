@@ -103,7 +103,7 @@ Stop trying to force your brain into someone else's productivity system. Design 
 - Hackathons and challenges
 - Trial and error
 
-**Study hack:** Don't just read about it—build it. Start with tiny prototypes.
+**Study hack:** Don't just read about it. Build it. Start with tiny prototypes.
 
 ## Part 2: Chronotype - When You Peak (15 minutes)
 
@@ -303,5 +303,5 @@ Combine all three for maximum impact:
 
 ## Key Takeaway
 
-You're not lazy when you struggle at 9 AM if you're an owl. You're not antisocial if you need quiet to learn. You're not needy if you thrive on collaboration. You're just working against your nature. Now you know better—work WITH yourself, not against yourself.
+You're not lazy when you struggle at 9 AM if you're an owl. You're not antisocial if you need quiet to learn. You're not needy if you thrive on collaboration. You're just working against your nature. Now you know better: work WITH yourself, not against yourself.
 

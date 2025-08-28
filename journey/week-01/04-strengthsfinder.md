@@ -379,5 +379,5 @@ Consider:
 
 ## Key Takeaway
 
-You don't have to be well-rounded. The best developers lean into their strengths and manage around their weaknesses. Now you know your natural talents—time to develop them into world-class strengths.
+You don't have to be well-rounded. The best developers lean into their strengths and manage around their weaknesses. Now you know your natural talents. Time to develop them into world-class strengths.
 

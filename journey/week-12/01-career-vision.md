@@ -1,7 +1,7 @@
 ---
 title: "Your Next Chapter (Not Your Whole Book)"
 description: "Create a career vision that's actually achievable and doesn't stress you out"
-excerpt: "Forget the 10-year plan—let's focus on where you want to be in 1-2 years and build from there."
+excerpt: "Forget the 10-year plan - let's focus on where you want to be in 1-2 years and build from there."
 objectives:
   - "Create a realistic 1-2 year career vision that excites you"
   - "Identify what actually matters to you right now (not forever)"

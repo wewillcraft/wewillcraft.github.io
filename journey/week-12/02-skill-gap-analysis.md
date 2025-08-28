@@ -8,13 +8,13 @@ objectives:
   - "Find free resources to start learning today"
 ---
 
-## It's Not What You Lack—It's What You're About to Learn
+## It's Not What You Lack - It's What You're About to Learn
 
 Let's flip the script on "skill gaps."
 
 Every skill you don't have yet? That's not a deficit. That's potential. That's room to grow. That's what makes the next year exciting instead of terrifying.
 
-Today we're going to figure out what skills would make the biggest difference for you—and I promise we're only picking THREE. Because trying to learn everything at once is how you learn nothing at all.
+Today we're going to figure out what skills would make the biggest difference for you - and I promise we're only picking THREE. Because trying to learn everything at once is how you learn nothing at all.
 
 ## Your Current Toolkit (It's Better Than You Think)
 
@@ -66,7 +66,7 @@ Which of these do you want to level up? Pick one from each category.
 
 ## Your Personal Growth Spots
 
-Let's find YOUR specific opportunities. Not what everyone says you should learn—what would actually help YOU.
+Let's find YOUR specific opportunities. Not what everyone says you should learn - what would actually help YOU.
 
 ### The Excitement Test
 
@@ -84,7 +84,7 @@ What skills make you think "That would be so cool to know"?
 
 ### The Practical Test
 
-Look at 3 job postings you're interested in (not qualified for—interested in).
+Look at 3 job postings you're interested in (not qualified for - interested in).
 
 **Skill that appears in all 3:**
 1. ___________
@@ -225,7 +225,7 @@ Here's what changes everything:
 **Instead of:** "Everyone knows more than me"  
 **Think:** "Everyone started where I am"
 
-That little word—"yet"—changes everything.
+That little word - "yet" - changes everything.
 
 ## Remember This
 
