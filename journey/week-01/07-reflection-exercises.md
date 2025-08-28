@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-We've spent the week discovering different parts of yourself. Today we're connecting all those pieces into one clear picture of who you are and how you work best.
+We've spent the week discovering different parts of yourself. In this lesson we're connecting all those pieces into one clear picture of who you are and how you work best.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 You're not a collection of random traits - you're a beautifully designed system with consistent patterns. When you see these patterns clearly, you can leverage them intentionally.
 
@@ -96,7 +96,7 @@ Based on your patterns, complete these sentences:
 **"I bring unique value through..."**
 (What's your special contribution to any team or project?)
 
-## Today's Takeaway
+## Key Takeaway
 
 You're not random. You're not broken. You're not "too much" or "not enough." You're a unique combination of strengths, motivations, and preferences that the world needs exactly as you are. 🎯
 
@@ -328,7 +328,7 @@ Write a single statement that captures who you are becoming:
 
 ## Integration Commitment
 
-Choose ONE insight from today to implement tomorrow:
+Choose ONE insight from in this lesson to implement tomorrow:
 
 **The Insight:**
 

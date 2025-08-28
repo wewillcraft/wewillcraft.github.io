@@ -188,8 +188,8 @@ Most of your leadership will happen without formal power. Here's how:
 
 ## Your Daily Leadership Practice
 
-**Morning question:** "How will I lead today?"
-**Evening reflection:** "How did I influence others today?"
+**Morning question:** "How will I lead in this lesson?"
+**Evening reflection:** "How did I influence others in this lesson?"
 
 ### This Week's Leadership Challenge
 

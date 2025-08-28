@@ -32,11 +32,11 @@ Both are valid. Stop trying to be the other one.
 
 ### For Standups
 
-The magic formula: **Yesterday + Today + Blockers**
+The magic formula: **Yesterday + in this lesson + Blockers**
 
 ```
 "Yesterday I fixed the auth bug.
-Today I'm starting the payment integration.
+in this lesson I'm starting the payment integration.
 No blockers, but I might need Sarah's help later."
 ```
 

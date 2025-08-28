@@ -7,9 +7,9 @@ excerpt: "Discover your focus patterns with simple tracking that actually helps 
 
 Hey friend! 👋
 
-Congratulations! You've completed a full week of focus and deep work fundamentals. Today we're adding one final skill: tracking your progress. Don't worry - this isn't about obsessing over numbers. It's about understanding your patterns so you can work WITH your brain's natural rhythms.
+Congratulations! You've completed a full week of focus and deep work fundamentals. In this lesson we're adding one final skill: tracking your progress. Don't worry - this isn't about obsessing over numbers. It's about understanding your patterns so you can work WITH your brain's natural rhythms.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 The most powerful focus improvements come from understanding your personal patterns - when, where, and how your best focus happens naturally.
 
@@ -31,7 +31,7 @@ Create a note called "Focus Wins" and track:
 - Brief note about what helped
 
 **Option B: Quick Daily Check-in**
-Each evening, rate today on these 3 things (1-10):
+Each evening, rate in this lesson on these 3 things (1-10):
 
 - Overall focus quality
 - Energy level while working
@@ -44,8 +44,8 @@ Every Friday, ask yourself:
 - What was different about that time/place/feeling?
 - What consistently pulled my attention away?
 
-**Step 2: Start Tracking Today (2 minutes)**
-Set up your chosen method right now and track your first data point from today's work.
+**Step 2: Start Tracking in this lesson (2 minutes)**
+Set up your chosen method right now and track your first data point from in this lesson's work.
 
 **Step 3: Look for One Pattern (8 minutes)**
 If you've been doing the Week 5 exercises, reflect on what you've noticed:
@@ -59,13 +59,13 @@ Based on any patterns you've noticed, schedule ONE focus session for tomorrow at
 
 ## Quick Win ✅
 
-For the next 3 days, simply notice and jot down ONE thing each day: "When was I most focused today and what was I doing?" This is the beginning of understanding your natural focus patterns.
+For the next 3 days, simply notice and jot down ONE thing each day: "When was I most focused in this lesson and what was I doing?" This is the beginning of understanding your natural focus patterns.
 
 ## Real Talk 💬
 
 Tracking can feel overwhelming or obsessive if you make it complicated. The goal isn't to become a data scientist of your own attention - it's to notice a few simple patterns that help you be more kind to your brain. Good tracking feels like gentle curiosity, not harsh judgment. Start small, stay curious, and let the insights guide you naturally.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your brain has natural rhythms and preferences - simple tracking helps you discover and work with them instead of fighting against them.
 

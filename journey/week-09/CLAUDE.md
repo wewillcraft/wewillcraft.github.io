@@ -1,9 +1,11 @@
 # Week 9: Communication - Style Guide
 
 ## Week Overview
+
 Week 9 focuses on communication skills - the hidden superpower in tech. This week addresses both technical and interpersonal communication with warmth and practical guidance.
 
 ## Specific Tone for This Week
+
 - **Approachable**: Communication anxiety is normal
 - **Practical**: Scripts and templates
 - **Inclusive**: All communication styles valid
@@ -12,48 +14,56 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 ## Lesson-by-Lesson Guidelines
 
 ### Lesson 1: Communication Assessment (01-communication-assessment.md)
+
 - Understanding your style
 - Strengths and gaps
 - Communication personality
 - "Your style has value"
 
 ### Lesson 2: Personality Adaptation (02-personality-adaptation.md)
+
 - Reading the room
 - Adapting without losing yourself
 - Different styles for different people
 - "Flexibility is power"
 
 ### Lesson 3: Written Communication (03-written-communication.md)
+
 - Emails that get read
 - Slack that works
 - Documentation skills
 - "Clear writing = clear thinking"
 
 ### Lesson 4: Verbal Communication (04-verbal-communication.md)
+
 - Meetings without fear
 - Presentations made simple
 - Speaking up strategies
 - "Your voice matters"
 
 ### Lesson 5: Difficult Conversations (05-difficult-conversations.md)
+
 - Conflict without drama
 - Feedback conversations
 - Boundary discussions
 - "Hard conversations = growth"
 
 ### Lesson 6: Feedback Skills (06-feedback-skills.md)
+
 - Giving without hurting
 - Receiving without defending
 - Growth mindset
 - "Feedback is data"
 
 ### Lesson 7: Networking (07-networking.md)
+
 - Networking for introverts
 - Online networking
 - Authentic connections
 - "Networking = making friends"
 
 ### Lesson 8: Communication Practice (08-communication-practice.md)
+
 - Real scenarios
 - Role playing
 - Confidence building
@@ -62,6 +72,7 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 ## Key Messages for Week 9
 
 ### Core Messages:
+
 - "Communication is learnable"
 - "Different styles are valid"
 - "Clarity over cleverness"
@@ -69,6 +80,7 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 - "Authenticity wins"
 
 ### Communication Truths:
+
 - Everyone fears public speaking
 - Written can be easier
 - Async has advantages
@@ -78,6 +90,7 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 ## Examples to Use
 
 ### Good Examples:
+
 - Stand-up updates
 - Code review comments
 - Slack threading
@@ -85,6 +98,7 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 - Email templates
 
 ### Avoid:
+
 - Aggressive communication
 - Passive aggression
 - Over-apologizing
@@ -94,6 +108,7 @@ Week 9 focuses on communication skills - the hidden superpower in tech. This wee
 ## Exercises for This Week
 
 Communication practice:
+
 - Write one clear email
 - Speak up in one meeting
 - Give one feedback
@@ -103,6 +118,7 @@ Communication practice:
 ## Language Specific to Communication
 
 ### Instead of:
+
 - "As I said before..." → "To clarify..."
 - "Obviously..." → "In my experience..."
 - "You should..." → "Have you considered..."
@@ -112,6 +128,7 @@ Communication practice:
 ## Writing Style Notes
 
 ### Avoid Em Dashes
+
 - **NO EM DASHES (—)**: They sound too AI-written
 - Use shorter sentences instead
 - Or use commas for quick asides
@@ -122,18 +139,21 @@ Communication practice:
 ## Common Communication Anxieties
 
 ### For Introverts:
+
 - Written first is fine
 - Preparation helps
 - Small groups work
 - "Introversion is strength"
 
 ### For ESL Speakers:
+
 - Accent is not a problem
 - Clarity over perfection
 - Ask for clarification
 - "Your perspective is valuable"
 
 ### For Junior Developers:
+
 - Questions show engagement
 - "Stupid" questions don't exist
 - Speaking up is learning
@@ -149,6 +169,7 @@ Communication practice:
 ## Success Metrics
 
 Students should finish Week 9 with:
+
 1. Communication style awareness
 2. Email/Slack templates
 3. One difficult conversation done
@@ -158,6 +179,7 @@ Students should finish Week 9 with:
 ## Communication Scenarios
 
 ### Provide Examples:
+
 - Asking for help
 - Disagreeing respectfully
 - Admitting mistakes
@@ -167,6 +189,7 @@ Students should finish Week 9 with:
 ## Inclusive Communication
 
 ### Address:
+
 - Gender dynamics
 - Cultural differences
 - Power dynamics
@@ -174,6 +197,7 @@ Students should finish Week 9 with:
 - Neurodiversity
 
 ### Promote:
+
 - Inclusive language
 - Patient listening
 - Clear expression
@@ -183,6 +207,7 @@ Students should finish Week 9 with:
 ## Remember
 
 Week 9 is about:
+
 - Building confidence
 - Practical skills
 - Authentic expression
@@ -194,6 +219,7 @@ Every lesson should convey: "Your voice deserves to be heard."
 ## Frontmatter Requirements
 
 For all lesson files in this week, use these required frontmatter fields:
+
 - `title`: The lesson title
 - `description`: Brief description of the lesson
 - `excerpt`: Summary for listing pages
@@ -205,13 +231,15 @@ For all lesson files in this week, use these required frontmatter fields:
 ## Navigation Requirements
 
 Every lesson file MUST include navigation links at the end:
+
 - Previous lesson link (if applicable)
-- Next lesson link (if applicable) 
+- Next lesson link (if applicable)
 - Back to Week Overview link
 
 Use full relative paths like `/journey/week-09/02-communication-basics/` for all navigation links.
 
 Example navigation section:
+
 ```markdown
 ---
 

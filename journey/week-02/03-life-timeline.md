@@ -11,13 +11,13 @@ objectives:
 
 ## Hey friend! 👋
 
-Today we're going on a little trip down memory lane. Not to get stuck in the past, but to find the gold hidden in your story. Because here's the thing: your life has been teaching you what works for you all along. We just need to connect the dots.
+In this lesson we're going on a little trip down memory lane. Not to get stuck in the past, but to find the gold hidden in your story. Because here's the thing: your life has been teaching you what works for you all along. We just need to connect the dots.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your peaks and valleys aren't random. They're clues to what makes you come alive.**
 
-Think of your life like a video game where you've been collecting data points. Every high moment shows you what to pursue. Every low moment shows you what to avoid. Today, we decode that data.
+Think of your life like a video game where you've been collecting data points. Every high moment shows you what to pursue. Every low moment shows you what to avoid. in this lesson, we decode that data.
 
 ## Why This Matters
 
@@ -63,7 +63,7 @@ Now look at your valleys:
 - Were your values being stepped on?
 - Were you trying to be someone you're not?
 
-### Part 3: Connect to Today (3 minutes)
+### Part 3: Connect to in this lesson (3 minutes)
 
 Write down:
 
@@ -113,7 +113,7 @@ Remember: Your timeline isn't finished. You're literally writing the next chapte
 
 What if your next peak could be your highest one yet? What if you now know exactly what ingredients you need to create it?
 
-## Today's Takeaway
+## Key Takeaway
 
 Your life has been teaching you what works for YOU all along. The peaks show you what to pursue. The valleys show you what to avoid. Now you have the map.
 

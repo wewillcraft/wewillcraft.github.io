@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-Today we're shifting gears from understanding your mind and motivations to discovering what you're naturally amazing at. Think of it as finding your built-in superpowers!
+In this lesson we're shifting gears from understanding your mind and motivations to discovering what you're naturally amazing at. Think of it as finding your built-in superpowers!
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 You have natural talents - things that feel easy to you but hard to others. Instead of trying to be good at everything, what if you focused on being exceptional at what comes naturally?
 
@@ -77,7 +77,7 @@ Don't waste time trying to be well-rounded. The world needs your unique combinat
 
 **Invest in your talents:** This is where you'll get the biggest return on your time.
 
-## Today's Takeaway
+## Key Takeaway
 
 You're not here to be good at everything. You're here to be extraordinary at the things that come naturally to you. The world needs YOUR unique combination of talents! 🎯
 

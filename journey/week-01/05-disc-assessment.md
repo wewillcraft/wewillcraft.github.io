@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-So far we've explored your thinking style and motivations. Today we're looking at how you naturally show up when you're with other people. Think of it as your communication DNA!
+So far we've explored your thinking style and motivations. In this lesson we're looking at how you naturally show up when you're with other people. Think of it as your communication DNA!
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Your DISC style shows how you naturally communicate and work with others. Understanding this helps you connect better with teammates and explains why some people just "click" while others feel harder to work with.
 
@@ -83,7 +83,7 @@ No style is better than another. We need all types to build great things togethe
 
 **If you're high C:** Others might see you as critical. Practice highlighting what's working before suggesting improvements.
 
-## Today's Takeaway
+## Key Takeaway
 
 There's no wrong way to be human. Understanding your communication style helps you connect authentically with others while being true to yourself. 🎯
 

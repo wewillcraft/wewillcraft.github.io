@@ -206,7 +206,7 @@ Pick THREE to start this week:
 □ Book that counseling appointment
 □ Close laptop by midnight tonight
 
-Do the easiest one first. Today.
+Do the easiest one first. in this lesson.
 
 ## The Energy Management System
 

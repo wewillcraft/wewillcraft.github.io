@@ -9,7 +9,7 @@ excerpt: Set workplace limits that advance your career.
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Professional boundaries aren't career limiters—they're career enablers. They help you focus on high-impact work, build respect with colleagues, and avoid the burnout that derails promising careers. The most successful professionals aren't those who say yes to everything; they're those who say yes to the right things.
 
@@ -101,6 +101,6 @@ The people who push back on your professional boundaries are often those who ben
 
 Remember: you teach people how to treat you professionally. If you always say yes, they'll always ask.
 
-## Today's Takeaway
+## Key Takeaway
 
 Strong professional boundaries don't limit your career—they focus it. When you're clear about your role, standards, and priorities, you can excel at what matters most while building the reputation and skills that lead to advancement.

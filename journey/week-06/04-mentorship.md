@@ -10,7 +10,7 @@ week: 6
 
 Ever feel like you're reinventing the wheel with every problem? Let's talk about finding mentors—people who've already solved the problems you're facing and are willing to share their shortcuts.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Mentorship isn't about finding a guru. It's about building relationships with people who can share specific knowledge when you need it.**
 
@@ -124,7 +124,7 @@ Thank you for considering,
 [Your name]
 ```
 
-## Today's Takeaway
+## Key Takeaway
 
 Mentorship is about mutual value, not one-way knowledge transfer. Start small, be specific about your ask, and remember that helping others often helps you more than being helped.
 

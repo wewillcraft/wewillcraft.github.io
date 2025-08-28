@@ -14,7 +14,7 @@ Five-year plans are fantasy. The job you'll have in 5 years might not exist yet.
 
 But 90 days? That's real. That's actionable. That's enough time to make real progress without the pressure of predicting your entire future.
 
-Today we're creating a roadmap that actually works: focused, flexible, and forgiving.
+In this lesson we're creating a roadmap that actually works: focused, flexible, and forgiving.
 
 ## First, Celebrate How Far You've Come
 
@@ -202,7 +202,7 @@ You don't do this alone. Who's on your team?
 - Who: ___________
 - How they help: ___________
 
-Reach out to one of them today.
+Reach out to one of them in this lesson.
 
 ## Tracking Without Obsessing
 

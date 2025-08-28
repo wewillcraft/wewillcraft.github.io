@@ -39,7 +39,7 @@ You've earned this celebration.
 - Financial awareness: ___/10
 - Optimism about the future: ___/10
 
-**Today you are:**
+**in this lesson you are:**
 
 - Overall satisfaction with life: ___/10
 - Career confidence: ___/10

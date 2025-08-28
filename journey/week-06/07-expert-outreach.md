@@ -10,7 +10,7 @@ week: 6
 
 Want to learn from the best? Let's talk about reaching out to experts—the right way. It's not about bothering famous developers; it's about building genuine relationships where everyone wins.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **The fastest way to level up isn't grinding tutorials—it's learning from people who've already solved your problems.**
 
@@ -25,7 +25,7 @@ Experts have walked the exact path you're trying to navigate. They know:
 - Which opportunities to pursue
 - Who else you should connect with
 
-Plus, today's expert was yesterday's beginner. Most genuinely want to help when approached respectfully.
+Plus, in this lesson's expert was yesterday's beginner. Most genuinely want to help when approached respectfully.
 
 ## Your 15-Minute Mission
 
@@ -112,7 +112,7 @@ Before reaching out:
 - [ ] Know exactly what you want (time commitment, format)
 - [ ] Have researched their recent work/interests
 
-## Today's Takeaway
+## Key Takeaway
 
 Building relationships with experts isn't about using people—it's about creating mutual value. Lead with contribution, be specific about your needs, and remember that everyone started as a beginner once.
 

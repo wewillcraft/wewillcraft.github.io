@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-Congratulations! You've completed Week 1 and learned so much about yourself. Today we're creating something practical - a simple guide that helps others work with you effectively.
+Congratulations! You've completed Week 1 and learned so much about yourself. In this lesson we're creating something practical - a simple guide that helps others work with you effectively.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Just like code has documentation, you need documentation too! A personal "README" helps teammates, managers, and collaborators understand how to bring out your best work.
 
@@ -87,7 +87,7 @@ Your user manual doesn't need to be perfect or comprehensive. Start with the bas
 - What you need to succeed
 - What typically trips you up
 
-## Today's Takeaway
+## Key Takeaway
 
 You've spent this week discovering who you are at your core. Now you have the tools to communicate that clearly to others, creating better working relationships wherever you go. Well done! 🎯
 

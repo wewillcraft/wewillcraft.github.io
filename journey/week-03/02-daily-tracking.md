@@ -13,7 +13,7 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 This week you're becoming an energy detective, collecting clues about when you shine and what drains you. No judging, no fixing - just honest observation. Think of it like profiling your own energy patterns.
 
@@ -42,7 +42,7 @@ Every hour, just jot down:
 
 ### Step 3: Evening Wrap-up (3 minutes)
 
-- When did you feel most alive today?
+- When did you feel most alive in this lesson?
 - What drained you?
 - One surprise about your energy
 
@@ -67,6 +67,6 @@ I know tracking feels like extra work when you're already busy, but here's the t
 
 You're not trying to have perfect energy this week. You're just collecting clues about what makes you tick.
 
-## Today's Takeaway
+## Key Takeaway
 
 You're a scientist this week, not a judge. Every energy crash is valuable data, every peak is a clue.

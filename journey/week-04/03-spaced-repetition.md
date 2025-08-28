@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever feel like you're constantly relearning the same stuff? Like you master React hooks one week, then forget the syntax the next? Today we're fixing that with spaced repetition, the closest thing to a cheat code for your memory.
+Ever feel like you're constantly relearning the same stuff? Like you master React hooks one week, then forget the syntax the next? In this lesson we're fixing that with spaced repetition, the closest thing to a cheat code for your memory.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your brain forgets 70% of new information within 24 hours. But if you review at the right moments, you can remember it forever.**
 
@@ -48,8 +48,8 @@ The time investment? Sam spent maybe 10 extra minutes total. Alex has re-Googled
 
 **Option 2: Simple Journal Method**
 
-- Create three lists: "Review Today," "Review This Week," "Review This Month"
-- Write down one thing you learned yesterday in "Review Today"
+- Create three lists: "Review in this lesson," "Review This Week," "Review This Month"
+- Write down one thing you learned yesterday in "Review in this lesson"
 
 ### Your First Spaced Review (5 minutes)
 
@@ -80,7 +80,7 @@ It's like investing 10 minutes to save 10 hours. Pretty good ROI, right?
 
 Also, don't try to add everything to your system. Focus on the concepts you use regularly or the ones that keep tripping you up.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop letting your hard-earned knowledge slip away. A simple spaced repetition system can turn temporary learning into permanent knowledge with just a few minutes of daily review.
 

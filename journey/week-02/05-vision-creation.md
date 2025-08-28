@@ -1,6 +1,6 @@
 ---
 title: "Your Future Self Is Calling"
-excerpt: "Ready to paint a picture so vivid it literally pulls you forward? Today we're designing the future version of yourself."
+excerpt: "Ready to paint a picture so vivid it literally pulls you forward? In this lesson we're designing the future version of yourself."
 index: 5
 estimated_time: 20 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-Imagine if your future self could text you right now with the exact blueprint of who you become. Today we're creating that blueprint - a 5-year vision so clear and exciting that it makes every sacrifice worth it.
+Imagine if your future self could text you right now with the exact blueprint of who you become. In this lesson we're creating that blueprint - a 5-year vision so clear and exciting that it makes every sacrifice worth it.
 
 ## Why This Matters
 
@@ -23,7 +23,7 @@ Think about five years ago. You were probably a completely different person, rig
 
 ## Your 15-20 Minute Mission
 
-Close your eyes. It's exactly 5 years from today. You wake up on a Tuesday morning in your ideal life.
+Close your eyes. It's exactly 5 years from in this lesson. You wake up on a Tuesday morning in your ideal life.
 
 ### Step 1: Picture Your Morning (5 minutes)
 
@@ -36,7 +36,7 @@ Close your eyes. It's exactly 5 years from today. You wake up on a Tuesday morni
 
 - What's your role/title?
 - Where do you work? (Company, location, setup)
-- What problem are you solving today?
+- What problem are you solving in this lesson?
 - What technologies are you using?
 - How many people does your work impact?
 
@@ -194,9 +194,9 @@ Synthesize everything into one powerful paragraph:
 
 ## The Daily Reminder
 
-Create a single sentence that connects today to your vision:
+Create a single sentence that connects in this lesson to your vision:
 
-"Every line of code I write today is building toward **[specific element of vision]**."
+"Every line of code I write in this lesson is building toward **[specific element of vision]**."
 
 **Your daily reminder:**
 
@@ -244,6 +244,6 @@ Trust me,
 
 Notice the gap. That's your growth edge.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your vision isn't a prediction - it's a decision. Every day, you either move toward it or away from it. There's no neutral.

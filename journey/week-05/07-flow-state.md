@@ -7,9 +7,9 @@ excerpt: "Discover how to trigger that magical state where time stops and your b
 
 Hey friend! 👋
 
-You know that magical feeling when you're so absorbed in your work that hours pass like minutes? When your fingers fly across the keyboard and solutions emerge naturally? That's flow state - and it's not just random luck. Today we'll learn how to create the conditions where this peak performance happens more often.
+You know that magical feeling when you're so absorbed in your work that hours pass like minutes? When your fingers fly across the keyboard and solutions emerge naturally? That's flow state - and it's not just random luck. in this lesson we'll learn how to create the conditions where this peak performance happens more often.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Flow state isn't a mystical experience reserved for elite performers - it's a specific mental state you can learn to trigger by matching the right challenge level with your skills in an optimal environment.
 
@@ -63,6 +63,6 @@ Try the "Goldilocks Challenge" tomorrow: Pick a task that feels "just right" - c
 
 Flow isn't about forcing yourself into some peak performance zone. It's more like finding the perfect wave - the conditions have to be right, and you need to be skilled enough to ride it, but when it happens, it feels natural and effortless. Don't chase flow desperately; just create the conditions where it's more likely to show up and trust that it will.
 
-## Today's Takeaway
+## Key Takeaway
 
 Flow isn't magic - it's the natural result of matching your skills to the right challenge in an environment designed for deep focus.

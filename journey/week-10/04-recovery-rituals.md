@@ -184,7 +184,7 @@ For when you're really depleted:
 □ Listen to calming music
 □ Do something creative for 10 minutes
 □ Text someone you care about
-□ Prepare tomorrow so today can end
+□ Prepare tomorrow so in this lesson can end
 
 **Your evening recovery routine:**
 

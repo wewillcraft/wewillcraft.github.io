@@ -9,7 +9,7 @@ excerpt: Discover your current boundary patterns and identify areas for improvem
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Boundaries aren't walls that keep people out—they're bridges that allow healthy connections while protecting what matters to you. Everyone has a boundary style developed through years of experience. Understanding yours is the first step to building a professional life that works for you, not against you.
 
@@ -128,6 +128,6 @@ Also, boundaries aren't about being mean or rigid. They're about being clear and
 
 Remember: boundaries are a skill. They get easier with practice.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your boundary style shapes every aspect of your professional life. Understanding your patterns—strengths and challenges—gives you the power to make intentional changes. Strong boundaries don't limit your success; they create the foundation for sustainable excellence.

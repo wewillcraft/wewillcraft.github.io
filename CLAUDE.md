@@ -90,12 +90,14 @@ When modifying templates:
 When working with `/journey/` content, follow the comprehensive style guide at `/journey/CLAUDE.md`. Key points:
 
 ### Tone & Voice
+
 - **Warm, friendly, casual** - Like Favor Church Manila style
 - Write like talking to a younger sibling or friend
 - Use "you" and "we" frequently
 - Encouraging and supportive
 
-### Content Requirements  
+### Content Requirements
+
 - **Length**: ~200 lines per file (max 250)
 - **Time**: 20-30 minute lessons
 - **Language**: ELI5 for complex concepts
@@ -103,6 +105,7 @@ When working with `/journey/` content, follow the comprehensive style guide at `
 - **Exercises**: Quick, practical, immediately actionable
 
 ### Structure
+
 1. Opening hook (relatable problem)
 2. Core concept (one main idea)
 3. Practical application

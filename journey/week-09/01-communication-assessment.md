@@ -14,7 +14,7 @@ estimated_time: 30 minutes
 
 Ever wonder why some conversations flow like butter while others feel like pulling teeth? Or why that "simple" Slack message somehow started World War 3 in your team chat?
 
-Yeah, we're going there today.
+Yeah, we're going there in this lesson.
 
 Here's what nobody tells you about communication: **You're probably doing it wrong half the time, and that's totally normal.** The good news? Once you know your style, you can fix it.
 

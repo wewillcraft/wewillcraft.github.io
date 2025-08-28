@@ -528,7 +528,7 @@ How you'll honor completing the full journey:
 
 **Imagine it's Day 100. What's your story?**
 
-"Today marks 100 days since I finished that 14-week journey. I can't believe what I've accomplished. I have _____, developed _____, and become _____. The person who started this would be so proud to see that I _____. The biggest surprise was _____. I'm now ready to _____."
+"in this lesson marks 100 days since I finished that 14-week journey. I can't believe what I've accomplished. I have _____, developed _____, and become _____. The person who started this would be so proud to see that I _____. The biggest surprise was _____. I'm now ready to _____."
 
 ### What's Next After 100 Days
 

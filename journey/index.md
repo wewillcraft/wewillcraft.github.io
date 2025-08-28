@@ -101,17 +101,17 @@ Create a concrete action plan for your future. Set up systems for continued grow
 - **8+ assessment tools** - Deep, multi-dimensional self-knowledge
 - **Customized strategies** - Every technique adapted to YOUR type
 - **Daily practical application** - Theory meets real-world practice
-- **Built by developers** - Understanding the unique challenges we face
+- **Real-world focused** - Understanding the challenges young professionals face
 - **Holistic approach** - Address the whole person, not just coding skills
 
 ## Perfect For
 
-- Young developers feeling overwhelmed by career choices
-- Self-taught programmers seeking structure and direction
+- College students feeling overwhelmed by future choices
+- Young professionals seeking structure and direction
 - Anyone struggling with impostor syndrome
 - People who've tried generic productivity systems that didn't stick
-- Developers wanting work-life integration (not just balance)
-- Those ready to build a sustainable, meaningful career
+- Those wanting work-life integration (not just balance)
+- Anyone ready to build a sustainable, meaningful life and career
 
 ## What You'll Discover
 

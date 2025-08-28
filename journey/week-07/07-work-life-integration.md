@@ -10,7 +10,7 @@ week: 7
 
 Forget work-life balance—that implies constant struggle between opposing forces. Let's talk about work-life integration: designing a life where coding fuels you instead of draining you.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Work-life balance is a myth. Work-life integration is a skill. Design a life where both work and personal time contribute to who you want to become.**
 
@@ -106,7 +106,7 @@ Which sounds most like you?
 3. What will you do in the first 30 minutes after work?
 4. How will you protect this time from work creep?
 
-Try this ritual today.
+Try this ritual in this lesson.
 
 ## Real Talk 💬
 
@@ -142,13 +142,13 @@ Scores below 7 need attention.
 
 When work is taking over everything:
 
-1. **Set a hard stop time** for today and stick to it
+1. **Set a hard stop time** for in this lesson and stick to it
 2. **Turn off all work notifications** after that time
 3. **Do something purely for enjoyment**
 4. **Connect with someone who isn't a developer**
 5. **Plan one non-tech activity** for this weekend
 
-## Today's Takeaway
+## Key Takeaway
 
 Integration isn't about perfect balance—it's about intentional design. Create rituals that help you transition between work and personal time, protect space for relationships and recovery, and remember that your life outside of code makes you a better developer, not a distracted one.
 

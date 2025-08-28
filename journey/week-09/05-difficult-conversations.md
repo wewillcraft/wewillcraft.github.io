@@ -14,7 +14,7 @@ estimated_time: 30 minutes
 
 You know the ones. That coworker who takes credit for your work. The code review that got personal. The manager who keeps changing requirements. The teammate who... doesn't actually do any work.
 
-We need to talk about them. Today, we learn how.
+We need to talk about them. in this lesson, we learn how.
 
 ## Why We Avoid Conflict
 

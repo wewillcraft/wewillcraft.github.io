@@ -1,6 +1,6 @@
 ---
 title: "Your Code, Your Calling"
-excerpt: "Ever wonder why you chose to code in the first place? Today we're discovering the specific problems you're meant to solve and the developer you're meant to become."
+excerpt: "Ever wonder why you chose to code in the first place? In this lesson we're discovering the specific problems you're meant to solve and the developer you're meant to become."
 index: 6
 estimated_time: 15 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-There's a reason you were drawn to programming. Maybe it was the power to create, the thrill of solving puzzles, or the desire to make life better for people. Today we're uncovering your unique technical calling - the specific problems you're meant to solve with code.
+There's a reason you were drawn to programming. Maybe it was the power to create, the thrill of solving puzzles, or the desire to make life better for people. In this lesson we're uncovering your unique technical calling - the specific problems you're meant to solve with code.
 
 ## Why This Matters
 
@@ -62,6 +62,6 @@ Here's what I've noticed about developers who love their work: they've found the
 
 Your calling might evolve. That's totally normal. The goal isn't to get it perfect; it's to get clear on what direction to start walking.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your technical calling isn't about the language you use - it's about the dent you want to make in the universe with code.

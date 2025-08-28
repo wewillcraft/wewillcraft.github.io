@@ -7,9 +7,9 @@ excerpt: "Create a custom productivity system that works with your natural rhyth
 
 Hey friend! 👋
 
-You know those cookie-cutter productivity systems that work for your friend but leave you feeling frustrated? Today we're throwing out the rigid rules and creating a focus system that actually fits YOU - your energy, your brain, your life.
+You know those cookie-cutter productivity systems that work for your friend but leave you feeling frustrated? In this lesson we're throwing out the rigid rules and creating a focus system that actually fits YOU - your energy, your brain, your life.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 The most powerful productivity system isn't the most popular one - it's the one designed specifically for how your brain naturally works and when your energy peaks and dips.
 
@@ -28,7 +28,7 @@ Think about these questions:
 - What activities help you feel refreshed during breaks?
 
 **Step 2: Test Your Personal Formula (10 minutes)**
-Try this experiment today:
+Try this experiment in this lesson:
 
 1. Pick a task that requires moderate focus
 2. Set a timer for however long feels right to you (don't overthink it)
@@ -52,6 +52,6 @@ Tomorrow, try your personal formula just once. Pick one task, use your natural w
 
 Here's what nobody tells you about productivity systems: the perfect system is the one you'll actually use consistently. You might feel like you "should" be able to work for 4-hour stretches like that productivity guru, but if your brain works best in 20-minute focused bursts, that's not a weakness - that's valuable self-knowledge. Work with your brain, not against it.
 
-## Today's Takeaway
+## Key Takeaway
 
 The most productive version of you isn't the one following someone else's rules - it's the one who's learned to dance with your own natural rhythms.

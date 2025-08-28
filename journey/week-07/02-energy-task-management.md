@@ -10,7 +10,7 @@ week: 7
 
 Forget time management—energy management is where the magic happens. Your brain has predictable rhythms. Instead of fighting them, let's work with them to accomplish more while feeling less exhausted.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Time is renewable, energy isn't. Match high-energy tasks to high-energy times.**
 
@@ -94,7 +94,7 @@ Once you know your pattern:
 
 Protect your peak hours like sacred coding time.
 
-## Today's Takeaway
+## Key Takeaway
 
 Energy management beats time management. Track your patterns, match tasks to energy levels, and protect your peak hours. Your future self will thank you for not wasting mental energy on email during prime thinking time.
 

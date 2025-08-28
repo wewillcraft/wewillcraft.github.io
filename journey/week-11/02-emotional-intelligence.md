@@ -15,7 +15,7 @@ estimated_time: 30 minutes
 **Time:** 30 minutes\
 **Purpose:** Learn to understand and manage emotions like a boss (literally!)
 
-Hey friend! Remember that classmate who always seemed to know exactly what to say? Or that professor who could calm down even the most heated discussion? They probably had high emotional intelligence (EQ). Today we're going to build yours too! 🎯
+Hey friend! Remember that classmate who always seemed to know exactly what to say? Or that professor who could calm down even the most heated discussion? They probably had high emotional intelligence (EQ). In this lesson we're going to build yours too! 🎯
 
 ## What's Emotional Intelligence Anyway?
 
@@ -181,8 +181,8 @@ If you have ANY disagreement (even small ones), practice the formula:
 □ Being a better teammate
 
 **My Daily EQ Practice:**
-Morning: "How do I want to show up today emotionally?"
-Evening: "What emotional experiences did I have today?"
+Morning: "How do I want to show up in this lesson emotionally?"
+Evening: "What emotional experiences did I have in this lesson?"
 
 **My EQ Accountability Partner:** ________________
 (Pick someone who can give you honest feedback!)

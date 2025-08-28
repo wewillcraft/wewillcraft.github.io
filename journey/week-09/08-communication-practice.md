@@ -228,7 +228,7 @@ You don't need to be perfect. You just need to be clear, respectful, and willing
 
 The best communicators aren't born—they're built through thousands of small interactions where they chose to be intentional instead of reactive.
 
-Start today. Practice with the next person you talk to.
+Start in this lesson. Practice with the next person you talk to.
 
 ---
 

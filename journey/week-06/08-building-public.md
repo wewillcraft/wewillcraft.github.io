@@ -8,9 +8,9 @@ week: 6
 
 ## Hey friend! 👋
 
-Ready to turn your learning struggles into career rocket fuel? Today we're talking about building in public—the modern way to learn faster, build connections, and attract opportunities.
+Ready to turn your learning struggles into career rocket fuel? In this lesson we're talking about building in public—the modern way to learn faster, build connections, and attract opportunities.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Instead of hiding until you're "ready," invite others into your learning process. Your beginner perspective is valuable to someone just behind you.**
 
@@ -33,7 +33,7 @@ Your beginner questions often spark the best discussions.
 
 **Great content ideas:**
 
-- "TIL (Today I Learned) about [specific concept]"
+- "TIL (in this lesson I Learned) about [specific concept]"
 - "Building [project], here's what went wrong"
 - "This resource finally made [topic] click for me"
 - "Stuck on [challenge], has anyone solved this?"
@@ -117,7 +117,7 @@ That "obvious" thing you just figured out? Someone else is struggling with it ri
 **Hashtags to use:**
 #100DaysOfCode #WebDev #LearnInPublic #TodayILearned #BuildInPublic
 
-## Today's Takeaway
+## Key Takeaway
 
 Building in public isn't about having all the answers—it's about sharing the questions and discoveries along the way. Your learning journey becomes valuable content, and your struggles become someone else's shortcuts.
 

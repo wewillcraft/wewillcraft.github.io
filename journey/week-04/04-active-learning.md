@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever watch a coding tutorial, nod along thinking "Yeah, this makes sense," then try to build something and... nothing? Your brain goes blank? Today we're fixing that with active learning techniques that turn you from a passive consumer into an engaged learner.
+Ever watch a coding tutorial, nod along thinking "Yeah, this makes sense," then try to build something and... nothing? Your brain goes blank? In this lesson we're fixing that with active learning techniques that turn you from a passive consumer into an engaged learner.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Passive learning creates the illusion of knowledge. Active learning builds real understanding.**
 
@@ -76,7 +76,7 @@ Don't worry if you feel slow at first. You're building thinking muscles, not jus
 
 Also, you don't have to actively learn everything. Save it for the important stuff: concepts you'll use regularly or topics that really matter for your goals.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop being a passive information sponge. Engage with what you're learning. Pause, explain, experiment, and build. Your understanding (and confidence) will skyrocket.
 

@@ -104,7 +104,7 @@ Check what applies to you:
 
 ### Daily Burnout Prevention
 
-**Morning check-in:** "How's my energy today?"
+**Morning check-in:** "How's my energy in this lesson?"
 
 - Green: Full speed ahead
 - Yellow: Pace yourself, take breaks
@@ -147,7 +147,7 @@ Check what applies to you:
 
 ### When You Notice These Signals:
 
-**Immediate action (today):**
+**Immediate action (in this lesson):**
 □ Take a real lunch break
 □ Go for a 10-minute walk
 □ Call someone who makes you laugh

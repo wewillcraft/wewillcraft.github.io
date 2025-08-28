@@ -10,7 +10,7 @@ week: 7
 
 Motivation is unreliable—it comes and goes like weather. Let's build systems that work even when you don't feel like coding.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Don't wait for motivation—create momentum. Systems beat feelings every time.**
 
@@ -103,7 +103,7 @@ When motivation is low (it happens):
 
 This restores intrinsic motivation naturally.
 
-## Today's Takeaway
+## Key Takeaway
 
 Motivation isn't something you find—it's something you build through systems. Track your progress, connect to impact, and celebrate wins. Your career is a marathon, not a sprint powered by inspiration.
 

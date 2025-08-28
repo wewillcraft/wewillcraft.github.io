@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Today we're starting a week-long experiment to understand your unique energy patterns. Think of yourself as a scientist studying the most interesting subject: YOU!
+In this lesson we're starting a week-long experiment to understand your unique energy patterns. Think of yourself as a scientist studying the most interesting subject: YOU!
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Energy is more valuable than time.** You can have all the time in the world, but if you don't have energy, you can't do anything meaningful with it. When you understand your energy patterns, you can work WITH them instead of against them.
 
@@ -79,7 +79,7 @@ You don't need perfect energy in all areas to do good work. Sometimes you'll hav
 
 The goal isn't to optimize everything perfectly. It's to understand your patterns so you can work with them.
 
-## Today's Takeaway
+## Key Takeaway
 
 You're not a machine that runs at constant speed. You're a dynamic system with natural rhythms. This week, you're going to discover those rhythms and learn to honor them. 🎯
 

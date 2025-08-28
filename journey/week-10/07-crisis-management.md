@@ -106,7 +106,7 @@ Backup: ___________
 
 **Break it down:**
 
-1. What needs to happen today?
+1. What needs to happen in this lesson?
 2. What can wait until tomorrow?
 3. What can someone else handle?
 4. What's actually my responsibility?
@@ -215,6 +215,6 @@ You are stronger than you know. Even when everything feels like it's falling apa
 
 Crisis often brings out capabilities you didn't know you had. It also shows you who your real support system is. Both of these are gifts, even wrapped in difficulty.
 
-You've got this - and if you don't feel like you do today, that's okay too. Each new day brings fresh possibilities. 💙
+You've got this - and if you don't feel like you do in this lesson, that's okay too. Each new day brings fresh possibilities. 💙
 
 **Next up:** Time to put it all together in your personalized resilience plan →

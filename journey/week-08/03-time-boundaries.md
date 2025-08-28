@@ -9,7 +9,7 @@ excerpt: Master calendar management and saying no without guilt.
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Time is your most finite resource, yet it's often the first thing you surrender when external pressures mount. Time boundaries aren't about rigid schedules or saying no to everything—they're about making conscious choices about how you invest your hours to align with your priorities and values.
 
@@ -94,6 +94,6 @@ People will initially push back on your time boundaries. That's normal. Stay con
 
 Remember: you teach people how to treat your time. If you don't value it, why should they?
 
-## Today's Takeaway
+## Key Takeaway
 
 Time boundaries aren't restrictions—they're enablers. When you protect your time intentionally, you create space for your most important work and relationships to flourish while modeling sustainable practices for others.

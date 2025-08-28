@@ -15,7 +15,7 @@ estimated_time: 30 minutes
 **Time:** 25 minutes\
 **Purpose:** Learn to make decisions like a pro (without the stress!)
 
-Hey there! Let's talk about something you do about 35,000 times a day (yes, really!). From "What should I eat for breakfast?" to "Should I change my major?" - you're constantly making choices. Today we're going to level up your decision-making game! 🎯
+Hey there! Let's talk about something you do about 35,000 times a day (yes, really!). From "What should I eat for breakfast?" to "Should I change my major?" - you're constantly making choices. In this lesson we're going to level up your decision-making game! 🎯
 
 ## Why Decision Making Matters
 
@@ -200,8 +200,8 @@ All your friends are going to an expensive spring break trip you can't really af
 
 ### Daily Decision Hygiene:
 
-- **Morning:** "What decisions do I need to make today?"
-- **Evening:** "What did I decide today, and how did it go?"
+- **Morning:** "What decisions do I need to make in this lesson?"
+- **Evening:** "What did I decide in this lesson, and how did it go?"
 
 ### Decision Success Metrics:
 

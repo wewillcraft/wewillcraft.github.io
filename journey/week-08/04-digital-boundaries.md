@@ -9,7 +9,7 @@ excerpt: Separate work and life in our always-connected world.
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Digital technology was meant to make work more flexible, but for many professionals, it's created an "always-on" culture where the boundary between work and life has completely dissolved. Digital boundaries aren't about rejecting technology—they're about using it intentionally to serve your goals rather than letting it control your attention and time.
 
@@ -86,6 +86,6 @@ You might worry that colleagues will think you're lazy or uncommitted. In realit
 
 Start with small boundaries and gradually expand them. Most "urgent" messages aren't actually urgent—they just feel that way because of poor planning or notification conditioning.
 
-## Today's Takeaway
+## Key Takeaway
 
 Digital boundaries aren't about being less connected—they're about being more intentionally connected. When you control your digital environment, you can be fully present in both work and life, leading to better performance in both areas.

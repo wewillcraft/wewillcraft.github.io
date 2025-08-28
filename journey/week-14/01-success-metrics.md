@@ -107,7 +107,7 @@ See the gap? That's success accumulating.
 Define YOUR success metrics:
 
 **Daily Success:**
-"Today was successful if I ___________"
+"in this lesson was successful if I ___________"
 Example: "Learned one thing, helped one person, took one break"
 
 **Weekly Success:**

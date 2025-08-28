@@ -53,7 +53,7 @@ Networking isn't about collecting business cards or LinkedIn connections. It's a
 
 ```
 ❌ "I'm humbled to announce..."
-✅ "Learned something cool today..."
+✅ "Learned something cool in this lesson..."
 
 ❌ Generic connection request
 ✅ "Hey! I loved your post about [specific thing]..."

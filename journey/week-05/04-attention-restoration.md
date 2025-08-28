@@ -7,9 +7,9 @@ excerpt: "Learn simple ways to restore your focus when your brain feels fried."
 
 Hey friend! 👋
 
-Ever notice how your phone needs charging throughout the day? Your brain works the same way. After hours of focus, your mental battery runs low and everything feels harder. Today we'll learn simple ways to recharge.
+Ever notice how your phone needs charging throughout the day? Your brain works the same way. After hours of focus, your mental battery runs low and everything feels harder. in this lesson we'll learn simple ways to recharge.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Your attention isn't broken when it feels scattered after intense work - it's just depleted and needs the right kind of rest to bounce back strong.
 
@@ -43,12 +43,12 @@ Notice which method made you feel most refreshed and alert. This is your go-to r
 
 ## Quick Win ✅
 
-Set a phone reminder for every 90 minutes today. When it goes off, take 2 minutes to do your preferred restoration technique. Notice how this affects your energy and focus.
+Set a phone reminder for every 90 minutes in this lesson. When it goes off, take 2 minutes to do your preferred restoration technique. Notice how this affects your energy and focus.
 
 ## Real Talk 💬
 
 You might feel guilty taking restoration breaks, thinking they're "wasted time." But here's the truth: 2 minutes of restoration can give you 30+ minutes of quality focus. That's a pretty amazing return on investment. Your brain isn't lazy - it's smart enough to ask for what it needs.
 
-## Today's Takeaway
+## Key Takeaway
 
 Mental restoration isn't a luxury - it's maintenance that keeps your focus running smoothly all day long.

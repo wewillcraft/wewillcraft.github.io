@@ -7,9 +7,9 @@ excerpt: "Create a bulletproof environment that makes deep focus easier than dis
 
 Hey friend! 👋
 
-Think of your attention like a campfire - it can create something amazing, but it needs protection from the wind. Today we're building your personal "focus fortress" that shields your attention from the constant distractions trying to scatter your mental energy.
+Think of your attention like a campfire - it can create something amazing, but it needs protection from the wind. In this lesson we're building your personal "focus fortress" that shields your attention from the constant distractions trying to scatter your mental energy.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 The secret to better focus isn't having superhuman willpower - it's designing an environment where staying focused is easier than getting distracted.
 
@@ -45,7 +45,7 @@ Choose 3 simple changes you can make RIGHT NOW:
 **Internal Protection:**
 
 - Keep a "brain dump" notepad for distracting thoughts
-- Set a specific time later today to deal with those concerns
+- Set a specific time later in this lesson to deal with those concerns
 - Take 3 deep breaths before starting work
 
 **Step 3: Test Your Fortress (5 minutes)**
@@ -63,6 +63,6 @@ For your next work session, implement your 3 basic fortress protections. See if 
 
 Building a focus fortress might feel like you're being paranoid or antisocial. Here's the truth: your attention is literally worth money to other people. Every app, website, and service is competing to capture and monetize your focus. Protecting it isn't antisocial - it's basic self-care. You're not shutting out the world; you're creating space to do your best thinking.
 
-## Today's Takeaway
+## Key Takeaway
 
 You don't need to be stronger than distractions - you just need to be smarter about designing an environment where focus wins.

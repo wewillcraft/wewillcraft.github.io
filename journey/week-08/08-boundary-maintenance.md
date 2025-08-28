@@ -9,13 +9,13 @@ excerpt: Create a system for regular boundary audits and adjustments.
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Boundaries aren't set-and-forget systems—they're living guidelines that need regular maintenance, adjustment, and reinforcement. Just like your code needs refactoring and your skills need updating, your boundaries need ongoing attention to remain effective as your life and career evolve.
 
 ## Why This Matters
 
-Without maintenance, boundaries gradually erode. People test limits, your priorities shift, new challenges arise, and what worked six months ago might not work today. Regular boundary maintenance prevents small violations from becoming major problems and ensures your boundaries continue supporting your goals and well-being.
+Without maintenance, boundaries gradually erode. People test limits, your priorities shift, new challenges arise, and what worked six months ago might not work in this lesson. Regular boundary maintenance prevents small violations from becoming major problems and ensures your boundaries continue supporting your goals and well-being.
 
 ## Your 15-20 Minute Mission
 
@@ -101,6 +101,6 @@ Some boundaries will need more maintenance than others. Professional boundaries 
 
 Don't expect perfection. You'll occasionally let boundaries slip, and that's okay. The key is getting back to your boundaries quickly rather than abandoning them altogether.
 
-## Today's Takeaway
+## Key Takeaway
 
 Boundary maintenance isn't extra work—it's the work that makes everything else sustainable. When you regularly tend to your boundaries, you protect your energy, time, and well-being, creating space for what matters most to flourish.

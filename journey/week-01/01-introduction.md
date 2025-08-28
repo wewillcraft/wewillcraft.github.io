@@ -118,7 +118,7 @@ Most people spend their entire lives trying to be someone else's version of succ
 
 See you tomorrow for your MBTI assessment. It's going to be fun. Like those personality quizzes but actually useful.
 
-## Today's Takeaway
+## Key Takeaway
 
 You don't need to be fixed. You need to be understood, starting with understanding yourself.
 

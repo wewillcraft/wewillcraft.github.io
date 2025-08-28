@@ -1,6 +1,6 @@
 ---
 title: "Connecting the Energy Dots"
-excerpt: "Ready to turn your energy tracking data into pure gold? Today we're spotting the patterns that will change how you work forever."
+excerpt: "Ready to turn your energy tracking data into pure gold? In this lesson we're spotting the patterns that will change how you work forever."
 index: 3
 estimated_time: 20 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-After tracking your energy for a few days, you've got a treasure trove of data about yourself. Today we're playing detective, looking for the patterns that will help you design your ideal workday. It's like having a personal energy roadmap.
+After tracking your energy for a few days, you've got a treasure trove of data about yourself. In this lesson we're playing detective, looking for the patterns that will help you design your ideal workday. It's like having a personal energy roadmap.
 
 ## Why This Matters
 
@@ -64,6 +64,6 @@ Here's what most people get wrong: they try to fight their natural energy patter
 
 The goal isn't to have perfect energy all day. It's to understand your rhythms so you can put your most important work in your energy sweet spots and your easier tasks in your lower-energy times.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your energy patterns are like your personal operating system - once you understand them, you can work with them instead of against them.
