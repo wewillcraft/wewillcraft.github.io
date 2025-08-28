@@ -1,345 +1,251 @@
 ---
-title: "Day 3: Financial Wellness (Not Just Budgeting)"
-description: "Build a money system that actually works for your real life"
-estimated_time: 45 minutes
-day: 3
-week: 13
+title: "Money Without the Shame"
+description: "Real financial wellness for people eating ramen and dreaming big"
+excerpt: "Start with student budgets, deal with debt without shame, and plan for that first real paycheck."
+objectives:
+  - "Create a shame-free money baseline"
+  - "Build a ramen-to-real-food financial plan"
+  - "Handle debt like an adult (without panic)"
 ---
 
-## Money: The Uncomfortable Truth 💰
+## Let's Get Real About Money
+
+Your financial situation right now:
+- Living on ramen and hope
+- Student loans lurking in the shadows
+- Credit card you probably shouldn't have gotten
+- Side hustle that pays for coffee
+- Dreams bigger than your bank account
+
+And that's okay. Everyone starts somewhere. Most of us start broke.
+
+## The Shame-Free Money Audit
+
+No judgment. Just facts. Where are you really?
+
+### Current Reality Check
+
+**Monthly money in:**
+- Part-time job: $___
+- Side gigs: $___
+- Parents help: $___ (no shame!)
+- Financial aid refund: $___
+- Random hustles: $___
+**Total in:** $___
+
+**Monthly money out:**
+- Rent/dorm: $___
+- Food (including late-night stress eating): $___
+- Transportation: $___
+- Phone: $___
+- Subscriptions (that you forgot about): $___
+- Fun (yes, this matters): $___
+**Total out:** $___
+
+**The gap:** $___
+
+If it's negative, you're not alone. If it's positive, you're ahead of most.
+
+## The Student Budget Reality
+
+### The Ramen Tier ($0-500/month)
+You're surviving on:
+- Instant noodles and free pizza at events
+- Parents' Netflix password
+- Walking everywhere
+- Library for AC/heat
+- Free campus activities
+
+**Survival strategies:**
+- Food banks exist and they're for you
+- Campus jobs often include meals
+- Textbook PDFs aren't stealing, they're surviving
+- Every free event with food is a dinner plan
+
+### The PB&J Tier ($500-1000/month)
+You've upgraded to:
+- Actual groceries sometimes
+- Your own Spotify
+- Occasional Uber
+- Coffee that's not instant
+- A night out once a month
+
+**Optimization strategies:**
+- Meal prep Sundays save money and time
+- Student discounts on EVERYTHING
+- Split subscriptions with friends
+- Happy hours and student nights
+
+### The "I Have a Part-Time Job" Tier ($1000-2000/month)
+You can afford:
+- Real food regularly
+- Your own subscriptions
+- Gas for your car
+- Occasional new clothes
+- Small emergency fund
+
+**Growth strategies:**
+- Start that $100 emergency fund
+- Automate $25/month savings
+- Track spending for one month
+- Consider a secured credit card
+
+## The Debt Reality (Without the Drama)
+
+### Student Loans: The Elephant
+**Federal loans:** Generally okay debt (low interest, flexible repayment)
+**Private loans:** Higher priority to pay off
+**Parent PLUS loans:** Talk to your parents now
+
+**The strategy:**
+- Know your total (scary but necessary)
+- Understand your grace period
+- Research income-driven repayment
+- Don't panic about them yet
+
+### Credit Card Debt: The Trap
+**If you have it:** You're not stupid, you were surviving
+
+**The escape plan:**
+1. Stop using the card
+2. Pay minimum on all but smallest
+3. Attack smallest debt first
+4. Feel the win, repeat
 
-Let's be honest: **Most financial advice sucks.** It's either too basic ("make a budget!") or too complex ("here's a 47-step investment strategy").
+### The "Good Debt" Myth
+All debt costs money. Some is just more expensive than others. Your goal: minimize the expensive stuff.
 
-The real truth? Financial wellness isn't about being perfect with money. It's about building systems that reduce money stress and support the life you actually want.
+## Your First Real Paycheck Plan
 
-Today we're creating a financial plan that works with your personality, not against it.
+That first tech job paycheck hits different. Here's how not to blow it:
 
-## Financial Health Reality Check 📊
+### The "Oh Shit I Have Money" Month 1
+**What you'll want to do:**
+- Buy everything
+- Eat at real restaurants daily
+- Get the apartment with exposed brick
+- Subscribe to everything
 
-Let's start with where you actually are (no judgment, just facts):
+**What you should do:**
+- Celebrate with ONE nice thing
+- Keep living like a student for 3 months
+- Build emergency fund
+- Pay off highest-interest debt
 
-### Your Current Money Situation
+### The Lifestyle Creep Prevention Plan
 
-**Income per month (after taxes):** $___________
+**Month 1-3:** Live on 50% of new income
+**Month 4-6:** Live on 70% of new income
+**Month 7+:** Find your sustainable level
 
-**Fixed expenses per month:**
-- Rent/mortgage: $___________
-- Insurance (health, car, etc.): $___________
-- Loan payments: $___________
-- Phone, internet, subscriptions: $___________
-- Transportation: $___________
-- **Total fixed:** $___________
+**The saved money goes to:**
+1. 1-month emergency fund
+2. High-interest debt
+3. 3-month emergency fund
+4. Fun stuff (finally!)
 
-**Variable expenses per month:**
-- Food and groceries: $___________
-- Entertainment and fun: $___________
-- Shopping and personal: $___________
-- Miscellaneous: $___________
-- **Total variable:** $___________
+## Try This Now (10 minutes)
 
-**What's left over:** $___________
+**The No-Shame Money Move**
 
-### Your Money Relationship Status
+Pick ONE:
+□ Check your bank balance (even if scary)
+□ Cancel one subscription you don't use
+□ Find one bill you can reduce
+□ Sign up for one student discount
+□ Move $10 to savings (or even $1)
 
-Rate yourself honestly (1-10):
-- **Money confidence:** How comfortable are you making financial decisions? ___
-- **Money knowledge:** How well do you understand personal finance? ___
-- **Money stress:** How often does money worry keep you up at night? (10 = never, 1 = always) ___
-- **Money control:** How in control of your finances do you feel? ___
+Do it now. Seriously. Small moves compound.
 
-## The 50-30-20 Rule (Modified for Real Life) 🎯
+## The Free Money You're Missing
 
-The classic rule says 50% needs, 30% wants, 20% savings. But real life is messier.
+### Student Discounts You Forgot About
+- Spotify Premium ($4.99 vs $9.99)
+- Amazon Prime Student (6 months free)
+- Adobe Creative Cloud (60% off)
+- GitHub Student Pack (free everything)
+- Your campus gym (already paid for!)
 
-### Your Personal Money Split
+### The Side Hustle Reality
+**Good student side hustles:**
+- Tutoring ($20-50/hour)
+- Campus IT help desk
+- Freelance coding projects
+- Food delivery (you pick hours)
+- Teaching assistant positions
 
-**Essential expenses (40-60%):** Rent, groceries, transportation, minimum debt payments
-**Your percentage:** ___%
-**Your amount:** $___________
+**Bad student side hustles:**
+- MLMs (run away)
+- Crypto day trading (unless you can lose it)
+- Anything requiring upfront investment
+- "Passive income" that isn't passive
 
-**Life enjoyment (20-40%):** Fun, hobbies, eating out, entertainment
-**Your percentage:** ___%
-**Your amount:** $___________
+## The Money Scripts for Adulting
 
-**Future security (10-30%):** Emergency fund, debt payoff, investing, retirement
-**Your percentage:** ___%
-**Your amount:** $___________
+### Asking for more money (part-time job)
+"I've been here for [time] and have taken on [responsibilities]. Based on my performance and market rates, could we discuss adjusting my hourly rate?"
 
-**Does this add up to 100%?** If not, adjust until it does.
+### Negotiating bills
+"I'm a student on a tight budget. Are there any discounts or payment plans available?"
 
-## Emergency Fund Strategy 🚨
+### Talking to parents about money
+"Can we talk about expectations around money? I want to understand what support is available and what I need to cover myself."
 
-### The Emergency Fund Truth
+### Setting money boundaries with friends
+"That sounds fun but it's not in my budget this month. Could we do [free alternative] instead?"
 
-**Traditional advice:** 3-6 months of expenses saved
-**Real life:** Start with $1,000, then build gradually
+## The Financial Wellness Minimums
 
-### Your Emergency Fund Plan
+Whatever your situation, protect these:
 
-**Monthly expenses:** $___________
-**Target emergency fund (3 months):** $___________
-**Current emergency savings:** $___________
-**Gap to fill:** $___________
+**Daily:**
+- Know what's in your checking account
+- Avoid overdraft fees at all costs
 
-**How much can you save monthly toward this?** $___________
-**Time to reach target:** ___ months
+**Weekly:**
+- Check all your accounts
+- Track where money went
 
-### Where to Keep Emergency Money
+**Monthly:**
+- Pay all bills on time (even minimums)
+- Move ANY amount to savings
+- Review subscriptions
 
-**Best options:**
-- High-yield savings account (for easy access)
-- Money market account
-- Short-term CDs
+**Yearly:**
+- Check credit report (free!)
+- File taxes (get that refund)
+- Renegotiate recurring bills
 
-**Worst options:**
-- Regular checking account (no interest)
-- Investment accounts (too volatile)
-- Under your mattress (seriously, don't)
+## The Money Mindset Shift
 
-**Your emergency fund location:** ___________
+**Old:** "I'm bad with money"
+**New:** "I'm learning about money"
 
-## Debt Strategy: The Avalanche vs. Snowball Debate ❄️
+**Old:** "I'm broke"
+**New:** "I'm pre-rich"
 
-### List Your Debts
+**Old:** "I can't afford anything"
+**New:** "I'm choosing different priorities"
 
-**Debt 1:** ___________
-- Balance: $___________
-- Interest rate: ___%
-- Minimum payment: $___________
+**Old:** "Money is stressful"
+**New:** "Money is a tool I'm learning to use"
 
-**Debt 2:** ___________
-- Balance: $___________
-- Interest rate: ___%
-- Minimum payment: $___________
+## Remember This
 
-**Debt 3:** ___________
-- Balance: $___________
-- Interest rate: ___%
-- Minimum payment: $___________
+Being broke in college doesn't mean you're bad with money. It means you're investing in your future instead of your present.
 
-### Choose Your Strategy
+Every billionaire has a story about being broke. Every successful person ate ramen at some point. Every adult had that first credit card mistake.
 
-**Avalanche method:** Pay minimums on everything, extra money goes to highest interest rate
-**Pro:** Saves the most money mathematically
-**Con:** Can feel slow if high-interest debt has big balance
+You're not behind. You're not failing. You're exactly where most people start.
 
-**Snowball method:** Pay minimums on everything, extra money goes to smallest balance
-**Pro:** Quick wins build momentum
-**Con:** Costs more in interest long-term
+The difference? You're actually thinking about this stuff now, not in 10 years when it's harder to fix.
 
-**Which appeals to you more?** ___________
+Start where you are. Use what you have. Do what you can. Even $1 saved is better than $0. Even knowing your debt total is better than avoiding it.
 
-**Extra debt payment you can make monthly:** $___________
-
-## Investing for Humans (Not Finance Bros) 📈
-
-### Investing Basics Without the Jargon
-
-**The goal:** Make your money grow faster than inflation (about 3% per year)
-
-**The reality:** You don't need to pick individual stocks or time the market
-
-**The simple approach:** Index funds that track the whole market
-
-### Your Investment Plan
-
-**How much can you invest monthly?** $___________
-
-**Investment account priority list:**
-1. **401(k) with company match** - Free money, always do this first
-2. **High-yield savings** - For short-term goals and emergency fund
-3. **Roth IRA** - Tax-free growth for retirement
-4. **Additional 401(k)** - More tax-deferred retirement savings
-5. **Taxable investment account** - For long-term goals before retirement
-
-### Simple Portfolio Allocation
-
-**Age-based rule:** (100 - your age) = % in stocks, rest in bonds
-
-**Your age:** ___
-**Stock percentage:** ___%
-**Bond percentage:** ___%
-
-**Actual funds to buy:**
-- **80-90% Total Stock Market Index Fund** (like VTSAX or VTI)
-- **10-20% Bond Index Fund** (like VBTLX or BND)
-
-That's it. Don't overthink it.
-
-## The Lifestyle Creep Prevention System 🎢
-
-As your income grows, your expenses will try to grow with it. Here's how to prevent that:
-
-### Pay Yourself First Automation
-
-**Set up automatic transfers:**
-- Emergency fund: $_____ on payday
-- Investment account: $_____ on payday
-- Fun money: $_____ on payday
-
-**What's left over after automation is your spending money.**
-
-### The 50% Rule for Raises
-
-When you get a raise or bonus:
-- 50% goes to increased savings/investing
-- 50% can go to lifestyle improvement
-
-**This way you enjoy success without derailing your financial progress.**
-
-## Money Goals That Actually Matter 🎯
-
-### Short-Term Goals (1-2 years)
-1. ___________
-2. ___________
-3. ___________
-
-### Medium-Term Goals (3-5 years)
-1. ___________
-2. ___________
-3. ___________
-
-### Long-Term Goals (5+ years)
-1. ___________
-2. ___________
-3. ___________
-
-### Goal Funding Strategy
-
-**For each goal, calculate:**
-- Total cost: $___________
-- Timeline: ___ months
-- Monthly savings needed: $___________
-
-## The Financial Stress Reduction Plan 🧘
-
-### Money Anxiety Triggers
-
-**What financial situations stress you out most?**
-1. ___________
-2. ___________
-3. ___________
-
-### Stress Reduction Strategies
-
-**Weekly money date:** 30 minutes every week to check accounts and review spending
-**Monthly financial review:** Deeper dive into progress toward goals
-**Quarterly strategy adjustment:** Make changes to plan based on life changes
-
-**Automation setup:** The more you can automate, the less you have to think about money daily
-
-**Knowledge building:** One financial topic to learn more about each month
-
-## Banking and Credit Optimization 🏦
-
-### Banking Setup
-
-**Checking account:** For monthly expenses and bill paying
-**High-yield savings:** For emergency fund and short-term goals
-**Investment accounts:** For long-term growth
-
-**Are you paying any bank fees?** If yes, find a new bank.
-
-### Credit Score Strategy
-
-**Check your credit score:** Use Credit Karma, your bank app, or annualcreditreport.com
-**Current score:** ___________
-
-**How to improve it:**
-- Pay bills on time (35% of score)
-- Keep credit utilization under 30% (30% of score)
-- Don't close old credit cards (15% of score)
-- Limit new credit applications (10% of score)
-
-## Financial Tools That Don't Suck 📱
-
-### Budgeting Apps
-
-**For detailed tracking:** Mint, YNAB (You Need a Budget)
-**For simple overview:** Personal Capital, your bank's app
-**For automation:** Automatic investing apps like Betterment or Vanguard
-
-**Your preferred approach:** ___________
-
-### Investment Platforms
-
-**Beginner-friendly:** Target-date funds in your 401(k)
-**DIY investing:** Vanguard, Fidelity, Schwab
-**Robo-advisors:** Betterment, Wealthfront
-
-**Your choice:** ___________
-
-## The Financial Independence Framework 💪
-
-### What Financial Independence Means
-
-**Not:** Having millions of dollars and never working
-**Actually:** Having enough saved/invested that you could survive without working for a while
-
-### Your FI Number
-
-**Annual expenses:** $___________
-**FI target (25x annual expenses):** $___________
-
-**This seems impossible, right? That's why you start small and let compound interest work.**
-
-### Real FI Milestones
-
-- **$1,000 emergency fund:** Handles small emergencies
-- **1 month expenses saved:** Breathing room for job loss
-- **3 months expenses saved:** Real emergency fund
-- **1x annual salary invested:** Retirement on track
-- **10x annual salary invested:** Early retirement possible
-
-**Your next milestone:** ___________
-
-## Money Mindset Shifts 🧠
-
-### Old Thinking → New Thinking
-
-**"I'm bad with money"** → **"I'm learning to manage money better"**
-**"I can't afford it"** → **"I choose not to spend money on that right now"**
-**"Rich people are lucky"** → **"Wealthy people have good money systems"**
-**"I'll save when I make more money"** → **"I'll save a percentage of whatever I make"**
-**"Investing is gambling"** → **"Investing is how money grows long-term"**
-
-### Your Money Values
-
-**What does money represent to you?**
-□ Security and stability
-□ Freedom and options
-□ Power and status
-□ Fun and experiences
-□ Generosity and helping others
-
-**Your top 2:** ___________
-
-**How can your financial plan align with these values?**
-___________
-
-## This Week's Money Actions 📋
-
-1. **Calculate your net worth** (assets minus debts)
-2. **Set up one automation** (emergency fund or investment transfer)
-3. **Choose your debt payoff strategy** and make one extra payment
-4. **Research one investment account** option
-5. **Have a money conversation** with your partner/family about shared goals
-
-## The Long-Term Wealth Building Mindset 🌱
-
-**Remember:**
-- Consistency beats perfection
-- Time in the market beats timing the market
-- Small amounts compound into large amounts
-- Financial wellness supports all other life goals
-- Everyone starts somewhere
-
-**The goal isn't to become obsessed with money. It's to build systems that handle money well so you can focus on what actually matters to you.**
-
-Money is a tool. When you manage it well, it can support your relationships, your health, your career goals, and your dreams. When you don't, money stress affects everything else.
-
-Tomorrow, we're talking health optimization—because all the money in the world won't help you if you don't have the energy and vitality to enjoy it.
+Your relationship with money will evolve. Start with kindness toward yourself. 💸
 
 ---
 
-[Continue to Day 4: Health Optimization →](/journey/week-13/04-health-optimization/)
+[← Previous: Relationship Management](/journey/week-13/02-relationship-management/) | [Next: Health Optimization →](/journey/week-13/04-health-optimization/)
+
+[← Back to Week 13 Overview](/journey/week-13/)

@@ -1,456 +1,440 @@
 ---
-title: "Future-Proofing"
-excerpt: Build resilience and adaptability to thrive in an uncertain and rapidly changing world.
+title: "Embracing Change"
+description: "Build adaptability and resilience to thrive in an uncertain world"
+excerpt: "Learn to see change as opportunity, not threat - focus on adaptability over prediction"
+objectives:
+  - Develop adaptability over prediction skills
+  - Build core skills that last through change
+  - Create a resilient mindset about uncertainty
+  - Turn change into competitive advantage
 ---
 
-# Future-Proofing
+# Embracing Change
 
-**Time:** 90 minutes  
-**Purpose:** Create adaptive strategies for navigating uncertainty and emerging opportunities
+*Look at how much you've changed in just 14 weeks. Remember Week 1 when everything felt uncertain and overwhelming? You adapted. You learned. You grew. That's exactly the skill you need for the future.*
 
-## The Only Constant Is Change
+Here's the thing about the future: nobody knows what it holds. Not the experts, not the futurists, not the tech leaders.
 
-The pace of change is accelerating. Industries are being disrupted, skills are becoming obsolete faster, and the jobs of tomorrow may not exist today. Future-proofing isn't about predicting the future—it's about building the capabilities and mindsets that help you thrive regardless of what changes come.
+But that's actually good news.
 
-## Part 1: Future Landscape Assessment (20 minutes)
+## Why Adaptability Beats Prediction
 
-### Industry Evolution Analysis
+Instead of trying to predict the unpredictable, we're going to build something much more valuable: the ability to adapt to whatever comes.
 
-**Your Current Industry:**
-Industry: _____
+Think about it - you've already proven you can do this. When COVID hit, when technology changed, when new tools emerged, when your industry shifted... you adapted.
 
-**Current State Assessment:**
-- Market size: _____
-- Growth rate: _____%
-- Key players: _____
-- Primary business models: _____
-- Technology dependencies: _____
+That adaptability? It's your superpower.
 
-**Disruption Factors:**
-Rate likelihood of impact (1-10):
-- Artificial Intelligence/automation: ___
-- Climate change/sustainability: ___
-- Demographic shifts: ___
-- Geopolitical changes: ___
+## Your Adaptability Check (10 minutes)
+
+### What's Changing Around You
+
+**Your current field/industry:**
+Field: _____
+
+**What you see changing:**
+- New tools/technologies: _____
+- Different ways of working: _____
+- Changing skill demands: _____
+- New types of problems: _____
+- Different client/user expectations: _____
+
+**Change factors in your world:**
+How much these affect you (1-10):
+- AI and automation: ___
+- Remote/hybrid work: ___
 - New technologies: ___
-- Regulatory changes: ___
-- Economic shifts: ___
-- Consumer behavior evolution: ___
+- Economic changes: ___
+- Generational shifts: ___
+- Sustainability concerns: ___
 
-**3-Year Predictions:**
-- Most likely changes: _____
-- Biggest opportunities: _____
-- Greatest threats: _____
-- New competitors: _____
-- Skill requirements: _____
+**What you think might happen (but who knows?):**
+- Most likely changes in next few years: _____
+- Opportunities you see coming: _____
+- Challenges that might arise: _____
+- Skills that seem increasingly important: _____
 
-**10-Year Scenarios:**
-- Best case scenario: _____
-- Most likely scenario: _____
-- Worst case scenario: _____
-- Black swan possibility: _____
+### Your Adaptability Assessment
 
-### Personal Vulnerability Assessment
-
-**Skills at Risk:**
-Rate obsolescence risk (1-10):
-- Primary technical skills: ___
+**How adaptable are your skills? (1-10):**
+- Main technical skills: ___
 - Secondary skills: ___
 - Industry knowledge: ___
-- Current role functions: ___
-- Technology tools used: ___
+- Current job functions: ___
+- Tools you use: ___
 
-**Career Dependencies:**
-How dependent are you on:
-- Specific industry: ___/10
-- Current company: ___/10
-- Geographic location: ___/10
-- Particular technologies: ___/10
-- Existing client base: ___/10
+**How flexible is your situation?**
+Rate your dependence (1-10, lower is more flexible):
+- Tied to one industry: ___
+- Tied to current company: ___
+- Tied to geographic location: ___
+- Tied to specific technologies: ___
+- Tied to current client base: ___
 
-**Adaptability Factors:**
-Rate your current strength (1-10):
-- Learning new skills quickly: ___
-- Adapting to change: ___
-- Networking across industries: ___
-- Financial flexibility: ___
-- Mental resilience: ___
+**Your adaptation superpowers (1-10):**
+- Learning new things quickly: ___
+- Rolling with change: ___
+- Meeting new people: ___
+- Financial cushion: ___
+- Bouncing back from setbacks: ___
 - Creative problem-solving: ___
 
-**Future-Proofing Score:** ___/60 (40+ indicates strong future-readiness)
+**Adaptability score:** ___/60 (40+ means you're ready for anything!)
 
-### Opportunity Landscape
+### Opportunities You See
 
-**Emerging Opportunities:**
-What new possibilities are appearing?
-- New industries/markets: _____
-- Changing skill demands: _____
-- Unmet needs/problems: _____
-- Technology applications: _____
-- Social trends: _____
+**New possibilities emerging:**
+- New markets/niches: _____
+- Skills becoming more valuable: _____
+- Problems that need solving: _____
+- Technology creating opportunities: _____
+- Trends you could ride: _____
 
-**Adjacent Possibilities:**
-Where could you expand?
-- Related industries: _____
-- Complementary skills: _____
-- New geographic markets: _____
-- Different customer segments: _____
-- Alternative business models: _____
+**Places you could expand:**
+- Related fields to yours: _____
+- Skills that complement what you do: _____
+- Different types of clients/users: _____
+- New ways to deliver value: _____
 
-**Personal Opportunity Fit:**
-- Natural extensions: _____
-- Transferable skills: _____
-- Network advantages: _____
-- Passion alignments: _____
+**Your natural advantages:**
+- Things that would be easy extensions: _____
+- Skills you could transfer: _____
+- People/networks that could help: _____
+- Things you're passionate about: _____
 
-## Part 2: Adaptive Capacity Building (25 minutes)
+## Building Your Core Skills (15 minutes)
 
-### Meta-Skills Development
+### Skills That Never Go Out of Style
 
-**Future-Critical Meta-Skills:**
-Rate current level and importance (1-10):
+These are the skills that stay valuable no matter what changes:
 
-**Learning Agility:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Learning How to Learn:**
+Current level: ___ | How to improve: _____
 
-**Critical Thinking:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Thinking Clearly:**
+Current level: ___ | How to improve: _____
 
-**Creative Problem-Solving:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Solving Problems Creatively:**
+Current level: ___ | How to improve: _____
 
-**Emotional Intelligence:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Understanding People:**
+Current level: ___ | How to improve: _____
 
-**Communication/Influence:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Communicating Well:**
+Current level: ___ | How to improve: _____
 
-**Systems Thinking:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Seeing the Big Picture:**
+Current level: ___ | How to improve: _____
 
-**Digital Fluency:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Being Comfortable with Technology:**
+Current level: ___ | How to improve: _____
 
-**Cultural Intelligence:**
-Current level: ___ | Importance: ___
-Development plan: _____
+**Working with Different People:**
+Current level: ___ | How to improve: _____
 
-### Portfolio Career Strategy
+### Your Skill Mix
 
-**Skill Diversification:**
+**Your main expertise (what you're known for):**
+- Primary strength: _____
+- Secondary strength: _____
+- Your unique combination: _____
 
-**Core Expertise (50%):**
-Deep specialization in:
-- Primary skill: _____
-- Secondary skill: _____
-- Unique combination: _____
-
-**Adjacent Skills (30%):**
-Complementary capabilities:
+**Supporting skills (make you more valuable):**
 - Skill 1: _____
 - Skill 2: _____
 - Skill 3: _____
 
-**Emerging Skills (20%):**
-Future-focused learning:
-- Technology skill: _____
-- Human skill: _____
-- Cross-functional skill: _____
+**Future skills (what you're learning):**
+- New technology skill: _____
+- New people skill: _____
+- New cross-over skill: _____
 
-**Income Stream Diversification:**
+### Your Income Flexibility
 
-**Primary Income (60-70%):**
-- Main employment: _____
-- Advancement path: _____
-- Security level: _____
+**Main income (your primary source):**
+- Current job/business: _____
+- Growth potential: _____
+- How secure it feels: _____
 
-**Secondary Income (20-30%):**
-- Consulting/freelancing: _____
-- Passive income: _____
-- Side business: _____
+**Side income (extra money streams):**
+- Freelancing/consulting: _____
+- Other projects: _____
+- Passive income ideas: _____
 
-**Experimental Income (5-10%):**
-- New opportunities: _____
-- Innovation projects: _____
-- Investment testing: _____
+**Experimental income (testing new things):**
+- New opportunities you're exploring: _____
+- Projects you're trying: _____
 
-### Network Resilience
+### Your Network Strength
 
-**Network Diversification:**
+**People you know by industry:**
+- Your current field: ___% of your network
+- Related fields: ___% of your network
+- Totally different fields: ___% of your network
 
-**Industry Networks:**
-- Current industry: ___% of network
-- Adjacent industries: ___% of network
-- Completely different industries: ___% of network
+**People you know by role:**
+- Similar roles to yours: ___% of your network
+- Complementary roles: ___% of your network
+- Different roles: ___% of your network
 
-**Functional Networks:**
-- Same function as yours: ___% of network
-- Complementary functions: ___% of network
-- Different functions: ___% of network
+**People you know by location:**
+- Local: ___% of your network
+- National: ___% of your network
+- International: ___% of your network
 
-**Geographic Networks:**
-- Local/regional: ___% of network
-- National: ___% of network
-- International: ___% of network
+**People you know by experience:**
+- More experienced: ___% of your network
+- Similar experience: ___% of your network
+- Less experienced: ___% of your network
 
-**Generational Networks:**
-- Older/senior: ___% of network
-- Peer level: ___% of network
-- Younger/junior: ___% of network
+**Ways to strengthen your network:**
+- Connect with people from different industries: _____
+- Meet thought leaders: _____
+- Build global connections: _____
 
-**Network Strength Building:**
-- Weak tie activation: _____
-- Cross-industry connections: _____
-- Thought leader relationships: _____
-- Global perspective building: _____
+## Planning for Different Futures (10 minutes)
 
-## Part 3: Scenario Planning & Strategy (20 minutes)
+### What If Scenarios
 
-### Future Scenarios Development
+**Scenario 1: Things Change Gradually**
+What it looks like: Industry evolves slowly
+What you'd do: _____
+Skills you'd need: _____
 
-**Scenario 1: Gradual Evolution**
-Description: Industry changes slowly and predictably
-Probability: ___%
-Your strategy: _____
-Skills needed: _____
-Timeline: _____
+**Scenario 2: Big Disruption Happens**
+What it looks like: Major technology/market shift
+What you'd do: _____
+Skills you'd need: _____
 
-**Scenario 2: Rapid Disruption**
-Description: Major technology/market shift
-Probability: ___%
-Your strategy: _____
-Skills needed: _____
-Timeline: _____
+**Scenario 3: Economic Tough Times**
+What it looks like: Recession or economic challenges
+What you'd do: _____
+Skills you'd need: _____
 
-**Scenario 3: Economic Turbulence**
-Description: Significant economic downturn
-Probability: ___%
-Your strategy: _____
-Skills needed: _____
-Timeline: _____
+**Scenario 4: Everything Changes**
+What it looks like: Work and society transform
+What you'd do: _____
+Skills you'd need: _____
 
-**Scenario 4: New Paradigm**
-Description: Fundamental work/society changes
-Probability: ___%
-Your strategy: _____
-Skills needed: _____
-Timeline: _____
+### Your Adaptation Strategies
 
-### Adaptive Strategies
-
-**Strategy A: Option Creation**
+**Strategy A: Keep Options Open**
 Build multiple paths forward:
 - Path 1: _____
 - Path 2: _____
 - Path 3: _____
 
-**Strategy B: Antifragility**
-Get stronger from volatility:
-- How disruption benefits you: _____
-- Asymmetric upside opportunities: _____
-- Stress testing benefits: _____
+**Strategy B: Get Stronger from Challenges**
+Turn difficulties into advantages:
+- How challenges have made you stronger: _____
+- Opportunities that come from disruption: _____
+- Benefits of being tested: _____
 
-**Strategy C: Platform Building**
-Create foundation for multiple futures:
-- Core platform: _____
-- Extension possibilities: _____
-- Network effects: _____
+**Strategy C: Build Your Platform**
+Create a foundation for multiple futures:
+- Your core platform (skills, network, reputation): _____
+- Ways you could extend it: _____
+- How it helps others (network effects): _____
 
 ### Decision Framework
 
-**Future-Proofing Filter:**
-Evaluate opportunities/decisions through:
+**When evaluating opportunities, ask:**
 
-1. **Optionality:** Does this create or preserve options?
-2. **Learning:** Does this build adaptive capacity?
-3. **Network:** Does this strengthen relationships?
-4. **Resilience:** Does this reduce fragility?
-5. **Upside:** Does this create asymmetric benefits?
+1. **Options:** Does this give me more choices later?
+2. **Learning:** Will this help me adapt and grow?
+3. **Network:** Does this strengthen my relationships?
+4. **Resilience:** Does this make me stronger/more flexible?
+5. **Upside:** Could this create big opportunities?
 
-**Score each opportunity 1-5 on each dimension**
-**Total score 15+ = pursue**
-**Score 10-14 = consider carefully**
-**Score <10 = likely pass**
+**Simple scoring: Rate each 1-5**
+- 15+ = definitely pursue
+- 10-14 = think carefully
+- Under 10 = probably skip
 
-## Part 4: Technology & Innovation Strategy (15 minutes)
+## Staying Tech-Curious (10 minutes)
 
-### Technology Trend Monitoring
+### Technologies Worth Watching
 
-**Key Technologies to Watch:**
-Rate relevance to your future (1-10):
-- Artificial Intelligence: ___
-- Blockchain: ___
-- Internet of Things: ___
-- Augmented/Virtual Reality: ___
-- Quantum Computing: ___
-- Biotechnology: ___
-- Nanotechnology: ___
-- Renewable Energy: ___
-- Space Technology: ___
-- Robotics/Automation: ___
+**Tech trends that might affect you (1-10):**
+- AI and machine learning: ___
+- Remote/virtual work tools: ___
+- Automation: ___
+- Mobile/app development: ___
+- Data and analytics: ___
+- Cloud computing: ___
+- Social media/creator economy: ___
+- Sustainability tech: ___
 
-**Your Top 3 Technology Priorities:**
+**Your top 3 tech priorities:**
 1. _____
 2. _____
 3. _____
 
-**Technology Learning Plan:**
-- Understanding level needed: _____
-- Learning resources: _____
-- Practice opportunities: _____
-- Expert connections: _____
+**Your tech learning plan:**
+- How much you need to understand: _____
+- Where you'll learn about it: _____
+- How you'll practice: _____
+- Who can help you learn: _____
 
-### Innovation Mindset
+### Staying Curious and Experimental
 
-**Innovation Capabilities:**
-Rate current strength (1-10):
-- Spotting trends early: ___
-- Connecting disparate ideas: ___
-- Experimental thinking: ___
-- Rapid prototyping: ___
-- Iterative improvement: ___
+**Your innovation strengths (1-10):**
+- Noticing trends early: ___
+- Connecting different ideas: ___
+- Trying new approaches: ___
+- Building quick prototypes: ___
+- Improving things step by step: ___
 
-**Innovation Practices:**
-- Daily trend monitoring: _____
-- Regular experimentation: _____
-- Cross-pollination activities: _____
-- Future scenario thinking: _____
+**Ways to stay innovative:**
+- How you'll track trends: _____
+- How you'll experiment: _____
+- How you'll mix different ideas: _____
+- How you'll think about the future: _____
 
-**Innovation Network:**
-- Early adopters: _____
-- Technology experts: _____
+**Your innovation network:**
+- People who try new things first: _____
+- Technology experts you know: _____
 - Innovation communities: _____
-- Future-focused thinkers: _____
+- Future-focused people: _____
 
-### Digital Evolution Strategy
+### Your Digital Presence
 
-**Digital Presence Building:**
-- Personal brand online: _____
-- Thought leadership platform: _____
-- Digital skill demonstration: _____
-- Virtual relationship building: _____
+**Building your online presence:**
+- How you'll build your reputation online: _____
+- Platform where you'll share ideas: _____
+- Ways you'll show your skills digitally: _____
+- How you'll build relationships virtually: _____
 
-**Digital Tool Mastery:**
-- Current tool proficiency: _____
-- Emerging tool experimentation: _____
-- Technology integration: _____
-- Digital workflow optimization: _____
+**Mastering digital tools:**
+- Tools you're already good with: _____
+- New tools you want to try: _____
+- How you'll integrate technology better: _____
+- Ways to optimize your digital workflows: _____
 
-## Part 5: Implementation & Monitoring (10 minutes)
+## Your Action Plan (10 minutes)
 
-### Future-Proofing Action Plan
+### Starting Right Now
 
-**Next 90 Days:**
-1. Begin learning priority emerging skill: _____
-2. Expand network into new industry: _____
-3. Experiment with new technology: _____
-4. Develop secondary income stream: _____
-5. Create scenario-based strategies: _____
+**Next 3 months:**
+1. Start learning one future skill: _____
+2. Meet people from one new industry: _____
+3. Try one new technology tool: _____
+4. Explore one side income idea: _____
+5. Think through "what if" scenarios: _____
 
-**Next Year:**
-1. Achieve competency in future-critical skill: _____
-2. Build meaningful relationships across 3 industries: _____
-3. Launch experimental project/income stream: _____
-4. Develop thought leadership in emerging area: _____
-5. Stress-test current strategies: _____
+**This year:**
+1. Get decent at that future skill: _____
+2. Build relationships in 2-3 different fields: _____
+3. Launch one small experiment: _____
+4. Share your knowledge somewhere: _____
+5. Test how resilient your current path is: _____
 
-**Next 3 Years:**
-1. Master meta-skills for adaptability: _____
-2. Build robust multi-industry network: _____
-3. Establish platform for multiple opportunities: _____
-4. Create antifragile career positioning: _____
-5. Help others future-proof their careers: _____
+**Next few years:**
+1. Master the core skills that always matter: _____
+2. Have a strong, diverse network: _____
+3. Create multiple opportunities for yourself: _____
+4. Be someone who thrives during change: _____
+5. Help others build adaptability too: _____
 
-### Monitoring System
+### Keeping Track
 
-**Trend Tracking:**
-- Weekly trend scanning: _____
-- Monthly deep dive research: _____
-- Quarterly scenario updates: _____
-- Annual strategy reviews: _____
+**Staying aware of changes:**
+- Weekly: _____ (how you'll stay current)
+- Monthly: _____ (deeper research/learning)
+- Quarterly: _____ (checking your scenarios)
+- Annually: _____ (big picture review)
 
-**Personal Readiness Metrics:**
-- Skill adaptability score: ___/10
-- Network resilience score: ___/10
-- Financial flexibility score: ___/10
-- Opportunity creation rate: ___/10
+**Your readiness check (rate yourself 1-10):**
+- How adaptable your skills are: ___
+- How strong your network is: ___
+- How flexible your finances are: ___
+- How good you are at creating opportunities: ___
 
-**Early Warning Signals:**
-- Industry disruption indicators: _____
-- Skill obsolescence warnings: _____
-- Market shift signals: _____
+**Early warning signs to watch for:**
+- Industry disruption signals: _____
+- Signs your skills might be outdating: _____
+- Market shift indicators: _____
 - Technology acceleration signs: _____
 
-### Continuous Adaptation
+### Staying Adaptable
 
-**Regular Reviews:**
-- Monthly: Trend analysis and learning progress
-- Quarterly: Strategy adjustment and scenario planning
-- Annually: Comprehensive future-proofing audit
+**Regular check-ins:**
+- Monthly: How's your learning going?
+- Quarterly: Do you need to adjust your approach?
+- Yearly: Big picture adaptability review
 
-**Feedback Loops:**
-- Expert consultation: _____
-- Peer network insights: _____
-- Market signal monitoring: _____
-- Experimental results: _____
+**Getting feedback:**
+- Experts you can ask: _____
+- Peer network for insights: _____
+- Market signals you'll watch: _____
+- Results from your experiments: _____
 
-**Course Correction Process:**
-1. Identify signal or change
-2. Assess impact on current strategy
-3. Explore adaptation options
-4. Test new approaches
-5. Implement successful adaptations
+**When you need to change course:**
+1. Notice something's changing
+2. Think about how it affects you
+3. Brainstorm what you could do
+4. Try some new approaches
+5. Adopt what works
 
-### Future-Proofing Mindset
+### The Right Mindset
 
-**Daily Practices:**
-- Question assumptions: _____
-- Seek diverse perspectives: _____
-- Experiment with new approaches: _____
-- Build relationships across boundaries: _____
-- Learn something new: _____
+**Daily habits:**
+- Question your assumptions: _____
+- Listen to different perspectives: _____
+- Try new approaches: _____
+- Connect with diverse people: _____
+- Learn something every day: _____
 
-**Mental Models:**
-- Embrace uncertainty as opportunity: _____
-- See change as competitive advantage: _____
-- Value options over optimization: _____
-- Prioritize learning over knowing: _____
-- Build for multiple futures: _____
+**Mental shifts:**
+- See uncertainty as opportunity: _____
+- View change as your competitive advantage: _____
+- Keep options open rather than optimizing for one path: _____
+- Focus on learning, not just knowing: _____
+- Build for multiple possible futures: _____
 
-## Action Steps
+## Start Building Your Adaptability (5 minutes)
 
 ### This Week
-1. Complete industry and personal vulnerability assessment
-2. Identify top 3 meta-skills to develop
-3. Begin monitoring key technology trends
-4. Expand network into one new industry
-5. Start first future-proofing experiment
+1. Pick one core skill to start developing
+2. Try one new technology tool
+3. Connect with someone from a different field
+4. Think through one "what if" scenario
+5. Start one small experiment
 
 ### This Month
-1. Develop scenarios for your industry/career
-2. Launch learning program for critical future skill
-3. Build relationships with 5 future-focused thinkers
-4. Experiment with new technology tool
-5. Create adaptive decision-making framework
+1. Get into a rhythm with your new skill
+2. Meet 3 people from different backgrounds
+3. Test out your "what if" thinking
+4. Continue your experiment and see what you learn
+5. Share something you've learned
 
-### This Quarter
-1. Establish sustainable trend monitoring system
-2. Make measurable progress on meta-skills
-3. Build diversified income stream experiment
-4. Develop thought leadership in emerging area
-5. Help others begin their future-proofing journey
+### Next Few Months
+1. Build sustainable learning and adapting habits
+2. Keep expanding your network diversity
+3. Run more experiments
+4. Help someone else think about their adaptability
+5. Celebrate how much more resilient you've become
 
-## Key Takeaway
+## Remember This
 
-Future-proofing isn't about predicting the future perfectly—it's about building the capabilities and mindsets that help you thrive in multiple possible futures. The goal isn't to become a generalist who knows nothing deeply, but to become an adaptive specialist who can apply deep expertise across changing contexts. In an uncertain world, your ability to learn, adapt, and create new value becomes your ultimate competitive advantage. Start building that adaptability today, because the future arrives faster than we expect.
+You don't need to predict the future to be ready for it. You just need to build the skills and mindset that help you adapt to whatever comes.
+
+Look at the evidence: you've already done this successfully. 14 weeks ago, you didn't know what you know now. When challenges came up, when things changed, when new concepts were introduced - you adapted. You learned. You grew.
+
+That's your superpower.
+
+The future will bring changes, but it will also bring opportunities. The people who thrive won't be the ones who predicted everything correctly. They'll be the ones who stayed curious, kept learning, built diverse networks, and remained open to new possibilities.
+
+You're already building that adaptability. Every new skill you learn, every person you meet from a different background, every time you try something new - you're getting stronger and more resilient.
+
+Change isn't something to fear. It's your competitive advantage.
+
+You've got this. Keep adapting. Keep growing. The future is going to be amazing, and you're going to be ready for it.
 
 ---
 
-[← Previous: Giving Back](/journey/week-14/05-giving-back/) | [Continue to Celebration & Reflection →](/journey/week-14/07-celebration-reflection/)
+## Navigation
+
+← [Previous: Giving Back](/journey/week-14/05-giving-back/) | [Next: Celebration & Reflection](/journey/week-14/07-celebration-reflection/) →
+
+[← Back to Week 14 Overview](/journey/week-14/)
