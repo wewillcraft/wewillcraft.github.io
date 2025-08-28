@@ -66,9 +66,3 @@ Building a focus fortress might feel like you're being paranoid or antisocial. H
 ## Today's Takeaway
 
 You don't need to be stronger than distractions - you just need to be smarter about designing an environment where focus wins.
-
----
-
-## Navigation
-
-← [Previous: The Pomodoro+ System](/journey/week-05/05-pomodoro-plus/) | [Next: Flow State Mastery →](/journey/week-05/07-flow-state/)

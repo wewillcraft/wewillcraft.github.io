@@ -11,11 +11,11 @@ objectives:
 
 # Look How Far You've Come
 
-*Can we just pause for a moment? You did it. You showed up for 14 weeks. You learned, you grew, you pushed through challenges, and you became someone new.*
+_Can we just pause for a moment? You did it. You showed up for 14 weeks. You learned, you grew, you pushed through challenges, and you became someone new._
 
-*Do you remember Week 1 You? The person who was nervous, maybe overwhelmed, possibly doubting whether they could do this?*
+_Do you remember Week 1 You? The person who was nervous, maybe overwhelmed, possibly doubting whether they could do this?_
 
-*Look at you now.*
+_Look at you now._
 
 ## You Deserve to Celebrate This
 
@@ -30,6 +30,7 @@ You've earned this celebration.
 ### Then vs. Now
 
 **14 weeks ago you were:**
+
 - Overall satisfaction with life: ___/10
 - Career confidence: ___/10
 - Relationship with others: ___/10
@@ -39,6 +40,7 @@ You've earned this celebration.
 - Optimism about the future: ___/10
 
 **Today you are:**
+
 - Overall satisfaction with life: ___/10
 - Career confidence: ___/10
 - Relationship with others: ___/10
@@ -53,26 +55,31 @@ You've earned this celebration.
 ### Your Growth Highlights
 
 **Biggest breakthrough moments:**
+
 1. **Week ___:** What clicked: _____ | How it changed things: _____
 2. **Week ___:** What clicked: _____ | How it changed things: _____
 3. **Week ___:** What clicked: _____ | How it changed things: _____
 
 **Skills that improved:**
+
 1. Skill: _____ | Before: ___/10 | Now: ___/10
 2. Skill: _____ | Before: ___/10 | Now: ___/10
 3. Skill: _____ | Before: ___/10 | Now: ___/10
 
 **Habits you changed:**
+
 1. Used to: _____ → Now: _____
 2. Used to: _____ → Now: _____
 3. Used to: _____ → Now: _____
 
 **Ways of thinking that shifted:**
+
 1. Used to think: _____ → Now believe: _____
 2. Used to see: _____ → Now see: _____
 3. Used to do: _____ → Now do: _____
 
 **Relationships that improved:**
+
 - Got closer to: _____
 - Met these new people: _____
 - Communicate better with: _____
@@ -81,33 +88,41 @@ You've earned this celebration.
 ### What You Accomplished
 
 **Goals you set at the beginning:**
+
 1. Goal: _____ | How it went: _____ | Completion: ____%
 2. Goal: _____ | How it went: _____ | Completion: ____%
 3. Goal: _____ | How it went: _____ | Completion: ____%
 
 **Surprise accomplishments:**
 Things you achieved that you didn't plan:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Goals that changed along the way:**
+
 1. Started wanting: _____ → Ended up focusing on: _____
 2. Started wanting: _____ → Ended up focusing on: _____
 
 ### Challenges You Conquered
 
 **Tough moments you got through:**
+
 1. Challenge: _____ | How you handled it: _____
 2. Challenge: _____ | How you handled it: _____
 3. Challenge: _____ | How you handled it: _____
 
 **Times you wanted to give up:**
+
 - What was happening: _____
 - What kept you going: _____
 - How you pushed through: _____
 
 **Support that made the difference:**
+
 - Person who helped: _____ | How they helped: _____
 - Resources that helped: _____
 - Strength you found in yourself: _____
@@ -118,44 +133,61 @@ Things you achieved that you didn't plan:
 
 **About yourself:**
 The most important things you discovered about who you are:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **About growing:**
 What you now understand about personal development:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **About success:**
 How your definition of success has evolved:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **About relationships:**
 What you've learned about connecting with people:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **About change:**
 What you now know about making things stick:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 ### Your Personal Rules
 
 **What works for you:**
 Things that consistently help you succeed:
+
 1. When I: _____ | It helps me: _____
 2. When I: _____ | It helps me: _____
 3. When I: _____ | It helps me: _____
 
 **What doesn't work for you:**
 Things you should probably avoid:
+
 1. When I: _____ | It usually leads to: _____
 2. When I: _____ | It usually leads to: _____
 3. When I: _____ | It usually leads to: _____
@@ -166,22 +198,27 @@ Things you should probably avoid:
 ### How Your Perspective Changed
 
 **About work:**
+
 - Used to think: _____
 - Now think: _____
 
 **About relationships:**
+
 - Used to think: _____
 - Now think: _____
 
 **About success:**
+
 - Used to think: _____
 - Now think: _____
 
 **About challenges:**
+
 - Used to think: _____
 - Now think: _____
 
 **About growth:**
+
 - Used to think: _____
 - Now think: _____
 
@@ -191,38 +228,50 @@ Things you should probably avoid:
 ### Letter to Week 1 You
 
 **What you'd tell yourself 14 weeks ago:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **What you'd want to prepare yourself for:**
-1. _____
-2. _____
+
+---
+
+---
 
 **What you'd encourage yourself to embrace:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 ## Gratitude Time (10 minutes)
 
 ### Thank You List
 
 **People who supported you:**
+
 1. Person: _____ | How they helped: _____ | Impact on you: _____
 2. Person: _____ | How they helped: _____ | Impact on you: _____
 3. Person: _____ | How they helped: _____ | Impact on you: _____
 
 **Experiences that shaped you:**
+
 1. Experience: _____ | What you learned: _____
 2. Experience: _____ | What you learned: _____
 3. Experience: _____ | What you learned: _____
 
 **Challenges that made you stronger:**
+
 1. Challenge: _____ | Strength you developed: _____
 2. Challenge: _____ | Strength you developed: _____
 
 **Resources that made a difference:**
+
 - Content that helped: _____
 - Tools that worked: _____
 - Opportunities that appeared: _____
@@ -231,26 +280,38 @@ Things you should probably avoid:
 ### Appreciating Yourself
 
 **Qualities you developed:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Times you were brave:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Times you didn't give up:**
-1. _____
-2. _____
+
+---
+
+---
 
 **Ways you stretched yourself:**
-1. _____
-2. _____
+
+---
+
+---
 
 **Positive impact you made:**
-1. _____
-2. _____
+
+---
+
+---
 
 ### Thank You Notes
 
@@ -274,32 +335,41 @@ Current You"
 ### What You're Celebrating
 
 **Big milestones worth celebrating:**
+
 1. Achievement: _____ | Why it matters: _____
 2. Achievement: _____ | Why it matters: _____
 3. Achievement: _____ | Why it matters: _____
 
 **All your wins (big and small):**
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+
+---
+
+---
+
+---
+
+---
+
+---
 
 ### How You'll Celebrate
 
 **Solo celebration ideas:**
+
 - Something nice for yourself: _____
 - Experience you'd enjoy: _____
 - Special ritual or moment: _____
 - Creative way to mark this: _____
 
 **Celebrating with others:**
+
 - Dinner with people who supported you: _____
 - Share your story: _____
 - Thank you get-together: _____
 - Tell the world about your growth: _____
 
 **Your celebration plan:**
+
 - What you'll do: _____
 - When: _____
 - Where: _____
@@ -309,12 +379,14 @@ Current You"
 ### Keeping the Memory
 
 **How you'll remember this:**
+
 - Photos/videos: _____
 - Written reflections: _____
 - Creative expression: _____
 - Digital collection: _____
 
 **Physical reminder:**
+
 - Something that represents your growth: _____
 - Where you'll keep it: _____
 - What it will remind you of: _____
@@ -327,17 +399,22 @@ Current You"
 ### Who Could Learn from Your Journey
 
 **People who might benefit from hearing your story:**
+
 - Friends/family with similar challenges: _____
 - Colleagues in similar situations: _____
 - People in your community: _____
 - Online connections: _____
 
 **Most important things to share:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **How you'll share:**
+
 - Personal conversations: _____
 - Social media: _____
 - Writing about it: _____
@@ -347,6 +424,7 @@ Current You"
 ### Your Message to Others
 
 **How your story can inspire:**
+
 - Proof that growth is possible: _____
 - Example of getting through challenges: _____
 - Model of consistent development: _____
@@ -358,6 +436,7 @@ Current You"
 ### Paying It Forward
 
 **Ways you'll help others grow:**
+
 - Mentoring: _____
 - Sharing resources: _____
 - Offering support: _____
@@ -380,11 +459,13 @@ Current You"
 6. **Celebrate:** Mark this moment in a meaningful way
 
 **Your special celebration moment:**
-_____
+
+---
 
 ## What's Next (5 minutes)
 
 ### This Week
+
 1. Complete this reflection exercise
 2. Write one thank you note
 3. Plan and have your celebration
@@ -392,6 +473,7 @@ _____
 5. Take a moment to really appreciate how far you've come
 
 ### This Month
+
 1. Keep a record of your journey somehow
 2. Help one person start their own growth journey
 3. Make celebration a regular part of your life
@@ -399,6 +481,7 @@ _____
 5. Think about what you want to work on next
 
 ### Going Forward
+
 1. Make reflection and celebration regular habits
 2. Be a resource for others who want to grow
 3. Use your wisdom when facing new challenges
@@ -420,11 +503,3 @@ You should be proud. You should celebrate. You've earned every bit of recognitio
 And this is just the beginning.
 
 You've got this. You've always had this. Now you know it too.
-
----
-
-## Navigation
-
-← [Previous: Future-Proofing](/journey/week-14/06-future-proofing/) | [Next: Next 100 Days](/journey/week-14/08-next-100-days/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

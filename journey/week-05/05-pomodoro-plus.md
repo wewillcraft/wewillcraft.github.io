@@ -55,9 +55,3 @@ Here's what nobody tells you about productivity systems: the perfect system is t
 ## Today's Takeaway
 
 The most productive version of you isn't the one following someone else's rules - it's the one who's learned to dance with your own natural rhythms.
-
----
-
-## Navigation
-
-← [Previous: Attention Restoration](/journey/week-05/04-attention-restoration/) | [Next: Distraction Proofing →](/journey/week-05/06-distraction-proofing/)

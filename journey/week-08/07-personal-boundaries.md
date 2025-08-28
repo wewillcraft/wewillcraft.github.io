@@ -104,9 +104,3 @@ Remember that you can love someone and still have limits. You can be supportive 
 ## Today's Takeaway
 
 Personal boundaries aren't about loving people less—they're about loving sustainably. When you maintain healthy boundaries in personal relationships, you can show up as your authentic self and build connections based on mutual respect and genuine care.
-
----
-
-## Navigation
-
-[← Previous: Professional Boundaries](/journey/week-08/06-professional-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Boundary Maintenance →](/journey/week-08/08-boundary-maintenance/)

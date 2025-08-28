@@ -12,7 +12,7 @@ estimated_time: 25 minutes
 
 # Burnout Prevention
 
-**Time:** 25 minutes  
+**Time:** 25 minutes\
 **Vibe:** Building your burnout radar system 📡
 
 Burnout isn't just "being tired." It's when your inner fire goes from energizing flame to everything-is-burning chaos. The good news? You can usually see it coming if you know what to look for.
@@ -20,6 +20,7 @@ Burnout isn't just "being tired." It's when your inner fire goes from energizing
 ## The Burnout Recipe 🍳
 
 **3 main ingredients:**
+
 1. **Exhaustion** - Running on empty emotionally and physically
 2. **Cynicism** - "What's the point?" becomes your default mood
 3. **Ineffectiveness** - Nothing you do seems to matter anymore
@@ -29,28 +30,36 @@ Burnout isn't just "being tired." It's when your inner fire goes from energizing
 Rate how often you experience these (1=never, 5=daily):
 
 ### 🟢 Early Warning Signs
+
 **The "I've Got This" Phase:**
+
 - Working longer hours voluntarily: ___/5
-- Skipping lunch/breaks "because I'm busy": ___/5  
+- Skipping lunch/breaks "because I'm busy": ___/5
 - Saying yes to everything: ___/5
 - "I'll rest when this project is done": ___/5
 
 ### 🟡 Yellow Zone
+
 **The "Starting to Fray" Phase:**
+
 - Feeling tired even after sleeping: ___/5
 - Getting irritated by small things: ___/5
 - Procrastinating on important stuff: ___/5
 - Isolating from friends/coworkers: ___/5
 
-### 🟠 Orange Zone  
+### 🟠 Orange Zone
+
 **The "Running on Fumes" Phase:**
+
 - Dreading work/responsibilities: ___/5
 - Frequent illness or headaches: ___/5
 - Everything feels overwhelming: ___/5
 - Using substances to cope more: ___/5
 
 ### 🔴 Red Zone
+
 **The "Burnout is Here" Phase:**
+
 - Complete physical/emotional exhaustion: ___/5
 - Feeling numb or disconnected: ___/5
 - "Nothing I do matters" thoughts: ___/5
@@ -61,12 +70,13 @@ Rate how often you experience these (1=never, 5=daily):
 ## Your Burnout Risk Profile
 
 ### High Risk Factors
+
 Check what applies to you:
 
 **Workload factors:**
 □ Unrealistic deadlines constantly
 □ Way too much on your plate
-□ Unclear expectations  
+□ Unclear expectations\
 □ No control over your schedule
 □ Meaningless or conflicting tasks
 
@@ -85,18 +95,20 @@ Check what applies to you:
 □ All work, no play lifestyle
 
 **Your top 3 risk factors:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ## Building Your Burnout Prevention System
 
 ### Daily Burnout Prevention
 
 **Morning check-in:** "How's my energy today?"
+
 - Green: Full speed ahead
 - Yellow: Pace yourself, take breaks
-- Orange: Do only essentials, rest more  
+- Orange: Do only essentials, rest more
 - Red: Stop, get help, take care of yourself
 
 **Evening check-in:** "What drained me? What energized me?"
@@ -118,6 +130,7 @@ Check what applies to you:
 ### Monthly Burnout Audit
 
 **Questions to ask yourself:**
+
 - Am I enjoying things I used to love?
 - Do I feel appreciated and valued?
 - Am I learning and growing?
@@ -127,11 +140,13 @@ Check what applies to you:
 ## Your Personal Burnout Early Warning System
 
 ### Your Top 3 Warning Signals:
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ### When You Notice These Signals:
+
 **Immediate action (today):**
 □ Take a real lunch break
 □ Go for a 10-minute walk
@@ -157,7 +172,7 @@ Check what applies to you:
 **If you're already in burnout:**
 
 1. **Permission to rest** - You're not being lazy, you're being smart
-2. **Professional help** - Therapist, doctor, or coach  
+2. **Professional help** - Therapist, doctor, or coach
 3. **Time off** - Real time off, not "working from home"
 4. **Support system** - Don't try to handle this alone
 5. **Small steps** - Recovery takes time, be patient with yourself
@@ -188,11 +203,3 @@ Burnout prevention isn't about working less hard - it's about working more susta
 The world needs what you have to offer, but it needs the authentic, energized version of you - not the burnt-out shell. 💙
 
 **Next up:** What to do when life throws you a real curveball →
-
----
-
----
-
-[← Previous Lesson](/journey/week-10/05-mindfulness-basics/) | [Next Lesson →](/journey/week-10/07-crisis-management/)
-
-[← Back to Week 10 Overview](/journey/week-10/)

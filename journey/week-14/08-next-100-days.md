@@ -11,9 +11,9 @@ objectives:
 
 # Your Next Chapter
 
-*Here's the thing: finishing these 14 weeks isn't the end of your story. It's the end of Chapter 1.*
+_Here's the thing: finishing these 14 weeks isn't the end of your story. It's the end of Chapter 1._
 
-*You've proven you can grow, you can change, you can become someone new. Now the question is: what's your Chapter 2 going to look like?*
+_You've proven you can grow, you can change, you can become someone new. Now the question is: what's your Chapter 2 going to look like?_
 
 The next 100 days are crucial. This is where the rubber meets the road. This is where you either build on what you've created, or you let it slowly fade away.
 
@@ -32,6 +32,7 @@ You've got this.
 ### How You're Feeling Right Now
 
 **Rate your current energy (1-10):**
+
 - Excitement about continuing to grow: ___
 - Confidence you can keep changing: ___
 - Clarity about what to do next: ___
@@ -67,24 +68,32 @@ Why: _____
 
 **Changes that feel solid:**
 Things that seem like they're really part of you now:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Changes that feel fragile:**
 Things you could easily slip back on:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Habits that need extra attention:**
-1. Habit: _____ | What could derail it: _____
-2. Habit: _____ | What could derail it: _____
-3. Habit: _____ | What could derail it: _____
+
+- Habit: _____ | What could derail it: _____
+- Habit: _____ | What could derail it: _____
+- Habit: _____ | What could derail it: _____
 
 ### Potential Challenges
 
 **What could get in your way:**
+
 - Time getting tight: _____
 - Energy running low: _____
 - Other priorities competing: _____
@@ -92,6 +101,7 @@ Things you could easily slip back on:
 - Old environment pulling you back: _____
 
 **What you'll need to keep going:**
+
 - Time per week: _____ hours
 - Money per month: $_____
 - Support from: _____
@@ -103,30 +113,35 @@ Things you could easily slip back on:
 ### Where You Want to Be
 
 **In your work/career:**
+
 - Position/role: _____
 - Skills you'll have developed: _____
 - Network expansion: _____
 - Key achievement: _____
 
 **In your personal growth:**
+
 - Habits that will be automatic: _____
 - Knowledge you'll have gained: _____
 - Character development: _____
 - New capabilities: _____
 
 **In your relationships:**
+
 - Connections you'll deepen: _____
 - New people you'll meet: _____
 - Issues you'll resolve: _____
 - Support you'll provide: _____
 
 **In your health/wellness:**
+
 - Physical improvements: _____
 - Mental health gains: _____
 - Energy level changes: _____
 - Stress management: _____
 
 **In your life overall:**
+
 - Lifestyle changes: _____
 - Environment improvements: _____
 - Financial progress: _____
@@ -141,16 +156,21 @@ Things you could easily slip back on:
 **Focus:** Make your new habits stick
 
 **Main goals:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Daily non-negotiables:**
+
 - Morning: _____
 - During work: _____
 - Evening: _____
 
 **Weekly targets:**
+
 - Learning: _____
 - Relationships: _____
 - Health: _____
@@ -160,11 +180,15 @@ Things you could easily slip back on:
 **Focus:** Add new challenges and grow
 
 **Main goals:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **New things to start:**
+
 - Skill to develop: _____
 - Project to launch: _____
 - Network to expand: _____
@@ -174,16 +198,21 @@ Things you could easily slip back on:
 **Focus:** Reach new heights and help others
 
 **Main goals:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Big achievements to go for:**
+
 - Major accomplishment: _____
 - Important milestone: _____
 - New capability to demonstrate: _____
 
 **Ways to help others:**
+
 - Contribution you'll make: _____
 - Knowledge you'll share: _____
 - Person you'll mentor: _____
@@ -191,6 +220,7 @@ Things you could easily slip back on:
 ### Your Top 3 Priorities
 
 **For the next 100 days, focus on:**
+
 1. **Priority:** _____ | **Why this matters:** _____
 2. **Priority:** _____ | **Why this matters:** _____
 3. **Priority:** _____ | **Why this matters:** _____
@@ -198,16 +228,19 @@ Things you could easily slip back on:
 **How you'll measure success:**
 
 **Priority 1:**
+
 - Numbers to track: _____
 - How it will feel: _____
 - Key milestones: _____
 
 **Priority 2:**
+
 - Numbers to track: _____
 - How it will feel: _____
 - Key milestones: _____
 
 **Priority 3:**
+
 - Numbers to track: _____
 - How it will feel: _____
 - Key milestones: _____
@@ -217,14 +250,20 @@ Things you could easily slip back on:
 ### Daily Non-Negotiables
 
 **Habits that happen no matter what:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Flexible habits (adapt to your day):**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Your ideal day template:**
 **Morning:** _____
@@ -236,13 +275,13 @@ Things you could easily slip back on:
 
 ### Your Weekly Rhythm
 
-**Monday:** _____ 
-**Tuesday:** _____ 
-**Wednesday:** _____ 
-**Thursday:** _____ 
-**Friday:** _____ 
-**Saturday:** _____ 
-**Sunday:** _____ 
+**Monday:** _____
+**Tuesday:** _____
+**Wednesday:** _____
+**Thursday:** _____
+**Friday:** _____
+**Saturday:** _____
+**Sunday:** _____
 
 **Weekly must-dos:**
 □ _____
@@ -250,6 +289,7 @@ Things you could easily slip back on:
 □ _____
 
 **Weekly check-in:**
+
 - When: _____
 - How long: _____ minutes
 - Key questions: _____
@@ -262,16 +302,19 @@ Things you could easily slip back on:
 **Month 3 target:** _____
 
 **End of Month 1, I want to have:**
+
 - Achieved: _____
 - Learned: _____
 - Connected with: _____
 
 **End of Month 2, I want to have:**
+
 - Achieved: _____
 - Learned: _____
 - Connected with: _____
 
 **End of Month 3, I want to have:**
+
 - Achieved: _____
 - Learned: _____
 - Connected with: _____
@@ -279,18 +322,21 @@ Things you could easily slip back on:
 ### Your Support Team
 
 **Accountability:**
+
 - Main accountability partner: _____
 - How often you'll check in: _____
 - Group for accountability: _____
 - Professional help: _____
 
 **Learning support:**
+
 - Mentor meetings: _____
 - Communities you're part of: _____
 - Courses/programs: _____
 - Books/content plan: _____
 
 **Relationship support:**
+
 - Family involvement: _____
 - Friends who encourage you: _____
 - Professional network: _____
@@ -302,17 +348,17 @@ Things you could easily slip back on:
 
 **Likely challenges and how you'll handle them:**
 
-1. **Challenge:** _____ 
+1. **Challenge:** _____
    **How likely:** ___%
    **Prevention:** _____
    **If it happens:** _____
 
-2. **Challenge:** _____ 
+2. **Challenge:** _____
    **How likely:** ___%
    **Prevention:** _____
    **If it happens:** _____
 
-3. **Challenge:** _____ 
+3. **Challenge:** _____
    **How likely:** ___%
    **Prevention:** _____
    **If it happens:** _____
@@ -320,18 +366,21 @@ Things you could easily slip back on:
 ### Emergency Protocols
 
 **When motivation drops:**
+
 1. Remember why you started: _____
 2. Connect with your support person: _____
 3. Focus only on the essentials: _____
 4. Celebrate any small win: _____
 
 **When habits break:**
+
 1. Restart immediately without judgment: _____
 2. Figure out what went wrong: _____
 3. Adjust your system: _____
 4. Prevent it from happening again: _____
 
 **When you feel stuck:**
+
 1. Try a different approach: _____
 2. Add a new challenge: _____
 3. Ask someone else for perspective: _____
@@ -340,11 +389,13 @@ Things you could easily slip back on:
 ### Opportunities to Watch For
 
 **Opportunities that might come up:**
+
 1. Opportunity: _____ | How to prepare: _____
 2. Opportunity: _____ | How to prepare: _____
 3. Opportunity: _____ | How to prepare: _____
 
 **Creating your own opportunities:**
+
 - Events to attend: _____
 - Ways to show your skills: _____
 - Value you can provide: _____
@@ -361,26 +412,36 @@ Things you could easily slip back on:
 
 **Daily check:**
 Quick things to track each day:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Weekly review:**
 Deeper check once a week:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Monthly assessment:**
 Big picture review:
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **How you'll track:**
 **Main method:** _____
 **Backup method:** _____
 **Time spent tracking:**
+
 - Daily: ___ minutes
 - Weekly: ___ minutes
 - Monthly: ___ minutes
@@ -409,19 +470,23 @@ Big picture review:
 
 **Daily wins:**
 How you'll acknowledge daily progress:
-_____
+
+---
 
 **Weekly success:**
 How you'll celebrate weekly wins:
-_____
+
+---
 
 **Monthly milestones:**
 How you'll reward monthly achievements:
-_____
+
+---
 
 **100-day celebration:**
 How you'll honor completing the full journey:
-_____
+
+---
 
 ## Your 100-Day Promise to Yourself
 
@@ -430,22 +495,32 @@ _____
 **For the next 100 days:**
 
 **Every day I will:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Every week I will:**
-1. _____
-2. _____
+
+---
+
+---
 
 **Every month I will:**
-1. _____
-2. _____
+
+---
+
+---
 
 **By Day 100:**
-1. _____
-2. _____
-3. _____
+
+---
+
+---
+
+---
 
 **Your signature:** _____ **Date:** _____
 
@@ -458,6 +533,7 @@ _____
 ### What's Next After 100 Days
 
 **After these 100 days:**
+
 - Next phase of growth: _____
 - How it connects to your bigger vision: _____
 - Strategy for lifelong growth: _____
@@ -475,18 +551,21 @@ _____
 ### Getting Back On Track
 
 **If you slip for 1-2 weeks:**
+
 - Start again immediately (no guilt!)
 - Simplify your systems
 - Check in with your accountability person
 - Focus on just 1-2 main habits
 
 **If you slip for 3-4 weeks:**
+
 - Have a formal restart moment
 - Figure out what went wrong
 - Improve your systems and support
 - Consider getting professional help
 
 **If you want to quit:**
+
 1. Wait 72 hours before deciding anything
 2. Talk to three people who support you
 3. Remember why you started
@@ -496,6 +575,7 @@ _____
 ## Your Next Steps
 
 ### This Week (Days 1-7)
+
 1. Complete your 100-day plan
 2. Set up your tracking and support systems
 3. Start your daily non-negotiables
@@ -503,6 +583,7 @@ _____
 5. Tell your support network about your commitment
 
 ### This Month (Days 1-30)
+
 1. Execute Month 1 consistently
 2. Do your first monthly review
 3. Adjust what's not working
@@ -510,6 +591,7 @@ _____
 5. Prepare for Month 2
 
 ### Your 100 Days
+
 1. Complete all three months successfully
 2. Achieve your success targets
 3. Help at least one person grow
@@ -541,11 +623,3 @@ Make them proud.
 You've got this. You've always had this. Now go show the world what you can do.
 
 This is your next chapter. Make it amazing.
-
----
-
-## Navigation
-
-← [Previous: Celebration & Reflection](/journey/week-14/07-celebration-reflection/) | [Journey Overview](/journey/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

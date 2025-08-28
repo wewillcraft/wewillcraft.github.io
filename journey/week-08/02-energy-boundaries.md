@@ -107,9 +107,3 @@ Start small. Pick one energy boundary and practice it consistently for a week be
 ## Today's Takeaway
 
 Energy boundaries aren't about being rigid—they're about being intentional. When you protect your energy like the finite resource it is, you create space for your best work and most meaningful relationships to flourish.
-
----
-
-## Navigation
-
-[← Previous: Boundary Style](/journey/week-08/01-boundary-style/) | [Week 8: Boundaries Overview ↑](/journey/week-08/) | [Next: Time Boundaries →](/journey/week-08/03-time-boundaries/)

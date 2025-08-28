@@ -11,7 +11,7 @@ objectives:
 
 # Embracing Change
 
-*Look at how much you've changed in just 14 weeks. Remember Week 1 when everything felt uncertain and overwhelming? You adapted. You learned. You grew. That's exactly the skill you need for the future.*
+_Look at how much you've changed in just 14 weeks. Remember Week 1 when everything felt uncertain and overwhelming? You adapted. You learned. You grew. That's exactly the skill you need for the future._
 
 Here's the thing about the future: nobody knows what it holds. Not the experts, not the futurists, not the tech leaders.
 
@@ -33,6 +33,7 @@ That adaptability? It's your superpower.
 Field: _____
 
 **What you see changing:**
+
 - New tools/technologies: _____
 - Different ways of working: _____
 - Changing skill demands: _____
@@ -41,6 +42,7 @@ Field: _____
 
 **Change factors in your world:**
 How much these affect you (1-10):
+
 - AI and automation: ___
 - Remote/hybrid work: ___
 - New technologies: ___
@@ -49,6 +51,7 @@ How much these affect you (1-10):
 - Sustainability concerns: ___
 
 **What you think might happen (but who knows?):**
+
 - Most likely changes in next few years: _____
 - Opportunities you see coming: _____
 - Challenges that might arise: _____
@@ -57,6 +60,7 @@ How much these affect you (1-10):
 ### Your Adaptability Assessment
 
 **How adaptable are your skills? (1-10):**
+
 - Main technical skills: ___
 - Secondary skills: ___
 - Industry knowledge: ___
@@ -65,6 +69,7 @@ How much these affect you (1-10):
 
 **How flexible is your situation?**
 Rate your dependence (1-10, lower is more flexible):
+
 - Tied to one industry: ___
 - Tied to current company: ___
 - Tied to geographic location: ___
@@ -72,6 +77,7 @@ Rate your dependence (1-10, lower is more flexible):
 - Tied to current client base: ___
 
 **Your adaptation superpowers (1-10):**
+
 - Learning new things quickly: ___
 - Rolling with change: ___
 - Meeting new people: ___
@@ -84,6 +90,7 @@ Rate your dependence (1-10, lower is more flexible):
 ### Opportunities You See
 
 **New possibilities emerging:**
+
 - New markets/niches: _____
 - Skills becoming more valuable: _____
 - Problems that need solving: _____
@@ -91,12 +98,14 @@ Rate your dependence (1-10, lower is more flexible):
 - Trends you could ride: _____
 
 **Places you could expand:**
+
 - Related fields to yours: _____
 - Skills that complement what you do: _____
 - Different types of clients/users: _____
 - New ways to deliver value: _____
 
 **Your natural advantages:**
+
 - Things that would be easy extensions: _____
 - Skills you could transfer: _____
 - People/networks that could help: _____
@@ -135,16 +144,19 @@ Current level: ___ | How to improve: _____
 ### Your Skill Mix
 
 **Your main expertise (what you're known for):**
+
 - Primary strength: _____
 - Secondary strength: _____
 - Your unique combination: _____
 
 **Supporting skills (make you more valuable):**
+
 - Skill 1: _____
 - Skill 2: _____
 - Skill 3: _____
 
 **Future skills (what you're learning):**
+
 - New technology skill: _____
 - New people skill: _____
 - New cross-over skill: _____
@@ -152,42 +164,50 @@ Current level: ___ | How to improve: _____
 ### Your Income Flexibility
 
 **Main income (your primary source):**
+
 - Current job/business: _____
 - Growth potential: _____
 - How secure it feels: _____
 
 **Side income (extra money streams):**
+
 - Freelancing/consulting: _____
 - Other projects: _____
 - Passive income ideas: _____
 
 **Experimental income (testing new things):**
+
 - New opportunities you're exploring: _____
 - Projects you're trying: _____
 
 ### Your Network Strength
 
 **People you know by industry:**
+
 - Your current field: ___% of your network
 - Related fields: ___% of your network
 - Totally different fields: ___% of your network
 
 **People you know by role:**
+
 - Similar roles to yours: ___% of your network
 - Complementary roles: ___% of your network
 - Different roles: ___% of your network
 
 **People you know by location:**
+
 - Local: ___% of your network
 - National: ___% of your network
 - International: ___% of your network
 
 **People you know by experience:**
+
 - More experienced: ___% of your network
 - Similar experience: ___% of your network
 - Less experienced: ___% of your network
 
 **Ways to strengthen your network:**
+
 - Connect with people from different industries: _____
 - Meet thought leaders: _____
 - Build global connections: _____
@@ -220,18 +240,21 @@ Skills you'd need: _____
 
 **Strategy A: Keep Options Open**
 Build multiple paths forward:
+
 - Path 1: _____
 - Path 2: _____
 - Path 3: _____
 
 **Strategy B: Get Stronger from Challenges**
 Turn difficulties into advantages:
+
 - How challenges have made you stronger: _____
 - Opportunities that come from disruption: _____
 - Benefits of being tested: _____
 
 **Strategy C: Build Your Platform**
 Create a foundation for multiple futures:
+
 - Your core platform (skills, network, reputation): _____
 - Ways you could extend it: _____
 - How it helps others (network effects): _____
@@ -247,6 +270,7 @@ Create a foundation for multiple futures:
 5. **Upside:** Could this create big opportunities?
 
 **Simple scoring: Rate each 1-5**
+
 - 15+ = definitely pursue
 - 10-14 = think carefully
 - Under 10 = probably skip
@@ -256,6 +280,7 @@ Create a foundation for multiple futures:
 ### Technologies Worth Watching
 
 **Tech trends that might affect you (1-10):**
+
 - AI and machine learning: ___
 - Remote/virtual work tools: ___
 - Automation: ___
@@ -266,11 +291,13 @@ Create a foundation for multiple futures:
 - Sustainability tech: ___
 
 **Your top 3 tech priorities:**
-1. _____
-2. _____
-3. _____
+
+1. ---
+2. ---
+3. ---
 
 **Your tech learning plan:**
+
 - How much you need to understand: _____
 - Where you'll learn about it: _____
 - How you'll practice: _____
@@ -279,6 +306,7 @@ Create a foundation for multiple futures:
 ### Staying Curious and Experimental
 
 **Your innovation strengths (1-10):**
+
 - Noticing trends early: ___
 - Connecting different ideas: ___
 - Trying new approaches: ___
@@ -286,12 +314,14 @@ Create a foundation for multiple futures:
 - Improving things step by step: ___
 
 **Ways to stay innovative:**
+
 - How you'll track trends: _____
 - How you'll experiment: _____
 - How you'll mix different ideas: _____
 - How you'll think about the future: _____
 
 **Your innovation network:**
+
 - People who try new things first: _____
 - Technology experts you know: _____
 - Innovation communities: _____
@@ -300,12 +330,14 @@ Create a foundation for multiple futures:
 ### Your Digital Presence
 
 **Building your online presence:**
+
 - How you'll build your reputation online: _____
 - Platform where you'll share ideas: _____
 - Ways you'll show your skills digitally: _____
 - How you'll build relationships virtually: _____
 
 **Mastering digital tools:**
+
 - Tools you're already good with: _____
 - New tools you want to try: _____
 - How you'll integrate technology better: _____
@@ -316,6 +348,7 @@ Create a foundation for multiple futures:
 ### Starting Right Now
 
 **Next 3 months:**
+
 1. Start learning one future skill: _____
 2. Meet people from one new industry: _____
 3. Try one new technology tool: _____
@@ -323,6 +356,7 @@ Create a foundation for multiple futures:
 5. Think through "what if" scenarios: _____
 
 **This year:**
+
 1. Get decent at that future skill: _____
 2. Build relationships in 2-3 different fields: _____
 3. Launch one small experiment: _____
@@ -330,6 +364,7 @@ Create a foundation for multiple futures:
 5. Test how resilient your current path is: _____
 
 **Next few years:**
+
 1. Master the core skills that always matter: _____
 2. Have a strong, diverse network: _____
 3. Create multiple opportunities for yourself: _____
@@ -339,18 +374,21 @@ Create a foundation for multiple futures:
 ### Keeping Track
 
 **Staying aware of changes:**
+
 - Weekly: _____ (how you'll stay current)
 - Monthly: _____ (deeper research/learning)
 - Quarterly: _____ (checking your scenarios)
 - Annually: _____ (big picture review)
 
 **Your readiness check (rate yourself 1-10):**
+
 - How adaptable your skills are: ___
 - How strong your network is: ___
 - How flexible your finances are: ___
 - How good you are at creating opportunities: ___
 
 **Early warning signs to watch for:**
+
 - Industry disruption signals: _____
 - Signs your skills might be outdating: _____
 - Market shift indicators: _____
@@ -359,17 +397,20 @@ Create a foundation for multiple futures:
 ### Staying Adaptable
 
 **Regular check-ins:**
+
 - Monthly: How's your learning going?
 - Quarterly: Do you need to adjust your approach?
 - Yearly: Big picture adaptability review
 
 **Getting feedback:**
+
 - Experts you can ask: _____
 - Peer network for insights: _____
 - Market signals you'll watch: _____
 - Results from your experiments: _____
 
 **When you need to change course:**
+
 1. Notice something's changing
 2. Think about how it affects you
 3. Brainstorm what you could do
@@ -379,6 +420,7 @@ Create a foundation for multiple futures:
 ### The Right Mindset
 
 **Daily habits:**
+
 - Question your assumptions: _____
 - Listen to different perspectives: _____
 - Try new approaches: _____
@@ -386,6 +428,7 @@ Create a foundation for multiple futures:
 - Learn something every day: _____
 
 **Mental shifts:**
+
 - See uncertainty as opportunity: _____
 - View change as your competitive advantage: _____
 - Keep options open rather than optimizing for one path: _____
@@ -395,6 +438,7 @@ Create a foundation for multiple futures:
 ## Start Building Your Adaptability (5 minutes)
 
 ### This Week
+
 1. Pick one core skill to start developing
 2. Try one new technology tool
 3. Connect with someone from a different field
@@ -402,6 +446,7 @@ Create a foundation for multiple futures:
 5. Start one small experiment
 
 ### This Month
+
 1. Get into a rhythm with your new skill
 2. Meet 3 people from different backgrounds
 3. Test out your "what if" thinking
@@ -409,6 +454,7 @@ Create a foundation for multiple futures:
 5. Share something you've learned
 
 ### Next Few Months
+
 1. Build sustainable learning and adapting habits
 2. Keep expanding your network diversity
 3. Run more experiments
@@ -430,11 +476,3 @@ You're already building that adaptability. Every new skill you learn, every pers
 Change isn't something to fear. It's your competitive advantage.
 
 You've got this. Keep adapting. Keep growing. The future is going to be amazing, and you're going to be ready for it.
-
----
-
-## Navigation
-
-← [Previous: Giving Back](/journey/week-14/05-giving-back/) | [Next: Celebration & Reflection](/journey/week-14/07-celebration-reflection/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

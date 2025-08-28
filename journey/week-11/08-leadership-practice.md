@@ -12,7 +12,7 @@ estimated_time: 30 minutes
 
 # Leadership Practice 🚀🌟
 
-**Time:** 30 minutes  
+**Time:** 30 minutes\
 **Purpose:** Turn everything you've learned into a personal leadership action plan!
 
 Hey there! You've just learned about 7 key leadership skills. Now it's time to put it all together and create your personal leadership development plan. This isn't about becoming perfect - it's about becoming intentional in how you grow as a leader! 💪
@@ -22,30 +22,37 @@ Hey there! You've just learned about 7 key leadership skills. Now it's time to p
 Let's quickly capture what you discovered about yourself:
 
 **Leadership Styles:**
+
 - My primary style: ________________
 - Style I want to develop: ________________
 
 **Emotional Intelligence:**
+
 - My strongest EQ area: ________________
 - Area to work on: ________________
 
 **Decision Making:**
+
 - My decision-making style: ________________
 - Framework I want to use more: ________________
 
 **Delegation:**
+
 - What I'm good at: ________________
 - What I need to work on: ________________
 
 **Team Dynamics:**
+
 - My superpower with teams: ________________
 - My team challenge: ________________
 
 **Conflict Resolution:**
+
 - My conflict style: ________________
 - Style I want to develop: ________________
 
 **Influence:**
+
 - My strongest influence tool: ________________
 - Influence skill to build: ________________
 
@@ -54,18 +61,21 @@ Let's quickly capture what you discovered about yourself:
 **Rate yourself honestly (1-5) on these leadership areas:**
 
 **Leading Yourself:**
+
 - I manage my emotions well: ___/5
 - I make decisions confidently: ___/5
 - I follow through on commitments: ___/5
 - I handle stress and pressure: ___/5
 
 **Leading Others:**
+
 - People trust and respect me: ___/5
 - I communicate clearly and kindly: ___/5
 - I help others succeed: ___/5
 - I handle conflicts well: ___/5
 
 **Leading Projects/Teams:**
+
 - I can get groups working together: ___/5
 - I delegate tasks effectively: ___/5
 - I help teams reach their goals: ___/5
@@ -74,24 +84,31 @@ Let's quickly capture what you discovered about yourself:
 **Your Leadership Score:** ___/60
 
 **My top 3 leadership strengths:**
-1. ________________
-2. ________________
-3. ________________
+
+---
+
+---
+
+---
 
 **My top 2 areas to improve:**
-1. ________________
-2. ________________
+
+---
+
+---
 
 ## Your 30-Day Leadership Challenge 🎯
 
 ### Week 1: Self-Leadership Focus
+
 **Monday:** Practice one emotional intelligence technique
 **Tuesday:** Use the DECIDE method for one decision
 **Wednesday:** Delegate one task using the SMART framework
 **Thursday:** Try a new leadership style in one situation
 **Friday:** Reflect on your week and adjust
 
-### Week 2: Relationship Leadership Focus  
+### Week 2: Relationship Leadership Focus
+
 **Monday:** Have a difficult conversation using the PEACE method
 **Tuesday:** Practice one influence technique
 **Wednesday:** Help improve team dynamics in one group
@@ -99,6 +116,7 @@ Let's quickly capture what you discovered about yourself:
 **Friday:** Ask for feedback from someone you lead/work with
 
 ### Week 3: Team Leadership Focus
+
 **Monday:** Focus on building psychological safety in one team
 **Tuesday:** Practice facilitation skills in a meeting
 **Wednesday:** Help someone else develop a leadership skill
@@ -106,6 +124,7 @@ Let's quickly capture what you discovered about yourself:
 **Friday:** Celebrate someone else's success publicly
 
 ### Week 4: Integration and Growth
+
 **Monday:** Review your progress and learning
 **Tuesday:** Get feedback from 2-3 people about your leadership
 **Wednesday:** Plan your leadership development for next month
@@ -145,7 +164,7 @@ Focus on helping any group you're in work better together - address conflicts, i
 **Option 3: The Developer**
 Concentrate on helping others grow - give feedback, teach skills, create opportunities for others to lead.
 
-**Option 4: The Influence Master**  
+**Option 4: The Influence Master**\
 Practice building genuine relationships and helping others succeed as your path to influence.
 
 **Option 5: The Decision Maker**
@@ -161,9 +180,10 @@ How they'll help: ________________
 How often you'll check in: ________________
 
 **Your Leadership Feedback Sources:**
-1. ________________ (will give you honest feedback about your leadership)
-2. ________________ (someone you lead or work closely with)
-3. ________________ (a mentor or someone whose leadership you admire)
+
+- ___ (will give you honest feedback about your leadership)
+- ___ (someone you lead or work closely with)
+- ___ (a mentor or someone whose leadership you admire)
 
 **Your Leadership Learning Resources:**
 □ Books/podcasts about leadership
@@ -174,24 +194,28 @@ How often you'll check in: ________________
 ## Real-World Leadership Practice Opportunities
 
 **In Classes:**
+
 - Volunteer to lead group projects
 - Help struggling classmates
 - Facilitate study groups
 - Ask thoughtful questions that help everyone learn
 
 **In Clubs/Organizations:**
+
 - Run for officer positions
 - Volunteer to organize events
 - Mentor newer members
 - Lead committee or project work
 
-**At Work:**  
+**At Work:**
+
 - Take on training or onboarding responsibilities
 - Lead process improvement initiatives
 - Mentor new employees
 - Cross-train in different departments
 
 **In Your Community:**
+
 - Volunteer for leadership roles
 - Organize community events
 - Coach or tutor others
@@ -203,12 +227,14 @@ This month I will: ________________
 ## Measuring Your Leadership Growth
 
 **Weekly Check-ins with yourself:**
+
 - What leadership skills did I practice?
 - What went well and what was challenging?
 - What feedback did I receive?
 - How am I progressing on my main leadership goal?
 
 **Monthly Leadership Review:**
+
 - What leadership habits have I developed?
 - How are my relationships changing?
 - What impact am I having on teams/groups I'm part of?
@@ -216,17 +242,20 @@ This month I will: ________________
 
 **Your leadership growth metric:**
 In 30 days, I'll know I'm growing as a leader when:
-________________
+
+---
 
 ## Remember This About Leadership
 
 Leadership isn't about:
+
 - Being perfect or having all the answers
 - Being the loudest person in the room
 - Controlling everything and everyone
 - Never making mistakes
 
 Leadership IS about:
+
 - Helping others succeed and grow
 - Creating positive change
 - Building relationships and trust
@@ -238,18 +267,24 @@ You don't need a title to be a leader. You don't need permission to help others 
 ## Your Leadership Commitment
 
 **I commit to practicing leadership by:**
-1. ________________
-2. ________________
-3. ________________
+
+---
+
+---
+
+---
 
 **My leadership growth goal for the next 3 months:**
-________________
+
+---
 
 **The person I want to become as a leader:**
-________________
+
+---
 
 **My leadership motto:**
-________________
+
+---
 
 ## The Next Step
 
@@ -258,7 +293,3 @@ Leadership is a practice, not a destination. Every day gives you new opportuniti
 You've learned the tools. Now go use them. Help someone succeed. Make a team work better together. Have the difficult conversation. Make the hard decision. Influence positive change.
 
 The world needs your leadership. Start today! 🌟
-
----
-
-[← Previous: Influence](/journey/week-11/07-influence/) | [Continue to Week 12 →](/journey/week-12/)

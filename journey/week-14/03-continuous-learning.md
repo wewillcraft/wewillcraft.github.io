@@ -464,11 +464,3 @@ Learning as a lifestyle isn't about cramming more information into your brain. I
 The best learners aren't the ones who know everything. They're the ones who know how to figure things out and aren't afraid to try.
 
 You're already one of them. Keep going.
-
----
-
-## Navigation
-
-← [Previous: Accountability Systems](/journey/week-14/02-accountability-systems/) | [Next: Mentor Relationships](/journey/week-14/04-mentor-relationships/) →
-
-[← Back to Week 14 Overview](/journey/week-14/)

@@ -12,7 +12,7 @@ estimated_time: 25 minutes
 
 # Stress Signals
 
-**Time:** 25 minutes  
+**Time:** 25 minutes\
 **Vibe:** Becoming your own stress detective 🕵️‍♀️
 
 Think of your body as having its own built-in alarm system. Right now, it's probably sending you signals about your stress level - you just might not be tuned in to the frequency yet!
@@ -26,27 +26,33 @@ We all have that friend who's obviously stressed but insists they're "fine." Don
 Rate how often these show up (1=never, 5=daily):
 
 ### Body Signals 🚨
+
 **Head Zone:**
+
 - Headaches or tension: ___/5
 - Jaw clenching (especially at night): ___/5
 - Feeling like your brain is "full": ___/5
 
 **Energy Zone:**
+
 - Tired but wired: ___/5
 - Energy crashes: ___/5
 - Trouble falling asleep: ___/5
 
 **Gut Zone:**
+
 - Stomach in knots: ___/5
 - Appetite all over the place: ___/5
 - Shallow breathing: ___/5
 
 **Tension Zone:**
+
 - Shoulders up by your ears: ___/5
 - Fidgeting or restlessness: ___/5
 - Jaw tension or grinding: ___/5
 
 ### Mood Signals 😤
+
 - Getting snippy with people you love: ___/5
 - Everything feels overwhelming: ___/5
 - Racing thoughts that won't quit: ___/5
@@ -54,6 +60,7 @@ Rate how often these show up (1=never, 5=daily):
 - Wanting to hide under a blanket: ___/5
 
 ### Behavior Signals 📱
+
 - Procrastinating on important stuff: ___/5
 - Doom scrolling more than usual: ___/5
 - Canceling plans last minute: ___/5
@@ -64,15 +71,16 @@ Rate how often these show up (1=never, 5=daily):
 
 Based on your scores, what are your biggest red flags?
 
-1. ___________
-2. ___________  
-3. ___________
-4. ___________
-5. ___________
+1. ---
+2. ---
+3. ---
+4. ---
+5. ---
 
 ## When Does This Happen?
 
 **Time patterns:**
+
 - Mornings: ___________
 - Sunday nights: ___________
 - End of workday: ___________
@@ -80,7 +88,7 @@ Based on your scores, what are your biggest red flags?
 
 **Your biggest stress triggers:**
 □ Work deadlines
-□ Difficult conversations  
+□ Difficult conversations\
 □ Financial stuff
 □ Family drama
 □ Health concerns
@@ -91,34 +99,40 @@ Based on your scores, what are your biggest red flags?
 □ Sleep deprivation
 
 **Top 3 triggers for you:**
-1. ___________
-2. ___________
-3. ___________
+
+1. ---
+2. ---
+3. ---
 
 ## The Stress Traffic Light System
 
 **🟢 Green Zone (Chill Mode):**
 You feel: ___________
-You think: ___________  
+You think: ___________\
 You do: ___________
 
 **🟡 Yellow Zone (Warning!):**
 Early signals you need to notice:
-1. ___________
-2. ___________
-3. ___________
-*Action needed: Slow down, check in, take care of yourself*
+
+1. ---
+2. ---
+3. ---
+
+_Action needed: Slow down, check in, take care of yourself_
 
 **🔴 Red Zone (Emergency!):**
 Your final warning signals:
-1. ___________
-2. ___________
-3. ___________
-*Action needed: Stop, rest, get help*
+
+1. ---
+2. ---
+3. ---
+
+_Action needed: Stop, rest, get help_
 
 ## Your Emergency Response Kit
 
 ### When you hit Yellow Zone:
+
 □ Take 5 deep breaths
 □ Step outside for 2 minutes
 □ Drink some water (seriously, when's the last time?)
@@ -128,8 +142,9 @@ Your final warning signals:
 □ Review your priorities - what can wait?
 
 ### When you hit Red Zone:
+
 □ Stop what you're doing (it can wait)
-□ Call someone in your support network  
+□ Call someone in your support network\
 □ Take the rest of the day off if possible
 □ Focus ONLY on the absolute essentials
 □ Remember: This is temporary
@@ -161,11 +176,3 @@ The goal isn't to never feel stressed. It's to catch stress early and respond wi
 You're already doing great by paying attention! 💙
 
 **Next up:** Let's talk about managing your energy like the precious resource it is →
-
----
-
----
-
-[← Previous Lesson](/journey/week-10/01-resilience-assessment/) | [Next Lesson →](/journey/week-10/03-energy-management/)
-
-[← Back to Week 10 Overview](/journey/week-10/)

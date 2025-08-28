@@ -104,9 +104,3 @@ Don't expect perfection. You'll occasionally let boundaries slip, and that's oka
 ## Today's Takeaway
 
 Boundary maintenance isn't extra work—it's the work that makes everything else sustainable. When you regularly tend to your boundaries, you protect your energy, time, and well-being, creating space for what matters most to flourish.
-
----
-
-## Navigation
-
-[← Previous: Personal Boundaries](/journey/week-08/07-personal-boundaries/) | [Week 8: Boundaries Overview ↑](/journey/week-08/)
