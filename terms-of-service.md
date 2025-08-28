@@ -2,6 +2,8 @@
 title: "Terms of Service"
 description: "Terms and conditions for using Will Craft Software services and website"
 layout: layouts/page.vto
+effective_date: 2025-08-28
+last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
@@ -13,10 +15,6 @@ navbar:
     - text: All Posts
       url: "/posts"
 ---
-
-# Terms of Service
-
-**Effective Date: August 28, 2025**
 
 ## 1. Acceptance of Terms
 
@@ -155,7 +153,8 @@ the Philippines, without regard to its conflict of law provisions.
 
 For questions about these Terms, please contact us at:
 
-**Email:** we@willcraft.software **Website:** https://willcraft.software
+- **Email:** [we@willcraft.software](mailto:we@willcraft.software)
+- **Website:** [willcraft.software](https://willcraft.software)
 
 ## 14. Entire Agreement
 
@@ -167,7 +166,3 @@ regarding the use of the Services, superseding any prior agreements.
 If any provision of these Terms is found to be unenforceable or invalid, that
 provision will be limited or eliminated to the minimum extent necessary so that
 these Terms will otherwise remain in full force and effect.
-
----
-
-_Last updated: August 2025_

@@ -2,6 +2,8 @@
 title: "Privacy Policy"
 description: "How Will Craft Software collects, uses, and protects your personal information"
 layout: layouts/page.vto
+effective_date: 2025-08-28
+last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
@@ -13,10 +15,6 @@ navbar:
     - text: All Posts
       url: "/posts"
 ---
-
-# Privacy Policy
-
-**Effective Date: August 28, 2025**
 
 ## 1. Introduction
 
@@ -206,7 +204,8 @@ changes by:
 If you have questions or concerns about this Privacy Policy, please contact us
 at:
 
-**Email:** we@willcraft.software **Website:** https://willcraft.software
+- **Email:** [we@willcraft.software](mailto:we@willcraft.software)
+- **Website:** [willcraft.software](https://willcraft.software)
 
 ## 14. Data Protection Rights (GDPR)
 
@@ -234,7 +233,3 @@ personal information:
 - The right to non-discrimination for exercising privacy rights
 
 We do not sell personal information.
-
----
-
-_Last updated: August 2025_
