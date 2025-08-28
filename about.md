@@ -16,177 +16,170 @@ navbar:
 
 ## New Look. Same Mission.
 
-We are **Will Craft Software**: a collective of crafters.
+Hey there! We're **Will Craft Software**: a collective of crafters who love what
+we do.
 
-We build purposeful software and mentor the next generation, guided by faith,
-fellowship, and craft.
+We build software that matters and help the next generation find their way in
+tech, all while keeping faith, fellowship, and craft at the heart of everything.
 
 ## God at the Center
 
-Everything we do flows from our faith. We believe that our abilities are gifts
-from God, meant to be stewarded well and used to serve others. Our code is our
-craft, but our craft is our worship.
+Here's the thing: everything we do flows from our faith. We believe our coding
+skills are gifts from God, meant to be used well and shared generously. Our code
+is our craft, but our craft is our worship.
 
-We don't separate the sacred from the secular. Whether we're debugging code at
-2 AM or mentoring a student through their first project, we see it all as holy
-work. Every bug fixed, every feature shipped, every "aha" moment with a mentee -
-these are all opportunities to reflect God's creativity, excellence, and love.
+We don't separate Sunday from Monday, you know? Whether we're debugging code at
+2 AM or helping a student through their first project, we see it all as
+meaningful work. Every bug fixed, every feature shipped, every "aha" moment with
+a mentee... these are all chances to reflect God's creativity, excellence, and
+love.
 
-This doesn't mean we're perfect. Far from it. But it means we approach our work
-with humility, knowing that our ultimate purpose isn't to build great software
-(though we strive for that), but to love God and love people through the gifts
-He's given us.
+And look, we're not perfect. Far from it! But we approach our work with
+humility, knowing that our real purpose isn't just to build great software
+(though we absolutely try for that). It's to love God and love people through
+the gifts He's given us.
 
-We welcome collaborators from all backgrounds and beliefs, united by a shared
-commitment to excellence and service. While faith is our foundation, respect and
-love are our practice.
+We welcome friends from all backgrounds and beliefs. While faith is our
+foundation, respect and love are what we practice every day.
 
-## Our Logo, Our Creed
+## Our Logo, Our Story
 
 <img src="/favicon.svg" alt="Will Craft Software Logo" style="max-width: 200px; height: auto; margin: 0 auto; display: block;">
 
-This logo holds more than design. It holds meaning:
+This logo tells our whole story:
 
-- **The Cube**: Each facet a reflection of our care, built block by block with
-  purpose.
-- **The Upward Arrows**: A reminder that everything we build points to God.
-- **The Light From Above**: It is not our light, but His, that makes the work
-  shine.
-- **The Angle Brackets**: Software is still our canvas. The code, our craft.
-- **The "W" Formed By Walls Of "U"**: You make up Will Craft Software. Community
-  is our foundation.
-- **The Negative Space**: The gaps remind us: we're not done. There's space yet
-  for growth.
+- **The Cube**: Each side represents the care we put into our work, built piece
+  by piece with purpose
+- **The Upward Arrows**: A reminder that everything we build points to something
+  greater
+- **The Light From Above**: It's not our light, but His, that makes the work
+  shine
+- **The Angle Brackets**: Software is our canvas. Code is our craft.
+- **The "W" Formed By Walls Of "U"**: You make up Will Craft Software. This is
+  about community.
+- **The Negative Space**: The gaps remind us we're not done growing yet
 
-This isn't just branding. It's a visual creed.
+It's not just a logo. It's who we are.
 
-## Our Purpose
+## Why We're Here
+
+Simply put:
 
 We're here to build with meaning.
 
-To craft with calling.
+To craft with purpose.
 
 To raise up others.
 
 And to leave the web better than we found it.
 
-## The Values of the Guild
+## What We Actually Do
 
-### Forge With Purpose
+### Build Software That Matters
 
-We create what counts—tools that empower, systems that uplift, and code that
-supports people, not just products. We build with the belief that technology
-should advance the greater good—serving missions that matter and people who make
-a difference. In the guild, every build begins with purpose and ends with
-impact.
+We partner with organizations doing real good in the world. Churches,
+nonprofits, community groups... folks who are out there making a difference. We
+build the tech that helps them reach further and do more. Every project is
+another way to light up the darkness a little bit.
 
-### Pass the Flame
+### Train the Next Generation
 
-We don't just teach—we entrust. To shape the future, we walk with those who will
-one day lead it, sharing not only our skills, but our passion, our convictions,
-and the reason we build. Like a blacksmith passing down the forge, we hand off
-more than tools—we hand off the will to carry the craft forward. This isn't fast
-work. It's faithful work. And it's how the flame endures—burning brighter in
-those who come next.
+Through our 100-Day Journey program, we walk alongside aspiring developers as
+they figure out not just how to code, but who they are and what they're called
+to build. It's not school (no offense to schools!). It's more like
+apprenticeship, where you learn by doing alongside people who've been there.
 
-### Aim Higher Than Ourselves
+Students don't just gain coding skills. They find their confidence, discover
+their calling, and join a community that'll support them long after the program
+ends.
 
-In the guild, we build for something greater—for missions that matter, for
-people we may never meet, for outcomes that outlast our names. Success isn't
-measured by recognition, but by the impact left behind. Whether our work is
-praised or unseen, we craft with the conviction that the highest aim is to lift
-others higher. If our part fades from the credits, but someone else stands
-taller because of it—that's the win.
+### Connect the Community
 
-### Level Up Continuously
+We bring together student clubs, tech groups, nonprofits, and anyone who wants
+to build with purpose. Through meetups, talks, and shared projects, we create a
+network where everyone can learn from each other. It's more than networking
+(though that happens too). It's genuine fellowship with people who get it.
 
-Every line of code, challenge, or teammate teaches us something—if we're willing
-to learn. In the guild, we press on—not to be perfect, but to be better than
-yesterday. Learning is a lifelong quest, and we level up with every step. We
-honor the process, knowing that who we're becoming matters as much as what we
-build.
+### Share What We Know
 
-### Share the Bounty
+Some tools are too good to keep to ourselves. Our open-source projects are our
+way of giving back to the global community. We solve problems that ministries
+and nonprofits face every day, then share the solutions so nobody has to start
+from scratch. Consider it our gift to the community.
 
-Not all treasure is meant to be kept. Whether it's hard-won knowledge, helpful
-tools, or lessons from the last quest—we give what we've gained. In the guild,
-generosity isn't optional; it's how we multiply impact. What blesses one can
-bless many. What we give may seem small, but in the right hands, it becomes part
-of something far bigger than us.
+## Our Values (The Real Ones)
+
+### Build With Purpose
+
+Every line of code should count for something. We create tools that empower
+people, systems that lift others up, and software that serves real needs.
+Technology should make the world better, not just different.
+
+### Pass It Forward
+
+We don't gatekeep knowledge. When we learn something, we teach it. When we build
+something useful, we share it. Like an old craftsman teaching an apprentice, we
+pass on not just skills but the heart behind the work. It's slower than just
+doing it ourselves, sure. But it's how good things last.
+
+### Aim Higher
+
+We're not in this for the GitHub stars or the LinkedIn likes. We build for
+causes that matter, for people we may never meet, for impact that outlasts our
+commits. If our work helps someone else succeed, even if nobody knows we did it?
+That's a win.
+
+### Keep Learning
+
+Every bug is a teacher. Every teammate has something to share. Every project is
+a chance to grow. We're not trying to be perfect (good luck with that!). We're
+just trying to be better than we were yesterday.
+
+### Share the Wealth
+
+Knowledge, tools, lessons learned... when we have something good, we share it.
+That's how a community grows stronger. What helps one person can help many. Even
+small contributions can become part of something huge.
 
 ### Carry Each Other
 
-This isn't a solo campaign. We watch each other's backs, patch wounds, and match
-pace with those who need it. In the guild, we carry burdens like gear—shared
-across the party, so no one falls alone. Sometimes that means offering advice;
-other times, it means just sitting with someone in the hard parts. Strength
-isn't just in what you can lift, but in what you're willing to carry for someone
-else.
+This isn't a solo game. We help each other through tough sprints, celebrate wins
+together, and make sure nobody gets left behind. Sometimes that's code review.
+Sometimes it's just listening when someone's having a rough day. We're stronger
+together.
 
-### Always Be Crafting
+### Always Be Creating
 
-We were made to make—even when no one's watching. Whether in small bugfixes or
-large quests, we stay curious, learning, building, experimenting. We don't wait
-for the perfect moment or ideal conditions. We build because it's woven into who
-we are—and because every small act of creation carries the potential to serve,
-shape, and spark something greater.
+We build because we can't not build. Whether it's fixing a tiny bug or launching
+a major feature, we're always making something. Not because we have to, but
+because creating is part of who we are. And you never know which small project
+might change everything.
 
-## What We Do
-
-### Purpose-Built Software
-
-We partner with organizations on the frontlines of change—those who serve,
-uplift, and fight for what matters. Through handcrafted websites and apps, we
-build tech that carries their mission further. Every project is a torch lit, a
-signal fire in the dark.
-
-### Forge Future Disciples
-
-We train the next generation of digital artisans through mentorship rooted in
-faith, purpose, and code. This isn't school—it's a journey walked side by side
-with experienced developers who pass on both their skills and their values.
-Through our 14-week Journey program, apprentices don't just gain experience—they
-gain belonging, confidence, and calling.
-
-### The Network of Crafters
-
-We connect student orgs, tech clubs, nonprofits, and mission-driven makers into
-one living network—a guild without walls. Through talks, meetups, and shared
-quests, we pass along what we've learned and listen deeply to each other's
-stories. This is more than networking—it's fellowship with purpose.
-
-### The Open Vault
-
-Some tools are meant to be shared. Our open-source projects are gifts to the
-global community—crafted to solve common problems faced by ministries,
-non-profits, and grassroots movements. We maintain a codex of solutions for
-others to freely build upon. What we've learned, we leave behind as blessing.
-
-## Join the Journey
+## Want to Join Us?
 
 Whether you're:
 
-- A **mentee** looking to grow in your craft and calling
-- A **mentor** wanting to invest in the next generation
-- A **volunteer** ready to contribute your skills
-- A **sponsor** interested in supporting our mission
-- A **partner** aligned with our values
+- A **student** looking to learn and grow
+- A **developer** wanting to mentor others
+- A **volunteer** with skills to share
+- A **sponsor** who believes in the mission
+- A **partner** organization with similar values
 
-There's a place for you in the Will Craft Software community.
+There's a place for you here.
 
 [Learn how to get involved →](/getting-involved)
 
-## Contact Us
+## Let's Talk
 
-Ready to be part of something meaningful?
+Ready to build something meaningful together?
 
-[Get in touch](mailto:we@willcraft.software) and let's explore how we can craft
-something beautiful together.
+Drop us a line at [we@willcraft.software](mailto:we@willcraft.software) and
+let's see what we can create.
 
 ---
 
-> _"In fire, we are tempered. In craft, we ascend._  
-> _Our work is our legacy—enduring, resilient, legendary."_
+> _"In fire, we are tempered. In craft, we ascend._\
+> _Our work is our legacy."_
 
 _We are Will Craft Software. We build with purpose. We mentor with love. We
 craft with calling._

@@ -25,7 +25,7 @@ meaningful impact, you belong here.
 
 ## For Mentees: Begin Your Journey
 
-### The 14-Week Journey Program
+### The 100-Day Journey Program
 
 Our flagship mentorship program isn't just about learning to code. It's about
 discovering who you are, what you're called to build, and how to craft with
@@ -44,7 +44,7 @@ intentional human.
 
 **Requirements:**
 
-- Commit 10-15 hours per week for 14 weeks
+- Commit 10-15 hours per week for 100 days (14 weeks)
 - Open mindset and willingness to learn
 - Basic computer literacy (no coding experience required)
 - Heart for service and making a difference
@@ -52,8 +52,8 @@ intentional human.
 
 ### Dealing with Impostor Syndrome
 
-**Listen closely:** If you're reading this and thinking "I'm not qualified," "I'm
-not smart enough," or "This is for other people, not me" - we need to talk.
+**Listen closely:** If you're reading this and thinking "I'm not qualified,"
+"I'm not smart enough," or "This is for other people, not me" - we need to talk.
 
 Impostor syndrome hits everyone. That senior developer you admire? They googled
 basic syntax yesterday. That confident speaker at the conference? They threw up
@@ -224,12 +224,12 @@ The guild is stronger with you in it.
 
 ## Take Action
 
-Don't let another day pass wondering "what if." The perfect time won't come.
-The ideal conditions won't appear. But the opportunity is here, now, waiting for
+Don't let another day pass wondering "what if." The perfect time won't come. The
+ideal conditions won't appear. But the opportunity is here, now, waiting for
 your response.
 
-📧 **Email us:** [we@willcraft.software](mailto:we@willcraft.software)  
-🌐 **Visit us:** [willcraft.software](https://willcraft.software)  
+📧 **Email us:** [we@willcraft.software](mailto:we@willcraft.software)\
+🌐 **Visit us:** [willcraft.software](https://willcraft.software)\
 💬 **Follow us:** Find us on [GitHub](https://github.com/wewillcraft),
 [Facebook](https://facebook.com/wewillcraft),
 [LinkedIn](https://linkedin.com/company/wewillcraft)

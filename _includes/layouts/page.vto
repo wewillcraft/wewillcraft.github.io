@@ -7,23 +7,29 @@ body_class: "bg-stone-900 text-white"
     {{ if title }}
       <header class="mb-12">
         <h1 class="text-4xl sm:text-5xl font-bold mb-4">{{ title }}</h1>
-        
+
         {{ if description }}
           <p class="text-stone-300 text-xl mb-4">{{ description }}</p>
         {{ /if }}
-        
+
         {{ if effective_date || last_updated }}
           <div class="text-stone-400 text-sm space-y-1">
             {{ if effective_date }}
               <p>
                 <span class="font-semibold">Effective Date:</span>
-                <span class="italic">{{ effective_date |> date("MMMM d, yyyy") }}</span>
+                <span class="italic">{{
+                  effective_date
+                  |> date("MMMM d, yyyy")
+                }}</span>
               </p>
             {{ /if }}
             {{ if last_updated }}
               <p>
                 <span class="font-semibold">Last Updated:</span>
-                <span class="italic">{{ last_updated |> date("MMMM d, yyyy") }}</span>
+                <span class="italic">{{
+                  last_updated
+                  |> date("MMMM d, yyyy")
+                }}</span>
               </p>
             {{ /if }}
           </div>

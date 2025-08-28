@@ -4,7 +4,7 @@ hero:
   logo: /logo-colored.svg
   logo_alt: Will Craft Software
   title: We champion the causes that bring out the best in humanity.
-  subtitle: We devote our craft to missions greater than ourselves—by building tools that empower those who bring them to life and passing that will to the next generation.
+  subtitle: We devote our craft to missions greater than ourselves, building tools that empower those who bring them to life and passing that will to the next generation.
   links:
     - text: 🔍 Seek Apprenticeship
       url: "#apprenticeship"
@@ -20,82 +20,98 @@ values:
         library: fontawesome
         variant: solid
       title: Forge With Purpose
-      description: We create what counts—tools that empower, systems that uplift, and code that supports people, not just products. We build with the belief that technology should advance the greater good—serving missions that matter and people who make a difference. In the guild, every build begins with purpose and ends with impact.
+      description: We create what counts. Tools that empower, systems that uplift, and code that supports people, not just products. We build believing technology should advance the greater good, serving missions that matter and people who make a difference. Every build begins with purpose and ends with impact.
     - icon:
         name: fire
         library: fontawesome
         variant: solid
       title: Pass the Flame
-      description: We don't just teach—we entrust. To shape the future, we walk with those who will one day lead it, sharing not only our skills, but our passion, our convictions, and the reason we build. Like a blacksmith passing down the forge, we hand off more than tools—we hand off the will to carry the craft forward. This isn't fast work. It's faithful work. And it's how the flame endures—burning brighter in those who come next.
+      description: We don't just teach, we entrust. To shape the future, we walk with those who will one day lead it, sharing not only our skills, but our passion, our convictions, and the reason we build. Like a blacksmith passing down the forge, we hand off more than tools. We hand off the will to carry the craft forward. This isn't fast work. It's faithful work. And it's how the flame endures, burning brighter in those who come next.
     - icon:
         name: crosshairs
         library: fontawesome
         variant: solid
       title: Aim Higher Than Ourselves
-      description: In the guild, we build for something greater—for missions that matter, for people we may never meet, for outcomes that outlast our names. Success isn't measured by recognition, but by the impact left behind. Whether our work is praised or unseen, we craft with the conviction that the highest aim is to lift others higher. If our part fades from the credits, but someone else stands taller because of it—that's the win.
+      description: We build for something greater. For missions that matter, for people we may never meet, for outcomes that outlast our names. Success isn't measured by recognition, but by the impact left behind. Whether our work is praised or unseen, we craft with the conviction that the highest aim is to lift others higher. If our part fades from the credits, but someone else stands taller because of it? That's the win.
     - icon:
         name: arrow-up-right-dots
         library: fontawesome
         variant: solid
       title: Level Up Continuously
-      description: Every line of code, challenge, or teammate teaches us something—if we're willing to learn. In the guild, we press on—not to be perfect, but to be better than yesterday. Learning is a lifelong quest, and we level up with every step. We honor the process, knowing that who we're becoming matters as much as what we build.
+      description: Every line of code, every challenge, every teammate teaches us something if we're willing to learn. We press on, not to be perfect, but to be better than yesterday. Learning is a lifelong quest, and we level up with every step. We honor the process, knowing that who we're becoming matters as much as what we build.
     - icon:
         name: gift
         library: fontawesome
         variant: solid
       title: Share the Bounty
-      description: Not all treasure is meant to be kept. Whether it's hard-won knowledge, helpful tools, or lessons from the last quest—we give what we've gained. In the guild, generosity isn't optional; it's how we multiply impact. What blesses one can bless many. What we give may seem small, but in the right hands, it becomes part of something far bigger than us.
+      description: Not all treasure is meant to be kept. Whether it's hard-won knowledge, helpful tools, or lessons from the last quest, we give what we've gained. Generosity isn't optional; it's how we multiply impact. What blesses one can bless many. What we give may seem small, but in the right hands, it becomes part of something far bigger than us.
     - icon:
         name: hands-holding
         library: fontawesome
         variant: solid
       title: Carry Each Other
-      description: This isn't a solo campaign. We watch each other's backs, patch wounds, and match pace with those who need it. In the guild, we carry burdens like gear—shared across the party, so no one falls alone. Sometimes that means offering advice; other times, it means just sitting with someone in the hard parts. Strength isn't just in what you can lift, but in what you're willing to carry for someone else.
+      description: This isn't a solo campaign. We watch each other's backs, patch wounds, and match pace with those who need it. We carry burdens like shared gear, so no one falls alone. Sometimes that means offering advice; other times, it means just sitting with someone in the hard parts. Strength isn't just in what you can lift, but in what you're willing to carry for someone else.
     - icon:
         name: hand-sparkles
         library: fontawesome
         variant: solid
       title: Always Be Crafting
-      description: We were made to make—even when no one's watching. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. We don't wait for the perfect moment or ideal conditions. We build because it's woven into who we are—and because every small act of creation carries the potential to serve, shape, and spark something greater.
+      description: We were made to make, even when no one's watching. Whether in small bugfixes or large quests, we stay curious, learning, building, experimenting. We don't wait for the perfect moment or ideal conditions. We build because it's woven into who we are. And because every small act of creation carries the potential to serve, shape, and spark something greater.
 activities:
   title: ❤️‍🔥 What We Do
   items:
     - title: Purpose-Built Software
       subtitle: Custom Web & App Development for Non-Profits
-      description: We partner with organizations on the frontlines of change—those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. Our guild shows up where digital impact meets real-world need. We don't just write code—we listen deeply, build intentionally, and shape tools that empower the work of justice, mercy, and restoration. Your mission becomes our mission, and your impact becomes our craft.
+      description: We partner with organizations on the frontlines of change. Those who serve, uplift, and fight for what matters. Through handcrafted websites and apps, we build tech that carries their mission further. Every project is a torch lit, a signal fire in the dark. We show up where digital impact meets real-world need. We don't just write code. We listen deeply, build intentionally, and shape tools that empower the work of justice, mercy, and restoration. Your mission becomes our mission, and your impact becomes our craft.
     - title: Forge Future Disciples
       subtitle: Mentorship, Training & Pair Programming for Aspiring Crafters
-      description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school—it's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience—they gain belonging, confidence, and calling. In the guild, mentorship isn't a transaction—it's a sacred trust. We raise up builders of both software and character, equipping them to serve with integrity wherever they're called.
+      description: We train the next generation of digital artisans through mentorship rooted in faith, purpose, and code. This isn't school. It's a journey walked side by side with experienced developers who pass on both their skills and their values. Apprentices don't just gain experience. They gain belonging, confidence, and calling. Mentorship isn't a transaction, it's a sacred trust. We raise up builders of both software and character, equipping them to serve with integrity wherever they're called.
     - title: The Network of Crafters
       subtitle: Connecting Builders, Sharing Stories, Growing Together
-      description: We connect student orgs, tech clubs, nonprofits, and mission-driven makers into one living network—a guild without walls. Through talks, meetups, and shared quests, we pass along what we've learned and listen deeply to each other's stories. This is more than networking—it's fellowship with purpose. Together, we're building a growing library of wisdom, experience, and mentorship—a place where aspiring crafters can ask real professionals for guidance, share a meal, or light the next spark of inspiration. Because when we grow together, we craft a better world.
+      description: We connect student orgs, tech clubs, nonprofits, and mission-driven makers into one living network. A community without walls. Through talks, meetups, and shared quests, we pass along what we've learned and listen deeply to each other's stories. This is more than networking; it's fellowship with purpose. Together, we're building a growing library of wisdom, experience, and mentorship. A place where aspiring crafters can ask real professionals for guidance, share a meal, or light the next spark of inspiration. Because when we grow together, we craft a better world.
     - title: The Open Vault
       subtitle: Open-Source Tools for the Greater Good
-      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community—crafted to solve common problems faced by ministries, non-profits, and grassroots movements. We maintain a codex of solutions for others to freely build upon. These aren't just side projects—they're offerings. Code with a conscience. A legacy of collaboration, so no builder has to start from scratch. What we've learned, we leave behind as blessing.
+      description: Some tools are meant to be shared. Our open-source projects are gifts to the global community, crafted to solve common problems faced by ministries, non-profits, and grassroots movements. We maintain a library of solutions for others to freely build upon. These aren't just side projects. They're offerings. Code with a conscience. A legacy of collaboration, so no builder has to start from scratch. What we've learned, we leave behind as blessing.
 apprenticeship:
-  title: 🤺 Applying as an Apprentice
-  subtitle: Not mere training—a calling. Apprentices become masterful artisans through real-world quests alongside seasoned mentors.
+  title: 🤺 The 100-Day Journey
+  subtitle: A 100-day transformative journey through self-discovery, skill-building, and purpose-finding. Not just a coding bootcamp, this is whole-person development for aspiring crafters.
   faqs:
-    - question: What is this apprenticeship?
-      answer: A transformative journey where aspiring crafters learn through hands-on experience, guided by seasoned mentors.
+    - question: What is the 100-Day Journey?
+      answer: "It's a 100-day mentorship program divided into 3 phases: Foundation (self-discovery and learning), Systems (building sustainable practices), and Impact (leadership and giving back). Spread across 14 weeks with 8 practical lessons per week, covering technical skills, personal development, and optional spiritual formation."
     - question: Who can apply?
-      answer: Anyone with a passion for technology and a desire to learn. We welcome all backgrounds and skill levels.
-    - question: What will I learn?
-      answer: You will gain practical skills in software development, project management, and teamwork, preparing you for a successful career.
-    - question: What projects will I work on?
-      answer: You will work on real-world projects that make a difference, collaborating with nonprofit organizations to create impactful solutions.
+      answer: Anyone! College students, career switchers, self-taught developers, or complete beginners. You don't need coding experience, just curiosity, commitment, and a desire to grow. We especially welcome those from underrepresented backgrounds in tech.
+    - question: What's the time commitment?
+      answer: Expect 10-15 hours per week. That's about 2 hours daily for lessons and exercises, plus time for projects and mentorship. Lessons are designed to fit around work or school schedules. Most can be completed in 20-30 minute sessions.
+    - question: What will I actually learn?
+      answer: Week 1-5 covers self-discovery, learning strategies, communication, and resilience. Week 6-10 focuses on productivity, deep work, boundaries, and work-life balance. Week 11-14 addresses career strategy, leadership, giving back, and future planning. Plus hands-on coding projects throughout.
+    - question: Do I need to know how to code already?
+      answer: No! The 100-Day Journey is designed for all backgrounds. We'll teach you practical web development skills, but more importantly, we'll help you learn HOW to learn, think like a developer, and build with purpose.
+    - question: What makes this different from other bootcamps?
+      answer: We focus on the whole person, not just technical skills. You'll work on real nonprofit projects, receive one-on-one mentorship, and join a supportive community. It's about becoming a thoughtful crafter, not just a coder.
     - question: Is this a paid program?
-      answer: No, this is a volunteer-based learning experience. Our reward is growth, impact, and shared purpose—not profit. That said, some projects may open up paid opportunities as you grow.
-    - question: Do I need to be a Christian to join?
-      answer: No. While some mentors include prayer and scripture in their sessions, apprentices from all beliefs (or none) are welcome. We simply ask for openness, mutual respect, and a willingness to reflect on purpose.
+      answer: No, this is a volunteer-based learning experience. Our reward is growth, impact, and shared purpose, not profit. Some graduates do receive job opportunities through our network, but employment isn't guaranteed.
+    - question: Is this religious? Do I need to be a Christian?
+      answer: While faith is our foundation, people of all beliefs (or none) are welcome! Each week includes an optional devotional lesson. Some mentors may share their faith perspective, but there's no pressure to believe or convert. We ask only for mutual respect.
+    - question: What about impostor syndrome? I don't feel qualified.
+      answer: "Perfect! You're exactly who we're looking for! Everyone feels unqualified at first. If you're worried you're not good enough, that just means you care. Apply anyway. Let us decide if you're ready (spoiler: you probably are)."
+    - question: Can I do this while working or studying full-time?
+      answer: Yes! The program is designed for busy people. Lessons are bite-sized (20-30 minutes), available 24/7, and can be completed on your schedule. Many participants balance their 100-Day Journey with work, school, or family commitments.
+    - question: What kind of projects will I work on?
+      answer: Real projects for real nonprofits! Past apprentices have built donation platforms, volunteer management systems, educational websites, and community tools. Your code will actually help organizations doing good in the world.
     - question: Will I get a certificate or credential?
-      answer: While we don't offer formal certificates, your work and progress will be documented. You'll finish the program with real-world projects, mentor feedback, and a clearer path forward in your craft.
-    - question: What happens after the apprenticeship?
-      answer: Graduates may continue building, mentor others, or join future guild missions. This program is meant to equip you for more than one season—it's a foundation for lifelong craftsmanship.
-    - question: How are apprentices selected?
-      answer: We review each application for heart, hunger to learn, and alignment with the guild's mission. Skill level matters less than attitude, teachability, and readiness to commit.
-    - question: What happens if I don't get selected?
-      answer: If you're not selected this round, don't be discouraged. It may simply be a matter of timing, project fit, or availability of mentors. We'll keep your application on file and may reach out when new opportunities open. Keep crafting—your journey isn't on pause.
+      answer: While we don't offer formal certificates, you'll graduate with a portfolio of real projects, documented skills, mentor recommendations, and most importantly, confidence in your abilities and clarity about your path forward.
+    - question: What support will I receive?
+      answer: One-on-one mentorship, peer community through your cohort, access to our alumni network, code reviews, career guidance, and emotional support when things get tough (because they will, and that's okay).
+    - question: What happens after the 100 days?
+      answer: Graduates often become mentors for future cohorts, contribute to our open-source projects, get hired through our network, or launch their own initiatives. The 100-Day Journey is just the beginning. You'll be part of our community for life.
+    - question: How competitive is admission?
+      answer: We care more about attitude than aptitude. We look for curiosity, commitment, kindness, and alignment with our mission. Technical skill matters less than willingness to learn and help others.
+    - question: When does the next cohort start?
+      answer: We run cohorts quarterly, with applications opening 6 weeks before each start date. Check our website or join our mailing list for announcements. Can't wait? Reach out anyway! We sometimes have special arrangements.
+    - question: What if I need to pause or drop out?
+      answer: Life happens! If you need to pause, we'll work with you to rejoin a future cohort. If you need to leave entirely, no hard feelings. You're always welcome back when you're ready.
+    - question: Do you offer scholarships or financial aid?
+      answer: The program is already free! If you need help with internet access, equipment, or other barriers to participation, let us know. We have sponsors who specifically support removing obstacles for motivated learners.
 contact:
   title: 📜 Contact the Guild
   subtitle: 'Send your inquiries or quests to <a class="underline text-white hover:text-[#eb4e3b] transition duration-300" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
