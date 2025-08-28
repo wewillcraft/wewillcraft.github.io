@@ -1,302 +1,240 @@
 ---
-title: "Day 3: You, But Make It Professional"
-description: "Build your personal brand without the cringe"
-estimated_time: 45 minutes
-day: 3
-week: 12
+title: "How People Remember You"
+description: "Build an authentic professional presence that doesn't make you cringe"
+excerpt: "Your work speaks louder than your bio. Let's make sure people can find and understand that work."
+objectives:
+  - "Create an authentic professional presence that feels like you"
+  - "Focus on GitHub and portfolio over LinkedIn perfection"
+  - "Develop introvert-friendly networking strategies"
 ---
 
-## Let's Talk About Your Brand 🏷️
+## Your Work Speaks Louder Than Your Bio
 
-I know, I know. "Personal brand" sounds like something a LinkedIn influencer would say while posting a photo of their laptop at a coffee shop.
+Let's kill the "personal brand" cringe right now.
 
-But here's the thing: **You already have a brand.** Every time someone thinks about working with you, they have an impression. The question is: Did you shape that impression on purpose, or did it just... happen?
+You don't need to become a LinkedIn influencer. You don't need a logo. You definitely don't need to post motivational quotes over sunset photos.
 
-Today we're making it intentional (without making it weird).
+What you need? People to understand what you do and remember you for it. That's it.
 
-## The Reality Check
+And the best way to do that? **Show your work, not your resume.**
 
-Your brand isn't your logo or your perfect LinkedIn headshot. It's what people think when they hear your name.
+## The Truth About Professional Presence
 
-- "Oh, Alex? They're the one who actually finishes projects on time."
-- "Jordan? Super smart, but good luck getting a straight answer."
-- "Sam? They make complex stuff make sense."
+Here's what actually matters:
 
-**What do people think when they hear your name?**
-___________
+- Can people find your work when they Google you?
+- Does your work demonstrate your skills?
+- Are you easy to reach and work with?
+- Do you help others in your community?
 
-If you don't know, that's exactly why we're here.
+Everything else is noise.
 
-## The Foundation: Who You Actually Are 💡
+## Your GitHub Is Your Real Resume
 
-Forget the corporate BS. Let's figure out who you really are professionally.
+Recruiters spend more time on your GitHub than your LinkedIn. Let's make it worth their time.
 
-### The Honest Self-Assessment
+### The 5-Minute GitHub Audit
 
-Fill these out without thinking too hard:
+Check these right now:
 
-**"I'm the person who..."**
-___________
+□ Do you have a profile photo? (Doesn't have to be professional, just human)  
+□ Does your bio say what you do in plain English?  
+□ Are your pinned repos your best work?  
+□ Do your repos have READMEs that explain what they are?  
+□ Can someone run your code without crying?  
 
-**"People come to me when they need..."**
-___________
+If you checked less than 3, we've got work to do.
 
-**"I'm annoyingly good at..."**
-___________
+### Your GitHub Profile Bio
 
-**"My secret superpower is..."**
-___________
+Keep it simple:
 
-**"I somehow always end up..."**
-___________
-
-### Your Value Stack
-
-What problems do you solve? Be specific:
-
-**Problem 1:** ___________
-**How you solve it:** ___________
-
-**Problem 2:** ___________
-**How you solve it:** ___________
-
-**Problem 3:** ___________
-**How you solve it:** ___________
-
-### Your Personality at Work
-
-Be honest about how you actually show up:
-
-Rate yourself (1-5):
-□ **Innovative** - "I like trying new approaches" ___
-□ **Reliable** - "I do what I say I'll do" ___
-□ **Collaborative** - "I work well with others" ___
-□ **Analytical** - "I dig into the details" ___
-□ **Creative** - "I think outside the box" ___
-□ **Strategic** - "I see the big picture" ___
-□ **Technical** - "I love the technical challenges" ___
-□ **Empathetic** - "I understand people's needs" ___
-
-**Your top 3 traits:**
-1. ___________
-2. ___________
-3. ___________
-
-## The Audit: What's Out There Now 🔍
-
-Time to Google yourself. Yes, really.
-
-### Your Digital Footprint
-
-**Search "[Your Name] + [Your Field]" and write down the first 5 results:**
-1. ___________
-2. ___________
-3. ___________
-4. ___________
-5. ___________
-
-**First impression this creates:**
-___________
-
-**Is this what you want people to find?** Y/N
-
-### Social Media Reality Check
-
-**LinkedIn Profile:**
-- Does your headline explain what you do? Y/N
-- Does your summary sound like you wrote it? Y/N
-- Are your job descriptions results-focused? Y/N
-- Do you ever post or comment? Y/N
-
-**GitHub (if applicable):**
-- Do you have a decent README? Y/N
-- Are your projects organized? Y/N
-- Do commit messages make sense? Y/N
-
-**Twitter/X:**
-- Would you hire yourself based on your tweets? Y/N
-- Do you sound professional (without being boring)? Y/N
-
-### The Friend Test
-
-Ask 3 people this question:
-**"If you had to describe my professional style in 3 words, what would they be?"**
-
-**Person 1:** ___________
-**Words:** ___________
-
-**Person 2:** ___________
-**Words:** ___________
-
-**Person 3:** ___________
-**Words:** ___________
-
-**What patterns do you see?**
-___________
-
-**What surprised you?**
-___________
-
-## Your Brand Strategy (Simple Version) 🎯
-
-### Who Are You Trying to Reach?
-
-**Primary audience** (the people who hire/promote you):
-- Job titles: ___________
-- Industry: ___________
-- What they care about: ___________
-- Where they hang out online: ___________
-
-**Secondary audience** (peers and collaborators):
-- Job titles: ___________
-- What they need from you: ___________
-- Where you can help them: ___________
-
-### Your One-Liner
-
-Fill in the blanks:
-**"I help __________ [audience] to __________ [outcome] by __________ [your approach]."**
+"[What you do] interested in [what excites you]. Currently [what you're learning/building]."
 
 Examples:
-- "I help early-stage startups build scalable web apps by writing clean code and asking the right questions."
-- "I help marketing teams understand their data by turning complex analytics into clear, actionable insights."
+- "Full-stack dev interested in accessibility. Currently building React apps and contributing to open source."
+- "CS student interested in game dev. Currently learning Unity and building indie games."
+- "Self-taught programmer interested in automation. Currently building tools that save people time."
 
-**Your version:**
-___________
+**Your version:** ___________
 
-### What You'll Be Known For
+### README Files That Don't Suck
 
-Pick 2-3 themes you want to be associated with:
+Every project needs:
+1. **What it does** (one sentence)
+2. **Why you built it** (the problem it solves)
+3. **How to run it** (step by step)
+4. **What you learned** (shows growth mindset)
 
-□ **Problem-solving** - "I figure out solutions"
-□ **Communication** - "I explain tech stuff clearly"
-□ **Innovation** - "I find better ways to do things"
-□ **Reliability** - "I deliver what I promise"
-□ **Learning** - "I'm always growing my skills"
-□ **Mentoring** - "I help others succeed"
-□ **Leadership** - "I guide teams effectively"
+That's it. No fancy badges needed.
 
-**Your 3 themes:**
+## Your Portfolio (If You Need One)
+
+Not everyone needs a portfolio site. But if you're frontend, design-adjacent, or freelancing, it helps.
+
+### Portfolio Essentials
+
+**Must have:**
+- 3-5 projects that actually work
+- Clear explanation of your role
+- Links to live demos AND code
+- Simple way to contact you
+
+**Nice to have:**
+- Blog posts about what you learned
+- Contributions to open source
+- Side projects that show personality
+
+**Skip:**
+- Fancy animations that slow loading
+- Stock projects from tutorials
+- Anything you're not proud of
+
+### The "Good Enough" Portfolio
+
+Your portfolio doesn't need to be perfect. It needs to exist and show you can ship things.
+
+**Quick portfolio options:**
+1. GitHub Pages with a simple template
+2. README portfolio on GitHub
+3. Notion page made public
+4. Dev.to or Hashnode blog
+
+Pick one. Ship it this week. Improve it later.
+
+## Introvert-Friendly Networking
+
+Not everyone wants to "network" at events or slide into DMs. Here's how to build connections without the awkwardness:
+
+### The Contribution Strategy
+
+Instead of reaching out cold, contribute first:
+
+**Low pressure ways to connect:**
+- Fix a typo in someone's repo
+- Answer questions in Discord/Slack communities
+- Share helpful resources in forums
+- Write about what you're learning
+- Help beginners with their questions
+
+People remember who helps them.
+
+### Building in Public (Quietly)
+
+You don't need to tweet every thought. But occasional visibility helps:
+
+**Share your journey, not advice:**
+- "Fixed a bug that took 3 hours. The problem was [X]. Solution: [Y]"
+- "Finally understood [concept]. This tutorial helped: [link]"
+- "Built my first [thing]. Not perfect but it works! [link]"
+
+This attracts people on similar journeys.
+
+### One Coffee Chat Rule
+
+If networking events stress you out, try this:
+
+**Goal:** One meaningful conversation per month
+
+Could be:
+- Virtual coffee with someone whose work you admire
+- Pair programming session
+- Code review exchange
+- Study buddy meetup
+
+Quality over quantity. Always.
+
+## Try This Now (10 minutes)
+
+**Step 1:** Update your GitHub bio (2 minutes)
+Write one sentence about what you do and what interests you.
+
+**Step 2:** Pin your best repos (3 minutes)
+Choose 3-6 projects that show your range. Pin them.
+
+**Step 3:** Write one README (5 minutes)
+Pick your best project without a README. Add:
+- What it does
+- How to run it
+- What you learned
+
+Done. You just improved your professional presence by 50%.
+
+## The LinkedIn Reality Check
+
+Yes, you probably need LinkedIn. No, it doesn't need to be perfect.
+
+### LinkedIn Minimum Viable Profile
+
+**Headline:** What you do, not your job title
+- Bad: "Student at University"
+- Good: "CS Student building web apps with React"
+
+**Summary:** Three sentences max
+1. What you do
+2. What you're interested in
+3. What you're looking for
+
+**Experience:** Focus on impact, not tasks
+- Bad: "Responsible for frontend development"
+- Good: "Built features used by 1000+ users daily"
+
+That's enough. Move on.
+
+## Your Authentic Voice
+
+Stop trying to sound "professional." Start sounding like you on a good day.
+
+### Finding Your Voice
+
+**Your natural style is probably:**
+□ Analytical - You explain how things work  
+□ Helpful - You share resources and tips  
+□ Creative - You show unique approaches  
+□ Practical - You focus on what works  
+□ Curious - You ask questions and explore  
+
+Lean into it. That's your brand.
+
+### Topics You Can Own
+
+What can you talk about without preparation?
+
+**Technical topics I know:**
 1. ___________
 2. ___________
-3. ___________
 
-## The Implementation (No Overwhelm) 📱
-
-### Your Brand Voice
-
-How do you want to sound when you communicate?
-
-**Pick your style:**
-□ Conversational vs. Professional
-□ Casual vs. Formal  
-□ Humorous vs. Serious
-□ Direct vs. Diplomatic
-
-**Your communication style in one sentence:**
-___________
-
-**Things you'll always do:**
-- ___________
-- ___________
-
-**Things you'll never do:**
-- ___________
-- ___________
-
-### Quick Wins This Week
-
-Pick ONE thing to fix:
-
-□ **Update LinkedIn headline** to actually explain what you do
-□ **Write a human bio** for your profiles (not robot-speak)
-□ **Clean up your social media** (delete anything embarrassing)
-□ **Start one conversation** in a professional community
-□ **Share one piece of work** you're proud of
-
-### Content Strategy (Keep It Simple)
-
-You don't need to become a LinkedIn influencer. But occasional visibility helps.
-
-**One thing you could share weekly:**
-□ A problem you solved and how
-□ Something new you learned
-□ A tool or resource you found helpful
-□ A behind-the-scenes look at your work
-□ Your take on industry news
-
-**Your choice:** ___________
-
-**Where you'll share it:** ___________
-
-### Building Your Network (Without Being Sleazy)
-
-**3 people you could genuinely help or learn from:**
+**Problems I've solved:**
 1. ___________
 2. ___________
-3. ___________
 
-**How you'll connect:**
-□ Comment thoughtfully on their posts
-□ Share their content with your own insight
-□ Send a genuine message about their work
-□ Meet them at an event or online community
+**Things I'm learning:**
+1. ___________
+2. ___________
 
-## The Long Game 🎯
+Pick one. That's your first blog post or README.
 
-### Your Brand Goals
+## The Long Game
 
-**In 6 months, you want to be known as:**
-___________
+Building professional presence isn't about going viral or having thousands of followers. It's about:
 
-**In 1 year, when people think of [your specialty], they think of you because:**
-___________
+1. Being findable when opportunity knocks
+2. Having work that speaks for your skills
+3. Helping others along the way
+4. Staying authentic to who you are
 
-**In 3 years, you want your reputation to open doors to:**
-___________
+Do these four things consistently, and your "brand" builds itself.
 
-### Measuring Success
+## Remember This
 
-**How will you know it's working?**
-□ People start reaching out to you with opportunities
-□ You get invited to speak/write/contribute
-□ Your network grows with quality connections
-□ Job applications get better responses
-□ Colleagues come to you for expertise
+The best personal brand is just you, doing good work, helping others, and making it easy for people to find and understand what you do.
 
-## The Anti-Cringe Guidelines 🚫
+Your GitHub commits matter more than your LinkedIn posts. Your helpful comments matter more than your follower count. Your shipped projects matter more than your perfect bio.
 
-**Don't:**
-- Humble brag constantly
-- Post motivational quotes with sunrises
-- Use buzzwords you don't understand
-- Pretend to be someone you're not
-- Over-share personal stuff professionally
-
-**Do:**
-- Be genuinely helpful
-- Share actual insights from your experience
-- Show your work, not just your wins
-- Ask questions and engage with others
-- Stay consistent with your authentic voice
-
-## This Week's Action Plan
-
-1. **Pick your one-liner** and test it on someone
-2. **Choose your quick win** and implement it
-3. **Update one profile** with your real voice
-4. **Connect with one new person** in your field
-
-## The Truth About Personal Branding
-
-Here's what the LinkedIn gurus won't tell you: **The best personal brands aren't built, they're grown.**
-
-You don't need to reinvent yourself or become someone you're not. You just need to be intentional about showing up as your best professional self, consistently.
-
-Your brand should feel like you on a good day—competent, helpful, and genuine. That's it.
-
-Tomorrow, we're talking job search strategy. Because now that you know who you are and how to present yourself, let's figure out how to find opportunities that deserve you.
+Focus on the work. The rest follows. 💪
 
 ---
 
-[Continue to Day 4: Job Search Strategy →](/journey/week-12/04-job-search-strategy/)
+[← Previous: Skill Gap Analysis](/journey/week-12/02-skill-gap-analysis/) | [Next: Job Search Strategy →](/journey/week-12/04-job-search-strategy/)
+
+[← Back to Week 12 Overview](/journey/week-12/)

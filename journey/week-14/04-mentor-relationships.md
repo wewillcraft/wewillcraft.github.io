@@ -1,446 +1,420 @@
 ---
-title: "Mentor Relationships"
-excerpt: Build and nurture meaningful mentoring relationships that accelerate your growth and expand your impact.
+title: "Finding Your People"
+description: "Build meaningful relationships with mentors and mentees in organic, authentic ways"
+excerpt: "Discover how to find mentors organically and start mentoring others - because peer mentorship counts too"
+objectives:
+  - Find mentors through natural connections
+  - Be a great mentee who people want to help
+  - Start mentoring others at any level
+  - Build authentic relationships over transactions
 ---
 
-# Mentor Relationships
+# Finding Your People
 
-**Time:** 90 minutes  
-**Purpose:** Develop comprehensive mentoring strategy for giving and receiving wisdom
+*Here's something cool: you've been in a mentoring relationship for 14 weeks. Whether you realized it or not, this program has been mentoring you, and you've probably been mentoring classmates along the way.*
 
-## Mentoring: The Multiplier of Success
+Let's talk about something that sounds scary but is actually happening all around you: mentoring.
 
-Every successful person has mentors—and becomes one. Mentoring relationships create exponential growth: you learn faster, see blind spots sooner, and avoid costly mistakes. More importantly, mentoring others amplifies your own impact and creates a legacy of positive change.
+Here's the truth: mentoring doesn't have to be this formal, intimidating thing. The best mentoring relationships grow naturally from genuine connections and curiosity.
 
-## Part 1: Mentoring Assessment (15 minutes)
+## Why Mentoring Matters (But Not How You Think)
 
-### Current Mentoring Inventory
+Forget the image of the wise old executive taking the young professional under their wing. Real mentoring happens everywhere:
 
-**Mentors You Have:**
+- Your coworker who's really good at writing code reviews
+- The person in your Discord who always gives thoughtful feedback
+- Your friend who's great at explaining complex concepts
+- That senior developer who actually answers questions on Stack Overflow
 
-**Formal Mentors:**
-1. Name: _____ | Area: _____ | Frequency: _____ | Duration: _____
-2. Name: _____ | Area: _____ | Frequency: _____ | Duration: _____
+And here's the secret: you're already qualified to mentor someone too.
 
-**Informal Mentors:**
-1. Name: _____ | Learning: _____ | Interaction: _____
-2. Name: _____ | Learning: _____ | Interaction: _____
-3. Name: _____ | Learning: _____ | Interaction: _____
+## Your Mentoring Network Right Now (10 minutes)
 
-**Historical Mentors:**
-1. Name: _____ | Impact: _____ | Key Lesson: _____
-2. Name: _____ | Impact: _____ | Key Lesson: _____
+Let's map out the mentoring relationships you already have (you probably have more than you think):
 
-**Mentees You Support:**
+**People Who Help You Learn:**
+1. Person: _____ | What they're good at: _____ | How you connect: _____
+2. Person: _____ | What they're good at: _____ | How you connect: _____
+3. Person: _____ | What they're good at: _____ | How you connect: _____
 
-**Formal Mentees:**
-1. Name: _____ | Area: _____ | Frequency: _____ | Duration: _____
-2. Name: _____ | Area: _____ | Frequency: _____ | Duration: _____
+**People You Help:**
+1. Person: _____ | How you help them: _____ | How you connect: _____
+2. Person: _____ | How you help them: _____ | How you connect: _____
 
-**Informal Mentees:**
-1. Name: _____ | Support: _____ | Interaction: _____
-2. Name: _____ | Support: _____ | Interaction: _____
+**People Who've Made a Difference:**
+1. Person: _____ | What they taught you: _____
+2. Person: _____ | What they taught you: _____
 
-**Mentoring Quality Assessment:**
-Rate your current mentoring relationships (1-10):
-- Receiving valuable guidance: ___
-- Having regular meaningful conversations: ___
-- Getting honest feedback: ___
-- Feeling supported during challenges: ___
-- Providing value to others: ___
-- Having impact on others' growth: ___
+**How's it going?**
+Rate your current mentoring relationships (1-10, no judgment):
+- Getting helpful guidance when you need it: ___
+- Having people you can ask honest questions: ___
+- Getting feedback that actually helps: ___
+- Feeling supported when things get tough: ___
+- Helping others when you can: ___
+- Making a positive difference for someone: ___
 
-### Mentoring Gaps Analysis
+### What You Need and What You Have
 
-**Areas Where You Need Mentoring:**
-□ Technical/professional skills
-□ Leadership development
-□ Career navigation
-□ Industry insights
-□ Life/work balance
-□ Financial planning
-□ Entrepreneurship
+**Areas where you'd love some guidance:**
+Check what resonates:
+□ Technical skills
+□ Career decisions
+□ Work/life balance
+□ Industry navigation
+□ Side projects/entrepreneurship
 □ Personal development
-□ Relationship building
-□ Health/wellness
+□ Building relationships
+□ Financial stuff
+□ Just general life advice
 
-**Your Top 3 Mentoring Needs:**
+**Your top 3 "I could use help with this" areas:**
 1. _____
 2. _____
 3. _____
 
-**Areas Where You Could Mentor Others:**
-□ Your professional expertise
-□ Industry knowledge
-□ Life experiences
-□ Skills you've developed
-□ Challenges you've overcome
-□ Networks you've built
-□ Lessons you've learned
-□ Perspectives you offer
+**Things you know that might help others:**
+□ Technical skills you've learned
+□ Problems you've solved
+□ Challenges you've worked through
+□ Tools or resources you've discovered
+□ Perspectives from your background
+□ Lessons from your mistakes
+□ Networks or communities you know
 
-**Your Top 3 Mentoring Capabilities:**
+**Your top 3 "I could help someone with this" areas:**
 1. _____
 2. _____
 3. _____
 
-## Part 2: Finding and Approaching Mentors (25 minutes)
+## Finding Mentors Naturally (15 minutes)
 
-### Ideal Mentor Profile
+### What Makes Someone a Good Mentor for You
 
-**For Each Mentoring Need, Define:**
+**For your top mentoring need:** _____
+- Someone who: _____
+- Experience level: _____ (they don't need to be 20 years ahead!)
+- Personality that works for you: _____
+- How available they seem: _____
 
-**Mentoring Need 1:** _____
-- Ideal mentor profile: _____
-- Experience level: _____
-- Industry/background: _____
-- Personality fit: _____
-- Availability/accessibility: _____
+**For your second mentoring need:** _____
+- Someone who: _____
+- What kind of person: _____
+- How you'd like to connect: _____
 
-**Mentoring Need 2:** _____
-- Ideal mentor profile: _____
-- Experience level: _____
-- Industry/background: _____
-- Personality fit: _____
-- Availability/accessibility: _____
+### Where to Look for Mentors
 
-**Mentoring Need 3:** _____
-- Ideal mentor profile: _____
-- Experience level: _____
-- Industry/background: _____
-- Personality fit: _____
-- Availability/accessibility: _____
+**Start close to home:**
+- Current workplace: _____
+- Previous jobs: _____
+- School connections: _____
+- Professional groups: _____
 
-### Mentor Discovery Strategy
-
-**Within Your Network:**
-
-**1-Degree Connections:**
-- Current colleagues: _____
-- Former colleagues: _____
-- Industry contacts: _____
-- Professional associations: _____
-
-**2-Degree Connections:**
-- LinkedIn 2nd connections: _____
-- Mutual contacts introductions: _____
-- Referrals from current mentors: _____
-- Alumni networks: _____
-
-**Beyond Your Network:**
-
-**Industry Events:**
-- Conferences to attend: _____
+**Branch out naturally:**
+- LinkedIn (but make it personal): _____
+- Industry Discord/Slack communities: _____
 - Local meetups: _____
-- Professional gatherings: _____
-- Speaking opportunities: _____
+- Twitter tech community: _____
 
-**Online Discovery:**
-- LinkedIn outreach strategy: _____
-- Industry forums participation: _____
-- Social media engagement: _____
-- Content creator connection: _____
+**Think beyond traditional:**
+- Peer mentors (same level, different strengths): _____
+- Reverse mentors (younger but different perspective): _____
+- Group mentoring (meetups, book clubs): _____
+- Content creators you admire: _____
 
-**Reverse Mentoring:**
-- Offer your skills first: _____
-- Create value before asking: _____
-- Start with informal connection: _____
+### How to Approach Someone (Without Being Weird)
 
-### Approach Strategy
+**The key: Start small and be genuine**
 
-**Initial Outreach Template:**
+**Good outreach example:**
 
 "Hi [Name],
 
-I've been following your work in [specific area] and am particularly impressed by [specific achievement/insight]. I'm currently [your situation] and working to develop my expertise in [relevant area].
+I saw your post about [specific thing] and it really resonated with me. I'm working on [your situation] and have been thinking a lot about [topic they mentioned].
 
-I'm not looking for a formal mentoring commitment, but I'd love to learn from your experience. Would you be open to a brief 15-minute conversation about [specific topic]? I'd be happy to share my perspective on [your area of expertise] if that would be valuable.
+I'd love to hear more about your perspective on this - would you be up for a quick coffee chat sometime? I'd be happy to share what I've learned about [something you know] too if that's interesting.
 
-Thank you for considering,
+Thanks!
 [Your name]"
 
-**Follow-up Strategy:**
-- Initial response time: within 48 hours
-- Value provision: specific insight/resource
-- Next meeting request: specific agenda
-- Gratitude expression: personalized thank you
+**What makes this work:**
+- You mentioned something specific
+- You're not asking for their whole life story
+- You're offering something in return
+- You sound like a real human
 
-**Relationship Development Process:**
+### How Mentoring Relationships Grow
 
-**Phase 1: Connection (Meetings 1-3)**
-- Build rapport and trust
-- Demonstrate coachability
-- Show appreciation and respect
-- Clarify mutual expectations
+**Stage 1: Getting to Know Each Other**
+- Have genuine conversations
+- Be curious about their experience
+- Share your own perspective
+- See if there's natural connection
 
-**Phase 2: Learning (Months 1-6)**
-- Regular check-ins established
-- Specific guidance sought
-- Feedback implemented
-- Progress shared
+**Stage 2: Regular Connection**
+- Check in occasionally
+- Ask specific questions
+- Share what you're working on
+- Follow up on their advice
 
-**Phase 3: Growth (Months 6+)**
-- Deeper relationship developed
-- Complex challenges discussed
-- Strategic thinking shared
-- Mutual value exchange
+**Stage 3: Mutual Support**
+- Deeper conversations about challenges
+- You start helping them too
+- You become someone they trust
+- Natural, ongoing relationship
 
-## Part 3: Effective Mentee Skills (20 minutes)
+## Being Someone People Want to Help (10 minutes)
 
-### Being a Great Mentee
+### What Makes a Great Mentee
 
-**Preparation Excellence:**
-- Come with specific questions: _____
-- Research their background: _____
-- Prepare agenda in advance: _____
-- Set clear objectives: _____
+**Come prepared:**
+- Have specific questions, not "tell me everything": _____
+- Do your homework first: _____
+- Come with your own thoughts too: _____
 
-**Active Engagement:**
-- Listen more than talk: _____
-- Ask thoughtful follow-up questions: _____
-- Take notes during conversations: _____
-- Seek specific examples: _____
+**Actually listen:**
+- Listen more than you talk: _____
+- Ask follow-up questions: _____
+- Take notes (shows you care): _____
+- Ask for examples: _____
 
-**Implementation Discipline:**
-- Act on advice received: _____
-- Report back on progress: _____
-- Share outcomes and learnings: _____
-- Adjust approach based on feedback: _____
+**Follow through:**
+- Try what they suggest: _____
+- Report back on how it went: _____
+- Share what you learned: _____
+- Be honest about what didn't work: _____
 
-**Relationship Nurturing:**
-- Express gratitude regularly: _____
+**Be a good human:**
+- Say thank you (and mean it): _____
 - Respect their time: _____
-- Offer value in return: _____
-- Maintain regular communication: _____
+- Help them when you can: _____
+- Stay in touch appropriately: _____
 
-### Maximizing Mentor Conversations
+### Making the Most of Conversations
 
-**Pre-Meeting Preparation:**
-- Specific challenges to discuss: _____
-- Questions to ask: _____
-- Progress updates to share: _____
-- Resources to bring: _____
+**Before you meet:**
+- One specific challenge: _____
+- Two real questions: _____
+- Update on previous advice: _____
 
-**During Meeting Focus:**
-- Most valuable use of time: _____
-- Insights to capture: _____
-- Actions to commit to: _____
-- Next steps to clarify: _____
+**During the conversation:**
+- Focus on what's most valuable: _____
+- Write down key insights: _____
+- Be clear about next steps: _____
 
-**Post-Meeting Actions:**
-- Summary and notes review: _____
-- Commitment follow-through: _____
-- Additional research: _____
-- Progress tracking: _____
+**After you meet:**
+- Review your notes: _____
+- Actually try what they suggested: _____
+- Follow up when you said you would: _____
 
-### Common Mentee Mistakes
+### Don't Be That Person
 
-**What NOT to Do:**
-□ Expect them to solve your problems
-□ Take without giving back
-□ Waste their time with poor preparation
-□ Argue with their advice
-□ Disappear without communication
-□ Make the same mistakes repeatedly
-□ Ask for favors too early
-□ Focus only on career advancement
+**Things that make mentors run away:**
+□ Expecting them to fix everything for you
+□ Only taking, never giving
+□ Showing up unprepared
+□ Arguing with their advice (then why ask?)
+□ Disappearing for months without a word
+□ Making the same mistakes over and over
+□ Asking for job referrals on the first meeting
 
-**What TO Do:**
-□ Come with specific, thoughtful questions
-□ Implement their suggestions
-□ Share your progress and learnings
-□ Offer value and support
-□ Respect boundaries and time
-□ Express genuine appreciation
-□ Build authentic relationship
-□ Help them achieve their goals too
+**Things that make mentors want to help more:**
+□ Coming with thoughtful questions
+□ Actually trying what they suggest
+□ Updating them on your progress
+□ Offering to help them too
+□ Respecting their time and boundaries
+□ Saying thank you genuinely
+□ Building a real relationship
+□ Caring about their goals too
 
-## Part 4: Becoming an Effective Mentor (20 minutes)
+## You're Already Ready to Mentor Someone (10 minutes)
 
-### Mentoring Philosophy
+### Your Mentoring Approach
 
-**Your Mentoring Values:**
-What principles guide your mentoring?
+**What matters to you when helping others?**
 1. _____
 2. _____
 3. _____
 
-**Your Mentoring Style:**
-□ Directive (giving specific advice)
-□ Coaching (asking guiding questions)
-□ Supporting (providing encouragement)
-□ Connecting (making introductions)
-□ Challenging (pushing for growth)
+**How do you naturally help people?**
+Check what feels right:
+□ Give specific advice and suggestions
+□ Ask questions to help them think through it
+□ Listen and encourage
+□ Connect them with other people
+□ Challenge them to grow
 
-**Your Preferred Style:** _____
+**Your natural style:** _____
 
-**Your Mentoring Capacity:**
-- Time available per week: ___ hours
-- Number of formal mentees: ___
-- Number of informal relationships: ___
-- Group mentoring interest: Yes/No
+**What you can realistically offer:**
+- Time per week: ___ hours (start small!)
+- Number of people to help regularly: ___
+- Interested in group mentoring: Yes/No
 
-### Mentee Selection Criteria
+### People You'll Enjoy Helping
 
-**Ideal Mentee Characteristics:**
-□ Coachable and open to feedback
-□ Demonstrates initiative and follow-through
-□ Shows gratitude and respect
-□ Has clear goals and direction
-□ Brings energy and enthusiasm
-□ Offers value and perspective
-□ Commits to the relationship
-□ Takes action on advice
+**Green flags (these people are awesome to work with):**
+□ They listen and ask good questions
+□ They try things and report back
+□ They say thank you
+□ They have some idea what they want
+□ They bring energy and enthusiasm
+□ They help you think differently
+□ They follow through
+□ They actually use your advice
 
-**Red Flags in Potential Mentees:**
-□ Only wants connections/favors
-□ Doesn't prepare for meetings
-□ Defensive about feedback
-□ Expects you to do the work
-□ Disappears between meetings
-□ Makes excuses instead of progress
-□ Shows up only when needed
-□ Lacks commitment to growth
+**Red flags (these people will drain you):**
+□ They just want introductions to your network
+□ They show up unprepared every time
+□ They get defensive when you try to help
+□ They expect you to do their work
+□ They disappear for months then show up when they need something
+□ They make excuses instead of trying
+□ They only reach out when they want something
 
-### Mentoring Framework
+### Simple Mentoring Framework
 
-**GROW Model for Mentoring:**
+**The GROW approach (just a helpful guide):**
 
-**Goal:** What does the mentee want to achieve?
-- Help them clarify objectives
-- Make goals specific and measurable
-- Connect to their larger vision
-- Set timeline and milestones
+**Goal:** What do they want to achieve?
+- Help them get specific
+- Connect it to something bigger
+- Make it realistic
 
-**Reality:** What's the current situation?
-- Understand their challenges
-- Assess skills and resources
-- Identify obstacles and constraints
-- Explore context and background
+**Reality:** What's actually happening?
+- Understand their situation
+- Figure out what they have to work with
+- Identify what's in their way
 
-**Options:** What possibilities exist?
-- Brainstorm potential solutions
-- Share your experience/insights
-- Explore different approaches
-- Consider resources available
+**Options:** What could they try?
+- Brainstorm ideas together
+- Share what worked for you
+- Think of different approaches
 
-**Way Forward:** What will they commit to?
-- Define specific actions
-- Set accountability measures
-- Schedule follow-up
-- Confirm commitment level
+**Way Forward:** What will they actually do?
+- Pick specific next steps
+- Set a check-in time
+- Make sure they're committed
 
-### Mentoring Best Practices
+### How to Be a Great Mentor
 
-**Effective Mentoring Behaviors:**
-- Listen more than you speak: _____
-- Ask powerful questions: _____
-- Share stories, not just advice: _____
-- Challenge appropriately: _____
-- Provide honest feedback: _____
-- Make valuable connections: _____
-- Follow up consistently: _____
-- Celebrate their successes: _____
+**What works:**
+- Listen more than you talk: _____
+- Ask questions that make them think: _____
+- Tell stories from your experience: _____
+- Challenge them gently: _____
+- Give honest (but kind) feedback: _____
+- Connect them with other people: _____
+- Check in regularly: _____
+- Celebrate their wins: _____
 
-**Mentoring Communication:**
-- Meeting frequency: _____
-- Communication method: _____
-- Meeting duration: _____
+**How you'll connect:**
+- How often: _____
+- Method (coffee, video, text): _____
+- How long: _____
 - Response time expectations: _____
 
-## Part 5: Mentoring Program Design (10 minutes)
+## Your Mentoring Network (5 minutes)
 
-### Personal Mentoring System
+### The People You'll Connect With
 
-**Mentoring Portfolio:**
+**People who help you:**
+- Someone further ahead: _____
+- Someone at your level with different strengths: _____
+- Someone newer with fresh perspectives: _____
+- Someone with specific expertise you need: _____
 
-**Receiving Mentoring:**
-- Senior mentor (10+ years ahead): _____
-- Peer mentor (similar level): _____
-- Reverse mentor (junior but different perspective): _____
-- Specialized mentor (specific expertise): _____
+**People you help:**
+- Someone newer to the field: _____
+- Someone at your level: _____
+- Someone who needs a skill you have: _____
 
-**Providing Mentoring:**
-- Junior mentee (career development): _____
-- Peer mentee (mutual development): _____
-- Skills mentee (specific expertise): _____
-- Life mentee (broader guidance): _____
+### Making Time for Mentoring
 
-### Mentoring Calendar
+**Weekly mentoring time:**
+- Day/time for mentor conversations: _____
+- Day/time for helping others: _____
+- Time for mentoring community: _____
 
-**Weekly Mentoring Schedule:**
-- Monday: _____
-- Tuesday: _____
-- Wednesday: _____
-- Thursday: _____
-- Friday: _____
+**Monthly mentoring activities:**
+- Deeper mentor conversations: _____
+- Check in with people you're helping: _____
+- Group activities (meetups, etc.): _____
 
-**Monthly Mentoring Activities:**
-- Formal mentor meetings: _____
-- Informal mentor check-ins: _____
-- Group mentoring sessions: _____
-- Mentoring community events: _____
+### How You'll Know It's Working
 
-### Mentoring Success Metrics
+**Getting mentored well:**
+- You're implementing what you learn: ___%
+- Your skills are improving: ___/10
+- You're reaching goals faster: ___/10
+- The relationships feel good: ___/10
 
-**As a Mentee:**
-- Advice implementation rate: ___%
-- Skill development progress: ___/10
-- Goal achievement acceleration: ___/10
-- Relationship satisfaction: ___/10
+**Mentoring others well:**
+- They're making progress: ___/10
+- They seem happy with your help: ___/10
+- You're learning from them too: ___/10
+- It feels worth your time: ___/10
 
-**As a Mentor:**
-- Mentee progress tracking: ___/10
-- Mentee satisfaction: ___/10
-- Your own learning: ___/10
-- Time investment value: ___/10
+### Your Long-term Vision
 
-### Long-term Mentoring Vision
+**In 3 years:**
 
-**3-Year Mentoring Goals:**
+**Learning from others:**
+- What you want to get better at: _____
+- Types of people you want to learn from: _____
+- Depth of relationships you want: _____
 
-**As a Mentee:**
-- Areas of development: _____
-- Types of mentors needed: _____
-- Relationship depth goals: _____
+**Helping others:**
+- Who you want to help: _____
+- Impact you want to have: _____
+- What you want to be known for: _____
 
-**As a Mentor:**
-- People you want to help: _____
-- Impact you want to create: _____
-- Legacy you want to build: _____
+**Community:**
+- Groups you want to be part of: _____
+- Things you might start: _____
 
-**Mentoring Community:**
-- Organizations to join: _____
-- Programs to create: _____
-- Systems to build: _____
-
-## Action Steps
+## Your Next Steps (5 minutes)
 
 ### This Week
-1. Complete mentoring assessment and gap analysis
-2. Identify 3 potential mentors to approach
-3. Reach out to one potential mentor
-4. Offer mentoring to one junior person
-5. Set up mentoring tracking system
+1. Reach out to one person who could mentor you
+2. Offer to help one person with something you know
+3. Join one community where mentoring happens naturally
+4. Thank someone who's helped you recently
+5. Share one lesson you've learned with others
 
 ### This Month
-1. Establish connection with new mentor
-2. Begin formal mentee relationship
-3. Attend mentoring-related event
-4. Implement advice from current mentors
-5. Share progress updates with mentoring network
+1. Have your first mentor conversation
+2. Start helping someone regularly
+3. Go to a meetup or community event
+4. Try advice someone gave you and report back
+5. Connect two people who should know each other
 
-### This Quarter
-1. Develop consistent mentoring rhythm
-2. Expand mentoring portfolio strategically
-3. Join formal mentoring program
-4. Create value for entire mentoring network
-5. Plan next level of mentoring development
+### Next 3 Months
+1. Build consistent mentoring relationships
+2. Find your rhythm for helping others
+3. Join a formal program if you want structure
+4. Become known as someone who helps
+5. Celebrate the progress you've made
 
-## Key Takeaway
+## Remember This
 
-Mentoring is not about finding someone to give you answers—it's about building relationships that help you ask better questions and see new possibilities. The best mentoring relationships are reciprocal, where both parties learn and grow. As you advance in your career and life, your responsibility shifts from being primarily a mentee to being primarily a mentor, but the learning never stops. Remember: you don't need permission to be a mentor, and you don't need to be perfect to provide value to others.
+Mentoring isn't about finding a wise guru to give you all the answers. It's about building genuine relationships with people who help you think better and see new possibilities.
+
+The best part? You're already qualified to help someone. You don't need 10 years of experience or a perfect track record. You just need to care about someone's growth and be willing to share what you've learned.
+
+Peer mentoring counts. Helping someone one step behind you counts. Answering questions in community forums counts.
+
+You've spent 14 weeks learning and growing. That journey has given you something valuable to share.
+
+Start somewhere. Help someone. Let people help you. Build relationships.
+
+You've got this.
 
 ---
 
-[← Previous: Continuous Learning](/journey/week-14/03-continuous-learning/) | [Continue to Giving Back →](/journey/week-14/05-giving-back/)
+## Navigation
+
+← [Previous: Continuous Learning](/journey/week-14/03-continuous-learning/) | [Next: Giving Back](/journey/week-14/05-giving-back/) →
+
+[← Back to Week 14 Overview](/journey/week-14/)
