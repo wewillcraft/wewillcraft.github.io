@@ -1,0 +1,86 @@
+---
+layout: layouts/base.vto
+---
+<main class="bg-white min-h-screen">
+  <div class="container mx-auto px-4 py-16 md:py-24">
+    <div class="max-w-3xl mx-auto text-center">
+      {{ if error_code }}
+        <div class="mb-8">
+          <span
+            class="text-8xl md:text-9xl font-bold text-[#eb4e3b] animate-pulse"
+          >{{ error_code }}</span>
+          {{ if error_message }}
+            <p class="text-2xl md:text-3xl font-semibold text-stone-700 mt-4">
+              {{ error_message }}
+            </p>
+          {{ /if }}
+        </div>
+      {{ /if }}
+
+      <article class="prose prose-lg mx-auto text-left">
+        {{ content }}
+      </article>
+
+      <div class="mt-12 pt-8 border-t border-stone-300">
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+          <a
+            href="/"
+            class="inline-flex items-center px-6 py-3 bg-[#eb4e3b] hover:bg-[#f69b39] text-white font-semibold rounded-lg transition duration-300 transform hover:-translate-y-1"
+          >
+            <svg
+              class="w-5 h-5 mr-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
+              >
+              </path>
+            </svg>
+            Back to Home
+          </a>
+
+          <a
+            href="/posts"
+            class="inline-flex items-center px-6 py-3 bg-stone-700 hover:bg-stone-600 text-white font-semibold rounded-lg transition duration-300 transform hover:-translate-y-1"
+          >
+            <svg
+              class="w-5 h-5 mr-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+              >
+              </path>
+            </svg>
+            Browse Posts
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fun animated background element -->
+    <div class="fixed inset-0 pointer-events-none opacity-10 overflow-hidden">
+      <div class="absolute -top-1/2 -right-1/2 w-full h-full">
+        <div class="w-96 h-96 rounded-full bg-[#eb4e3b] blur-3xl animate-pulse">
+        </div>
+      </div>
+      <div class="absolute -bottom-1/2 -left-1/2 w-full h-full">
+        <div
+          class="w-96 h-96 rounded-full bg-[#f69b39] blur-3xl animate-pulse"
+          style="animation-delay: 1s"
+        >
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

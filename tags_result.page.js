@@ -12,7 +12,7 @@ export const navbar = {
   ],
 };
 
-export default function*({ search }) {
+export default function* ({ search }) {
   // Generate a page for each tag
   for (const tag of search.values("tags")) {
     yield {
