@@ -30,3 +30,6 @@ lessons:
   - index: 8
     title: "Leadership Practice"
     slug: "08-leadership-practice"
+  - index: 9
+    title: "Weekly Meditation & Reflection"
+    slug: "09-reflection"

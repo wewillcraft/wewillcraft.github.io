@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Yesterday you discovered your core values. Today we're finding where your natural interests, talents, and the world's needs all come together. This is where career magic happens!
+Yesterday you discovered your core values. In this lesson we're finding where your natural interests, talents, and the world's needs all come together. This is where career magic happens!
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your ideal career sits at the intersection of what you love, what you're good at, what the world needs, and what pays well.** This Japanese concept called "ikigai" can help you find work that doesn't feel like work.
 
@@ -74,7 +74,7 @@ Also, you might have multiple ikigai areas throughout your life. That's totally 
 
 **The Builder:** Loves creating + Good at execution + World needs new tools + Startups need this
 
-## Today's Takeaway
+## Key Takeaway
 
 Your ikigai isn't a destination you arrive at - it's a direction you move toward. The closer you get to that sweet spot, the more your work will feel like play. 🎯
 
@@ -362,7 +362,7 @@ Which resonates most?
 1. Which circle is currently strongest? Weakest?
 2. What would need to change to live your ikigai?
 3. Who is already living a similar ikigai?
-4. What's one step toward alignment you can take today?
+4. What's one step toward alignment you can take in this lesson?
 
 ## Key Takeaway
 

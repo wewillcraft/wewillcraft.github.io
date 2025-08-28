@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-You've done incredible work this week discovering your values, your sweet spot, and your vision. Today we're pulling it all together into something powerful: your personal manifesto.
+You've done incredible work this week discovering your values, your sweet spot, and your vision. In this lesson we're pulling it all together into something powerful: your personal manifesto.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **A manifesto is your personal constitution.** It's a short document that says "This is who I am, what I stand for, and how I'll live." When life gets complicated, your manifesto keeps you centered.
 
@@ -69,7 +69,7 @@ _I will work on problems I care about with people I respect. I will keep learnin
 
 _I won't sacrifice my values for money. I won't work on projects that harm others. I won't pretend to be someone I'm not._
 
-## Today's Takeaway
+## Key Takeaway
 
 Your manifesto is your personal operating system. When decisions get tough, it's your guide. When opportunities arise, it's your filter. When life gets noisy, it's your clarity. 🎯
 
@@ -239,7 +239,7 @@ Combine everything into a powerful declaration. Write in first person, present t
 
 **[YOUR NAME]'S MANIFESTO**
 
-_Date: [Today's Date]_
+_Date: [in this lesson's Date]_
 
 I am \***\*\_\_\_\*\***
 
@@ -281,10 +281,10 @@ Signed,
 ### Daily Practice
 
 Every morning, ask:
-"How will I live my manifesto today?"
+"How will I live my manifesto in this lesson?"
 
 Every evening, ask:
-"Did I honor my manifesto today?"
+"Did I honor my manifesto in this lesson?"
 
 ### Weekly Review
 

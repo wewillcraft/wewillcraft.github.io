@@ -29,7 +29,7 @@ Before you involve others, get right with yourself:
 
 Every night, ask yourself:
 
-1. What did I do today that I'm proud of?
+1. What did I do in this lesson that I'm proud of?
 2. What got in the way?
 3. What's one thing for tomorrow?
 

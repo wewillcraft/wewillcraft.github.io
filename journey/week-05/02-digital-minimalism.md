@@ -8,9 +8,9 @@ week: 5
 
 ## Hey friend! 👋
 
-Ready to take back control of your devices? Your phone was supposed to be a tool to make your life easier, not a slot machine that hijacks your attention every few minutes. Today we're turning your devices into focus allies instead of focus enemies.
+Ready to take back control of your devices? Your phone was supposed to be a tool to make your life easier, not a slot machine that hijacks your attention every few minutes. In this lesson we're turning your devices into focus allies instead of focus enemies.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your environment shapes your behavior more than your willpower ever will.**
 
@@ -81,7 +81,7 @@ Everything else is just noise designed to make you feel busy and connected while
 
 Remember: you're not becoming anti-technology. You're becoming intentional about technology.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop fighting distraction with willpower. Design an environment where focus is the path of least resistance.
 

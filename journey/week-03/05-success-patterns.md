@@ -1,6 +1,6 @@
 ---
 title: "When You're Unstoppable"
-excerpt: "Ever have one of those days where everything just clicks? Today we figure out what makes those magic moments happen so we can create more of them."
+excerpt: "Ever have one of those days where everything just clicks? in this lesson we figure out what makes those magic moments happen so we can create more of them."
 index: 5
 estimated_time: 20 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-You know those days when you're totally in the zone? When code flows like water, problems solve themselves, and you feel like you could tackle anything? Those aren't random lucky days - they have patterns. Today we're reverse-engineering your success.
+You know those days when you're totally in the zone? When code flows like water, problems solve themselves, and you feel like you could tackle anything? Those aren't random lucky days - they have patterns. In this lesson we're reverse-engineering your success.
 
 ## Why This Matters
 
@@ -65,6 +65,6 @@ Here's what I've learned: success isn't about willpower or talent - it's about c
 
 Stop waiting for motivation to strike and start engineering the conditions that make you naturally motivated.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your peak performance has a pattern. Find it, and you can recreate it on demand.

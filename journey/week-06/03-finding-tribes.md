@@ -8,9 +8,9 @@ week: 6
 
 ## Hey friend! 👋
 
-Ever feel like you're coding alone on an island? Today we're changing that. Let's find your people—the communities where you'll actually feel at home, not just lurk in the shadows.
+Ever feel like you're coding alone on an island? In this lesson we're changing that. Let's find your people—the communities where you'll actually feel at home, not just lurk in the shadows.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **The right community can 10x your growth. The wrong one can kill your confidence.**
 
@@ -107,7 +107,7 @@ Want more? Try these:
 - **Virtual Coffee**: Weekly Zoom hangouts
 - **Women Who Code / Black Tech Pipeline**: If you want identity-specific support
 
-## Today's Takeaway
+## Key Takeaway
 
 You don't have to code alone. Your tribe is out there—you just have to take the first small step to find them.
 

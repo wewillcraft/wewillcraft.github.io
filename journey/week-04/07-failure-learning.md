@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Had any good failures lately? I know, I know—that sounds weird. But in the coding world, failures, bugs, and "it doesn't work" moments are actually your fastest path to becoming better. Today we're learning how to extract maximum value from every mistake.
+Had any good failures lately? I know, I know—that sounds weird. But in the coding world, failures, bugs, and "it doesn't work" moments are actually your fastest path to becoming better. In this lesson we're learning how to extract maximum value from every mistake.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Failures aren't obstacles to learning. They're the express lane to expertise.**
 
@@ -97,7 +97,7 @@ Also, don't try to learn from every tiny mistake. Focus on the ones that:
 
 Remember: the best developers aren't the ones who never encounter bugs. They're the ones who've encountered the most bugs and learned from each one.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop running from failure. Start mining it for gold. Every bug you debug makes you a better debugger. Every broken feature teaches you how the system really works.
 

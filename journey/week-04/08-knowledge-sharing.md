@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Ready for a counterintuitive truth? The best way to learn something deeply is to teach it to someone else. Today we're building systems to share what you're learning. Not because you're an expert, but because sharing makes you one.
+Ready for a counterintuitive truth? The best way to learn something deeply is to teach it to someone else. In this lesson we're building systems to share what you're learning. Not because you're an expert, but because sharing makes you one.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **When you teach something, you learn it twice.**
 
@@ -47,7 +47,7 @@ Pick ONE method that feels natural to you:
 
 - Start a dev blog (dev.to, Hashnode, or personal site)
 - Document your learning journey
-- Write "Today I Learned" posts
+- Write "in this lesson I Learned" posts
 
 🎥 **Video**
 
@@ -99,7 +99,7 @@ In fact, beginners often make the best teachers because they remember what it's 
 
 Your learning journey IS valuable content. Someone else is exactly where you were yesterday, and they need to see how you figured it out.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop learning in isolation. When you share what you're learning (even imperfectly), you learn it better, help others, and build your reputation simultaneously.
 

@@ -10,7 +10,7 @@ week: 6
 
 Your GitHub profile is getting checked by recruiters right now. Let's make sure it tells the story you want—and opens doors instead of closing them.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **GitHub is LinkedIn for developers. Every commit, star, and contribution shapes how others see your skills.**
 
@@ -111,7 +111,7 @@ Copy this and work through it:
 - [ ] Follow developers whose work you admire
 - [ ] Engage thoughtfully in issues/discussions
 
-## Today's Takeaway
+## Key Takeaway
 
 Your GitHub tells a story about you as a developer. Make sure it's the story you want employers, collaborators, and mentors to read.
 

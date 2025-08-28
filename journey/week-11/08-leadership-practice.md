@@ -134,9 +134,9 @@ Let's quickly capture what you discovered about yourself:
 ## Daily Leadership Practices (Pick 2-3)
 
 **Morning Leadership Prep:**
-□ "How do I want to show up as a leader today?"
-□ "What leadership skill will I practice today?"
-□ "Who can I help succeed today?"
+□ "How do I want to show up as a leader in this lesson?"
+□ "What leadership skill will I practice in this lesson?"
+□ "Who can I help succeed in this lesson?"
 
 **Throughout the Day:**
 □ Notice your emotional responses and manage them
@@ -146,7 +146,7 @@ Let's quickly capture what you discovered about yourself:
 □ Practice active listening in every conversation
 
 **Evening Leadership Reflection:**
-□ "What leadership moments did I have today?"
+□ "What leadership moments did I have in this lesson?"
 □ "How did I handle challenges?"
 □ "What did I learn about myself and others?"
 □ "How can I improve tomorrow?"
@@ -292,4 +292,4 @@ Leadership is a practice, not a destination. Every day gives you new opportuniti
 
 You've learned the tools. Now go use them. Help someone succeed. Make a team work better together. Have the difficult conversation. Make the hard decision. Influence positive change.
 
-The world needs your leadership. Start today! 🌟
+The world needs your leadership. Start in this lesson! 🌟

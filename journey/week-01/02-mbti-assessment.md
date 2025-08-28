@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-Ever wonder why some ways of working feel effortless while others drain you? Today we're diving into your brain's "operating system" - how you naturally think, decide, and recharge.
+Ever wonder why some ways of working feel effortless while others drain you? In this lesson we're diving into your brain's "operating system" - how you naturally think, decide, and recharge.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Your personality type is like your brain's default settings. Understanding it helps you work WITH your nature, not against it. Think of it as discovering your mental superpowers!
 
@@ -81,6 +81,6 @@ Some days you might feel like an extrovert, other days an introvert. That's tota
 
 **If you're a Perceiver:** You thrive with options and variety. Use soft deadlines to stay on track.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your personality type isn't a limitation - it's your secret weapon. Now you have the user manual for your brain! 🎯

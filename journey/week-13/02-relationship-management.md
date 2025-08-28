@@ -27,7 +27,7 @@ And yet, your relationships matter more than your code ever will.
 
 **The fix:**
 
-- Learn to translate: "I solved a really hard puzzle at work today"
+- Learn to translate: "I solved a really hard puzzle at work in this lesson"
 - Focus on feelings, not technical details
 - Save the tech talk for tech friends
 - Ask about their work with genuine interest
@@ -67,7 +67,7 @@ Your non-tech friends are gold. They keep you grounded. Here's how to keep them:
 **Say:** "My boss approved my project!"
 
 **Instead of:** "The API is down"
-**Say:** "Work systems are broken today"
+**Say:** "Work systems are broken in this lesson"
 
 ### Shared Activities That Work
 

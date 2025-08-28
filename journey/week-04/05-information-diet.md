@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Feeling overwhelmed by the endless stream of dev content? New frameworks, hot takes, "must-read" articles, courses you "should" take? Today we're putting you back in control with an information diet that feeds your growth without burning you out.
+Feeling overwhelmed by the endless stream of dev content? New frameworks, hot takes, "must-read" articles, courses you "should" take? In this lesson we're putting you back in control with an information diet that feeds your growth without burning you out.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **You are what you consume, and most of us are consuming junk information.**
 
@@ -52,7 +52,7 @@ Quick! Write down everything you consumed yesterday related to tech:
 **Now ask yourself:**
 
 - How much did you actually learn?
-- What can you implement today from what you consumed?
+- What can you implement in this lesson from what you consumed?
 - What felt like "junk food" content?
 
 ### Design Your Feed (10 minutes)
@@ -97,7 +97,7 @@ The fear of missing out keeps you in consumption mode instead of creation mode. 
 
 Remember: Your competition isn't learning about every new thing. Your competition is building cool stuff with the tools they know well.
 
-## Today's Takeaway
+## Key Takeaway
 
 Information is like food. The goal isn't to consume as much as possible. It's to consume what nourishes your growth and supports your goals.
 

@@ -152,11 +152,11 @@ _Action needed: Stop, rest, get help_
 
 ## Daily Stress Check-Ins
 
-**Morning:** "How am I feeling? What might stress me out today?"
+**Morning:** "How am I feeling? What might stress me out in this lesson?"
 
 **Lunch:** "Am I in green, yellow, or red zone?"
 
-**Evening:** "What signals showed up today? What worked to help?"
+**Evening:** "What signals showed up in this lesson? What worked to help?"
 
 ## This Week's Challenge
 

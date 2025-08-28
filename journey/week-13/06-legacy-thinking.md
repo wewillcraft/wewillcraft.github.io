@@ -1,7 +1,7 @@
 ---
 title: "Your Daily Legacy (Not Your Deathbed Speech)"
 description: "Small impacts matter more than grand gestures. Build legacy through daily actions."
-excerpt: "Legacy isn't about being remembered forever. It's about that one person you helped today."
+excerpt: "Legacy isn't about being remembered forever. It's about that one person you helped in this lesson."
 objectives:
   - "Understand legacy as daily impact, not lifetime achievement"
   - "Identify small ways to matter right now"
@@ -42,7 +42,7 @@ Every day, you have chances to matter:
 - Contribute to open source (even fixing typos)
 - Mentor someone for 15 minutes
 
-**Today's code legacy:** What will you do? ___________
+**in this lesson's code legacy:** What will you do? ___________
 
 ### The People Legacy
 
@@ -52,7 +52,7 @@ Every day, you have chances to matter:
 - Thank someone who helped you
 - Be kind when you don't have to be
 
-**Today's people legacy:** Who will you impact? ___________
+**in this lesson's people legacy:** Who will you impact? ___________
 
 ### The Culture Legacy
 
@@ -62,7 +62,7 @@ Every day, you have chances to matter:
 - Support work-life boundaries
 - Be the person you needed when you started
 
-**Today's culture legacy:** What will you model? ___________
+**in this lesson's culture legacy:** What will you model? ___________
 
 ## Your Micro-Legacy Audit
 
@@ -258,7 +258,7 @@ Your legacy isn't some grand monument. It's the thousand tiny impacts you make w
 
 Every question you answer. Every person you encourage. Every bit of knowledge you share. Every time you're kind when you could be indifferent.
 
-You're building legacy right now, today, in the small things. The person you help today might help hundreds tomorrow because of you.
+You're building legacy right now, in this lesson, in the small things. The person you help in this lesson might help hundreds tomorrow because of you.
 
 You don't need to be Steve Jobs. You just need to be helpful. And you already are.
 

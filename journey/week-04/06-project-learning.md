@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Tired of tutorial hell? You know, that endless cycle of following tutorials, feeling like you "get it," then staring at a blank screen when it's time to build something real? Today we're breaking free with project-based learning, where you learn by building stuff you actually want to create.
+Tired of tutorial hell? You know, that endless cycle of following tutorials, feeling like you "get it," then staring at a blank screen when it's time to build something real? In this lesson we're breaking free with project-based learning, where you learn by building stuff you actually want to create.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **The best way to learn is to build something that solves a problem you actually have.**
 
@@ -102,7 +102,7 @@ Start simple. Your first version doesn't need to be perfect or feature-complete.
 
 The goal isn't to build the next unicorn startup. The goal is to learn by building something that matters to you, no matter how small.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop learning in isolation. Start learning with purpose. When you build projects that solve your real problems, learning stops feeling like work and starts feeling like progress toward something that matters.
 

@@ -12,9 +12,9 @@ estimated_time: 15 minutes
 
 ## Hey friend! 👋
 
-Yesterday we looked at HOW your brain works. Today we're diving deeper into WHY you do what you do. Think of this as discovering your emotional engine - what really makes you tick.
+Yesterday we looked at HOW your brain works. In this lesson we're diving deeper into WHY you do what you do. Think of this as discovering your emotional engine - what really makes you tick.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 The Enneagram reveals your core motivation - that deep "why" behind your actions. Unlike personality types that change, this is the consistent driver that's been with you since childhood.
 
@@ -104,6 +104,6 @@ Your type isn't an excuse or a box - it's a spotlight on your unconscious patter
 
 **Your core fear isn't reality** - it's just your brain's way of trying to protect you. Thank it, then make decisions from wisdom, not fear.
 
-## Today's Takeaway
+## Key Takeaway
 
 You are not broken. You are not too much or too little. You have a beautiful, complex inner world, and understanding it is the key to living with more peace and purpose. 🎯

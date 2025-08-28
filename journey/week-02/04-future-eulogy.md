@@ -1,6 +1,6 @@
 ---
 title: "What They'll Say About You"
-excerpt: "Ever wonder what your legacy will actually be? Today we're figuring out what really matters by imagining the end of your story."
+excerpt: "Ever wonder what your legacy will actually be? In this lesson we're figuring out what really matters by imagining the end of your story."
 index: 4
 estimated_time: 15 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-What if you could peek into the future and see exactly how people remember you? Today we're doing something powerful - we're writing your eulogy to understand what kind of legacy you actually want to create. It's like debugging your life from the end backward.
+What if you could peek into the future and see exactly how people remember you? In this lesson we're doing something powerful - we're writing your eulogy to understand what kind of legacy you actually want to create. It's like debugging your life from the end backward.
 
 ## Why This Matters
 
@@ -53,7 +53,7 @@ Write what a work peer would remember:
 
 Write what someone whose life you changed would say:
 
-- "I wouldn't be here today if [Your name] hadn't..."
+- "I wouldn't be here in this lesson if [Your name] hadn't..."
 - "They saw in me..."
 - "Because of them, I..."
 
@@ -69,6 +69,6 @@ This exercise might feel heavy, but here's the beautiful truth: you get to choos
 
 Don't aim for perfection. Aim for intentionality. Small changes in how you treat people, what work you prioritize, and where you invest your time can completely change your legacy.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your eulogy isn't about death - it's about life. It's your north star showing you what actually matters, not just what feels urgent.

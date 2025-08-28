@@ -10,7 +10,7 @@ week: 7
 
 Time for a sustainability audit. Let's honestly assess how your current developer lifestyle is working and build systems that support a long, fulfilling career in tech.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **What got you here won't get you there. Your early-career survival tactics need to evolve into mid-career sustainability systems.**
 
@@ -83,7 +83,7 @@ Write down your highest risk areas. These are your sustainability threats.
 Examples:
 
 - **Low energy management**: Schedule your hardest task for tomorrow morning
-- **Poor boundaries**: Set a work stop time for today and stick to it
+- **Poor boundaries**: Set a work stop time for in this lesson and stick to it
 - **No recovery**: Schedule one 30-minute recovery activity this week
 - **Relationship neglect**: Text one friend/family member right now
 - **No movement**: Take a 5-minute walk outside
@@ -96,7 +96,7 @@ This audit might reveal some uncomfortable truths. That's the point.
 
 The developers who have 20+ year careers didn't just get lucky—they built systems that support longevity. They prioritized sustainability over heroics, systems over motivation, and balance over intensity.
 
-Your future self is depending on the choices you make today.
+Your future self is depending on the choices you make in this lesson.
 
 ## Your Sustainability Action Plan
 
@@ -152,7 +152,7 @@ Copy and personalize this:
 
 I am building a career that I can maintain and enjoy for decades."
 
-## Today's Takeaway
+## Key Takeaway
 
 Sustainability isn't about being lazy—it's about being strategic. The most successful developers optimize for the long game. They build systems that support consistent high performance without burning out. Your audit is the first step toward that sustainability.
 

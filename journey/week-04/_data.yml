@@ -30,3 +30,6 @@ lessons:
   - index: 8
     title: "Share Your Knowledge"
     slug: "08-knowledge-sharing"
+  - index: 9
+    title: "Weekly Meditation & Reflection"
+    slug: "09-reflection"

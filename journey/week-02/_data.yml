@@ -27,3 +27,6 @@ lessons:
   - index: 7
     title: "Writing Your Manifesto"
     slug: "07-personal-manifesto"
+  - index: 8
+    title: "Weekly Meditation & Reflection"
+    slug: "08-reflection"

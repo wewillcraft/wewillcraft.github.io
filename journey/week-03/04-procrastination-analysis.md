@@ -1,6 +1,6 @@
 ---
 title: "Why You Really Procrastinate"
-excerpt: "Let's get real about procrastination. It's not about being lazy - it's about something deeper. Today we figure out your procrastination triggers."
+excerpt: "Let's get real about procrastination. It's not about being lazy - it's about something deeper. in this lesson we figure out your procrastination triggers."
 index: 4
 estimated_time: 15 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-Procrastination isn't about being lazy or having no willpower. It's usually your brain trying to protect you from something - fear, perfectionism, overwhelm, or just plain old energy depletion. Today we're getting curious about what's really going on.
+Procrastination isn't about being lazy or having no willpower. It's usually your brain trying to protect you from something - fear, perfectionism, overwhelm, or just plain old energy depletion. In this lesson we're getting curious about what's really going on.
 
 ## Why This Matters
 
@@ -64,6 +64,6 @@ Here's the thing about procrastination: it's often your wise inner self saying "
 
 Stop beating yourself up for procrastinating and start getting curious about what it's trying to tell you.
 
-## Today's Takeaway
+## Key Takeaway
 
 Procrastination is information, not a character flaw. Listen to what it's telling you.

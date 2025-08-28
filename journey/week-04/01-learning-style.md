@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever wonder why some learning methods feel like swimming upstream while others just click? Today we're solving that mystery by discovering your personal learning style.
+Ever wonder why some learning methods feel like swimming upstream while others just click? In this lesson we're solving that mystery by discovering your personal learning style.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your brain has a preferred learning language. Once you know it, everything gets easier.**
 
@@ -120,7 +120,7 @@ You might be thinking, "But what if I'm a mix of styles?" Great question! Most p
 
 Also, your learning style might be different from what school taught you. That's totally normal. You're not broken. You just haven't been learning in your native language.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop fighting your brain's natural preferences. When you align your learning methods with how your brain actually works, everything becomes easier and more enjoyable.
 

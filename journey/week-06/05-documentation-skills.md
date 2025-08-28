@@ -8,9 +8,9 @@ week: 6
 
 ## Hey friend! 👋
 
-Ever stare at documentation feeling completely lost? Today we're changing that. You'll learn to decode any docs quickly AND contribute improvements that boost your reputation.
+Ever stare at documentation feeling completely lost? In this lesson we're changing that. You'll learn to decode any docs quickly AND contribute improvements that boost your reputation.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Good documentation skills are your competitive advantage. While others get stuck, you'll understand, implement, and improve any tool.**
 
@@ -107,7 +107,7 @@ Here's what I learned works:
 This clarifies [specific confusion] that beginners often face.
 ```
 
-## Today's Takeaway
+## Key Takeaway
 
 Documentation skills compound. Every doc you read strategically makes you better at the next one. Every improvement you make helps thousands of future developers—and builds your reputation as someone who cares about developer experience.
 

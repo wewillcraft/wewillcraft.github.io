@@ -16,7 +16,7 @@ You know that coworker who needs EVERY detail before making a decision? And that
 
 They're not trying to be difficult. They just have different wiring.
 
-Today, we're learning how to speak everyone's language. It's like being a polyglot, but for personalities.
+in this lesson, we're learning how to speak everyone's language. It's like being a polyglot, but for personalities.
 
 ## The Quick Personality Decoder
 

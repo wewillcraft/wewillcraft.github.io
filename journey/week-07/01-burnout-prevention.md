@@ -10,7 +10,7 @@ week: 7
 
 Burnout isn't sudden—it's a slow burn that starts when you ignore the warning signs. Let's build your early warning system before you need it.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Burnout prevention is 10x easier than burnout recovery. Learn your warning signs now.**
 
@@ -68,7 +68,7 @@ Recognize these patterns—they're your warning system.
 1. Rate your energy level (1-10) over the past two weeks
 2. Identify your #1 current work stressor
 3. Name one thing you've been avoiding/procrastinating
-4. Set a daily reminder: "How's my energy today?"
+4. Set a daily reminder: "How's my energy in this lesson?"
 
 This creates awareness so you can catch changes early.
 
@@ -94,7 +94,7 @@ These are professional skills.
 **Weekly**: Ask "What drained me? What energized me?"\
 **Monthly**: Audit your systems and boundaries
 
-## Today's Takeaway
+## Key Takeaway
 
 Burnout prevention is like version control for your mental health—small, regular commits prevent massive conflicts later. Your career is a marathon, not a sprint to impress LinkedIn.
 

@@ -5,7 +5,7 @@ excerpt: "Turn skill gaps into growth opportunities and focus on the top 3 that 
 objectives:
   - "Identify your top 3 growth opportunities that excite you"
   - "Balance technical and soft skill development equally"
-  - "Find free resources to start learning today"
+  - "Find free resources to start learning in this lesson"
 ---
 
 ## It's Not What You Lack - It's What You're About to Learn
@@ -14,7 +14,7 @@ Let's flip the script on "skill gaps."
 
 Every skill you don't have yet? That's not a deficit. That's potential. That's room to grow. That's what makes the next year exciting instead of terrifying.
 
-Today we're going to figure out what skills would make the biggest difference for you - and I promise we're only picking THREE. Because trying to learn everything at once is how you learn nothing at all.
+In this lesson we're going to figure out what skills would make the biggest difference for you - and I promise we're only picking THREE. Because trying to learn everything at once is how you learn nothing at all.
 
 ## Your Current Toolkit (It's Better Than You Think)
 

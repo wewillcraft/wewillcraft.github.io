@@ -1,6 +1,6 @@
 ---
 title: "Your Custom Productivity System"
-excerpt: "Tired of trying productivity systems that don't fit you? Today we design a system that actually works with your personality and energy patterns."
+excerpt: "Tired of trying productivity systems that don't fit you? in this lesson we design a system that actually works with your personality and energy patterns."
 index: 6
 estimated_time: 20 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-Most productivity systems fail because they're one-size-fits-all solutions for people who are anything but one-size-fits-all. Today we're designing a system that works with your personality, energy patterns, and natural rhythms instead of fighting against them.
+Most productivity systems fail because they're one-size-fits-all solutions for people who are anything but one-size-fits-all. In this lesson we're designing a system that works with your personality, energy patterns, and natural rhythms instead of fighting against them.
 
 ## Why This Matters
 
@@ -69,6 +69,6 @@ Here's the truth: there's no perfect productivity system, only systems that fit 
 
 Stop trying to force yourself into someone else's productivity box. Design your own.
 
-## Today's Takeaway
+## Key Takeaway
 
 The best productivity system is the one that works with your nature, not against it.

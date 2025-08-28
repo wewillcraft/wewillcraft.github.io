@@ -14,7 +14,7 @@ estimated_time: 15 minutes
 
 Now that you know WHO you are, let's figure out WHEN and HOW your brain works best. Think of this as optimizing your personal productivity system!
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Your brain has preferences for when it performs best and how it likes to receive information. Working with these preferences instead of against them can make learning and working feel almost effortless.
 
@@ -98,7 +98,7 @@ I used to force myself to work at 6am because "successful people wake up early."
 
 There's no "right" way to work - only YOUR way.
 
-## Today's Takeaway
+## Key Takeaway
 
 Stop trying to force your brain into someone else's productivity system. Design a learning and work style that works WITH your natural preferences, not against them. 🎯
 

@@ -206,7 +206,7 @@ Attach new systems to existing habits:
 
 - Wake up → Check calendar
 - Brush teeth → Quick email check
-- Coffee → Review today's tasks
+- Coffee → Review in this lesson's tasks
 
 **Evening stack:**
 

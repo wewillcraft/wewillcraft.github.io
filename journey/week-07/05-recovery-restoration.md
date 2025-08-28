@@ -10,7 +10,7 @@ week: 7
 
 High performers don't just work hard—they recover strategically. Let's talk about the secret ingredient that separates sustainable achievers from burnout casualties.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Recovery isn't the absence of work—it's the fuel for better work. Elite athletes know this. Elite developers are learning.**
 
@@ -102,7 +102,7 @@ Recovery isn't weakness. It's optimization.
 
 ## Quick Win ✅
 
-**Right now, schedule one recovery activity for today:**
+**Right now, schedule one recovery activity for in this lesson:**
 
 Pick something that takes 30 minutes or less:
 
@@ -147,7 +147,7 @@ Scores below 7 are recovery debt. Pick one to improve this week.
 ✅ Sustainable pace beats heroic efforts
 ✅ Your best code comes from your rested brain
 
-## Today's Takeaway
+## Key Takeaway
 
 Recovery isn't what you do when work is done—it's what enables good work in the first place. Protect your restoration time like you protect your coding time. Both are essential for a sustainable career.
 

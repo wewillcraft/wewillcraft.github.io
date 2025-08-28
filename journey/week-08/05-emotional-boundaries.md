@@ -9,7 +9,7 @@ excerpt: Stop absorbing others' emotions and navigate difficult relationships.
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Emotional boundaries are the invisible lines that separate your emotions from others'. They allow you to care about people without carrying their emotional burdens, to be empathetic without being overwhelmed, and to maintain your emotional stability while supporting others. Healthy emotional boundaries are essential for both professional success and personal well-being.
 
@@ -93,6 +93,6 @@ Some people will resist your emotional boundaries because they've benefited from
 
 You're not responsible for managing other people's emotions, even if they're upset about your boundaries. Your job is to be kind and professional, not to be everyone's emotional support system.
 
-## Today's Takeaway
+## Key Takeaway
 
 Healthy emotional boundaries allow you to be present and supportive without losing yourself in others' emotional experiences. When you maintain your emotional center, you can respond thoughtfully rather than react impulsively, leading to better relationships and decisions.

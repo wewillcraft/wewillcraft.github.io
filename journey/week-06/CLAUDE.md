@@ -1,9 +1,11 @@
 # Week 6: Getting Help - Style Guide
 
 ## Week Overview
+
 Week 6 teaches the underrated skill of asking for and receiving help. In tech, nobody succeeds alone. This week breaks down the myth of the lone genius coder.
 
 ## Specific Tone for This Week
+
 - **Vulnerability-positive**: Asking for help is strength
 - **Community-focused**: We're all in this together
 - **Practical**: How to actually get help
@@ -12,48 +14,56 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 ## Lesson-by-Lesson Guidelines
 
 ### Lesson 1: Help Psychology (01-help-psychology.md)
+
 - Why asking feels hard
 - Cultural barriers to help
 - Reframing help-seeking
 - "Smart people ask for help"
 
 ### Lesson 2: Stack Overflow Mastery (02-stackoverflow-mastery.md)
+
 - Search before asking
 - Question formatting
 - Dealing with harsh responses
 - "SO can be kind"
 
 ### Lesson 3: Finding Tribes (03-finding-tribes.md)
+
 - Online communities
 - Local meetups
 - Discord/Slack groups
 - "Your people exist"
 
 ### Lesson 4: Mentorship (04-mentorship.md)
+
 - Finding mentors organically
 - Being a good mentee
 - Peer mentorship
 - "Mentors are everywhere"
 
 ### Lesson 5: Documentation Skills (05-documentation-skills.md)
+
 - Reading docs effectively
 - When docs fail
 - Contributing back
 - "Docs are your friend"
 
 ### Lesson 6: GitHub Social (06-github-social.md)
+
 - Issues and discussions
 - Contributing to projects
 - Building reputation
 - "GitHub is social media"
 
 ### Lesson 7: Expert Outreach (07-expert-outreach.md)
+
 - When to reach out
 - How to ask experts
 - Respecting their time
 - "Experts were beginners once"
 
 ### Lesson 8: Building Public (08-building-public.md)
+
 - Learning in public
 - Attracting help
 - Helping others
@@ -62,6 +72,7 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 ## Key Messages for Week 6
 
 ### Core Messages:
+
 - "Nobody knows everything"
 - "Help accelerates learning"
 - "Giving help helps you"
@@ -69,6 +80,7 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 - "Questions show wisdom"
 
 ### Myth-Busting:
+
 - Experts Google constantly
 - Everyone gets stuck
 - Senior devs ask questions
@@ -78,6 +90,7 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 ## Examples to Use
 
 ### Good Examples:
+
 - Rubber duck debugging
 - Study group success
 - Open source collaboration
@@ -85,6 +98,7 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 - Discord server support
 
 ### Avoid:
+
 - Lone wolf programming
 - Never asking questions
 - Suffering in silence
@@ -94,6 +108,7 @@ Week 6 teaches the underrated skill of asking for and receiving help. In tech, n
 ## Exercises for This Week
 
 Help-seeking practice:
+
 - Ask one question online
 - Join one community
 - Help one person
@@ -103,6 +118,7 @@ Help-seeking practice:
 ## Language Specific to Help
 
 ### Instead of:
+
 - "I should know this" → "I'm learning this"
 - "Stupid question" → "Quick question"
 - "Sorry to bother" → "Could you help"
@@ -112,6 +128,7 @@ Help-seeking practice:
 ## Writing Style Notes
 
 ### Avoid Em Dashes
+
 - **NO EM DASHES (—)**: They sound too AI-written
 - Use shorter sentences instead
 - Or use commas for quick asides
@@ -122,18 +139,21 @@ Help-seeking practice:
 ## Common Help Barriers
 
 ### For Prideful:
+
 - Everyone asks for help
 - It's efficient, not weak
 - You'd help others
 - "Let people help you"
 
 ### For Shy/Introverted:
+
 - Online first is fine
 - Async communication works
 - One-on-one is valid
 - "Start where comfortable"
 
 ### For Impostor Syndrome:
+
 - Your questions help others
 - Beginners ask best questions
 - Everyone was new once
@@ -149,6 +169,7 @@ Help-seeking practice:
 ## Success Metrics
 
 Students should finish Week 6 with:
+
 1. Reduced help-seeking shame
 2. One community joined
 3. One question asked publicly
@@ -158,6 +179,7 @@ Students should finish Week 6 with:
 ## Help Culture Building
 
 ### Promote:
+
 - Questions are valuable
 - Helping helps you learn
 - Community contribution
@@ -165,6 +187,7 @@ Students should finish Week 6 with:
 - Collaborative growth
 
 ### Discourage:
+
 - Suffering alone
 - Perfectionism
 - Knowledge gatekeeping
@@ -174,6 +197,7 @@ Students should finish Week 6 with:
 ## Remember
 
 Week 6 is about:
+
 - Normalizing help-seeking
 - Building support networks
 - Contributing to community
@@ -185,6 +209,7 @@ Every lesson should reinforce: "Asking for help is how you level up."
 ## Frontmatter Requirements
 
 For all lesson files in this week, use these required frontmatter fields:
+
 - `title`: The lesson title
 - `description`: Brief description of the lesson
 - `excerpt`: Summary for listing pages
@@ -196,13 +221,15 @@ For all lesson files in this week, use these required frontmatter fields:
 ## Navigation Requirements
 
 Every lesson file MUST include navigation links at the end:
+
 - Previous lesson link (if applicable)
-- Next lesson link (if applicable) 
+- Next lesson link (if applicable)
 - Back to Week Overview link
 
 Use full relative paths like `/journey/week-06/02-support-systems/` for all navigation links.
 
 Example navigation section:
+
 ```markdown
 ---
 

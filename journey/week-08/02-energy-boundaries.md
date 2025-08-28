@@ -9,7 +9,7 @@ excerpt: Protect your mental and emotional energy through strategic boundary set
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Your energy is your most valuable resource. Unlike time, which flows at a constant rate, energy fluctuates based on how you invest it. Energy boundaries are protective barriers that ensure your mental, emotional, and physical energy is directed toward what matters most, rather than scattered across endless demands.
 
@@ -104,6 +104,6 @@ Some people will push back on your energy boundaries. That's usually because the
 
 Start small. Pick one energy boundary and practice it consistently for a week before adding another.
 
-## Today's Takeaway
+## Key Takeaway
 
 Energy boundaries aren't about being rigid—they're about being intentional. When you protect your energy like the finite resource it is, you create space for your best work and most meaningful relationships to flourish.

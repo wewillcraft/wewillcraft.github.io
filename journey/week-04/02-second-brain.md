@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Remember that feeling when you solved a complex problem, then completely forgot how you did it a month later? Yeah, we've all been there. Today we're building your "second brain" to capture all that hard-earned knowledge.
+Remember that feeling when you solved a complex problem, then completely forgot how you did it a month later? Yeah, we've all been there. In this lesson we're building your "second brain" to capture all that hard-earned knowledge.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your brain is for having ideas, not storing them.**
 
@@ -81,7 +81,7 @@ The magic isn't in collecting everything. It's in having one trusted place where
 
 Also, don't try to migrate everything at once. Start fresh with your new system and gradually add old stuff when you need it.
 
-## Today's Takeaway
+## Key Takeaway
 
 A second brain isn't about becoming a digital hoarder. It's about creating a trusted system that grows with you, connects your ideas, and makes you genuinely smarter over time.
 

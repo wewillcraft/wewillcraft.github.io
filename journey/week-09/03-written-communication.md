@@ -14,7 +14,7 @@ estimated_time: 30 minutes
 
 Let's be honest: Half your emails go unread. Your beautiful documentation gathers dust. And that important Slack message? Buried under 47 messages about lunch.
 
-Today, we fix that.
+in this lesson, we fix that.
 
 ## The Email Formula That Works
 

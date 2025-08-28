@@ -1,6 +1,6 @@
 ---
 title: "Your Energy-Optimized Schedule"
-excerpt: "Ready to build a schedule that actually makes sense? Today we create your ideal week based on energy patterns, not arbitrary time blocks."
+excerpt: "Ready to build a schedule that actually makes sense? in this lesson we create your ideal week based on energy patterns, not arbitrary time blocks."
 index: 7
 estimated_time: 20 minutes
 objectives:
@@ -13,9 +13,9 @@ objectives:
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
-Most schedules are built around time slots and meeting availability. Today we're flipping that - we're designing your ideal week around your energy patterns, natural rhythms, and peak performance windows. It's like creating a schedule that actually makes sense.
+Most schedules are built around time slots and meeting availability. In this lesson we're flipping that - we're designing your ideal week around your energy patterns, natural rhythms, and peak performance windows. It's like creating a schedule that actually makes sense.
 
 ## Why This Matters
 
@@ -70,6 +70,6 @@ Here's what most people get wrong about schedules: they try to maximize every mi
 
 Remember: you're designing an ideal, not a prison. Build in flexibility because life happens.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your best schedule isn't about filling every hour - it's about aligning your energy with your priorities.

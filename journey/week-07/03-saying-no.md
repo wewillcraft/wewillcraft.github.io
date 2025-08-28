@@ -10,7 +10,7 @@ week: 7
 
 Saying no isn't about being difficult—it's about protecting your ability to say yes to what matters most. Let's learn to set boundaries without burning bridges.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Every yes to one thing is a no to everything else. The developers who advance fastest say no strategically.**
 
@@ -98,7 +98,7 @@ For non-urgent requests:
 
 This prevents impulse yes-es you'll regret.
 
-## Today's Takeaway
+## Key Takeaway
 
 Boundaries aren't walls—they're guardrails that keep your career on track. Protect your time and energy so you can give your best to what matters most. People respect you more when you have clear boundaries, not less.
 

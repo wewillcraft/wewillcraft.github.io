@@ -10,7 +10,7 @@ week: 7
 
 Some stress is inevitable in tech—deadlines happen, bugs emerge, systems fail. The goal isn't zero stress; it's managing stress before it manages you.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Stress isn't the enemy—unmanaged stress is. Learn to work with pressure instead of being crushed by it.**
 
@@ -142,7 +142,7 @@ When everything feels overwhelming:
 ❌ **Myth**: "Taking breaks when stressed is weak"
 ✅ **Reality**: Strategic breaks prevent complete breakdown
 
-## Today's Takeaway
+## Key Takeaway
 
 Stress is data—it tells you something needs attention. The goal isn't to eliminate stress but to respond to it skillfully. Build your toolkit before you need it, and remember: pressure makes diamonds, but only with the right conditions.
 

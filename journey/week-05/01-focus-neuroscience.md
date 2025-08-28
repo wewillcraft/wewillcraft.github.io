@@ -8,9 +8,9 @@ week: 5
 
 ## Hey friend! 👋
 
-Ever wonder why it's so hard to focus these days? Like, our ancestors didn't seem to have this problem, right? Today we're diving into the science behind your attention to understand what's really happening in your brain when you try to focus.
+Ever wonder why it's so hard to focus these days? Like, our ancestors didn't seem to have this problem, right? In this lesson we're diving into the science behind your attention to understand what's really happening in your brain when you try to focus.
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your brain isn't broken. It's just doing exactly what it evolved to do.**
 
@@ -74,9 +74,9 @@ Just notice them without judgment. This is your brain's default mode. It's not a
 
 You might be thinking, "Great, so I'm doomed to be distracted forever?" Not at all! Understanding how your attention works is the first step to training it.
 
-Your brain is incredibly adaptable. The same plasticity that made you check your phone 100 times today can be redirected toward sustained focus. It just takes the right approach.
+Your brain is incredibly adaptable. The same plasticity that made you check your phone 100 times in this lesson can be redirected toward sustained focus. It just takes the right approach.
 
-## Today's Takeaway
+## Key Takeaway
 
 Your distractibility isn't a character flaw. It's your brain trying to keep you alive. But what helped your ancestors survive can work against you in the modern world.
 

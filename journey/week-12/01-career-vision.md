@@ -29,7 +29,7 @@ Think of it like this: You're not planning your whole career. You're just pickin
 
 ## What Matters to You RIGHT NOW?
 
-Not in 10 years. Not when you're 40. Today. This year. What do you actually care about?
+Not in 10 years. Not when you're 40. in this lesson. This year. What do you actually care about?
 
 ### Quick Priority Check (Pick Your Top 3)
 

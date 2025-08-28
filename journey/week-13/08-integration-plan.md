@@ -270,7 +270,7 @@ Ask yourself monthly:
 
 1. Am I sleeping enough?
 2. Am I eating actual food?
-3. Have I moved today?
+3. Have I moved in this lesson?
 4. Did I connect with someone?
 5. Am I making progress on something?
 

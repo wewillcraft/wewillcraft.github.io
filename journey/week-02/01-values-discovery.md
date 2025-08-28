@@ -11,9 +11,9 @@ objectives:
 
 ## Hey friend! 👋
 
-Ever find yourself stuck between two good options, not knowing which to choose? Today we're going to fix that by discovering what you truly value deep down (which might surprise you!).
+Ever find yourself stuck between two good options, not knowing which to choose? In this lesson we're going to fix that by discovering what you truly value deep down (which might surprise you!).
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 **Your values are your decision-making shortcut.** When you're clear on what matters most to you, choices become obvious. No more endless pros and cons lists!
 
@@ -67,7 +67,7 @@ There's no right answer - just YOUR answer.
 **If you chose Excellence:** Quality matters more than speed
 **If you chose Connection:** Relationships energize you
 
-## Today's Takeaway
+## Key Takeaway
 
 Your values aren't suggestions - they're requirements. When you honor them, life flows. When you ignore them, everything feels harder than it should. 🎯
 

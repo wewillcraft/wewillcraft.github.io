@@ -9,7 +9,7 @@ excerpt: Maintain connection while protecting your space in personal relationshi
 
 Hey friend! 👋
 
-## Today's Big Idea 💡
+## The Big Idea 💡
 
 Personal boundaries in relationships aren't walls that keep people out—they're guidelines that keep healthy relationships in. They allow you to maintain your individuality while staying connected, to support others without sacrificing yourself, and to build relationships based on mutual respect rather than obligation or guilt.
 
@@ -101,6 +101,6 @@ Some people will test your personal boundaries, especially if they've benefited 
 
 Remember that you can love someone and still have limits. You can be supportive without being responsible for their emotions or choices.
 
-## Today's Takeaway
+## Key Takeaway
 
 Personal boundaries aren't about loving people less—they're about loving sustainably. When you maintain healthy boundaries in personal relationships, you can show up as your authentic self and build connections based on mutual respect and genuine care.
