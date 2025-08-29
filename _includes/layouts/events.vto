@@ -2,48 +2,86 @@
 layout: layouts/base.vto
 ---
 
-{{ set monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] }}
-{{ set shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] }}
+{{
+  set monthNames = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ]
+}}
+{{
+  set shortMonthNames = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ]
+}}
 {{ set weekDays = ["M", "T", "W", "T", "F", "S", "S"] }}
 
 {{# Helper function to get ISO week number #}}
-{{ set getISOWeek = (dateStr) => {
-  // Parse date string to components
-  const [year, month, day] = dateStr.split('-').map(n => parseInt(n, 10));
+{{
+  set getISOWeek = (dateStr) => {
+    // Parse date string to components
+    const [year, month, day] = dateStr.split("-").map(n => parseInt(n, 10));
 
-  // Create date in UTC to avoid timezone issues - use noon to avoid DST issues
-  const date = new Date(Date.UTC(year, month - 1, day, 12, 0, 0, 0));
+    // Create date in UTC to avoid timezone issues - use noon to avoid DST issues
+    const date = new Date(Date.UTC(year, month - 1, day, 12, 0, 0, 0));
 
-  // Make a copy
-  const d = new Date(date.valueOf());
+    // Make a copy
+    const d = new Date(date.valueOf());
 
-  // ISO week starts on Monday, make Sunday = 7
-  const dayOfWeek = d.getUTCDay() || 7;
+    // ISO week starts on Monday, make Sunday = 7
+    const dayOfWeek = d.getUTCDay() || 7;
 
-  // Find the Thursday of the current week
-  d.setUTCDate(d.getUTCDate() + 4 - dayOfWeek);
+    // Find the Thursday of the current week
+    d.setUTCDate(d.getUTCDate() + 4 - dayOfWeek);
 
-  // The year of that Thursday determines the ISO year
-  const isoYear = d.getUTCFullYear();
+    // The year of that Thursday determines the ISO year
+    const isoYear = d.getUTCFullYear();
 
-  // Find January 4th of that year (always in week 1)
-  const jan4 = new Date(Date.UTC(isoYear, 0, 4, 12, 0, 0, 0));
+    // Find January 4th of that year (always in week 1)
+    const jan4 = new Date(Date.UTC(isoYear, 0, 4, 12, 0, 0, 0));
 
-  // Find Monday of week 1
-  const jan4Day = jan4.getUTCDay() || 7;
-  const week1Monday = new Date(jan4.valueOf());
-  week1Monday.setUTCDate(jan4.getUTCDate() - jan4Day + 1);
+    // Find Monday of week 1
+    const jan4Day = jan4.getUTCDay() || 7;
+    const week1Monday = new Date(jan4.valueOf());
+    week1Monday.setUTCDate(jan4.getUTCDate() - jan4Day + 1);
 
-  // Calculate weeks between
-  const weekDiff = Math.round((d.valueOf() - week1Monday.valueOf()) / (7 * 86400000));
+    // Calculate weeks between
+    const weekDiff = Math.round(
+      (d.valueOf() - week1Monday.valueOf()) / (7 * 86400000),
+    );
 
-  return weekDiff + 1;
-} }}
+    return weekDiff + 1;
+  }
+}}
 
 {{# Get unique years from events #}}
 {{ set eventYears = [] }}
 {{ for event of events }}
-  {{ set dateStr = typeof event.start_date === 'string' ? event.start_date : event.start_date.toISOString().split('T')[0] }}
+  {{
+    set dateStr = typeof event.start_date === "string"
+    ? event.start_date
+    : event.start_date.toISOString().split("T")[0]
+  }}
   {{ set year = parseInt(dateStr.substring(0, 4)) }}
   {{ if !eventYears.includes(year) }}
     {{ set _ = eventYears.push(year) }}
@@ -74,7 +112,8 @@ layout: layouts/base.vto
             x-show="yearData.show"
             @click="navigateToYear(yearData.year)"
             class="px-4 py-2 bg-white text-gray-800 rounded-lg hover:bg-gray-100 transition-colors font-semibold"
-            x-html="yearData.label">
+            x-html="yearData.label"
+          >
           </button>
         </template>
       </div>
@@ -85,7 +124,9 @@ layout: layouts/base.vto
       <div class="flex flex-col sm:flex-row sm:items-center gap-4">
         <label class="text-white font-semibold">Filter by Organization:</label>
         <div class="flex flex-wrap gap-2">
-          {{ for org of organizations.sort((a, b) => a.name.localeCompare(b.name)) }}
+          {{
+            for org of organizations.sort((a, b) => a.name.localeCompare(b.name))
+          }}
             {{# Check if org has events in any year #}}
             {{ set hasEvents = events.some(e => e.by === org.id) }}
             {{ if hasEvents }}
@@ -112,13 +153,18 @@ layout: layouts/base.vto
     </div>
 
     {{# Calendar Grid #}}
-    <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6" id="calendarGrid">
+    <div
+      class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6"
+      id="calendarGrid"
+    >
       {{ for year of eventYears }}
         {{ for monthIndex of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] }}
           {{ set monthName = monthNames[monthIndex] }}
           {{ set daysInMonth = new Date(year, monthIndex + 1, 0).getDate() }}
           {{ set firstDayRaw = new Date(year, monthIndex, 1).getDay() }}
-          {{ set firstDay = (firstDayRaw + 6) % 7 }}{{# Convert Sunday=0 to Monday=0 #}}
+          {{
+            set firstDay = (firstDayRaw + 6) % 7
+          }}{{# Convert Sunday=0 to Monday=0 #}}
 
           <div
             class="bg-white rounded-xl shadow-md month-card flex flex-col"
@@ -128,21 +174,43 @@ layout: layouts/base.vto
             x-data="{ collapsed: shouldCollapseMonth({{ year }}, {{ monthIndex }}) }"
             x-init="$watch('isMobile', value => collapsed = value && shouldCollapseMonth({{ year }}, {{ monthIndex }}))"
           >
-            <div class="bg-gray-800 text-white px-4 py-3 relative cursor-pointer lg:cursor-default" @click="if (isMobile) collapsed = !collapsed">
+            <div
+              class="bg-gray-800 text-white px-4 py-3 relative cursor-pointer lg:cursor-default"
+              @click="if (isMobile) collapsed = !collapsed"
+            >
               <h2 class="text-xl font-semibold flex items-center justify-between">
                 <span>{{ monthName }}</span>
-                <svg x-show="isMobile" class="w-5 h-5 transition-transform" :class="{'rotate-180': !collapsed}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                <svg
+                  x-show="isMobile"
+                  class="w-5 h-5 transition-transform"
+                  :class="{'rotate-180': !collapsed}"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M19 9l-7 7-7-7"
+                  >
+                  </path>
                 </svg>
               </h2>
             </div>
 
-            <div class="p-4 bg-white flex-1 rounded-xl" x-show="!collapsed" x-transition>
+            <div
+              class="p-4 bg-white flex-1 rounded-xl"
+              x-show="!collapsed"
+              x-transition
+            >
               <div class="grid grid-cols-8 gap-1 text-xs">
                 {{# Week day headers #}}
                 <div></div>
                 {{ for day of weekDays }}
-                  <div class="font-semibold text-gray-700 text-center">{{ day }}</div>
+                  <div class="font-semibold text-gray-700 text-center">
+                    {{ day }}
+                  </div>
                 {{ /for }}
 
                 {{# Generate calendar with proper week structure #}}
@@ -162,18 +230,34 @@ layout: layouts/base.vto
                     {{# Get the Monday date for this week row to calculate correct ISO week #}}
                     {{ if weekStartDay < 1 }}
                       {{# This week starts in the previous month, find the Monday #}}
-                      {{ set prevMonth = monthIndex === 0 ? 11 : monthIndex - 1 }}
+                      {{
+                        set prevMonth = monthIndex === 0 ? 11 : monthIndex - 1
+                      }}
                       {{ set prevYear = monthIndex === 0 ? year - 1 : year }}
-                      {{ set daysInPrevMonth = new Date(prevYear, prevMonth + 1, 0).getDate() }}
+                      {{
+                        set daysInPrevMonth = new Date(prevYear, prevMonth + 1, 0).getDate()
+                      }}
                       {{ set mondayDate = daysInPrevMonth + weekStartDay }}
-                      {{ set weekNum = getISOWeek(`${prevYear}-${String(prevMonth + 1).padStart(2, '0')}-${String(mondayDate).padStart(2, '0')}`) }}
+                      {{
+                        set weekNum = getISOWeek(
+                          `${prevYear}-${
+                            String(prevMonth + 1).padStart(2, "0")
+                          }-${String(mondayDate).padStart(2, "0")}`,
+                        )
+                      }}
                     {{ else }}
                       {{# Find the Monday of this week (could be in current month) #}}
                       {{ set mondayDay = weekStartDay }}
-                      {{ set weekNum = getISOWeek(`${year}-${String(monthIndex + 1).padStart(2, '0')}-${String(mondayDay).padStart(2, '0')}`) }}
+                      {{
+                        set weekNum = getISOWeek(
+                          `${year}-${
+                            String(monthIndex + 1).padStart(2, "0")
+                          }-${String(mondayDay).padStart(2, "0")}`,
+                        )
+                      }}
                     {{ /if }}
                     <div class="text-gray-400 text-center text-[10px] font-medium self-center">
-                      W{{ String(weekNum).padStart(2, '0') }}
+                      W{{ String(weekNum).padStart(2, "0") }}
                     </div>
                   {{ else }}
                     <div></div>
@@ -188,17 +272,36 @@ layout: layouts/base.vto
                       <div></div>
                     {{ else }}
                       {{# Check for events on this day #}}
-                      {{ set dateStr = `${year}-${String(monthIndex + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}` }}
-                      {{ set dayEvents = events.filter(e => {
-                        const startDate = typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0];
-                        const endDate = e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : startDate;
-                        return startDate <= dateStr && endDate >= dateStr;
-                      }) }}
+                      {{
+                        set dateStr = `${year}-${
+                          String(monthIndex + 1).padStart(2, "0")
+                        }-${String(day).padStart(2, "0")}`
+                      }}
+                      {{
+                        set dayEvents = events.filter(e => {
+                          const startDate = typeof e.start_date === "string"
+                            ? e.start_date
+                            : e.start_date.toISOString().split("T")[0];
+                          const endDate = e.end_date
+                            ? (typeof e.end_date === "string"
+                              ? e.end_date
+                              : e.end_date.toISOString().split("T")[0])
+                            : startDate;
+                          return startDate <= dateStr && endDate >= dateStr;
+                        })
+                      }}
 
                       {{ set eventOrgs = dayEvents.map(e => `'${e.by}'`) }}
-                      {{ set eventOrgsStr = eventOrgs.length > 0 ? `[${eventOrgs.join(',')}]` : '[]' }}
+                      {{
+                        set eventOrgsStr = eventOrgs.length > 0
+                        ? `[${eventOrgs.join(",")}]`
+                        : "[]"
+                      }}
 
-                      <div class="relative calendar-cell" data-date="{{ dateStr }}">
+                      <div
+                        class="relative calendar-cell"
+                        data-date="{{ dateStr }}"
+                      >
                         {{ if dayEvents.length > 0 }}
                           <button
                             type="button"
@@ -210,7 +313,7 @@ layout: layouts/base.vto
                               'bg-blue-600 text-white hover:bg-blue-700': isToday({{ year }}, {{ monthIndex }}, {{ day }})
                             }"
                             x-show="shouldShowEvents({{ eventOrgsStr }})"
-                            data-events='{{ JSON.stringify(dayEvents) }}'
+                            data-events="{{ JSON.stringify(dayEvents).replace(/"/g, '&quot;') }}"
                           >
                             {{ day }}
                           </button>
@@ -251,18 +354,30 @@ layout: layouts/base.vto
     {{# Events List #}}
     <section class="mt-12">
       <h2 class="text-2xl font-bold text-white mb-6">
-        <span x-text="currentYear === new Date().getFullYear() ? 'Upcoming Events' : 'Events'"></span>
+        <span
+          x-text="currentYear === new Date().getFullYear() ? 'Upcoming Events' : 'Events'"
+        ></span>
       </h2>
 
       <div class="space-y-6">
         {{# Sort events by start_date #}}
-        {{ set sortedEvents = events.sort((a, b) => {
-          const aDate = typeof a.start_date === 'string' ? a.start_date : a.start_date.toISOString().split('T')[0];
-          const bDate = typeof b.start_date === 'string' ? b.start_date : b.start_date.toISOString().split('T')[0];
-          return aDate.localeCompare(bDate);
-        }) }}
+        {{
+          set sortedEvents = events.sort((a, b) => {
+            const aDate = typeof a.start_date === "string"
+              ? a.start_date
+              : a.start_date.toISOString().split("T")[0];
+            const bDate = typeof b.start_date === "string"
+              ? b.start_date
+              : b.start_date.toISOString().split("T")[0];
+            return aDate.localeCompare(bDate);
+          })
+        }}
         {{ for event of sortedEvents }}
-          {{ set startDateStr = typeof event.start_date === 'string' ? event.start_date : event.start_date.toISOString().split('T')[0] }}
+          {{
+            set startDateStr = typeof event.start_date === "string"
+            ? event.start_date
+            : event.start_date.toISOString().split("T")[0]
+          }}
           {{ set eventYear = parseInt(startDateStr.substring(0, 4)) }}
           {{ set eventMonth = parseInt(startDateStr.substring(5, 7)) - 1 }}
           {{ set eventDay = parseInt(startDateStr.substring(8, 10)) }}
@@ -281,7 +396,11 @@ layout: layouts/base.vto
                 <div class="flex-1">
                   {{# Event Name #}}
                   <h3 class="text-lg font-semibold mb-2">
-                    <a href="{{ event.website }}" target="_blank" class="text-gray-900 hover:text-blue-600 transition-colors">
+                    <a
+                      href="{{ event.website }}"
+                      target="_blank"
+                      class="text-gray-900 hover:text-blue-600 transition-colors"
+                    >
                       {{ event.name }}
                     </a>
                   </h3>
@@ -290,7 +409,11 @@ layout: layouts/base.vto
                   {{ if org }}
                     <p class="text-sm text-gray-600">
                       by {{ if org.website }}
-                        <a href="{{ org.website }}" target="_blank" class="hover:text-blue-600 transition-colors">{{ org.name }}</a>
+                        <a
+                          href="{{ org.website }}"
+                          target="_blank"
+                          class="hover:text-blue-600 transition-colors"
+                        >{{ org.name }}</a>
                       {{ else }}
                         {{ org.name }}
                       {{ /if }}
@@ -302,22 +425,52 @@ layout: layouts/base.vto
                 <div class="sm:text-right space-y-1">
                   <div class="flex items-center sm:justify-end gap-2">
                     <p class="text-base font-medium text-gray-900">
-                      {{ set endDateStr = event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}
+                      {{
+                        set endDateStr = event.end_date
+                        ? (typeof event.end_date
+                            === "string"
+                          ? event.end_date
+                          : event.end_date.toISOString()
+                            .split("T")[0])
+                        : startDateStr
+                      }}
                       {{ if startDateStr === endDateStr || !event.end_date }}
-                        {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }}
+                        {{ monthNames[eventMonth] }}
+                        {{ eventDay }}, {{ eventYear }}
                       {{ else }}
-                        {{ set endMonth = parseInt(endDateStr.substring(5, 7)) - 1 }}
-                        {{ set endDay = parseInt(endDateStr.substring(8, 10)) }}
-                        {{ set endYear = parseInt(endDateStr.substring(0, 4)) }}
-                        {{ if eventMonth === endMonth && eventYear === endYear }}
+                        {{
+                          set endMonth = parseInt(
+                            endDateStr.substring(5, 7),
+                          ) - 1
+                        }}
+                        {{
+                          set endDay = parseInt(
+                            endDateStr.substring(8, 10),
+                          )
+                        }}
+                        {{
+                          set endYear = parseInt(
+                            endDateStr.substring(0, 4),
+                          )
+                        }}
+                        {{
+                          if eventMonth === endMonth && eventYear === endYear
+                        }}
                           {{# Same month and year #}}
-                          {{ monthNames[eventMonth] }} {{ eventDay }}-{{ endDay }}, {{ eventYear }}
+                          {{ monthNames[eventMonth] }}
+                          {{ eventDay }}-{{ endDay }}, {{ eventYear }}
                         {{ else if eventYear === endYear }}
                           {{# Different months, same year #}}
-                          {{ shortMonthNames[eventMonth] }} {{ eventDay }} - {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
+                          {{ shortMonthNames[eventMonth] }}
+                          {{ eventDay }} - {{ shortMonthNames[endMonth] }}
+                          {{ endDay }}, {{ eventYear }}
                         {{ else }}
                           {{# Different years #}}
-                          {{ shortMonthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }} - {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ endYear }}
+                          {{ shortMonthNames[eventMonth] }}
+                          {{ eventDay }}, {{ eventYear }} - {{
+                            shortMonthNames[endMonth]
+                          }}
+                          {{ endDay }}, {{ endYear }}
                         {{ /if }}
                       {{ /if }}
                     </p>
@@ -328,8 +481,17 @@ layout: layouts/base.vto
                       class="inline-flex items-center py-1 text-gray-400 hover:text-blue-600 transition-colors"
                       title="Add to calendar"
                     >
-                      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                      <svg
+                        class="w-4 h-4"
+                        fill="currentColor"
+                        xmlns="http://www.w3.org/2000/svg"
+                        viewBox="0 0 16 16"
+                      >
+                        <path
+                          fill-rule="evenodd"
+                          d="M4.653 1a.75.75 0 0 0-1.5 0v.874c-.715.137-1.33.394-1.833.898C.732 3.36.48 4.099.363 4.973.25 5.813.25 6.881.25 8.203v.594l.113 3.231c.117.874.369 1.613.957 2.201s1.327.84 2.201.957c.841.113 1.909.113 3.231.113h1.523a.75.75 0 1 0 0-1.5H6.806c-1.39 0-2.357-.002-3.086-.1-.707-.095-1.078-.268-1.34-.531s-.436-.633-.531-1.34c-.098-.729-.1-1.696-.1-3.086v-.484l.001-.702h12.047v.64l-.004.077a.75.75 0 1 0 1.5 0h.004V8.22l-.113-3.243c-.117-.876-.369-1.617-.957-2.205-.503-.503-1.118-.76-1.833-.898V1a.75.75 0 1 0-1.5 0v.725l-2.099-.024H6.75c-.788 0-1.485 0-2.099.024V1zm9.118 5.056H1.777l.073-.884c.095-.707.268-1.078.531-1.34s.633-.436 1.34-.531c.729-.098 1.696-.1 3.086-.1h1.935l3.086.1c.707.095 1.078.268 1.34.531s.436.633.531 1.344q.052.388.072.88m-1.247 3.218a.75.75 0 0 1 .75.75v1.75h1.75a.75.75 0 1 1 0 1.5h-1.75v1.75a.75.75 0 1 1-1.5 0v-1.75h-1.75a.75.75 0 1 1 0-1.5h1.75v-1.75a.75.75 0 0 1 .75-.75"
+                        >
+                        </path>
                       </svg>
                     </button>
                   </div>
@@ -337,8 +499,17 @@ layout: layouts/base.vto
                   {{# Location #}}
                   {{ if event.city }}
                     <p class="flex items-center text-sm text-gray-600 sm:justify-end">
-                      <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                        <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                      <svg
+                        class="w-4 h-4 mr-1.5 text-gray-400"
+                        fill="currentColor"
+                        viewBox="0 0 20 20"
+                      >
+                        <path
+                          fill-rule="evenodd"
+                          d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
+                          clip-rule="evenodd"
+                        >
+                        </path>
                       </svg>
                       {{ event.city }}
                     </p>
@@ -354,14 +525,31 @@ layout: layouts/base.vto
 
   {{# Event Modal - Must be inside x-data scope #}}
   <div id="eventModal" class="fixed inset-0 z-50" x-show="modalOpen" x-cloak>
-    <div class="fixed inset-0 bg-black bg-opacity-50" @click="closeModal()"></div>
+    <div class="fixed inset-0 bg-black bg-opacity-50" @click="closeModal()">
+    </div>
 
     <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-[calc(100%-2rem)] max-w-lg max-h-[90vh] overflow-y-auto">
       <div class="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
-        <h2 class="text-xl font-semibold text-gray-900" x-text="modalTitle"></h2>
-        <button @click="closeModal()" class="text-gray-400 hover:text-gray-600 transition-colors" aria-label="Close modal">
-          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        <h2 class="text-xl font-semibold text-gray-900" x-text="modalTitle">
+        </h2>
+        <button
+          @click="closeModal()"
+          class="text-gray-400 hover:text-gray-600 transition-colors"
+          aria-label="Close modal"
+        >
+          <svg
+            class="w-6 h-6"
+            fill="none"
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M6 18L18 6M6 6l12 12"
+            >
+            </path>
           </svg>
         </button>
       </div>
@@ -370,19 +558,39 @@ layout: layouts/base.vto
           <template x-for="event in modalEvents" :key="event.name">
             <div class="border-l-2 border-gray-200 pl-4 pb-2">
               <h3 class="font-semibold text-base mb-1">
-                <a :href="event.website" target="_blank" class="text-gray-900 hover:text-blue-600 transition-colors" x-text="event.name"></a>
+                <a
+                  :href="event.website"
+                  target="_blank"
+                  class="text-gray-900 hover:text-blue-600 transition-colors"
+                  x-text="event.name"
+                ></a>
               </h3>
               <template x-if="event.org">
                 <p class="text-sm text-gray-600">
                   <span>by </span>
-                  <a x-show="event.orgWebsite" :href="event.orgWebsite" target="_blank" class="hover:text-blue-600 transition-colors" x-text="event.org"></a>
+                  <a
+                    x-show="event.orgWebsite"
+                    :href="event.orgWebsite"
+                    target="_blank"
+                    class="hover:text-blue-600 transition-colors"
+                    x-text="event.org"
+                  ></a>
                   <span x-show="!event.orgWebsite" x-text="event.org"></span>
                 </p>
               </template>
               <template x-if="event.city">
                 <p class="flex items-center text-sm text-gray-600 mt-1">
-                  <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
-                    <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                  <svg
+                    class="w-4 h-4 mr-1.5 text-gray-400"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
+                      clip-rule="evenodd"
+                    >
+                    </path>
                   </svg>
                   <span x-text="event.city"></span>
                 </p>
@@ -395,32 +603,53 @@ layout: layouts/base.vto
   </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+{{# Data injection using hidden div with data attributes #}}
+<div
+  id="page-data"
+  style="display: none"
+  data-events="{{ JSON.stringify(events.map(e => ({
+    ...e,
+    start_date: typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0],
+    end_date: e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : null
+  }))).replace(/"/g, '&quot;') }}"
+  data-organizations="{{ JSON.stringify(organizations).replace(/"/g, '&quot;') }}"
+  data-event-years="{{ JSON.stringify(eventYears).replace(/"/g, '&quot;') }}"
+  data-current-year="{{ currentYear }}"
+>
+</div>
+
+<script
+  src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"
+  defer
+></script>
 <script>
 function eventsPage() {
+  // Get data from the hidden div's data attributes
+  const dataElement = document.getElementById("page-data");
+  const events = JSON.parse(dataElement.dataset.events);
+  const organizations = JSON.parse(dataElement.dataset.organizations);
+  const eventYears = JSON.parse(dataElement.dataset.eventYears);
+  const currentYear = parseInt(dataElement.dataset.currentYear);
+
   return {
-    currentYear: {{ currentYear }},
+    currentYear: currentYear || new Date().getFullYear(),
     selectedOrgs: [],
     modalOpen: false,
-    modalTitle: '',
+    modalTitle: "",
     modalEvents: [],
     isMobile: false,
-    events: {{ JSON.stringify(events.map(e => ({
-      ...e,
-      start_date: typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0],
-      end_date: e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : null
-    }))) }},
-    organizations: {{ JSON.stringify(organizations) }},
-    eventYears: {{ JSON.stringify(eventYears) }},
+    events: events,
+    organizations: organizations,
+    eventYears: eventYears,
 
     init() {
       // Read URL parameters for filters
       const params = new URLSearchParams(window.location.search);
-      const orgs = params.get('orgs');
+      const orgs = params.get("orgs");
       if (orgs) {
-        this.selectedOrgs = orgs.split(',');
+        this.selectedOrgs = orgs.split(",");
       }
-      const year = params.get('year');
+      const year = params.get("year");
       if (year && this.eventYears.includes(parseInt(year))) {
         this.currentYear = parseInt(year);
       }
@@ -455,7 +684,7 @@ function eventsPage() {
         nav.push({
           show: true,
           year: this.eventYears[currentIdx - 1],
-          label: `← ${this.eventYears[currentIdx - 1]}`
+          label: `← ${this.eventYears[currentIdx - 1]}`,
         });
       }
 
@@ -463,7 +692,7 @@ function eventsPage() {
         nav.push({
           show: true,
           year: this.eventYears[currentIdx + 1],
-          label: `${this.eventYears[currentIdx + 1]} →`
+          label: `${this.eventYears[currentIdx + 1]} →`,
         });
       }
 
@@ -493,19 +722,21 @@ function eventsPage() {
     updateURL() {
       const params = new URLSearchParams();
       if (this.selectedOrgs.length > 0) {
-        params.set('orgs', this.selectedOrgs.join(','));
+        params.set("orgs", this.selectedOrgs.join(","));
       }
       if (this.currentYear !== new Date().getFullYear()) {
-        params.set('year', this.currentYear);
+        params.set("year", this.currentYear);
       }
-      const url = params.toString() ? `?${params.toString()}` : window.location.pathname;
-      window.history.replaceState({}, '', url);
+      const url = params.toString()
+        ? `?${params.toString()}`
+        : window.location.pathname;
+      window.history.replaceState({}, "", url);
     },
 
     hasEventsInYear(orgId) {
       return this.events.some(e =>
-        e.by === orgId &&
-        parseInt(e.start_date.substring(0, 4)) === this.currentYear
+        e.by === orgId
+        && parseInt(e.start_date.substring(0, 4)) === this.currentYear
       );
     },
 
@@ -521,7 +752,7 @@ function eventsPage() {
         if (this.currentYear === new Date().getFullYear()) {
           const today = new Date();
           today.setHours(0, 0, 0, 0);
-          const eventDate = new Date(startDate + 'T00:00:00');
+          const eventDate = new Date(startDate + "T00:00:00");
           return eventDate >= today;
         }
         return true;
@@ -539,9 +770,9 @@ function eventsPage() {
 
     isToday(year, month, day) {
       const today = new Date();
-      return year === today.getFullYear() &&
-             month === today.getMonth() &&
-             day === today.getDate();
+      return year === today.getFullYear()
+        && month === today.getMonth()
+        && day === today.getDate();
     },
 
     getEventsForDate(dateStr) {
@@ -550,7 +781,9 @@ function eventsPage() {
         const endDate = event.end_date || startDate;
 
         // Apply organization filter
-        if (this.selectedOrgs.length > 0 && !this.selectedOrgs.includes(event.by)) {
+        if (
+          this.selectedOrgs.length > 0 && !this.selectedOrgs.includes(event.by)
+        ) {
           return false;
         }
 
@@ -559,8 +792,23 @@ function eventsPage() {
     },
 
     showEventModal(year, month, day, evt) {
-      const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-      const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+      const monthNames = [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December",
+      ];
+      const dateStr = `${year}-${String(month + 1).padStart(2, "0")}-${
+        String(day).padStart(2, "0")
+      }`;
 
       // Get events from the button's data attribute or fetch them
       const button = evt ? evt.currentTarget : null;
@@ -577,35 +825,39 @@ function eventsPage() {
         return {
           ...e,
           org: org ? org.name : null,
-          orgWebsite: org ? org.website : null
+          orgWebsite: org ? org.website : null,
         };
       });
       this.modalOpen = true;
-      document.body.style.overflow = 'hidden';
+      document.body.style.overflow = "hidden";
     },
 
     closeModal() {
       this.modalOpen = false;
-      document.body.style.overflow = '';
+      document.body.style.overflow = "";
     },
 
     addToCalendar(title, startDate, endDate, location, url) {
       // Format dates for Google Calendar (YYYYMMDD)
       const formatDate = (dateStr) => {
         // Ensure date string is in YYYY-MM-DD format
-        const cleanDate = dateStr.split('T')[0];
-        return cleanDate.replace(/-/g, '');
+        const cleanDate = dateStr.split("T")[0];
+        return cleanDate.replace(/-/g, "");
       };
 
       // Add one day to end date for Google Calendar (end date is exclusive)
       const getNextDay = (dateStr) => {
         // Parse the date string properly
-        const parts = dateStr.split('-');
-        const date = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+        const parts = dateStr.split("-");
+        const date = new Date(
+          parseInt(parts[0]),
+          parseInt(parts[1]) - 1,
+          parseInt(parts[2]),
+        );
         date.setDate(date.getDate() + 1);
         const year = date.getFullYear();
-        const month = String(date.getMonth() + 1).padStart(2, '0');
-        const day = String(date.getDate()).padStart(2, '0');
+        const month = String(date.getMonth() + 1).padStart(2, "0");
+        const day = String(date.getDate()).padStart(2, "0");
         return `${year}-${month}-${day}`;
       };
 
@@ -613,31 +865,34 @@ function eventsPage() {
       const calendarEndDate = getNextDay(endDate || startDate);
 
       // Create Google Calendar URL
-      const baseUrl = 'https://calendar.google.com/calendar/render?action=TEMPLATE';
+      const baseUrl =
+        "https://calendar.google.com/calendar/render?action=TEMPLATE";
       const params = new URLSearchParams({
         text: title,
         dates: `${formatDate(startDate)}/${formatDate(calendarEndDate)}`,
-        details: url ? `Event details: ${url}` : '',
-        location: location || ''
+        details: url ? `Event details: ${url}` : "",
+        location: location || "",
       });
 
       // Open in new window
-      window.open(`${baseUrl}&${params.toString()}`, '_blank');
-    }
+      window.open(`${baseUrl}&${params.toString()}`, "_blank");
+    },
   };
 }
 </script>
 
 <style>
-  [x-cloak] { display: none !important; }
+[x-cloak] {
+  display: none !important;
+}
 
-  /* Hide elements before Alpine loads */
-  [x-show] {
-    display: none;
-  }
+/* Hide elements before Alpine loads */
+[x-show] {
+  display: none;
+}
 
-  /* Show elements once Alpine is ready */
-  [x-data] [x-show] {
-    display: revert;
-  }
+/* Show elements once Alpine is ready */
+[x-data] [x-show] {
+  display: revert;
+}
 </style>
