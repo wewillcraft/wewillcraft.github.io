@@ -8,13 +8,36 @@ layout: layouts/base.vto
 
 {{# Helper function to get ISO week number #}}
 {{ set getISOWeek = (dateStr) => {
-  const date = new Date(dateStr + 'T00:00:00');
-  const tempDate = new Date(date);
-  const dayOfWeek = tempDate.getUTCDay() || 7;
-  tempDate.setUTCDate(tempDate.getUTCDate() + 4 - dayOfWeek);
-  const yearStart = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1));
-  const weekNo = Math.ceil(((tempDate - yearStart) / 86400000 + 1) / 7);
-  return weekNo;
+  // Parse date string to components
+  const [year, month, day] = dateStr.split('-').map(n => parseInt(n, 10));
+  
+  // Create date in UTC to avoid timezone issues - use noon to avoid DST issues
+  const date = new Date(Date.UTC(year, month - 1, day, 12, 0, 0, 0));
+  
+  // Make a copy
+  const d = new Date(date.valueOf());
+  
+  // ISO week starts on Monday, make Sunday = 7
+  const dayOfWeek = d.getUTCDay() || 7;
+  
+  // Find the Thursday of the current week
+  d.setUTCDate(d.getUTCDate() + 4 - dayOfWeek);
+  
+  // The year of that Thursday determines the ISO year
+  const isoYear = d.getUTCFullYear();
+  
+  // Find January 4th of that year (always in week 1)
+  const jan4 = new Date(Date.UTC(isoYear, 0, 4, 12, 0, 0, 0));
+  
+  // Find Monday of week 1
+  const jan4Day = jan4.getUTCDay() || 7;
+  const week1Monday = new Date(jan4.valueOf());
+  week1Monday.setUTCDate(jan4.getUTCDate() - jan4Day + 1);
+  
+  // Calculate weeks between
+  const weekDiff = Math.round((d.valueOf() - week1Monday.valueOf()) / (7 * 86400000));
+  
+  return weekDiff + 1;
 } }}
 
 {{# Get unique years from events #}}
