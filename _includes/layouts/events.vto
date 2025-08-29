@@ -132,8 +132,8 @@ layout: layouts/base.vto
             {{ if hasEvents }}
               <button
                 @click="toggleOrganization('{{ org.id }}')"
-                :class="selectedOrgs.includes('{{ org.id }}') ? 'bg-blue-600 text-white' : 'bg-white text-gray-800'"
-                class="px-3 py-1 rounded-lg transition-colors text-sm hover:opacity-90"
+                :class="selectedOrgs.includes('{{ org.id }}') ? 'bg-[#eb4e3b] text-white hover:bg-[#f69b39]' : 'bg-white text-gray-800 hover:bg-gray-100'"
+                class="px-3 py-1 rounded-lg transition-colors text-sm"
                 x-show="hasEventsInYear('{{ org.id }}')"
               >
                 {{ org.name }}
@@ -143,7 +143,7 @@ layout: layouts/base.vto
           <button
             x-show="selectedOrgs.length > 0"
             @click="clearFilters()"
-            class="px-3 py-1 bg-red-600 text-white rounded-lg transition-colors text-sm hover:bg-red-700 hidden"
+            class="px-3 py-1 bg-gray-600 text-white rounded-lg transition-colors text-sm hover:bg-gray-700 hidden"
             :class="{'hidden': selectedOrgs.length === 0}"
           >
             Clear All
@@ -309,8 +309,8 @@ layout: layouts/base.vto
                             class="event-day w-full text-center p-1 rounded font-semibold cursor-pointer transition-colors"
                             :class="{
                               'bg-gray-100 text-gray-500 hover:bg-gray-200': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
-                              'bg-blue-100 text-blue-900 hover:bg-blue-200': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
-                              'bg-blue-600 text-white hover:bg-blue-700': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                              'bg-[#eb4e3b] text-white hover:bg-[#f69b39]': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'bg-[#f1c40f] text-gray-900 hover:bg-yellow-300': isToday({{ year }}, {{ monthIndex }}, {{ day }})
                             }"
                             x-show="shouldShowEvents({{ eventOrgsStr }})"
                             data-events="{{ JSON.stringify(dayEvents).replace(/"/g, '&quot;') }}"
@@ -323,7 +323,7 @@ layout: layouts/base.vto
                             :class="{
                               'text-gray-400': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
                               'text-gray-700': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
-                              'bg-blue-600 text-white font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                              'bg-[#f1c40f] text-gray-900 font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
                             }"
                           >
                             {{ day }}
@@ -334,7 +334,7 @@ layout: layouts/base.vto
                             :class="{
                               'text-gray-400': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
                               'text-gray-700': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
-                              'bg-blue-600 text-white font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                              'bg-[#f1c40f] text-gray-900 font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
                             }"
                           >
                             {{ day }}
@@ -399,7 +399,7 @@ layout: layouts/base.vto
                     <a
                       href="{{ event.website }}"
                       target="_blank"
-                      class="text-gray-900 hover:text-blue-600 transition-colors"
+                      class="text-gray-900 hover:text-[#eb4e3b] transition-colors"
                     >
                       {{ event.name }}
                     </a>
@@ -412,7 +412,7 @@ layout: layouts/base.vto
                         <a
                           href="{{ org.website }}"
                           target="_blank"
-                          class="hover:text-blue-600 transition-colors"
+                          class="hover:text-[#eb4e3b] transition-colors"
                         >{{ org.name }}</a>
                       {{ else }}
                         {{ org.name }}
@@ -478,7 +478,7 @@ layout: layouts/base.vto
                     {{# Add to Calendar Button #}}
                     <button
                       @click="addToCalendar('{{ event.name }}', '{{ startDateStr }}', '{{ event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}', '{{ event.city || '' }}', '{{ event.website }}')"
-                      class="inline-flex items-center py-1 text-gray-400 hover:text-blue-600 transition-colors"
+                      class="inline-flex items-center py-1 text-gray-400 hover:text-[#eb4e3b] transition-colors"
                       title="Add to calendar"
                     >
                       <svg
@@ -561,7 +561,7 @@ layout: layouts/base.vto
                 <a
                   :href="event.website"
                   target="_blank"
-                  class="text-gray-900 hover:text-blue-600 transition-colors"
+                  class="text-gray-900 hover:text-[#eb4e3b] transition-colors"
                   x-text="event.name"
                 ></a>
               </h3>
@@ -572,7 +572,7 @@ layout: layouts/base.vto
                     x-show="event.orgWebsite"
                     :href="event.orgWebsite"
                     target="_blank"
-                    class="hover:text-blue-600 transition-colors"
+                    class="hover:text-[#eb4e3b] transition-colors"
                     x-text="event.org"
                   ></a>
                   <span x-show="!event.orgWebsite" x-text="event.org"></span>
