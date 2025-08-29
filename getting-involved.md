@@ -190,18 +190,23 @@ and vision, let's explore how we can multiply our impact together.
 
 ## Contributing to Our Projects
 
-We welcome all contributions! For detailed guidelines on contributing to our open source projects, please see our [Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
+We welcome all contributions! For detailed guidelines on contributing to our
+open source projects, please see our
+[Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
 
 ### Quick Start for Contributors
 
-1. **Check our [Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md)** for detailed instructions
+1. **Check our
+   [Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md)**
+   for detailed instructions
 2. **Read our Code of Conduct** - we're building community, not just code
 3. **Find an issue labeled "good first issue"** to get started
 4. **Ask questions** - we're here to help, not to judge
 
 ### We Use Conventional Commits
 
-All commits should follow the [Conventional Commits](https://www.conventionalcommits.org/) format:
+All commits should follow the
+[Conventional Commits](https://www.conventionalcommits.org/) format:
 
 - `feat:` for new features
 - `fix:` for bug fixes
@@ -220,7 +225,9 @@ Example: `feat(events): add calendar filtering by organization`
 - **Your perspective matters** - diversity makes us stronger
 - **Questions are valuable** - they help us improve documentation
 
-For the complete guide including setup instructions, style guidelines, and PR process, visit our [CONTRIBUTING.md](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
+For the complete guide including setup instructions, style guidelines, and PR
+process, visit our
+[CONTRIBUTING.md](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
 
 ## Start Where You Are
 

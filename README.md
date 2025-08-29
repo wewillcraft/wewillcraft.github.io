@@ -50,8 +50,10 @@ wewillcraft.github.io/
 ### Quick Links
 
 - 📖 **[Full Contributing Guide](CONTRIBUTING.md)** - Detailed guidelines
-- 💬 **[Code of Conduct](CONTRIBUTING.md#-code-of-conduct)** - Community standards
-- 🎯 **[Areas We Need Help](CONTRIBUTING.md#-areas-we-need-help)** - Where to start
+- 💬 **[Code of Conduct](CONTRIBUTING.md#-code-of-conduct)** - Community
+  standards
+- 🎯 **[Areas We Need Help](CONTRIBUTING.md#-areas-we-need-help)** - Where to
+  start
 - 🌟 **[Getting Involved](getting-involved.md)** - Different ways to contribute
 
 ### Ways to Contribute

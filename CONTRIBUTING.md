@@ -1,6 +1,7 @@
 # Contributing to Will Craft Software
 
-First off, thank you for considering contributing to Will Craft Software! It's people like you that make this community amazing.
+First off, thank you for considering contributing to Will Craft Software! It's
+people like you that make this community amazing.
 
 ## 📌 Impostor Syndrome Disclaimer
 
@@ -15,13 +16,19 @@ There's no such thing as a contribution that's too small:
 - Have an idea for an event? Open an issue!
 - Want to improve documentation? Go for it!
 
-Everyone was a beginner at some point. If you're unsure about anything, just ask – we're here to help, not to judge. The worst that can happen is we'll politely guide you to make your contribution even better.
+Everyone was a beginner at some point. If you're unsure about anything, just ask
+– we're here to help, not to judge. The worst that can happen is we'll politely
+guide you to make your contribution even better.
 
 ## 🤝 Code of Conduct
 
 ### Our Pledge
 
-We pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We pledge to make participation in our project and community a harassment-free
+experience for everyone, regardless of age, body size, disability, ethnicity,
+gender identity and expression, level of experience, education, socio-economic
+status, nationality, personal appearance, race, religion, or sexual identity and
+orientation.
 
 ### Our Standards
 
@@ -81,7 +88,8 @@ Examples of unacceptable behavior:
 
 ### Reporting Bugs
 
-Before creating bug reports, please check existing issues to avoid duplicates. When creating a bug report, include:
+Before creating bug reports, please check existing issues to avoid duplicates.
+When creating a bug report, include:
 
 - A clear and descriptive title
 - Steps to reproduce the behavior
@@ -91,7 +99,8 @@ Before creating bug reports, please check existing issues to avoid duplicates. W
 
 ### Suggesting Enhancements
 
-Enhancement suggestions are tracked as GitHub issues. When creating an enhancement suggestion, include:
+Enhancement suggestions are tracked as GitHub issues. When creating an
+enhancement suggestion, include:
 
 - A clear and descriptive title
 - Step-by-step description of the suggested enhancement
@@ -163,7 +172,8 @@ When contributing to journey content:
 
 ### Commit Messages
 
-We use [Conventional Commits](https://www.conventionalcommits.org/) for clear commit history:
+We use [Conventional Commits](https://www.conventionalcommits.org/) for clear
+commit history:
 
 ```
 <type>(<scope>): <subject>
@@ -330,10 +340,13 @@ Contributors will be:
 
 ## 📜 License
 
-By contributing, you agree that your contributions will be licensed under the same license as the project (check LICENSE file).
+By contributing, you agree that your contributions will be licensed under the
+same license as the project (check LICENSE file).
 
 ---
 
-**Remember:** The best way to learn is by doing. Don't be afraid to make mistakes – that's how we all learn and grow. We're excited to see what you'll contribute!
+**Remember:** The best way to learn is by doing. Don't be afraid to make
+mistakes – that's how we all learn and grow. We're excited to see what you'll
+contribute!
 
 Thank you for being part of Will Craft Software! 🚀
