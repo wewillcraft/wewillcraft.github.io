@@ -47,7 +47,7 @@ layout: layouts/base.vto
     <div class="flex justify-center mb-8">
       <div class="flex gap-2">
         <template x-for="(yearData, idx) in yearNavigation" :key="idx">
-          <button 
+          <button
             x-show="yearData.show"
             @click="navigateToYear(yearData.year)"
             class="px-4 py-2 bg-white text-gray-800 rounded-lg hover:bg-gray-100 transition-colors font-semibold"
@@ -58,24 +58,29 @@ layout: layouts/base.vto
     </div>
 
     {{# Organization Filter #}}
-    <div class="mb-8">
+    <div class="mb-8" x-cloak>
       <div class="flex flex-col sm:flex-row sm:items-center gap-4">
         <label class="text-white font-semibold">Filter by Organization:</label>
         <div class="flex flex-wrap gap-2">
           {{ for org of organizations.sort((a, b) => a.name.localeCompare(b.name)) }}
-            <button
-              @click="toggleOrganization('{{ org.id }}')"
-              :class="selectedOrgs.includes('{{ org.id }}') ? 'bg-blue-600 text-white' : 'bg-white text-gray-800'"
-              class="px-3 py-1 rounded-lg transition-colors text-sm hover:opacity-90"
-              x-show="hasEventsInYear('{{ org.id }}')"
-            >
-              {{ org.name }}
-            </button>
+            {{# Check if org has events in any year #}}
+            {{ set hasEvents = events.some(e => e.by === org.id) }}
+            {{ if hasEvents }}
+              <button
+                @click="toggleOrganization('{{ org.id }}')"
+                :class="selectedOrgs.includes('{{ org.id }}') ? 'bg-blue-600 text-white' : 'bg-white text-gray-800'"
+                class="px-3 py-1 rounded-lg transition-colors text-sm hover:opacity-90"
+                x-show="hasEventsInYear('{{ org.id }}')"
+              >
+                {{ org.name }}
+              </button>
+            {{ /if }}
           {{ /for }}
           <button
             x-show="selectedOrgs.length > 0"
             @click="clearFilters()"
-            class="px-3 py-1 bg-red-600 text-white rounded-lg transition-colors text-sm hover:bg-red-700"
+            class="px-3 py-1 bg-red-600 text-white rounded-lg transition-colors text-sm hover:bg-red-700 hidden"
+            :class="{'hidden': selectedOrgs.length === 0}"
           >
             Clear All
           </button>
@@ -91,18 +96,18 @@ layout: layouts/base.vto
           {{ set daysInMonth = new Date(year, monthIndex + 1, 0).getDate() }}
           {{ set firstDayRaw = new Date(year, monthIndex, 1).getDay() }}
           {{ set firstDay = (firstDayRaw + 6) % 7 }}{{# Convert Sunday=0 to Monday=0 #}}
-          
-          <div 
-            class="bg-white rounded-lg shadow-md overflow-hidden month-card"
+
+          <div
+            class="bg-white rounded-lg shadow-md overflow-hidden month-card flex flex-col"
             data-year="{{ year }}"
             data-month="{{ monthIndex }}"
             x-show="currentYear === {{ year }}"
           >
-            <div class="bg-gray-800 text-white px-4 py-3">
+            <div class="bg-gray-800 text-white px-4 py-3 relative">
               <h2 class="text-xl font-semibold">{{ monthName }}</h2>
             </div>
 
-            <div class="p-4">
+            <div class="p-4 bg-white flex-1">
               <div class="grid grid-cols-8 gap-1 text-xs">
                 {{# Week day headers #}}
                 <div></div>
@@ -111,17 +116,17 @@ layout: layouts/base.vto
                 {{ /for }}
 
                 {{# Generate calendar with proper week structure #}}
-                
+
                 {{# Calculate total weeks needed #}}
                 {{ set totalDays = firstDay + daysInMonth }}
                 {{ set totalWeeks = Math.ceil(totalDays / 7) }}
-                
+
                 {{# Generate each week row #}}
                 {{ for weekIndex of [...Array(totalWeeks).keys()] }}
                   {{# Calculate first day of this week row #}}
                   {{ set weekStartDay = weekIndex * 7 - firstDay + 1 }}
                   {{ set weekEndDay = Math.min(weekStartDay + 6, daysInMonth) }}
-                  
+
                   {{# Add week number for this row #}}
                   {{ if weekStartDay <= daysInMonth }}
                     {{# Get the Monday date for this week row to calculate correct ISO week #}}
@@ -143,11 +148,11 @@ layout: layouts/base.vto
                   {{ else }}
                     <div></div>
                   {{ /if }}
-                  
+
                   {{# Generate 7 day cells for this week #}}
                   {{ for dayIndex of [...Array(7).keys()] }}
                     {{ set day = weekIndex * 7 + dayIndex - firstDay + 1 }}
-                    
+
                     {{ if day < 1 || day > daysInMonth }}
                       {{# Empty cell for days outside the month #}}
                       <div></div>
@@ -159,25 +164,25 @@ layout: layouts/base.vto
                         const endDate = e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : startDate;
                         return startDate <= dateStr && endDate >= dateStr;
                       }) }}
-                      
+
                       {{ set eventOrgs = dayEvents.map(e => `'${e.by}'`) }}
                       {{ set eventOrgsStr = eventOrgs.length > 0 ? `[${eventOrgs.join(',')}]` : '[]' }}
-                      
+
                       <div class="relative calendar-cell" data-date="{{ dateStr }}">
                         {{ if dayEvents.length > 0 }}
                           <button
                             type="button"
                             @click="showEventModal({{ year }}, {{ monthIndex }}, {{ day }}, $event)"
                             class="event-day w-full text-center p-1 rounded font-semibold cursor-pointer transition-colors bg-blue-100 text-blue-900 hover:bg-blue-200"
-                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) 
-                              ? 'bg-gray-100 text-gray-500 hover:bg-gray-200' 
+                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }})
+                              ? 'bg-gray-100 text-gray-500 hover:bg-gray-200'
                               : 'bg-blue-100 text-blue-900 hover:bg-blue-200'"
                             x-show="shouldShowEvents({{ eventOrgsStr }})"
                             data-events='{{ JSON.stringify(dayEvents) }}'
                           >
                             {{ day }}
                           </button>
-                          <div 
+                          <div
                             x-show="!shouldShowEvents({{ eventOrgsStr }})"
                             class="calendar-day text-center p-1 rounded text-gray-700"
                             :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
@@ -185,7 +190,7 @@ layout: layouts/base.vto
                             {{ day }}
                           </div>
                         {{ else }}
-                          <div 
+                          <div
                             class="calendar-day text-center p-1 rounded text-gray-700"
                             :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
                           >
@@ -208,7 +213,7 @@ layout: layouts/base.vto
       <h2 class="text-2xl font-bold text-white mb-6">
         <span x-text="currentYear === new Date().getFullYear() ? 'Upcoming Events' : 'Events'"></span>
       </h2>
-      
+
       <div class="space-y-4">
         {{# Sort events by start_date #}}
         {{ set sortedEvents = events.sort((a, b) => {
@@ -223,8 +228,8 @@ layout: layouts/base.vto
           {{ set eventDay = parseInt(startDateStr.substring(8, 10)) }}
           {{ set eventWeek = getISOWeek(startDateStr) }}
           {{ set org = organizations.find(o => o.id === event.by) }}
-          
-          <div 
+
+          <div
             class="event-card bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
             x-show="shouldShowEvent('{{ event.by }}', {{ eventYear }}, '{{ startDateStr }}')"
             data-event-org="{{ event.by }}"
@@ -263,11 +268,15 @@ layout: layouts/base.vto
                     {{ set endMonth = parseInt(endDateStr.substring(5, 7)) - 1 }}
                     {{ set endDay = parseInt(endDateStr.substring(8, 10)) }}
                     {{ set endYear = parseInt(endDateStr.substring(0, 4)) }}
-                    {{ shortMonthNames[eventMonth] }} {{ eventDay }} -
-                    {{ if eventYear !== endYear }}
-                      {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ endYear }}
+                    {{ if eventMonth === endMonth && eventYear === endYear }}
+                      {{# Same month and year #}}
+                      {{ monthNames[eventMonth] }} {{ eventDay }}-{{ endDay }}, {{ eventYear }}
+                    {{ else if eventYear === endYear }}
+                      {{# Different months, same year #}}
+                      {{ monthNames[eventMonth] }} {{ eventDay }} - {{ monthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
                     {{ else }}
-                      {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
+                      {{# Different years #}}
+                      {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }} - {{ monthNames[endMonth] }} {{ endDay }}, {{ endYear }}
                     {{ /if }}
                   {{ /if }}
                 </p>
@@ -285,7 +294,7 @@ layout: layouts/base.vto
   {{# Event Modal - Must be inside x-data scope #}}
   <div id="eventModal" class="fixed inset-0 z-50" x-show="modalOpen" x-cloak>
     <div class="fixed inset-0 bg-black bg-opacity-50" @click="closeModal()"></div>
-    
+
     <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto mx-4">
       <div class="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
         <h2 class="text-xl font-semibold text-gray-900" x-text="modalTitle"></h2>
@@ -332,7 +341,7 @@ function eventsPage() {
     }))) }},
     organizations: {{ JSON.stringify(organizations) }},
     eventYears: {{ JSON.stringify(eventYears) }},
-    
+
     init() {
       // Read URL parameters for filters
       const params = new URLSearchParams(window.location.search);
@@ -345,11 +354,11 @@ function eventsPage() {
         this.currentYear = parseInt(year);
       }
     },
-    
+
     get yearNavigation() {
       const currentIdx = this.eventYears.indexOf(this.currentYear);
       const nav = [];
-      
+
       if (currentIdx > 0) {
         nav.push({
           show: true,
@@ -357,7 +366,7 @@ function eventsPage() {
           label: `← ${this.eventYears[currentIdx - 1]}`
         });
       }
-      
+
       if (currentIdx < this.eventYears.length - 1) {
         nav.push({
           show: true,
@@ -365,15 +374,15 @@ function eventsPage() {
           label: `${this.eventYears[currentIdx + 1]} →`
         });
       }
-      
+
       return nav;
     },
-    
+
     navigateToYear(year) {
       this.currentYear = year;
       this.updateURL();
     },
-    
+
     toggleOrganization(orgId) {
       const idx = this.selectedOrgs.indexOf(orgId);
       if (idx > -1) {
@@ -383,12 +392,12 @@ function eventsPage() {
       }
       this.updateURL();
     },
-    
+
     clearFilters() {
       this.selectedOrgs = [];
       this.updateURL();
     },
-    
+
     updateURL() {
       const params = new URLSearchParams();
       if (this.selectedOrgs.length > 0) {
@@ -400,19 +409,19 @@ function eventsPage() {
       const url = params.toString() ? `?${params.toString()}` : window.location.pathname;
       window.history.replaceState({}, '', url);
     },
-    
+
     hasEventsInYear(orgId) {
-      return this.events.some(e => 
-        e.by === orgId && 
+      return this.events.some(e =>
+        e.by === orgId &&
         parseInt(e.start_date.substring(0, 4)) === this.currentYear
       );
     },
-    
+
     shouldShowEvents(eventOrgs) {
       if (this.selectedOrgs.length === 0) return true;
       return eventOrgs.some(org => this.selectedOrgs.includes(org));
     },
-    
+
     shouldShowEvent(orgId, eventYear, startDate) {
       if (eventYear !== this.currentYear) return false;
       if (this.selectedOrgs.length === 0) {
@@ -427,7 +436,7 @@ function eventsPage() {
       }
       return this.selectedOrgs.includes(orgId);
     },
-    
+
     isPastDate(year, month, day) {
       if (year !== new Date().getFullYear()) return false;
       const today = new Date();
@@ -435,25 +444,25 @@ function eventsPage() {
       const date = new Date(year, month, day);
       return date < today;
     },
-    
+
     getEventsForDate(dateStr) {
       return this.events.filter(event => {
         const startDate = event.start_date;
         const endDate = event.end_date || startDate;
-        
+
         // Apply organization filter
         if (this.selectedOrgs.length > 0 && !this.selectedOrgs.includes(event.by)) {
           return false;
         }
-        
+
         return startDate <= dateStr && endDate >= dateStr;
       });
     },
-    
+
     showEventModal(year, month, day, evt) {
       const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
       const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-      
+
       // Get events from the button's data attribute or fetch them
       const button = evt ? evt.currentTarget : null;
       let events = [];
@@ -462,7 +471,7 @@ function eventsPage() {
       } else {
         events = this.getEventsForDate(dateStr);
       }
-      
+
       this.modalTitle = `${monthNames[month]} ${day}, ${year}`;
       this.modalEvents = events.map(e => {
         const org = this.organizations.find(o => o.id === e.by);
@@ -474,7 +483,7 @@ function eventsPage() {
       this.modalOpen = true;
       document.body.style.overflow = 'hidden';
     },
-    
+
     closeModal() {
       this.modalOpen = false;
       document.body.style.overflow = '';
@@ -485,4 +494,14 @@ function eventsPage() {
 
 <style>
   [x-cloak] { display: none !important; }
+
+  /* Hide elements before Alpine loads */
+  [x-show] {
+    display: none;
+  }
+
+  /* Show elements once Alpine is ready */
+  [x-data] [x-show] {
+    display: revert;
+  }
 </style>
