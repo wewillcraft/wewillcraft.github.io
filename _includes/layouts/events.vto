@@ -4,7 +4,7 @@ layout: layouts/base.vto
 
 {{ set monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] }}
 {{ set shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] }}
-{{ set weekDays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"] }}
+{{ set weekDays = ["M", "T", "W", "T", "F", "S", "S"] }}
 
 {{# Helper function to get ISO week number #}}
 {{ set getISOWeek = (dateStr) => {
@@ -34,7 +34,7 @@ layout: layouts/base.vto
   {{ set currentYear = eventYears[0] }}
 {{ /if }}
 
-<div class="pt-24" x-data="eventsPage()">
+<div class="pt-24" x-data="eventsPage()" @resize.window="checkScreenSize()">
   <div class="max-w-6xl mx-auto px-6">
     <header class="mb-8">
       <h1 class="text-4xl sm:text-5xl font-bold text-white mb-4">
@@ -102,12 +102,19 @@ layout: layouts/base.vto
             data-year="{{ year }}"
             data-month="{{ monthIndex }}"
             x-show="currentYear === {{ year }}"
+            x-data="{ collapsed: shouldCollapseMonth({{ year }}, {{ monthIndex }}) }"
+            x-init="$watch('isMobile', value => collapsed = value && shouldCollapseMonth({{ year }}, {{ monthIndex }}))"
           >
-            <div class="bg-gray-800 text-white px-4 py-3 relative">
-              <h2 class="text-xl font-semibold">{{ monthName }}</h2>
+            <div class="bg-gray-800 text-white px-4 py-3 relative cursor-pointer lg:cursor-default" @click="if (isMobile) collapsed = !collapsed">
+              <h2 class="text-xl font-semibold flex items-center justify-between">
+                <span>{{ monthName }}</span>
+                <svg x-show="isMobile" class="w-5 h-5 transition-transform" :class="{'rotate-180': !collapsed}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                </svg>
+              </h2>
             </div>
 
-            <div class="p-4 bg-white flex-1">
+            <div class="p-4 bg-white flex-1" x-show="!collapsed" x-transition>
               <div class="grid grid-cols-8 gap-1 text-xs">
                 {{# Week day headers #}}
                 <div></div>
@@ -184,14 +191,14 @@ layout: layouts/base.vto
                           </button>
                           <div
                             x-show="!shouldShowEvents({{ eventOrgsStr }})"
-                            class="calendar-day text-center p-1 rounded text-gray-700"
+                            class="calendar-day text-center p-1 rounded"
                             :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
                           >
                             {{ day }}
                           </div>
                         {{ else }}
                           <div
-                            class="calendar-day text-center p-1 rounded text-gray-700"
+                            class="calendar-day text-center p-1 rounded"
                             :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
                           >
                             {{ day }}
@@ -280,9 +287,6 @@ layout: layouts/base.vto
                     {{ /if }}
                   {{ /if }}
                 </p>
-                <p class="text-sm text-gray-500">
-                  {{ eventYear }}, Week {{ eventWeek }}
-                </p>
               </div>
             </div>
           </div>
@@ -338,6 +342,7 @@ function eventsPage() {
     modalOpen: false,
     modalTitle: '',
     modalEvents: [],
+    isMobile: false,
     events: {{ JSON.stringify(events.map(e => ({
       ...e,
       start_date: typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0],
@@ -357,6 +362,27 @@ function eventsPage() {
       if (year && this.eventYears.includes(parseInt(year))) {
         this.currentYear = parseInt(year);
       }
+      // Check initial screen size
+      this.checkScreenSize();
+    },
+
+    checkScreenSize() {
+      this.isMobile = window.innerWidth < 1024; // lg breakpoint
+    },
+
+    shouldCollapseMonth(year, month) {
+      // Only collapse on mobile and only for past months
+      if (!this.isMobile) return false;
+      
+      const today = new Date();
+      const currentYear = today.getFullYear();
+      const currentMonth = today.getMonth();
+      
+      // If it's not the current year, don't collapse
+      if (year !== currentYear) return false;
+      
+      // Collapse if the month has completely passed
+      return month < currentMonth;
     },
 
     get yearNavigation() {
