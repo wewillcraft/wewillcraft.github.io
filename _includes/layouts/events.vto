@@ -312,7 +312,11 @@ layout: layouts/base.vto
                 <a :href="event.website" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors" x-text="event.name"></a>
               </h3>
               <template x-if="event.org">
-                <p class="text-sm text-gray-600 mb-1" x-text="'Organized by ' + event.org"></p>
+                <p class="text-sm text-gray-600 mb-1">
+                  Organized by 
+                  <a x-show="event.orgWebsite" :href="event.orgWebsite" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors" x-text="event.org"></a>
+                  <span x-show="!event.orgWebsite" x-text="event.org"></span>
+                </p>
               </template>
               <template x-if="event.city">
                 <p class="text-sm text-gray-600" x-text="'📍 ' + event.city"></p>
@@ -477,7 +481,8 @@ function eventsPage() {
         const org = this.organizations.find(o => o.id === e.by);
         return {
           ...e,
-          org: org ? org.name : null
+          org: org ? org.name : null,
+          orgWebsite: org ? org.website : null
         };
       });
       this.modalOpen = true;
