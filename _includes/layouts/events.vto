@@ -59,7 +59,7 @@ layout: layouts/base.vto
             {{ set weekNum = Math.ceil((tempDate - jan1) / 604800000) + 1 }}
 
             {{# Output first week number #}}
-            <div class="text-gray-500 text-center">{{ weekNum }}</div>
+            <div class="text-gray-400 text-center text-[10px] font-medium self-center">W{{ String(weekNum).padStart(2, '0') }}</div>
 
             {{# Empty cells before first day #}}
             {{ for emptyDay of Array(firstDay).keys() }}
@@ -84,7 +84,7 @@ layout: layouts/base.vto
                 {{ set jan1Day2 = jan1_2.getUTCDay() || 7 }}
                 {{ set _ = jan1_2.setUTCDate(jan1_2.getUTCDate() - jan1Day2 + 4) }}
                 {{ set weekNum2 = Math.ceil((tempDate2 - jan1_2) / 604800000) + 1 }}
-                <div class="text-gray-500 text-center">{{ weekNum2 }}</div>
+                <div class="text-gray-400 text-center text-[10px] font-medium self-center">W{{ String(weekNum2).padStart(2, '0') }}</div>
               {{ /if }}
 
               {{# Check for events on this date #}}
@@ -214,7 +214,7 @@ layout: layouts/base.vto
                 {{ set _ = jan1_3.setUTCDate(jan1_3.getUTCDate() - jan1Day3 + 4) }}
                 {{ set eventWeek = Math.ceil((tempDate3 - jan1_3) / 604800000) + 1 }}
                 <p class="text-sm text-gray-500">
-                  {{ startDate.getFullYear() }}, Week {{ eventWeek }}
+                  {{ startDate.getFullYear() }}, Week {{ String(eventWeek).padStart(2, '0') }}
                 </p>
               </div>
             </div>
@@ -357,8 +357,8 @@ function generateCalendar(year) {
 
     // First week number
     const weekNumDiv = document.createElement('div');
-    weekNumDiv.className = 'text-gray-500 text-center';
-    weekNumDiv.textContent = currentWeekNum;
+    weekNumDiv.className = 'text-gray-400 text-center text-[10px] font-medium self-center';
+    weekNumDiv.textContent = 'W' + String(currentWeekNum).padStart(2, '0');
     grid.appendChild(weekNumDiv);
 
     // Empty cells before first day
@@ -372,8 +372,8 @@ function generateCalendar(year) {
       if (cellsInWeek === 7) {
         currentWeekNum = getISOWeek(new Date(year, monthIndex, day));
         const weekDiv = document.createElement('div');
-        weekDiv.className = 'text-gray-500 text-center';
-        weekDiv.textContent = currentWeekNum;
+        weekDiv.className = 'text-gray-400 text-center text-[10px] font-medium self-center';
+        weekDiv.textContent = 'W' + String(currentWeekNum).padStart(2, '0');
         grid.appendChild(weekDiv);
         cellsInWeek = 0;
       }
