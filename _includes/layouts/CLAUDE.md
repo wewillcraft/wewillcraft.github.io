@@ -2,7 +2,8 @@
 
 ## events.vto
 
-This is a file using the Vento (https://vento.js.org) template engine. It is being used by the Lume (https://lume.land) static site generator.
+This is a file using the Vento (https://vento.js.org) template engine. It is
+being used by the Lume (https://lume.land) static site generator.
 
 ### Page Structure
 
@@ -29,7 +30,8 @@ The Events page must include the following sections in order:
 4. **Calendar View (12 Months)**
 
    - Display all 12 months for the selected year
-   - Grid layout (responsive: 1 column mobile, 2 columns tablet, 3 columns desktop)
+   - Grid layout (responsive: 1 column mobile, 2 columns tablet, 3 columns
+     desktop)
    - Each month shows:
      - Month name header
      - Week numbers (ISO format W01-W53)
@@ -74,7 +76,8 @@ The Events page must include the following sections in order:
 #### Layout & Styling
 
 - Use similar margins/padding as `post.vto` layout
-- Background should be `#292562` and should follow the branding style guide (`BRANDING.md`)
+- Background should be `#292562` and should follow the branding style guide
+  (`BRANDING.md`)
 - The calendars should be readable and not monotone purple
 - Maintain consistent spacing with other page layouts
 
