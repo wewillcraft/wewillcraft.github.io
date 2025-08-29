@@ -180,10 +180,12 @@ layout: layouts/base.vto
                           <button
                             type="button"
                             @click="showEventModal({{ year }}, {{ monthIndex }}, {{ day }}, $event)"
-                            class="event-day w-full text-center p-1 rounded font-semibold cursor-pointer transition-colors bg-blue-100 text-blue-900 hover:bg-blue-200"
-                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }})
-                              ? 'bg-gray-100 text-gray-500 hover:bg-gray-200'
-                              : 'bg-blue-100 text-blue-900 hover:bg-blue-200'"
+                            class="event-day w-full text-center p-1 rounded font-semibold cursor-pointer transition-colors"
+                            :class="{
+                              'bg-gray-100 text-gray-500 hover:bg-gray-200': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'bg-blue-100 text-blue-900 hover:bg-blue-200': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'bg-blue-600 text-white hover:bg-blue-700': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                            }"
                             x-show="shouldShowEvents({{ eventOrgsStr }})"
                             data-events='{{ JSON.stringify(dayEvents) }}'
                           >
@@ -192,14 +194,22 @@ layout: layouts/base.vto
                           <div
                             x-show="!shouldShowEvents({{ eventOrgsStr }})"
                             class="calendar-day text-center p-1 rounded"
-                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
+                            :class="{
+                              'text-gray-400': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'text-gray-700': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'bg-blue-600 text-white font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                            }"
                           >
                             {{ day }}
                           </div>
                         {{ else }}
                           <div
                             class="calendar-day text-center p-1 rounded"
-                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
+                            :class="{
+                              'text-gray-400': isPastDate({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'text-gray-700': !isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) && !isToday({{ year }}, {{ monthIndex }}, {{ day }}),
+                              'bg-blue-600 text-white font-semibold': isToday({{ year }}, {{ monthIndex }}, {{ day }})
+                            }"
                           >
                             {{ day }}
                           </div>
@@ -221,7 +231,7 @@ layout: layouts/base.vto
         <span x-text="currentYear === new Date().getFullYear() ? 'Upcoming Events' : 'Events'"></span>
       </h2>
 
-      <div class="space-y-4">
+      <div class="space-y-6">
         {{# Sort events by start_date #}}
         {{ set sortedEvents = events.sort((a, b) => {
           const aDate = typeof a.start_date === 'string' ? a.start_date : a.start_date.toISOString().split('T')[0];
@@ -237,56 +247,80 @@ layout: layouts/base.vto
           {{ set org = organizations.find(o => o.id === event.by) }}
 
           <div
-            class="event-card bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
+            class="event-card bg-white rounded-lg border border-gray-200 hover:border-gray-300 hover:shadow-lg transition-all duration-200"
             x-show="shouldShowEvent('{{ event.by }}', {{ eventYear }}, '{{ startDateStr }}')"
             data-event-org="{{ event.by }}"
             data-event-year="{{ eventYear }}"
             data-event-date="{{ startDateStr }}"
           >
-            <div class="flex flex-col md:flex-row md:items-center md:justify-between">
-              <div class="flex-1">
-                <h3 class="text-xl font-semibold mb-2">
-                  <a href="{{ event.website }}" target="_blank" class="text-blue-600 hover:text-blue-800">
-                    {{ event.name }}
-                  </a>
-                </h3>
-                <div class="text-gray-600 space-y-1">
+            <div class="p-5 sm:p-6">
+              <div class="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
+                <div class="flex-1">
+                  {{# Event Name #}}
+                  <h3 class="text-lg font-semibold mb-2">
+                    <a href="{{ event.website }}" target="_blank" class="text-gray-900 hover:text-blue-600 transition-colors">
+                      {{ event.name }}
+                    </a>
+                  </h3>
+
+                  {{# Organization #}}
                   {{ if org }}
-                    <p class="text-sm">
-                      Organized by
-                      {{ if org.website }}
-                        <a href="{{ org.website }}" target="_blank" class="text-blue-600 hover:text-blue-800">{{ org.name }}</a>
+                    <p class="text-sm text-gray-600">
+                      by {{ if org.website }}
+                        <a href="{{ org.website }}" target="_blank" class="hover:text-blue-600 transition-colors">{{ org.name }}</a>
                       {{ else }}
                         {{ org.name }}
                       {{ /if }}
                     </p>
                   {{ /if }}
+                </div>
+
+                {{# Date and Location Section #}}
+                <div class="sm:text-right space-y-1">
+                  <div class="flex items-center sm:justify-end gap-2">
+                    <p class="text-base font-medium text-gray-900">
+                      {{ set endDateStr = event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}
+                      {{ if startDateStr === endDateStr || !event.end_date }}
+                        {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }}
+                      {{ else }}
+                        {{ set endMonth = parseInt(endDateStr.substring(5, 7)) - 1 }}
+                        {{ set endDay = parseInt(endDateStr.substring(8, 10)) }}
+                        {{ set endYear = parseInt(endDateStr.substring(0, 4)) }}
+                        {{ if eventMonth === endMonth && eventYear === endYear }}
+                          {{# Same month and year #}}
+                          {{ monthNames[eventMonth] }} {{ eventDay }}-{{ endDay }}, {{ eventYear }}
+                        {{ else if eventYear === endYear }}
+                          {{# Different months, same year #}}
+                          {{ shortMonthNames[eventMonth] }} {{ eventDay }} - {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
+                        {{ else }}
+                          {{# Different years #}}
+                          {{ shortMonthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }} - {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ endYear }}
+                        {{ /if }}
+                      {{ /if }}
+                    </p>
+
+                    {{# Add to Calendar Button #}}
+                    <button
+                      @click="addToCalendar('{{ event.name }}', '{{ startDateStr }}', '{{ event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}', '{{ event.city || '' }}', '{{ event.website }}')"
+                      class="inline-flex items-center py-1 text-gray-400 hover:text-blue-600 transition-colors"
+                      title="Add to calendar"
+                    >
+                      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path>
+                      </svg>
+                    </button>
+                  </div>
+
+                  {{# Location #}}
                   {{ if event.city }}
-                    <p class="text-sm">📍 {{ event.city }}</p>
+                    <p class="flex items-center text-sm text-gray-600 sm:justify-end">
+                      <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                        <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                      </svg>
+                      {{ event.city }}
+                    </p>
                   {{ /if }}
                 </div>
-              </div>
-              <div class="mt-4 md:mt-0 md:text-right">
-                <p class="text-lg font-medium text-gray-800">
-                  {{ set endDateStr = event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}
-                  {{ if startDateStr === endDateStr || !event.end_date }}
-                    {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }}
-                  {{ else }}
-                    {{ set endMonth = parseInt(endDateStr.substring(5, 7)) - 1 }}
-                    {{ set endDay = parseInt(endDateStr.substring(8, 10)) }}
-                    {{ set endYear = parseInt(endDateStr.substring(0, 4)) }}
-                    {{ if eventMonth === endMonth && eventYear === endYear }}
-                      {{# Same month and year #}}
-                      {{ monthNames[eventMonth] }} {{ eventDay }}-{{ endDay }}, {{ eventYear }}
-                    {{ else if eventYear === endYear }}
-                      {{# Different months, same year #}}
-                      {{ monthNames[eventMonth] }} {{ eventDay }} - {{ monthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
-                    {{ else }}
-                      {{# Different years #}}
-                      {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }} - {{ monthNames[endMonth] }} {{ endDay }}, {{ endYear }}
-                    {{ /if }}
-                  {{ /if }}
-                </p>
               </div>
             </div>
           </div>
@@ -309,21 +343,26 @@ layout: layouts/base.vto
         </button>
       </div>
       <div class="px-6 py-4">
-        <div class="space-y-4">
+        <div class="space-y-3">
           <template x-for="event in modalEvents" :key="event.name">
-            <div class="border-l-4 border-blue-500 pl-4 py-2">
-              <h3 class="font-semibold text-lg mb-1">
-                <a :href="event.website" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors" x-text="event.name"></a>
+            <div class="border-l-2 border-gray-200 pl-4 pb-2">
+              <h3 class="font-semibold text-base mb-1">
+                <a :href="event.website" target="_blank" class="text-gray-900 hover:text-blue-600 transition-colors" x-text="event.name"></a>
               </h3>
               <template x-if="event.org">
-                <p class="text-sm text-gray-600 mb-1">
-                  Organized by 
-                  <a x-show="event.orgWebsite" :href="event.orgWebsite" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors" x-text="event.org"></a>
+                <p class="text-sm text-gray-600">
+                  <span>by </span>
+                  <a x-show="event.orgWebsite" :href="event.orgWebsite" target="_blank" class="hover:text-blue-600 transition-colors" x-text="event.org"></a>
                   <span x-show="!event.orgWebsite" x-text="event.org"></span>
                 </p>
               </template>
               <template x-if="event.city">
-                <p class="text-sm text-gray-600" x-text="'📍 ' + event.city"></p>
+                <p class="flex items-center text-sm text-gray-600 mt-1">
+                  <svg class="w-4 h-4 mr-1.5 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                  </svg>
+                  <span x-text="event.city"></span>
+                </p>
               </template>
             </div>
           </template>
@@ -373,14 +412,14 @@ function eventsPage() {
     shouldCollapseMonth(year, month) {
       // Only collapse on mobile and only for past months
       if (!this.isMobile) return false;
-      
+
       const today = new Date();
       const currentYear = today.getFullYear();
       const currentMonth = today.getMonth();
-      
+
       // If it's not the current year, don't collapse
       if (year !== currentYear) return false;
-      
+
       // Collapse if the month has completely passed
       return month < currentMonth;
     },
@@ -475,6 +514,13 @@ function eventsPage() {
       return date < today;
     },
 
+    isToday(year, month, day) {
+      const today = new Date();
+      return year === today.getFullYear() && 
+             month === today.getMonth() && 
+             day === today.getDate();
+    },
+
     getEventsForDate(dateStr) {
       return this.events.filter(event => {
         const startDate = event.start_date;
@@ -518,6 +564,42 @@ function eventsPage() {
     closeModal() {
       this.modalOpen = false;
       document.body.style.overflow = '';
+    },
+
+    addToCalendar(title, startDate, endDate, location, url) {
+      // Format dates for Google Calendar (YYYYMMDD)
+      const formatDate = (dateStr) => {
+        // Ensure date string is in YYYY-MM-DD format
+        const cleanDate = dateStr.split('T')[0];
+        return cleanDate.replace(/-/g, '');
+      };
+
+      // Add one day to end date for Google Calendar (end date is exclusive)
+      const getNextDay = (dateStr) => {
+        // Parse the date string properly
+        const parts = dateStr.split('-');
+        const date = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+        date.setDate(date.getDate() + 1);
+        const year = date.getFullYear();
+        const month = String(date.getMonth() + 1).padStart(2, '0');
+        const day = String(date.getDate()).padStart(2, '0');
+        return `${year}-${month}-${day}`;
+      };
+
+      // For Google Calendar, we need to add 1 day to the end date
+      const calendarEndDate = getNextDay(endDate || startDate);
+
+      // Create Google Calendar URL
+      const baseUrl = 'https://calendar.google.com/calendar/render?action=TEMPLATE';
+      const params = new URLSearchParams({
+        text: title,
+        dates: `${formatDate(startDate)}/${formatDate(calendarEndDate)}`,
+        details: url ? `Event details: ${url}` : '',
+        location: location || ''
+      });
+
+      // Open in new window
+      window.open(`${baseUrl}&${params.toString()}`, '_blank');
     }
   };
 }
