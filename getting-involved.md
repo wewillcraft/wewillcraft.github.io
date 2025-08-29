@@ -188,29 +188,39 @@ and vision, let's explore how we can multiply our impact together.
 
 [Explore Partnership →](mailto:we@willcraft.software?subject=Partnership%20Discussion)
 
-## Contributing Guidelines
+## Contributing to Our Projects
 
-### For Code Contributions
+We welcome all contributions! For detailed guidelines on contributing to our open source projects, please see our [Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
 
-1. **Check existing issues** or create a new one to discuss your idea
-2. **Fork the repository** and create your feature branch
-3. **Write clear, purposeful code** with meaningful commit messages
-4. **Test thoroughly** - broken code helps no one
-5. **Document your changes** - future maintainers will thank you
-6. **Submit a pull request** with a clear description of changes
+### Quick Start for Contributors
 
-### For Non-Code Contributions
+1. **Check our [Contributing Guide](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md)** for detailed instructions
+2. **Read our Code of Conduct** - we're building community, not just code
+3. **Find an issue labeled "good first issue"** to get started
+4. **Ask questions** - we're here to help, not to judge
 
-- **Content:** Submit via email or pull request
-- **Design:** Share files via email with usage rights
-- **Ideas:** Open an issue or email us
-- **Feedback:** Always welcome through any channel
+### We Use Conventional Commits
 
-### Code of Conduct
+All commits should follow the [Conventional Commits](https://www.conventionalcommits.org/) format:
 
-All contributors must adhere to our [Code of Conduct](/code-of-conduct). We're
-building more than software - we're building community. Treat everyone with
-respect, kindness, and grace.
+- `feat:` for new features
+- `fix:` for bug fixes
+- `docs:` for documentation
+- `style:` for formatting
+- `refactor:` for code refactoring
+- `test:` for tests
+- `chore:` for maintenance
+
+Example: `feat(events): add calendar filtering by organization`
+
+### Remember: Everyone is Welcome
+
+- **No contribution is too small** - even fixing typos helps!
+- **Impostor syndrome is normal** - we all feel it
+- **Your perspective matters** - diversity makes us stronger
+- **Questions are valuable** - they help us improve documentation
+
+For the complete guide including setup instructions, style guidelines, and PR process, visit our [CONTRIBUTING.md](https://github.com/wewillcraft/wewillcraft.github.io/blob/main/CONTRIBUTING.md).
 
 ## Start Where You Are
 
