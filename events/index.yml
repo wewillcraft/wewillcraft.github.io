@@ -43,6 +43,12 @@ organizations:
     name: Philippine Innovation Conference
     website: https://lu.ma/7dmxe67i
 events:
+  - by: favor_church
+    name: Counterculture 2025
+    website: https://events.favor.church/counterculture2025
+    start_date: 2025-11-14
+    end_date: 2025-11-15
+    city: Pasig City
   - by: data_eng_pilipinas
     name: Data Governance 101 & Your First Pandas Contribution (Online)
     website: https://www.facebook.com/groups/dataengineeringpilipinas/posts/1669410207028373/
