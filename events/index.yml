@@ -38,17 +38,11 @@ organizations:
     website: https://geeksonabeach.com
   - id: tech_talks
     name: TechTalks.ph
-    website: https://geeksonabeach.com
+    website: https://www.facebook.com/TechTalks.ph
   - id: pic_ph
     name: Philippine Innovation Conference
     website: https://lu.ma/7dmxe67i
 events:
-  - by: favor_church
-    name: Counterculture 2025
-    website: https://events.favor.church/counterculture2025
-    start_date: 2025-11-14
-    end_date: 2025-11-15
-    city: Pasig City
   - by: data_eng_pilipinas
     name: Data Governance 101 & Your First Pandas Contribution (Online)
     website: https://www.facebook.com/groups/dataengineeringpilipinas/posts/1669410207028373/
