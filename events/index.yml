@@ -1,0 +1,45 @@
+layout: layouts/events.vto
+title: Events
+description: Curated community events and conferences you might enjoy going to
+
+organizations:
+  - id: favor_church
+    name: Favor Church
+    website: https://favor.church
+  - id: badgamejam
+    name: Bad Game Jam
+    website: https://instagram.com/badgamejam
+  - id: techbayanihan
+    name: Techbayanihan
+    website: https://techbayanihan.org
+events:
+  - by: favor_church
+    name: Counterculture 2025
+    website: https://events.favor.church/counterculture2025
+    start_date: 2025-11-14
+    end_date: 2025-11-15
+    city: Pasig City
+  - by: badgamejam
+    name: "Bad Game Jam 2: Kick Off & Grand Eye Ball"
+    website: https://www.instagram.com/p/DNnnAHIvOM7
+    start_date: 2025-09-06
+    end_date: 2025-09-06
+    city: Manila City
+  - by: badgamejam
+    name: "Bad Game Jam 2: Play Games Together, Art Market + Bad Art Jam, Afterparty"
+    website: https://www.instagram.com/p/DNnnAHIvOM7
+    start_date: 2025-09-13
+    end_date: 2025-09-13
+    city: Manila City
+  - by: techbayanihan
+    name: Techbayanihan 2025
+    website: https://techbayanihan.org/techbayanihan-2025
+    start_date: 2025-12-01
+    end_date: 2025-12-03
+    city: Muntinlupa
+  - by: favor_church
+    name: Favor Conference 2026
+    website: https://events.favor.church/conference2026
+    start_date: 2026-07-02
+    end_date: 2026-07-04
+    city: Pasig City
