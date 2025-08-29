@@ -295,7 +295,7 @@ layout: layouts/base.vto
   <div id="eventModal" class="fixed inset-0 z-50" x-show="modalOpen" x-cloak>
     <div class="fixed inset-0 bg-black bg-opacity-50" @click="closeModal()"></div>
 
-    <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto mx-4">
+    <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-[calc(100%-2rem)] max-w-lg max-h-[90vh] overflow-y-auto">
       <div class="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
         <h2 class="text-xl font-semibold text-gray-900" x-text="modalTitle"></h2>
         <button @click="closeModal()" class="text-gray-400 hover:text-gray-600 transition-colors" aria-label="Close modal">
