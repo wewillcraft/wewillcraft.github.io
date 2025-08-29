@@ -2,175 +2,235 @@
 layout: layouts/base.vto
 ---
 
-<div class="pt-24">
+{{ set monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] }}
+{{ set shortMonthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] }}
+{{ set weekDays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"] }}
+
+{{# Helper function to get ISO week number #}}
+{{ set getISOWeek = (dateStr) => {
+  const date = new Date(dateStr + 'T00:00:00');
+  const tempDate = new Date(date);
+  const dayOfWeek = tempDate.getUTCDay() || 7;
+  tempDate.setUTCDate(tempDate.getUTCDate() + 4 - dayOfWeek);
+  const yearStart = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1));
+  const weekNo = Math.ceil(((tempDate - yearStart) / 86400000 + 1) / 7);
+  return weekNo;
+} }}
+
+{{# Get unique years from events #}}
+{{ set eventYears = [] }}
+{{ for event of events }}
+  {{ set dateStr = typeof event.start_date === 'string' ? event.start_date : event.start_date.toISOString().split('T')[0] }}
+  {{ set year = parseInt(dateStr.substring(0, 4)) }}
+  {{ if !eventYears.includes(year) }}
+    {{ set _ = eventYears.push(year) }}
+  {{ /if }}
+{{ /for }}
+{{ set _ = eventYears.sort() }}
+
+{{# Current year (default to first year with events) #}}
+{{ set currentYear = new Date().getFullYear() }}
+{{ if !eventYears.includes(currentYear) }}
+  {{ set currentYear = eventYears[0] }}
+{{ /if }}
+
+<div class="pt-24" x-data="eventsPage()">
   <div class="max-w-6xl mx-auto px-6">
-  <header class="mb-8">
-    <h1 class="text-4xl sm:text-5xl font-bold text-white mb-4">
-      Events <span id="yearDisplay">{{ new Date().getFullYear() }}</span>
-    </h1>
-    {{ if it.description }}
-    <p class="text-lg text-gray-300">{{ it.description }}</p>
-    {{ /if }}
-  </header>
+    <header class="mb-8">
+      <h1 class="text-4xl sm:text-5xl font-bold text-white mb-4">
+        {{ title }} <span x-text="currentYear">{{ currentYear }}</span>
+      </h1>
+      <p class="text-lg text-gray-300">{{ description }}</p>
+    </header>
 
-  {{# Year navigation - better positioned for mobile #}}
-  <div class="flex justify-center mb-8">
-    <div class="flex gap-2" id="yearNavigation">
-      {{# Navigation buttons will be shown/hidden by JavaScript #}}
+    {{# Year Navigation #}}
+    <div class="flex justify-center mb-8">
+      <div class="flex gap-2">
+        <template x-for="(yearData, idx) in yearNavigation" :key="idx">
+          <button 
+            x-show="yearData.show"
+            @click="navigateToYear(yearData.year)"
+            class="px-4 py-2 bg-white text-gray-800 rounded-lg hover:bg-gray-100 transition-colors font-semibold"
+            x-html="yearData.label">
+          </button>
+        </template>
+      </div>
     </div>
-  </div>
 
-  <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6" id="calendarGrid">
-    {{ for monthIndex of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] }}
-      {{ set currentYear = new Date().getFullYear() }}
-      {{ set months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] }}
-      {{ set weekDays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"] }}
-      {{ set month = months[monthIndex] }}
-      {{ set daysInMonth = new Date(currentYear, monthIndex + 1, 0).getDate() }}
-      {{# Convert Sunday=0 to Monday=0 for calendar display #}}
-      {{ set firstDayRaw = new Date(currentYear, monthIndex, 1).getDay() }}
-      {{ set firstDay = (firstDayRaw + 6) % 7 }}
-
-      <div class="bg-white rounded-lg shadow-md overflow-hidden">
-        <div class="bg-gray-800 text-white px-4 py-3">
-          <h2 class="text-xl font-semibold">{{ month }}</h2>
+    {{# Organization Filter #}}
+    <div class="mb-8">
+      <div class="flex flex-col sm:flex-row sm:items-center gap-4">
+        <label class="text-white font-semibold">Filter by Organization:</label>
+        <div class="flex flex-wrap gap-2">
+          {{ for org of organizations.sort((a, b) => a.name.localeCompare(b.name)) }}
+            <button
+              @click="toggleOrganization('{{ org.id }}')"
+              :class="selectedOrgs.includes('{{ org.id }}') ? 'bg-blue-600 text-white' : 'bg-white text-gray-800'"
+              class="px-3 py-1 rounded-lg transition-colors text-sm hover:opacity-90"
+              x-show="hasEventsInYear('{{ org.id }}')"
+            >
+              {{ org.name }}
+            </button>
+          {{ /for }}
+          <button
+            x-show="selectedOrgs.length > 0"
+            @click="clearFilters()"
+            class="px-3 py-1 bg-red-600 text-white rounded-lg transition-colors text-sm hover:bg-red-700"
+          >
+            Clear All
+          </button>
         </div>
+      </div>
+    </div>
 
-        <div class="p-4">
-          <div class="grid grid-cols-8 gap-1 text-xs">
-            <div></div>{{# Empty cell for week number column #}}
-            {{ for day of weekDays }}
-              <div class="font-semibold text-gray-700 text-center">{{ day }}</div>
-            {{ /for }}
+    {{# Calendar Grid #}}
+    <div class="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-6" id="calendarGrid">
+      {{ for year of eventYears }}
+        {{ for monthIndex of [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] }}
+          {{ set monthName = monthNames[monthIndex] }}
+          {{ set daysInMonth = new Date(year, monthIndex + 1, 0).getDate() }}
+          {{ set firstDayRaw = new Date(year, monthIndex, 1).getDay() }}
+          {{ set firstDay = (firstDayRaw + 6) % 7 }}{{# Convert Sunday=0 to Monday=0 #}}
+          
+          <div 
+            class="bg-white rounded-lg shadow-md overflow-hidden month-card"
+            data-year="{{ year }}"
+            data-month="{{ monthIndex }}"
+            x-show="currentYear === {{ year }}"
+          >
+            <div class="bg-gray-800 text-white px-4 py-3">
+              <h2 class="text-xl font-semibold">{{ monthName }}</h2>
+            </div>
 
-            {{# Calculate ISO week number for first day of month #}}
-            {{# For ISO week: Monday is day 1, Sunday is day 7 #}}
-            {{# Week 1 is the week with the year's first Thursday #}}
-            {{ set firstDate = new Date(Date.UTC(currentYear, monthIndex, 1)) }}
-            {{ set tempDate = new Date(firstDate) }}
-            {{# Adjust to Thursday of the week (Thursday = day 4 in ISO) #}}
-            {{ set dayOfWeek = tempDate.getUTCDay() || 7 }}{{# Sunday = 0 becomes 7 #}}
-            {{ set _ = tempDate.setUTCDate(tempDate.getUTCDate() - dayOfWeek + 4) }}
-            {{# Find week 1 (first Thursday of the year) #}}
-            {{ set jan1 = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1)) }}
-            {{ set jan1Day = jan1.getUTCDay() || 7 }}
-            {{ set _ = jan1.setUTCDate(jan1.getUTCDate() - jan1Day + 4) }}
-            {{# Calculate week number #}}
-            {{ set weekNum = Math.ceil((tempDate - jan1) / 604800000) + 1 }}
-
-            {{# Output first week number #}}
-            <div class="text-gray-400 text-center text-[10px] font-medium self-center">W{{ String(weekNum).padStart(2, '0') }}</div>
-
-            {{# Empty cells before first day #}}
-            {{ for emptyDay of Array(firstDay).keys() }}
-              <div></div>
-            {{ /for }}
-
-            {{ set cellsInWeek = firstDay }}
-
-            {{# Days of the month #}}
-            {{ for day of Array(daysInMonth).keys() }}
-              {{ set dayNum = day + 1 }}
-
-              {{# Start new week row if needed - check BEFORE placing the day #}}
-              {{ if cellsInWeek === 7 }}
-                {{ set cellsInWeek = 0 }}
-                {{# Calculate ISO week for the Monday of this new week #}}
-                {{ set currentDate = new Date(Date.UTC(currentYear, monthIndex, dayNum)) }}
-                {{ set tempDate2 = new Date(currentDate) }}
-                {{ set dayOfWeek2 = tempDate2.getUTCDay() || 7 }}
-                {{ set _ = tempDate2.setUTCDate(tempDate2.getUTCDate() - dayOfWeek2 + 4) }}
-                {{ set jan1_2 = new Date(Date.UTC(tempDate2.getUTCFullYear(), 0, 1)) }}
-                {{ set jan1Day2 = jan1_2.getUTCDay() || 7 }}
-                {{ set _ = jan1_2.setUTCDate(jan1_2.getUTCDate() - jan1Day2 + 4) }}
-                {{ set weekNum2 = Math.ceil((tempDate2 - jan1_2) / 604800000) + 1 }}
-                <div class="text-gray-400 text-center text-[10px] font-medium self-center">W{{ String(weekNum2).padStart(2, '0') }}</div>
-              {{ /if }}
-
-              {{# Check for events on this date #}}
-              {{ set currentDateObj = new Date(Date.UTC(currentYear, monthIndex, dayNum)) }}
-              {{ set currentDateStr = currentDateObj.toISOString().split('T')[0] }}
-              {{ set dayEvents = [] }}
-              {{ if it.events }}
-                {{ for event of it.events }}
-                  {{ set eventStart = event.start_date instanceof Date ? event.start_date.toISOString().split('T')[0] : event.start_date }}
-                  {{ set eventEnd = event.end_date ? (event.end_date instanceof Date ? event.end_date.toISOString().split('T')[0] : event.end_date) : eventStart }}
-                  {{ if eventStart && eventStart <= currentDateStr && eventEnd >= currentDateStr }}
-                    {{ set _ = dayEvents.push(event) }}
-                  {{ /if }}
-                {{ /for }}
-              {{ /if }}
-
-              {{ set dateId = `${currentYear}-${String(monthIndex + 1).padStart(2, '0')}-${String(dayNum).padStart(2, '0')}` }}
-              <div class="relative calendar-cell" data-month="{{ monthIndex }}" data-day="{{ dayNum }}">
-                {{ if dayEvents.length > 0 }}
-                  <button
-                    type="button"
-                    data-date="{{ dateId }}"
-                    data-day="{{ dayNum }}"
-                    data-month="{{ monthIndex }}"
-                    data-year="{{ currentYear }}"
-                    data-events='{{ JSON.stringify(dayEvents) }}'
-                    data-orgs='{{ JSON.stringify(it.organizations) }}'
-                    class="event-day w-full text-center p-1 rounded bg-blue-100 text-blue-900 font-semibold cursor-pointer hover:bg-blue-200 transition-colors"
-                    aria-label="View events for {{ months[monthIndex] }} {{ dayNum }}"
-                  >
-                    {{ dayNum }}
-                    {{ if dayEvents.length > 1 }}
-                      <span class="block text-xs mt-0.5">{{ dayEvents.length }} events</span>
-                    {{ /if }}
-                  </button>
-                {{ else }}
-                  <div data-date="{{ dateId }}" class="calendar-day text-center p-1 rounded text-gray-700">
-                    {{ dayNum }}
-                  </div>
-                {{ /if }}
-              </div>
-
-              {{ set cellsInWeek = cellsInWeek + 1 }}
-            {{ /for }}
-
-            {{# Fill remaining cells of last week #}}
-            {{ set lastRemainingCells = 7 - cellsInWeek }}
-            {{ if lastRemainingCells > 0 && lastRemainingCells < 7 }}
-              {{ for empty of Array(lastRemainingCells).keys() }}
+            <div class="p-4">
+              <div class="grid grid-cols-8 gap-1 text-xs">
+                {{# Week day headers #}}
                 <div></div>
-              {{ /for }}
-            {{ /if }}
+                {{ for day of weekDays }}
+                  <div class="font-semibold text-gray-700 text-center">{{ day }}</div>
+                {{ /for }}
+
+                {{# Generate calendar with proper week structure #}}
+                
+                {{# Calculate total weeks needed #}}
+                {{ set totalDays = firstDay + daysInMonth }}
+                {{ set totalWeeks = Math.ceil(totalDays / 7) }}
+                
+                {{# Generate each week row #}}
+                {{ for weekIndex of [...Array(totalWeeks).keys()] }}
+                  {{# Calculate first day of this week row #}}
+                  {{ set weekStartDay = weekIndex * 7 - firstDay + 1 }}
+                  {{ set weekEndDay = Math.min(weekStartDay + 6, daysInMonth) }}
+                  
+                  {{# Add week number for this row #}}
+                  {{ if weekStartDay <= daysInMonth }}
+                    {{# Get the Monday date for this week row to calculate correct ISO week #}}
+                    {{ if weekStartDay < 1 }}
+                      {{# This week starts in the previous month, find the Monday #}}
+                      {{ set prevMonth = monthIndex === 0 ? 11 : monthIndex - 1 }}
+                      {{ set prevYear = monthIndex === 0 ? year - 1 : year }}
+                      {{ set daysInPrevMonth = new Date(prevYear, prevMonth + 1, 0).getDate() }}
+                      {{ set mondayDate = daysInPrevMonth + weekStartDay }}
+                      {{ set weekNum = getISOWeek(`${prevYear}-${String(prevMonth + 1).padStart(2, '0')}-${String(mondayDate).padStart(2, '0')}`) }}
+                    {{ else }}
+                      {{# Find the Monday of this week (could be in current month) #}}
+                      {{ set mondayDay = weekStartDay }}
+                      {{ set weekNum = getISOWeek(`${year}-${String(monthIndex + 1).padStart(2, '0')}-${String(mondayDay).padStart(2, '0')}`) }}
+                    {{ /if }}
+                    <div class="text-gray-400 text-center text-[10px] font-medium self-center">
+                      W{{ String(weekNum).padStart(2, '0') }}
+                    </div>
+                  {{ else }}
+                    <div></div>
+                  {{ /if }}
+                  
+                  {{# Generate 7 day cells for this week #}}
+                  {{ for dayIndex of [...Array(7).keys()] }}
+                    {{ set day = weekIndex * 7 + dayIndex - firstDay + 1 }}
+                    
+                    {{ if day < 1 || day > daysInMonth }}
+                      {{# Empty cell for days outside the month #}}
+                      <div></div>
+                    {{ else }}
+                      {{# Check for events on this day #}}
+                      {{ set dateStr = `${year}-${String(monthIndex + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}` }}
+                      {{ set dayEvents = events.filter(e => {
+                        const startDate = typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0];
+                        const endDate = e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : startDate;
+                        return startDate <= dateStr && endDate >= dateStr;
+                      }) }}
+                      
+                      {{ set eventOrgs = dayEvents.map(e => `'${e.by}'`) }}
+                      {{ set eventOrgsStr = eventOrgs.length > 0 ? `[${eventOrgs.join(',')}]` : '[]' }}
+                      
+                      <div class="relative calendar-cell" data-date="{{ dateStr }}">
+                        {{ if dayEvents.length > 0 }}
+                          <button
+                            type="button"
+                            @click="showEventModal({{ year }}, {{ monthIndex }}, {{ day }}, $event)"
+                            class="event-day w-full text-center p-1 rounded font-semibold cursor-pointer transition-colors bg-blue-100 text-blue-900 hover:bg-blue-200"
+                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) 
+                              ? 'bg-gray-100 text-gray-500 hover:bg-gray-200' 
+                              : 'bg-blue-100 text-blue-900 hover:bg-blue-200'"
+                            x-show="shouldShowEvents({{ eventOrgsStr }})"
+                            data-events='{{ JSON.stringify(dayEvents) }}'
+                          >
+                            {{ day }}
+                          </button>
+                          <div 
+                            x-show="!shouldShowEvents({{ eventOrgsStr }})"
+                            class="calendar-day text-center p-1 rounded text-gray-700"
+                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
+                          >
+                            {{ day }}
+                          </div>
+                        {{ else }}
+                          <div 
+                            class="calendar-day text-center p-1 rounded text-gray-700"
+                            :class="isPastDate({{ year }}, {{ monthIndex }}, {{ day }}) ? 'text-gray-400' : 'text-gray-700'"
+                          >
+                            {{ day }}
+                          </div>
+                        {{ /if }}
+                      </div>
+                    {{ /if }}
+                  {{ /for }}
+                {{ /for }}
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
-    {{ /for }}
-  </div>
+        {{ /for }}
+      {{ /for }}
+    </div>
 
-  {{# Events List Section #}}
-  {{ if it.events && it.events.length > 0 }}
+    {{# Events List #}}
     <section class="mt-12">
-      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-6">
-        <h2 class="text-2xl font-bold text-white">
-          <span id="eventsListTitle">Events</span>
-        </h2>
-        <div id="organizationFilter" class="mt-4 sm:mt-0">
-          {{# Filter will be populated by JavaScript #}}
-        </div>
-      </div>
-      <div class="space-y-4" id="upcomingEvents">
-        {{ set sortedEvents = [...it.events].sort((a, b) => String(a.start_date).localeCompare(String(b.start_date))) }}
+      <h2 class="text-2xl font-bold text-white mb-6">
+        <span x-text="currentYear === new Date().getFullYear() ? 'Upcoming Events' : 'Events'"></span>
+      </h2>
+      
+      <div class="space-y-4">
+        {{# Sort events by start_date #}}
+        {{ set sortedEvents = events.sort((a, b) => {
+          const aDate = typeof a.start_date === 'string' ? a.start_date : a.start_date.toISOString().split('T')[0];
+          const bDate = typeof b.start_date === 'string' ? b.start_date : b.start_date.toISOString().split('T')[0];
+          return aDate.localeCompare(bDate);
+        }) }}
         {{ for event of sortedEvents }}
-          {{ set org = null }}
-          {{ if it.organizations }}
-            {{ for o of it.organizations }}
-              {{ if o.id === event.by }}
-                {{ set org = o }}
-              {{ /if }}
-            {{ /for }}
-          {{ /if }}
-
-          {{# Parse dates properly #}}
-          {{ set startDate = event.start_date instanceof Date ? event.start_date : new Date(event.start_date) }}
-          {{ set endDate = event.end_date ? (event.end_date instanceof Date ? event.end_date : new Date(event.end_date)) : startDate }}
-
-          <div class="event-card bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow" data-start-date="{{ event.start_date }}">
+          {{ set startDateStr = typeof event.start_date === 'string' ? event.start_date : event.start_date.toISOString().split('T')[0] }}
+          {{ set eventYear = parseInt(startDateStr.substring(0, 4)) }}
+          {{ set eventMonth = parseInt(startDateStr.substring(5, 7)) - 1 }}
+          {{ set eventDay = parseInt(startDateStr.substring(8, 10)) }}
+          {{ set eventWeek = getISOWeek(startDateStr) }}
+          {{ set org = organizations.find(o => o.id === event.by) }}
+          
+          <div 
+            class="event-card bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
+            x-show="shouldShowEvent('{{ event.by }}', {{ eventYear }}, '{{ startDateStr }}')"
+            data-event-org="{{ event.by }}"
+            data-event-year="{{ eventYear }}"
+            data-event-date="{{ startDateStr }}"
+          >
             <div class="flex flex-col md:flex-row md:items-center md:justify-between">
               <div class="flex-1">
                 <h3 class="text-xl font-semibold mb-2">
@@ -196,25 +256,23 @@ layout: layouts/base.vto
               </div>
               <div class="mt-4 md:mt-0 md:text-right">
                 <p class="text-lg font-medium text-gray-800">
-                  {{ set months2 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] }}
-                  {{ set longMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"] }}
-                  {{ if event.start_date === event.end_date || !event.end_date }}
-                    {{ longMonths[startDate.getMonth()] }} {{ startDate.getDate() }}, {{ startDate.getFullYear() }}
+                  {{ set endDateStr = event.end_date ? (typeof event.end_date === 'string' ? event.end_date : event.end_date.toISOString().split('T')[0]) : startDateStr }}
+                  {{ if startDateStr === endDateStr || !event.end_date }}
+                    {{ monthNames[eventMonth] }} {{ eventDay }}, {{ eventYear }}
                   {{ else }}
-                    {{ months2[startDate.getMonth()] }} {{ startDate.getDate() }} -
-                    {{ months2[endDate.getMonth()] }} {{ endDate.getDate() }}, {{ endDate.getFullYear() }}
+                    {{ set endMonth = parseInt(endDateStr.substring(5, 7)) - 1 }}
+                    {{ set endDay = parseInt(endDateStr.substring(8, 10)) }}
+                    {{ set endYear = parseInt(endDateStr.substring(0, 4)) }}
+                    {{ shortMonthNames[eventMonth] }} {{ eventDay }} -
+                    {{ if eventYear !== endYear }}
+                      {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ endYear }}
+                    {{ else }}
+                      {{ shortMonthNames[endMonth] }} {{ endDay }}, {{ eventYear }}
+                    {{ /if }}
                   {{ /if }}
                 </p>
-                {{# Calculate ISO week for event #}}
-                {{ set tempDate3 = new Date(startDate) }}
-                {{ set dayOfWeek3 = tempDate3.getUTCDay() || 7 }}
-                {{ set _ = tempDate3.setUTCDate(tempDate3.getUTCDate() - dayOfWeek3 + 4) }}
-                {{ set jan1_3 = new Date(Date.UTC(tempDate3.getUTCFullYear(), 0, 1)) }}
-                {{ set jan1Day3 = jan1_3.getUTCDay() || 7 }}
-                {{ set _ = jan1_3.setUTCDate(jan1_3.getUTCDate() - jan1Day3 + 4) }}
-                {{ set eventWeek = Math.ceil((tempDate3 - jan1_3) / 604800000) + 1 }}
                 <p class="text-sm text-gray-500">
-                  {{ startDate.getFullYear() }}, Week {{ String(eventWeek).padStart(2, '0') }}
+                  {{ eventYear }}, Week {{ eventWeek }}
                 </p>
               </div>
             </div>
@@ -222,552 +280,209 @@ layout: layouts/base.vto
         {{ /for }}
       </div>
     </section>
-  {{ /if }}
   </div>
-</div>
 
-{{# CSS for collapse functionality #}}
-<style>
-  @media (max-width: 1023px) {
-    .collapsed-mobile {
-      display: none;
-    }
-  }
-
-  .collapse-icon {
-    transition: transform 0.3s ease;
-  }
-</style>
-
-{{# Modal for event details #}}
-<div id="eventModal" class="fixed inset-0 z-50 hidden">
-  {{# Backdrop #}}
-  <div class="fixed inset-0 bg-black bg-opacity-50" onclick="closeEventModal()"></div>
-
-  {{# Modal content #}}
-  <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto mx-4">
-    <div class="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
-      <h2 id="modalTitle" class="text-xl font-semibold text-gray-900"></h2>
-      <button
-        onclick="closeEventModal()"
-        class="text-gray-400 hover:text-gray-600 transition-colors"
-        aria-label="Close modal"
-      >
-        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-        </svg>
-      </button>
-    </div>
-    <div id="modalContent" class="px-6 py-4">
-      {{# Event details will be injected here by JavaScript #}}
-    </div>
-  </div>
-</div>
-
-<script>
-// Store all events data for year navigation
-const allEvents = {{ JSON.stringify(it.events || []) }};
-const allOrganizations = {{ JSON.stringify(it.organizations || []) }};
-let currentViewYear = new Date().getFullYear();
-
-// Get unique years from events
-function getEventYears() {
-  const years = new Set();
-  allEvents.forEach(event => {
-    const date = new Date(event.start_date);
-    years.add(date.getFullYear());
-  });
-  return Array.from(years).sort();
-}
-
-// Generate calendar for a specific year
-function generateCalendar(year) {
-  const container = document.getElementById('calendarGrid');
-  container.innerHTML = '';
-
-  const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-  const weekDays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-  const today = new Date();
-  const currentMonth = today.getMonth();
-  const currentYear = today.getFullYear();
-
-  for (let monthIndex = 0; monthIndex < 12; monthIndex++) {
-    const daysInMonth = new Date(year, monthIndex + 1, 0).getDate();
-    const firstDayRaw = new Date(year, monthIndex, 1).getDay();
-    const firstDay = (firstDayRaw + 6) % 7; // Convert to Monday = 0
-
-    // Check if this month is in the past
-    const isPastMonth = year < currentYear || (year === currentYear && monthIndex < currentMonth);
-
-    // Get events for this month
-    const monthEvents = allEvents.filter(event => {
-      const startDate = new Date(event.start_date);
-      const endDate = event.end_date ? new Date(event.end_date) : startDate;
-      return (startDate.getFullYear() === year && startDate.getMonth() === monthIndex) ||
-             (endDate.getFullYear() === year && endDate.getMonth() === monthIndex) ||
-             (startDate < new Date(year, monthIndex, 1) && endDate > new Date(year, monthIndex + 1, 0));
-    });
-
-    // Create month card
-    const monthCard = document.createElement('div');
-    monthCard.className = 'bg-white rounded-lg shadow-md overflow-hidden month-card';
-    monthCard.dataset.monthIndex = monthIndex;
-    monthCard.dataset.isPast = isPastMonth;
-
-    // Month header with collapse button for past months on mobile
-    const headerContent = isPastMonth ? `
-      <div class="bg-gray-800 text-white px-4 py-3 flex justify-between items-center">
-        <h2 class="text-xl font-semibold">${months[monthIndex]}</h2>
-        <button
-          type="button"
-          class="lg:hidden collapse-toggle text-white hover:text-gray-300 transition-colors"
-          aria-label="Toggle month"
-          data-month="${monthIndex}"
-        >
-          <svg class="w-5 h-5 transform transition-transform collapse-icon ${isPastMonth ? '' : 'rotate-180'}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+  {{# Event Modal - Must be inside x-data scope #}}
+  <div id="eventModal" class="fixed inset-0 z-50" x-show="modalOpen" x-cloak>
+    <div class="fixed inset-0 bg-black bg-opacity-50" @click="closeModal()"></div>
+    
+    <div class="fixed top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-white rounded-lg shadow-2xl w-full max-w-lg max-h-[90vh] overflow-y-auto mx-4">
+      <div class="sticky top-0 bg-white border-b px-6 py-4 flex justify-between items-center">
+        <h2 class="text-xl font-semibold text-gray-900" x-text="modalTitle"></h2>
+        <button @click="closeModal()" class="text-gray-400 hover:text-gray-600 transition-colors" aria-label="Close modal">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
           </svg>
         </button>
       </div>
-      <div class="month-content p-4 ${isPastMonth ? 'collapsed-mobile' : ''}">
-        <div class="grid grid-cols-8 gap-1 text-xs" id="month-${monthIndex}">
-          <div></div>
-          ${weekDays.map(day => `<div class="font-semibold text-gray-700 text-center">${day}</div>`).join('')}
+      <div class="px-6 py-4">
+        <div class="space-y-4">
+          <template x-for="event in modalEvents" :key="event.name">
+            <div class="border-l-4 border-blue-500 pl-4 py-2">
+              <h3 class="font-semibold text-lg mb-1">
+                <a :href="event.website" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors" x-text="event.name"></a>
+              </h3>
+              <template x-if="event.org">
+                <p class="text-sm text-gray-600 mb-1" x-text="'Organized by ' + event.org"></p>
+              </template>
+              <template x-if="event.city">
+                <p class="text-sm text-gray-600" x-text="'📍 ' + event.city"></p>
+              </template>
+            </div>
+          </template>
         </div>
       </div>
-    ` : `
-      <div class="bg-gray-800 text-white px-4 py-3">
-        <h2 class="text-xl font-semibold">${months[monthIndex]}</h2>
-      </div>
-      <div class="month-content p-4">
-        <div class="grid grid-cols-8 gap-1 text-xs" id="month-${monthIndex}">
-          <div></div>
-          ${weekDays.map(day => `<div class="font-semibold text-gray-700 text-center">${day}</div>`).join('')}
-        </div>
-      </div>
-    `;
+    </div>
+  </div>
+</div>
 
-    monthCard.innerHTML = headerContent;
-
-    const grid = monthCard.querySelector(`#month-${monthIndex}`);
-
-    // Add week numbers and days
-    let cellsInWeek = firstDay;
-    let currentWeekNum = getISOWeek(new Date(year, monthIndex, 1));
-
-    // First week number
-    const weekNumDiv = document.createElement('div');
-    weekNumDiv.className = 'text-gray-400 text-center text-[10px] font-medium self-center';
-    weekNumDiv.textContent = 'W' + String(currentWeekNum).padStart(2, '0');
-    grid.appendChild(weekNumDiv);
-
-    // Empty cells before first day
-    for (let i = 0; i < firstDay; i++) {
-      grid.appendChild(document.createElement('div'));
-    }
-
-    // Days of month
-    for (let day = 1; day <= daysInMonth; day++) {
-      // Check if we need a new week - BEFORE placing the day
-      if (cellsInWeek === 7) {
-        currentWeekNum = getISOWeek(new Date(year, monthIndex, day));
-        const weekDiv = document.createElement('div');
-        weekDiv.className = 'text-gray-400 text-center text-[10px] font-medium self-center';
-        weekDiv.textContent = 'W' + String(currentWeekNum).padStart(2, '0');
-        grid.appendChild(weekDiv);
-        cellsInWeek = 0;
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+<script>
+function eventsPage() {
+  return {
+    currentYear: {{ currentYear }},
+    selectedOrgs: [],
+    modalOpen: false,
+    modalTitle: '',
+    modalEvents: [],
+    events: {{ JSON.stringify(events.map(e => ({
+      ...e,
+      start_date: typeof e.start_date === 'string' ? e.start_date : e.start_date.toISOString().split('T')[0],
+      end_date: e.end_date ? (typeof e.end_date === 'string' ? e.end_date : e.end_date.toISOString().split('T')[0]) : null
+    }))) }},
+    organizations: {{ JSON.stringify(organizations) }},
+    eventYears: {{ JSON.stringify(eventYears) }},
+    
+    init() {
+      // Read URL parameters for filters
+      const params = new URLSearchParams(window.location.search);
+      const orgs = params.get('orgs');
+      if (orgs) {
+        this.selectedOrgs = orgs.split(',');
       }
-
-      // Check for events on this day
-      const dateStr = `${year}-${String(monthIndex + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
-      const dayEvents = allEvents.filter(event => {
-        const startDate = new Date(event.start_date).toISOString().split('T')[0];
-        const endDate = event.end_date ? new Date(event.end_date).toISOString().split('T')[0] : startDate;
+      const year = params.get('year');
+      if (year && this.eventYears.includes(parseInt(year))) {
+        this.currentYear = parseInt(year);
+      }
+    },
+    
+    get yearNavigation() {
+      const currentIdx = this.eventYears.indexOf(this.currentYear);
+      const nav = [];
+      
+      if (currentIdx > 0) {
+        nav.push({
+          show: true,
+          year: this.eventYears[currentIdx - 1],
+          label: `← ${this.eventYears[currentIdx - 1]}`
+        });
+      }
+      
+      if (currentIdx < this.eventYears.length - 1) {
+        nav.push({
+          show: true,
+          year: this.eventYears[currentIdx + 1],
+          label: `${this.eventYears[currentIdx + 1]} →`
+        });
+      }
+      
+      return nav;
+    },
+    
+    navigateToYear(year) {
+      this.currentYear = year;
+      this.updateURL();
+    },
+    
+    toggleOrganization(orgId) {
+      const idx = this.selectedOrgs.indexOf(orgId);
+      if (idx > -1) {
+        this.selectedOrgs.splice(idx, 1);
+      } else {
+        this.selectedOrgs.push(orgId);
+      }
+      this.updateURL();
+    },
+    
+    clearFilters() {
+      this.selectedOrgs = [];
+      this.updateURL();
+    },
+    
+    updateURL() {
+      const params = new URLSearchParams();
+      if (this.selectedOrgs.length > 0) {
+        params.set('orgs', this.selectedOrgs.join(','));
+      }
+      if (this.currentYear !== new Date().getFullYear()) {
+        params.set('year', this.currentYear);
+      }
+      const url = params.toString() ? `?${params.toString()}` : window.location.pathname;
+      window.history.replaceState({}, '', url);
+    },
+    
+    hasEventsInYear(orgId) {
+      return this.events.some(e => 
+        e.by === orgId && 
+        parseInt(e.start_date.substring(0, 4)) === this.currentYear
+      );
+    },
+    
+    shouldShowEvents(eventOrgs) {
+      if (this.selectedOrgs.length === 0) return true;
+      return eventOrgs.some(org => this.selectedOrgs.includes(org));
+    },
+    
+    shouldShowEvent(orgId, eventYear, startDate) {
+      if (eventYear !== this.currentYear) return false;
+      if (this.selectedOrgs.length === 0) {
+        // Show upcoming events only for current year
+        if (this.currentYear === new Date().getFullYear()) {
+          const today = new Date();
+          today.setHours(0, 0, 0, 0);
+          const eventDate = new Date(startDate + 'T00:00:00');
+          return eventDate >= today;
+        }
+        return true;
+      }
+      return this.selectedOrgs.includes(orgId);
+    },
+    
+    isPastDate(year, month, day) {
+      if (year !== new Date().getFullYear()) return false;
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+      const date = new Date(year, month, day);
+      return date < today;
+    },
+    
+    getEventsForDate(dateStr) {
+      return this.events.filter(event => {
+        const startDate = event.start_date;
+        const endDate = event.end_date || startDate;
+        
+        // Apply organization filter
+        if (this.selectedOrgs.length > 0 && !this.selectedOrgs.includes(event.by)) {
+          return false;
+        }
+        
         return startDate <= dateStr && endDate >= dateStr;
       });
-
-      const dayDiv = document.createElement('div');
-      dayDiv.className = 'relative';
-
-      if (dayEvents.length > 0) {
-        const button = document.createElement('button');
-        button.type = 'button';
-        button.className = 'event-day w-full text-center p-1 rounded bg-blue-100 text-blue-900 font-semibold cursor-pointer hover:bg-blue-200 transition-colors';
-        button.dataset.date = dateStr;
-        button.dataset.day = day;
-        button.dataset.month = monthIndex;
-        button.dataset.year = year;
-        button.dataset.events = JSON.stringify(dayEvents);
-        button.dataset.orgs = JSON.stringify(allOrganizations);
-        button.setAttribute('aria-label', `View events for ${months[monthIndex]} ${day}`);
-        button.innerHTML = day + (dayEvents.length > 1 ? `<span class="block text-xs mt-0.5">${dayEvents.length} events</span>` : '');
-        button.addEventListener('click', function() {
-          const events = JSON.parse(this.dataset.events);
-          const orgs = JSON.parse(this.dataset.orgs);
-          showEventModal(parseInt(this.dataset.day), parseInt(this.dataset.month), parseInt(this.dataset.year), events, orgs);
-        });
-        dayDiv.appendChild(button);
-      } else {
-        const span = document.createElement('div');
-        span.className = 'calendar-day text-center p-1 rounded text-gray-700';
-        span.dataset.date = dateStr;
-        span.textContent = day;
-        dayDiv.appendChild(span);
-      }
-
-      grid.appendChild(dayDiv);
-      cellsInWeek++;
-    }
-
-    // Fill remaining cells
-    const remaining = 7 - cellsInWeek;
-    if (remaining > 0 && remaining < 7) {
-      for (let i = 0; i < remaining; i++) {
-        grid.appendChild(document.createElement('div'));
-      }
-    }
-
-    container.appendChild(monthCard);
-  }
-
-  // Update past dates styling
-  updatePastDates();
-}
-
-// Calculate ISO week number
-function getISOWeek(date) {
-  const tempDate = new Date(date);
-  const dayOfWeek = tempDate.getUTCDay() || 7;
-  tempDate.setUTCDate(tempDate.getUTCDate() - dayOfWeek + 4);
-  const jan1 = new Date(Date.UTC(tempDate.getUTCFullYear(), 0, 1));
-  const jan1Day = jan1.getUTCDay() || 7;
-  jan1.setUTCDate(jan1.getUTCDate() - jan1Day + 4);
-  return Math.ceil((tempDate - jan1) / 604800000) + 1;
-}
-
-// Update past dates styling
-function updatePastDates() {
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
-
-  // Only gray out if viewing current year
-  if (currentViewYear === today.getFullYear()) {
-    document.querySelectorAll('[data-date]').forEach(element => {
-      const elementDate = new Date(element.dataset.date + 'T00:00:00');
-      if (elementDate < today) {
-        if (element.classList.contains('event-day')) {
-          element.classList.remove('bg-blue-100', 'text-blue-900', 'hover:bg-blue-200');
-          element.classList.add('bg-gray-100', 'text-gray-500', 'hover:bg-gray-200');
-        } else if (element.classList.contains('calendar-day')) {
-          element.classList.remove('text-gray-700');
-          element.classList.add('text-gray-400');
-        }
-      }
-    });
-  }
-}
-
-// Update year navigation buttons
-function updateYearNavigation() {
-  const nav = document.getElementById('yearNavigation');
-  const years = getEventYears();
-  const currentYearIndex = years.indexOf(currentViewYear);
-
-  nav.innerHTML = '';
-
-  // Previous year button
-  if (currentYearIndex > 0) {
-    const prevBtn = document.createElement('button');
-    prevBtn.className = 'px-4 py-2 bg-white text-gray-800 rounded-lg hover:bg-gray-100 transition-colors font-semibold';
-    prevBtn.innerHTML = `← ${years[currentYearIndex - 1]}`;
-    prevBtn.onclick = () => navigateToYear(years[currentYearIndex - 1]);
-    nav.appendChild(prevBtn);
-  }
-
-  // Next year button
-  if (currentYearIndex < years.length - 1) {
-    const nextBtn = document.createElement('button');
-    nextBtn.className = 'px-4 py-2 bg-white text-gray-800 rounded-lg hover:bg-gray-100 transition-colors font-semibold';
-    nextBtn.innerHTML = `${years[currentYearIndex + 1]} →`;
-    nextBtn.onclick = () => navigateToYear(years[currentYearIndex + 1]);
-    nav.appendChild(nextBtn);
-  }
-}
-
-// Navigate to a specific year
-function navigateToYear(year) {
-  currentViewYear = year;
-  document.getElementById('yearDisplay').textContent = year;
-  generateCalendar(year);
-  updateYearNavigation();
-  updateOrgFilter();
-  updateEventsList();
-  setupCollapseToggles();
-}
-
-// Track filter state
-let selectedOrg = 'all';
-
-// Update organization filter
-function updateOrgFilter() {
-  const filterContainer = document.getElementById('organizationFilter');
-  if (!filterContainer) return;
-
-  // Get organizations that have events in current year
-  const yearEvents = allEvents.filter(event => {
-    const eventDate = new Date(event.start_date);
-    return eventDate.getFullYear() === currentViewYear;
-  });
-
-  const activeOrgs = new Set();
-  yearEvents.forEach(event => {
-    if (event.by) activeOrgs.add(event.by);
-  });
-
-  if (activeOrgs.size === 0) {
-    filterContainer.innerHTML = '';
-    return;
-  }
-
-  // Create filter dropdown with wrapper for custom styling
-  const selectWrapper = document.createElement('div');
-  selectWrapper.className = 'relative inline-block';
-
-  const select = document.createElement('select');
-  select.className = 'appearance-none px-4 py-2 pr-10 bg-white text-gray-800 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer';
-  select.innerHTML = '<option value="all">All Organizations</option>';
-
-  // Sort organizations alphabetically by name
-  const sortedOrgs = allOrganizations
-    .filter(org => activeOrgs.has(org.id))
-    .sort((a, b) => a.name.localeCompare(b.name));
-
-  sortedOrgs.forEach(org => {
-    const option = document.createElement('option');
-    option.value = org.id;
-    option.textContent = org.name;
-    if (org.id === selectedOrg) option.selected = true;
-    select.appendChild(option);
-  });
-
-  select.addEventListener('change', (e) => {
-    selectedOrg = e.target.value;
-    updateEventsList();
-  });
-
-  // Add chevron icon
-  const chevron = document.createElement('div');
-  chevron.className = 'pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700';
-  chevron.innerHTML = '<svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>';
-
-  selectWrapper.appendChild(select);
-  selectWrapper.appendChild(chevron);
-
-  filterContainer.innerHTML = '<label class="text-white mr-2">Filter by:</label>';
-  filterContainer.appendChild(selectWrapper);
-}
-
-// Update events list for current view year
-function updateEventsList() {
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
-
-  const container = document.getElementById('upcomingEvents');
-  if (!container) return;
-
-  // Filter events for current view year and organization
-  const yearEvents = allEvents.filter(event => {
-    const eventDate = new Date(event.start_date);
-    const yearMatch = eventDate.getFullYear() === currentViewYear;
-    const orgMatch = selectedOrg === 'all' || event.by === selectedOrg;
-    return yearMatch && orgMatch;
-  });
-
-  // Sort events by date
-  yearEvents.sort((a, b) => {
-    return new Date(a.start_date) - new Date(b.start_date);
-  });
-
-  // Clear container
-  container.innerHTML = '';
-
-  // Filter past/upcoming based on view year
-  const displayEvents = currentViewYear === today.getFullYear()
-    ? yearEvents.filter(event => new Date(event.start_date) >= today)
-    : yearEvents;
-
-  if (displayEvents.length === 0) {
-    const message = currentViewYear === today.getFullYear()
-      ? 'No upcoming events at this time. Check back soon!'
-      : `No events scheduled for ${currentViewYear}.`;
-    container.innerHTML = `<p class="text-gray-500 italic">${message}</p>`;
-  } else {
-    // Create event cards
-    displayEvents.forEach(event => {
-      const org = allOrganizations.find(o => o.id === event.by);
-      const startDate = new Date(event.start_date);
-      const endDate = event.end_date ? new Date(event.end_date) : startDate;
-
-      const card = document.createElement('div');
-      card.className = 'event-card bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow';
-      card.dataset.startDate = event.start_date;
-
-      const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-      const longMonths = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-
-      let dateDisplay;
-      if (!event.end_date || event.start_date === event.end_date) {
-        dateDisplay = `${longMonths[startDate.getMonth()]} ${startDate.getDate()}, ${startDate.getFullYear()}`;
-      } else {
-        dateDisplay = `${months[startDate.getMonth()]} ${startDate.getDate()} - ${months[endDate.getMonth()]} ${endDate.getDate()}, ${endDate.getFullYear()}`;
-      }
-
-      const weekNum = getISOWeek(startDate);
-
-      card.innerHTML = `
-        <div class="flex flex-col md:flex-row md:items-center md:justify-between">
-          <div class="flex-1">
-            <h3 class="text-xl font-semibold mb-2">
-              <a href="${event.website}" target="_blank" class="text-blue-600 hover:text-blue-800">
-                ${event.name}
-              </a>
-            </h3>
-            <div class="text-gray-600 space-y-1">
-              ${org ? `
-                <p class="text-sm">
-                  Organized by
-                  ${org.website ? `<a href="${org.website}" target="_blank" class="text-blue-600 hover:text-blue-800">${org.name}</a>` : org.name}
-                </p>
-              ` : ''}
-              ${event.city ? `<p class="text-sm">📍 ${event.city}</p>` : ''}
-            </div>
-          </div>
-          <div class="mt-4 md:mt-0 md:text-right">
-            <p class="text-lg font-medium text-gray-800">${dateDisplay}</p>
-            <p class="text-sm text-gray-500">${startDate.getFullYear()}, Week ${weekNum}</p>
-          </div>
-        </div>
-      `;
-
-      container.appendChild(card);
-    });
-  }
-}
-
-// Initialize on page load
-document.addEventListener('DOMContentLoaded', function() {
-  // Check if we have events for multiple years
-  const years = getEventYears();
-  if (years.length > 0) {
-    // Start with current year if it has events, otherwise use the first available year
-    const thisYear = new Date().getFullYear();
-    currentViewYear = years.includes(thisYear) ? thisYear : years[0];
-
-    document.getElementById('yearDisplay').textContent = currentViewYear;
+    },
     
-    // Don't regenerate calendar on initial load - use server-rendered HTML
-    // Only regenerate when year navigation is used
-    updatePastDates(); // Just update styling for past dates
-    updateYearNavigation();
-    updateOrgFilter();
-    updateEventsList();
-
-    // Setup collapse toggles
-    setupCollapseToggles();
-    
-    // Add event listeners to existing server-rendered event buttons
-    document.querySelectorAll('.event-day').forEach(button => {
-      button.addEventListener('click', function() {
-        const events = JSON.parse(this.dataset.events);
-        const orgs = JSON.parse(this.dataset.orgs);
-        showEventModal(parseInt(this.dataset.day), parseInt(this.dataset.month), parseInt(this.dataset.year), events, orgs);
+    showEventModal(year, month, day, evt) {
+      const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      const dateStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+      
+      // Get events from the button's data attribute or fetch them
+      const button = evt ? evt.currentTarget : null;
+      let events = [];
+      if (button && button.dataset.events) {
+        events = JSON.parse(button.dataset.events);
+      } else {
+        events = this.getEventsForDate(dateStr);
+      }
+      
+      this.modalTitle = `${monthNames[month]} ${day}, ${year}`;
+      this.modalEvents = events.map(e => {
+        const org = this.organizations.find(o => o.id === e.by);
+        return {
+          ...e,
+          org: org ? org.name : null
+        };
       });
-    });
-  }
-});
-
-// Setup collapse toggle functionality
-function setupCollapseToggles() {
-  document.addEventListener('click', function(e) {
-    if (e.target.closest('.collapse-toggle')) {
-      const button = e.target.closest('.collapse-toggle');
-      const monthCard = button.closest('.month-card');
-      const monthContent = monthCard.querySelector('.month-content');
-      const icon = button.querySelector('.collapse-icon');
-
-      if (monthContent.classList.contains('collapsed-mobile')) {
-        monthContent.classList.remove('collapsed-mobile');
-        icon.classList.add('rotate-180');
-      } else {
-        monthContent.classList.add('collapsed-mobile');
-        icon.classList.remove('rotate-180');
-      }
+      this.modalOpen = true;
+      document.body.style.overflow = 'hidden';
+    },
+    
+    closeModal() {
+      this.modalOpen = false;
+      document.body.style.overflow = '';
     }
-  });
+  };
 }
-
-function showEventModal(day, month, year, events, organizations) {
-  const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-  const modal = document.getElementById('eventModal');
-  const modalTitle = document.getElementById('modalTitle');
-  const modalContent = document.getElementById('modalContent');
-
-  // Set title
-  modalTitle.textContent = `${months[month]} ${day}, ${year}`;
-
-  // Build content
-  let content = '<div class="space-y-4">';
-
-  events.forEach(event => {
-    const org = organizations.find(o => o.id === event.by);
-
-    content += `
-      <div class="border-l-4 border-blue-500 pl-4 py-2">
-        <h3 class="font-semibold text-lg mb-1">
-          <a href="${event.website}" target="_blank" class="text-blue-600 hover:text-blue-800 transition-colors">
-            ${event.name}
-          </a>
-        </h3>
-        ${org ? `<p class="text-sm text-gray-600 mb-1">Organized by ${org.name}</p>` : ''}
-        ${event.city ? `<p class="text-sm text-gray-600">📍 ${event.city}</p>` : ''}
-        ${event.start_date !== event.end_date && event.end_date ?
-          `<p class="text-sm text-gray-600 mt-1">Duration: ${formatDateRange(event.start_date, event.end_date)}</p>` : ''}
-      </div>
-    `;
-  });
-
-  content += '</div>';
-  modalContent.innerHTML = content;
-
-  // Show modal
-  modal.classList.remove('hidden');
-  document.body.style.overflow = 'hidden'; // Prevent background scrolling
-}
-
-function closeEventModal() {
-  const modal = document.getElementById('eventModal');
-  modal.classList.add('hidden');
-  document.body.style.overflow = ''; // Restore scrolling
-}
-
-function formatDateRange(start, end) {
-  const startDate = new Date(start);
-  const endDate = new Date(end);
-  const options = { month: 'short', day: 'numeric' };
-
-  if (startDate.getFullYear() !== endDate.getFullYear()) {
-    return `${startDate.toLocaleDateString('en-US', {...options, year: 'numeric'})} - ${endDate.toLocaleDateString('en-US', {...options, year: 'numeric'})}`;
-  } else if (startDate.getMonth() !== endDate.getMonth()) {
-    return `${startDate.toLocaleDateString('en-US', options)} - ${endDate.toLocaleDateString('en-US', options)}, ${startDate.getFullYear()}`;
-  } else {
-    return `${startDate.toLocaleDateString('en-US', { month: 'long', day: 'numeric' })} - ${endDate.getDate()}, ${startDate.getFullYear()}`;
-  }
-}
-
-// Close modal on Escape key
-document.addEventListener('keydown', (e) => {
-  if (e.key === 'Escape') {
-    closeEventModal();
-  }
-});
 </script>
+
+<style>
+  [x-cloak] { display: none !important; }
+</style>
