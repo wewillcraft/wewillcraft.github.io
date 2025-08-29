@@ -1,7 +1,16 @@
 layout: layouts/events.vto
 title: Events
 description: Curated community events and conferences you might enjoy going to
-
+navbar:
+  logo: /logo.svg
+  logo_alt: Will Craft Software
+  logo_url: /
+  title: Will Craft Software
+  links:
+    - text: Home
+      url: "/"
+    - text: All Posts
+      url: "/posts"
 organizations:
   - id: favor_church
     name: Favor Church
@@ -12,6 +21,9 @@ organizations:
   - id: techbayanihan
     name: Techbayanihan
     website: https://techbayanihan.org
+  - id: wpugph
+    name: WordPress User Group Philippines
+    website: https://www.facebook.com/wpugph
 events:
   - by: favor_church
     name: Counterculture 2025
@@ -31,6 +43,12 @@ events:
     start_date: 2025-09-13
     end_date: 2025-09-13
     city: Manila City
+  - by: wpugph
+    name: Software Freedom Day 2025
+    website: https://www.facebook.com/wpugph/posts/pfbid02Kbk4ejW6rhKmctknzBf6KSeBsRzPi5xFYXg52nnJnUf4hrjwsNHMXAwXqaekFVrjl
+    start_date: 2025-09-20
+    end_date: 2025-09-20
+    city: Taguig City
   - by: techbayanihan
     name: Techbayanihan 2025
     website: https://techbayanihan.org/techbayanihan-2025
