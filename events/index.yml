@@ -12,52 +12,139 @@ navbar:
     - text: All Posts
       url: "/posts"
 organizations:
-  - id: favor_church
-    name: Favor Church
-    website: https://favor.church
-  - id: badgamejam
-    name: Bad Gamer
-    website: https://instagram.com/badgamejam
+  - id: pythonph
+    name: Python Philippines
+    website: https://python.ph
   - id: techbayanihan
     name: Techbayanihan
     website: https://techbayanihan.org
-  - id: wpugph
-    name: WordPress User Group Philippines
-    website: https://www.facebook.com/wpugph
+  - id: icica
+    name: The 6th International Conference on Information Technology, Communication and Applications
+    website: https://forumrpp-icict-14sep-manila.pages.dev
+  - id: pic
+    name: Philippine Innovation Conference (PIC) 2025
+    website: https://lu.ma/7dmxe67i
+  - id: contech
+    name: Consumer Tech Expo Philippines
+    website: https://www.facebook.com/events/smx-convention-center-manila/consumer-tech-expo-philippines/1461494634775740/
+  - id: dip
+    name: Digital Impact Philippines Conference
+    website: https://allevents.in/cebu/digital-impact-philippines-conference-2025/200028573910145
+  - id: dsn
+    name: DIGITAL SUMMIT NEGROS
+    website: https://www.facebook.com/events/upper-east-by-megaworld-bacolod/digital-summit-negros-2025/1890856298438739/
+  - id: edtech_ph
+    name: EdTech Philippines
+    website: https://10times.com/e1dx-pd44-0sx6-x
+  - id: pttc
+    name: Philippine Trade Training Center – Global MSME Academy
+    website: https://www.facebook.com/events/dtiphilippine-trade-training-center-global-msme-academy/printcon-2025-a-paper-print-conference-for-printers-designers-and-businesses/1659564381385498/
+  - id: ptf
+    name: Philippine Printing Technical Foundation (PPTF)
+    website: https://manilastandard.net/spotlight/314631923/printcon-2025-the-premier-paper-print-conference-returns-to-pttc.html
+  - id: tbc
+    name: The BLOKC
+    website: https://blockchaincampusconference.com
+  - id: tas
+    name: Testingmind
+    website: https://www.testingmind.com/event/test-automation-summit-manila/
+  - id: gdg_baguio
+    name: Google Developer Group Baguio
+    website: https://gdg.community.dev/gdg-baguio/
+  - id: fsb
+    name: FGC Davao, Team Davao Alliance, Davao Esports Enthusiast Association
+    website: https://www.start.gg/tournament/kicks-and-chaos/details
+  - id: fof
+    name: Future of Work Forum
+    website: https://10times.com/e1hp-3ss4-pk3z-0
 events:
-  - by: favor_church
-    name: Counterculture 2025
-    website: https://events.favor.church/counterculture2025
-    start_date: 2025-11-14
+  - by: contech
+    name: Consumer Tech Expo Philippines
+    website: https://www.facebook.com/events/smx-convention-center-manila/consumer-tech-expo-philippines/1461494634775740/
+    start_date: 2025-09-05
+    end_date: 2025-09-07
+    city: Pasay City
+  - by: fof
+    name: Future of Work Forum
+    website: https://10times.com/e1hp-3ss4-pk3z-0
+    start_date: 2025-09-04
+    end_date: 2025-09-04
+    city: Makati City
+  - by: pic
+    name: Philippine Innovation Conference (PIC) 2025
+    website: https://lu.ma/7dmxe67i
+    start_date: 2025-09-12
+    end_date: 2025-09-12
+    city: Batangas City
+  - by: icica
+    name: The 6th International Conference on Information Technology, Communication and Applications
+    website: https://forumrpp-icict-14sep-manila.pages.dev
+    start_date: 2025-09-14
+    end_date: 2025-09-14
+    city: Manila
+  - by: dsn
+    name: DIGITAL SUMMIT NEGROS 2025
+    website: https://www.facebook.com/events/upper-east-by-megaworld-bacolod/digital-summit-negros-2025/1890856298438739/
+    start_date: 2025-10-04
+    end_date: 2025-10-04
+    city: Bacolod City
+  - by: edtech_ph
+    name: EdTech Philippines
+    website: https://10times.com/e1dx-pd44-0sx6-x
+    start_date: 2025-10-15
+    end_date: 2025-10-15
+    city: Manila
+  - by: pttc
+    name: PrintCon 2025
+    website: https://www.facebook.com/events/dtiphilippine-trade-training-center-global-msme-academy/printcon-2025-a-paper-print-conference-for-printers-designers-and-businesses/1659564381385498/
+    start_date: 2025-10-09
+    end_date: 2025-10-11
+    city: Pasay City
+  - by: tbc
+    name: Blockchain Campus Conference Luzon 2025
+    website: https://lu.ma/bcc2025luzon
+    start_date: 2025-11-10
     end_date: 2025-11-15
-    city: Pasig City
-  - by: badgamejam
-    name: "Bad Game Jam 2: Kick Off & Grand Eye Ball"
-    website: https://www.instagram.com/p/DNnnAHIvOM7
-    start_date: 2025-09-06
-    end_date: 2025-09-06
-    city: Manila City
-  - by: badgamejam
-    name: "Bad Game Jam 2: Play Games Together, Art Market + Bad Art Jam, Afterparty"
-    website: https://www.instagram.com/p/DNnnAHIvOM7
-    start_date: 2025-09-13
-    end_date: 2025-09-13
-    city: Manila City
-  - by: wpugph
-    name: Software Freedom Day 2025
-    website: https://www.facebook.com/wpugph/posts/pfbid02Kbk4ejW6rhKmctknzBf6KSeBsRzPi5xFYXg52nnJnUf4hrjwsNHMXAwXqaekFVrjl
-    start_date: 2025-09-20
-    end_date: 2025-09-20
-    city: Taguig City
+    city: Cavite
+  - by: tas
+    name: Test Automation Summit
+    website: https://www.testingmind.com/event/test-automation-summit-manila/
+    start_date: 2025-11-21
+    end_date: 2025-11-21
+    city: Manila
+  - by: dip
+    name: Digital Impact Philippines Conference 2025
+    website: https://allevents.in/cebu/digital-impact-philippines-conference-2025/200028573910145
+    start_date: 2025-12-06
+    end_date: 2025-12-08
+    city: Cebu City
   - by: techbayanihan
     name: Techbayanihan 2025
     website: https://techbayanihan.org/techbayanihan-2025
     start_date: 2025-12-01
     end_date: 2025-12-03
     city: Muntinlupa
-  - by: favor_church
-    name: Favor Conference 2026
-    website: https://events.favor.church/conference2026
-    start_date: 2026-07-02
-    end_date: 2026-07-04
+  - by: fsb
+    name: Kicks and Chaos - Tekken 8 Tournament
+    website: https://www.start.gg/tournament/kicks-and-chaos/details
+    start_date: 2025-08-30
+    end_date: 2025-08-30
+    city: Davao City
+  - by: gdg_baguio
+    name: DevFest Baguio 2025
+    website: https://gdg.community.dev/events/details/google-gdg-baguio-presents-devfest-baguio-2025/
+    start_date: 2025-10-18
+    end_date: 2025-10-18
+    city: Baguio City
+  - by: tbc
+    name: Shipathon Manila IRL 2025
+    website: https://lu.ma/7taznu6q
+    start_date: 2025-09-13
+    end_date: 2025-09-13
     city: Pasig City
+  - by: pythonph
+    name: PythonPH August Meetup - Beyond the Code Python's Impact
+    website: https://www.meetup.com/pythonph/events/310481744/
+    start_date: 2025-08-30
+    end_date: 2025-08-30
+    city: Makati City
