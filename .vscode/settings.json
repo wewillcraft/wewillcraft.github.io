@@ -12,5 +12,8 @@
   "window.title": "${activeEditorMedium}${separator}${rootName}",
   "[vento]": {
     "editor.defaultFormatter": "dprint.dprint"
+  },
+  "[js]": {
+    "editor.defaultFormatter": "dprint.dprint"
   }
 }
