@@ -1,6 +1,6 @@
 layout: layouts/events.vto
 title: Events
-description: Curated community events and conferences you might enjoy going to
+description: Curated conferences, meetups, hackathons, workshops, and other gatherings. If it brings people together, it belongs here!
 navbar:
   logo: /logo.svg
   logo_alt: Will Craft Software
