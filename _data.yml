@@ -50,6 +50,12 @@ footer:
         variant: brands
       text: LinkedIn
       url: https://linkedin.com/company/wewillcraft
+    - icon:
+        name: heart
+        library: fontawesome
+        variant: solid
+      text: OpenCollective
+      url: https://opencollective.com/wewillcraft
   legal_links:
     - text: About
       url: /about
