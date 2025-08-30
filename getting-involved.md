@@ -159,6 +159,13 @@ sponsorship enables us to:
 
 **One-time contributions** of any amount are also deeply appreciated.
 
+### Support Us on OpenCollective
+
+We're transparent about how we use funds. Support us on OpenCollective to see
+exactly where your contribution goes and join our community of backers.
+
+[Support us on OpenCollective →](https://opencollective.com/wewillcraft)
+
 **Corporate Sponsorship:**
 
 We offer partnership opportunities for companies aligned with our mission.
