@@ -1,12 +1,12 @@
 ---
-title: "About Will Craft Software"
+title: "About We Will Craft"
 description: "A collective of crafters building purposeful software and mentoring the next generation"
 layout: layouts/page.vto
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -16,8 +16,8 @@ navbar:
 
 ## New Look. Same Mission.
 
-Hey there! We're **Will Craft Software**: a collective of crafters who love what
-we do.
+Hey there! We're **We Will Craft**: a collective of crafters who love what we
+do.
 
 We build software that matters and help the next generation find their way in
 tech, all while keeping faith, fellowship, and craft at the heart of everything.
@@ -44,7 +44,7 @@ foundation, respect and love are what we practice every day.
 
 ## Our Logo, Our Story
 
-<img src="/favicon.svg" alt="Will Craft Software Logo" style="max-width: 200px; height: auto; margin: 0 auto; display: block;">
+<img src="/favicon.svg" alt="We Will Craft Logo" style="max-width: 200px; height: auto; margin: 0 auto; display: block;">
 
 This logo tells our whole story:
 
@@ -55,8 +55,8 @@ This logo tells our whole story:
 - **The Light From Above**: It's not our light, but His, that makes the work
   shine
 - **The Angle Brackets**: Software is our canvas. Code is our craft.
-- **The "W" Formed By Walls Of "U"**: You make up Will Craft Software. This is
-  about community.
+- **The "W" Formed By Walls Of "U"**: You make up We Will Craft. This is about
+  community.
 - **The Negative Space**: The gaps remind us we're not done growing yet
 
 It's not just a logo. It's who we are.
@@ -181,5 +181,5 @@ let's see what we can create.
 > _"In fire, we are tempered. In craft, we ascend._\
 > _Our work is our legacy."_
 
-_We are Will Craft Software. We build with purpose. We mentor with love. We
-craft with calling._
+_We are We Will Craft. We build with purpose. We mentor with love. We craft with
+calling._

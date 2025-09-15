@@ -5,9 +5,9 @@ code in this repository.
 
 ## Project Overview
 
-This is the Will Craft Software website built with [Lume](https://lume.land), a
-static site generator for Deno. The site includes blog posts, a landing page,
-journey content, and a content management system (CMS).
+This is the We Will Craft website built with [Lume](https://lume.land), a static
+site generator for Deno. The site includes blog posts, a landing page, journey
+content, and a content management system (CMS).
 
 ## Commands
 

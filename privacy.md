@@ -1,14 +1,14 @@
 ---
 title: "Privacy Policy"
-description: "How Will Craft Software collects, uses, and protects your personal information"
+description: "How We Will Craft collects, uses, and protects your personal information"
 layout: layouts/page.vto
 effective_date: 2025-08-28
 last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -18,10 +18,10 @@ navbar:
 
 ## 1. Introduction
 
-Will Craft Software ("we," "our," or "us") respects your privacy and is
-committed to protecting your personal data. This Privacy Policy explains how we
-collect, use, disclose, and safeguard your information when you visit our
-website and use our services.
+We Will Craft ("we," "our," or "us") respects your privacy and is committed to
+protecting your personal data. This Privacy Policy explains how we collect, use,
+disclose, and safeguard your information when you visit our website and use our
+services.
 
 ## 2. Information We Collect
 

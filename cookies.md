@@ -1,14 +1,14 @@
 ---
 title: "Cookie Policy"
-description: "How Will Craft Software uses cookies and similar technologies"
+description: "How We Will Craft uses cookies and similar technologies"
 layout: layouts/page.vto
 effective_date: 2025-08-28
 last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -20,8 +20,8 @@ navbar:
 
 ## 1. Introduction
 
-Will Craft Software ("we," "our," or "us") uses cookies and similar technologies
-on our website (https://willcraft.software) to enhance your browsing experience,
+We Will Craft ("we," "our," or "us") uses cookies and similar technologies on
+our website (https://willcraft.software) to enhance your browsing experience,
 analyze site traffic, and understand user behavior. This Cookie Policy explains
 what cookies are, how we use them, and your choices regarding cookies.
 
@@ -219,8 +219,8 @@ changes, we will:
 If you have questions about our use of cookies or this Cookie Policy, please
 contact us:
 
-**Email:** privacy@willcraft.software **Website:** https://willcraft.software
-**Mail:** Will Craft Software, Philippines
+**Email:** we@willcraft.software **Website:** https://willcraft.software
+**Mail:** We Will Craft, Philippines
 
 ## 12. Legal Basis for Processing (GDPR)
 

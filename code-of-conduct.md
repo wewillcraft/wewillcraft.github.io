@@ -1,14 +1,14 @@
 ---
 title: "Code of Conduct"
-description: "Community guidelines and expectations for Will Craft Software programs and spaces"
+description: "Community guidelines and expectations for We Will Craft programs and spaces"
 layout: layouts/page.vto
 effective_date: 2025-08-28
 last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -58,7 +58,7 @@ diverse, inclusive, and healthy community.
 
 ## Journey Program Guidelines
 
-Participants in the Will Craft Software Journey mentorship program agree to:
+Participants in the We Will Craft Journey mentorship program agree to:
 
 ### Commitment
 
@@ -83,7 +83,7 @@ Participants in the Will Craft Software Journey mentorship program agree to:
 
 ## Open Source Contribution Guidelines
 
-When contributing to Will Craft Software projects:
+When contributing to We Will Craft projects:
 
 ### Code Contributions
 
@@ -108,7 +108,7 @@ When contributing to Will Craft Software projects:
 
 ## Community Spaces
 
-In all Will Craft Software community spaces (forums, chat, social media):
+In all We Will Craft community spaces (forums, chat, social media):
 
 ### Communication
 
@@ -131,7 +131,7 @@ In all Will Craft Software community spaces (forums, chat, social media):
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders at:
 
-**Email:** conduct@willcraft.software
+**Email:** we@willcraft.software
 
 All complaints will be reviewed and investigated promptly and fairly. All
 community leaders are obligated to respect the privacy and security of the
@@ -200,7 +200,7 @@ Examples include:
 If you believe you have been falsely or unfairly accused of violating this Code
 of Conduct, you may submit an appeal to:
 
-**Email:** appeals@willcraft.software
+**Email:** we@willcraft.software
 
 Appeals will be reviewed by leadership members not involved in the original
 decision.
@@ -209,7 +209,7 @@ decision.
 
 This Code of Conduct is adapted from the
 [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, with
-additions specific to the Will Craft Software community needs.
+additions specific to the We Will Craft community needs.
 
 ## Updates
 
@@ -222,14 +222,14 @@ the community.
 If you have questions about this Code of Conduct, please contact:
 
 - **Email:** [we@willcraft.software](mailto:we@willcraft.software)
-- **Website:** [willcraft.software](https://willcraft.software)
+- **Website:** [wewillcraft.org](https://wewillcraft.org)
 
 ## Our Commitment
 
-Will Craft Software is committed to providing a welcoming and inspiring
-community for all. We believe that a diverse and inclusive community makes us
-stronger, more creative, and better able to serve our mission of building
-purposeful software and mentoring the next generation.
+We Will Craft is committed to providing a welcoming and inspiring community for
+all. We believe that a diverse and inclusive community makes us stronger, more
+creative, and better able to serve our mission of building purposeful software
+and mentoring the next generation.
 
 Together, we can create an environment where everyone can learn, grow, and
 contribute their best.

@@ -1,7 +1,7 @@
-# Will Craft Software Brand Guidelines
+# We Will Craft Brand Guidelines
 
-> A comprehensive guide to the Will Craft Software brand identity, voice, and
-> visual standards.
+> A comprehensive guide to the We Will Craft brand identity, voice, and visual
+> standards.
 
 ## Brand Essence
 
@@ -67,7 +67,7 @@ Our program names follow an intentional progression:
 
 - **We Will Craft**: Community learning together (plural, inclusive)
 - **You Will Craft**: Personal empowerment and leadership (individual growth)
-- **Will Craft Software**: The collective identity we all contribute to
+- **We Will Craft**: The collective identity we all contribute to
 
 This naming creates a journey: We learn together → You lead others → Together we
 are Will Craft
@@ -104,16 +104,16 @@ them to life and passing that will to the next generation.
 
 ### Communicating Our WHY
 
-When introducing Will Craft Software, always lead with purpose:
+When introducing We Will Craft, always lead with purpose:
 
-**Elevator Pitch (15 seconds):** "We're Will Craft Software. We believe
-technology should serve humanity's highest calling, so we build tools for
-organizations doing good and train developers who want their code to matter."
+**Elevator Pitch (15 seconds):** "We're We Will Craft. We believe technology
+should serve humanity's highest calling, so we build tools for organizations
+doing good and train developers who want their code to matter."
 
-**One-Minute Introduction:** "At Will Craft Software, we start with a simple
-belief: our coding skills are meant to serve something greater than ourselves.
-That's why we partner with nonprofits and churches to build the tech they need
-to multiply their impact. But we don't stop there. We also mentor the next
+**One-Minute Introduction:** "At We Will Craft, we start with a simple belief:
+our coding skills are meant to serve something greater than ourselves. That's
+why we partner with nonprofits and churches to build the tech they need to
+multiply their impact. But we don't stop there. We also mentor the next
 generation of developers because we believe the future needs builders who code
 with conscience. Every project we take on, every student we teach, is part of
 our mission to prove that software can be a force for good."
@@ -388,7 +388,7 @@ Ghost:     text-[#eb4e3b] hover:underline
 
 ```
 [Name]
-[Role] | Will Craft Software
+[Role] | We Will Craft
 we@willcraft.software | willcraft.software
 
 "Through challenges, we grow stronger. Through craft, we rise."
@@ -425,7 +425,7 @@ Before publishing any content, ensure:
 
 ## Quick Reference for AI Tools
 
-When using AI to create content for Will Craft Software, use this prompt:
+When using AI to create content for We Will Craft, use this prompt:
 
 ```
 Write in a warm, encouraging, conversational tone like talking to a younger sibling or close friend. Use "you" and "we" frequently, contractions, short sentences, and active voice. Be inclusive, hopeful, and focus on growth and purpose. Avoid em dashes, corporate jargon, and overly technical language. Think "supportive mentor" not "corporate trainer." Add 1-2 strategic emojis per section maximum. Keep paragraphs to 2-4 sentences. Make complex ideas simple without being condescending.

@@ -1,14 +1,14 @@
 ---
 title: "Terms of Service"
-description: "Terms and conditions for using Will Craft Software services and website"
+description: "Terms and conditions for using We Will Craft services and website"
 layout: layouts/page.vto
 effective_date: 2025-08-28
 last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -18,13 +18,13 @@ navbar:
 
 ## 1. Acceptance of Terms
 
-By accessing and using the Will Craft Software website and services
-("Services"), you agree to be bound by these Terms of Service ("Terms"). If you
-do not agree to these Terms, please do not use our Services.
+By accessing and using the We Will Craft website and services ("Services"), you
+agree to be bound by these Terms of Service ("Terms"). If you do not agree to
+these Terms, please do not use our Services.
 
 ## 2. Description of Services
 
-Will Craft Software provides:
+We Will Craft provides:
 
 - Educational content and mentorship programs
 - Software development resources and tutorials
@@ -61,15 +61,15 @@ for:
 
 ### Our Content
 
-All content on the Will Craft Software website, including text, graphics, logos,
-and software, is the property of Will Craft Software or its content suppliers
-and is protected by copyright and other intellectual property laws.
+All content on the We Will Craft website, including text, graphics, logos, and
+software, is the property of We Will Craft or its content suppliers and is
+protected by copyright and other intellectual property laws.
 
 ### User Content
 
-By submitting content to our Services, you grant Will Craft Software a
-non-exclusive, worldwide, royalty-free license to use, reproduce, and distribute
-your content in connection with the Services.
+By submitting content to our Services, you grant We Will Craft a non-exclusive,
+worldwide, royalty-free license to use, reproduce, and distribute your content
+in connection with the Services.
 
 ### Open Source
 
@@ -116,13 +116,13 @@ following our tutorials or programs.
 
 ## 8. Limitation of Liability
 
-To the fullest extent permitted by law, Will Craft Software shall not be liable
-for any indirect, incidental, special, consequential, or punitive damages, or
-any loss of profits or revenues, whether incurred directly or indirectly.
+To the fullest extent permitted by law, We Will Craft shall not be liable for
+any indirect, incidental, special, consequential, or punitive damages, or any
+loss of profits or revenues, whether incurred directly or indirectly.
 
 ## 9. Indemnification
 
-You agree to defend, indemnify, and hold harmless Will Craft Software and its
+You agree to defend, indemnify, and hold harmless We Will Craft and its
 affiliates from any claims, damages, or expenses arising from your use of the
 Services or violation of these Terms.
 
@@ -158,7 +158,7 @@ For questions about these Terms, please contact us at:
 
 ## 14. Entire Agreement
 
-These Terms constitute the entire agreement between you and Will Craft Software
+These Terms constitute the entire agreement between you and We Will Craft
 regarding the use of the Services, superseding any prior agreements.
 
 ## 15. Severability

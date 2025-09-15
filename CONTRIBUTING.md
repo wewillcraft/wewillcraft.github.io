@@ -1,7 +1,7 @@
-# Contributing to Will Craft Software
+# Contributing to We Will Craft
 
-First off, thank you for considering contributing to Will Craft Software! It's
-people like you that make this community amazing.
+First off, thank you for considering contributing to We Will Craft! It's people
+like you that make this community amazing.
 
 ## 📌 Impostor Syndrome Disclaimer
 
@@ -349,4 +349,4 @@ same license as the project (check LICENSE file).
 mistakes – that's how we all learn and grow. We're excited to see what you'll
 contribute!
 
-Thank you for being part of Will Craft Software! 🚀
+Thank you for being part of We Will Craft! 🚀

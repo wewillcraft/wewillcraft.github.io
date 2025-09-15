@@ -4,9 +4,9 @@ description: "Join the guild as a mentee, mentor, volunteer, sponsor, or partner
 layout: layouts/page.vto
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -18,9 +18,9 @@ navbar:
 
 ## Join the Guild
 
-There's no single path into Will Craft Software. Some arrive as apprentices
-seeking to learn. Others come as masters ready to teach. Many discover they're
-both. Wherever you are in your journey, if you're drawn to purposeful craft and
+There's no single path into We Will Craft. Some arrive as apprentices seeking to
+learn. Others come as masters ready to teach. Many discover they're both.
+Wherever you are in your journey, if you're drawn to purposeful craft and
 meaningful impact, you belong here.
 
 ## For Mentees: Begin Your Journey

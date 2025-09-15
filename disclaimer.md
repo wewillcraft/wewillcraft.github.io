@@ -1,14 +1,14 @@
 ---
 title: "Disclaimer"
-description: "Important disclaimers about Will Craft Software content and services"
+description: "Important disclaimers about We Will Craft content and services"
 layout: layouts/page.vto
 effective_date: 2025-08-28
 last_updated: 2025-08-28
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
-  title: Will Craft Software
+  title: We Will Craft
   links:
     - text: Home
       url: "/"
@@ -18,7 +18,7 @@ navbar:
 
 ## 1. General Information
 
-The information provided by Will Craft Software ("we," "us," or "our") on
+The information provided by We Will Craft ("we," "us," or "our") on
 https://willcraft.software (the "Site") and through our programs and services is
 for general informational and educational purposes only. All information on the
 Site and our programs is provided in good faith; however, we make no
@@ -128,7 +128,7 @@ Please review the terms and privacy policies of any external sites you visit.
 
 Content created by users in our community spaces:
 
-- Represents the views of individual users, not Will Craft Software
+- Represents the views of individual users, not We Will Craft
 - May contain errors, outdated information, or opinions we don't share
 - Is not verified or endorsed by us unless explicitly stated
 - Should be independently verified before relying upon it
@@ -178,7 +178,7 @@ professionals.
 
 ### No Liability for Damages
 
-Under no circumstances shall Will Craft Software, its team members, mentors, or
+Under no circumstances shall We Will Craft, its team members, mentors, or
 affiliates be liable for any:
 
 - Direct, indirect, or consequential damages
@@ -191,8 +191,8 @@ content.
 
 ### Indemnification
 
-You agree to indemnify and hold harmless Will Craft Software and its team from
-any claims arising from:
+You agree to indemnify and hold harmless We Will Craft and its team from any
+claims arising from:
 
 - Your use of the Site or services
 - Your violation of these disclaimers

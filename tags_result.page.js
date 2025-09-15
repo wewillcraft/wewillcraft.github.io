@@ -1,9 +1,9 @@
 export const layout = "layouts/tags_result.vto";
 export const navbar = {
   logo: "/logo.svg",
-  logo_alt: "Will Craft Software",
+  logo_alt: "We Will Craft",
   logo_url: "/",
-  title: "Will Craft Software",
+  title: "We Will Craft",
   links: [
     {
       text: "All Posts",

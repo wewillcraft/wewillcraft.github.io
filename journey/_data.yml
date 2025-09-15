@@ -2,7 +2,7 @@ layout: layouts/journey.vto
 type: journey
 navbar:
   logo: /logo.svg
-  logo_alt: Will Craft Software
+  logo_alt: We Will Craft
   logo_url: /
   title: 100 Day Journey
   links:

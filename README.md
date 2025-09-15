@@ -1,7 +1,7 @@
 # wewillcraft.github.io
 
-The source code for [Will Craft Software](https://willcraft.software)'s website.
-Made using [Lume](https://lume.land), a static site generator for Deno.
+The source code for [We Will Craft](https://wewillcraft.org)'s website. Made
+using [Lume](https://lume.land), a static site generator for Deno.
 
 ## 🚀 Quick Start
 
