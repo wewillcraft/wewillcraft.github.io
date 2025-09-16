@@ -21,7 +21,7 @@ navbar:
 ## 1. Introduction
 
 We Will Craft ("we," "our," or "us") uses cookies and similar technologies on
-our website (https://willcraft.software) to enhance your browsing experience,
+our website (https://wewillcraft.org) to enhance your browsing experience,
 analyze site traffic, and understand user behavior. This Cookie Policy explains
 what cookies are, how we use them, and your choices regarding cookies.
 
@@ -219,7 +219,7 @@ changes, we will:
 If you have questions about our use of cookies or this Cookie Policy, please
 contact us:
 
-**Email:** we@willcraft.software **Website:** https://willcraft.software
+**Email:** we@willcraft.software **Website:** https://wewillcraft.org
 **Mail:** We Will Craft, Philippines
 
 ## 12. Legal Basis for Processing (GDPR)

@@ -154,7 +154,7 @@ the Philippines, without regard to its conflict of law provisions.
 For questions about these Terms, please contact us at:
 
 - **Email:** [we@willcraft.software](mailto:we@willcraft.software)
-- **Website:** [willcraft.software](https://willcraft.software)
+- **Website:** [wewillcraft.org](https://wewillcraft.org)
 
 ## 14. Entire Agreement
 

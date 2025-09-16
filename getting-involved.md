@@ -253,7 +253,7 @@ ideal conditions won't appear. But the opportunity is here, now, waiting for
 your response.
 
 📧 **Email us:** [we@willcraft.software](mailto:we@willcraft.software)\
-🌐 **Visit us:** [willcraft.software](https://willcraft.software)\
+🌐 **Visit us:** [wewillcraft.org](https://wewillcraft.org)\
 💬 **Follow us:** Find us on [GitHub](https://github.com/wewillcraft),
 [Facebook](https://facebook.com/wewillcraft),
 [LinkedIn](https://linkedin.com/company/wewillcraft)

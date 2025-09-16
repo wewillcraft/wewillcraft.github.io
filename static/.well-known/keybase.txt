@@ -4,7 +4,7 @@ https://keybase.io/wewillcraft
 
 I hereby claim:
 
-  * I am an admin of https://willcraft.software
+  * I am an admin of https://wewillcraft.org
   * I am wewillcraft (https://keybase.io/wewillcraft) on keybase.
   * I have a public key with fingerprint B0FB D078 D63C 7443 38E5  E467 3791 A7CC 831E 55FC
 

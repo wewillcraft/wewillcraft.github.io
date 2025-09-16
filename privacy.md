@@ -205,7 +205,7 @@ If you have questions or concerns about this Privacy Policy, please contact us
 at:
 
 - **Email:** [we@willcraft.software](mailto:we@willcraft.software)
-- **Website:** [willcraft.software](https://willcraft.software)
+- **Website:** [wewillcraft.org](https://wewillcraft.org)
 
 ## 14. Data Protection Rights (GDPR)
 

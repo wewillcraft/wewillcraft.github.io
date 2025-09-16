@@ -19,7 +19,7 @@ navbar:
 ## 1. General Information
 
 The information provided by We Will Craft ("we," "us," or "our") on
-https://willcraft.software (the "Site") and through our programs and services is
+https://wewillcraft.org (the "Site") and through our programs and services is
 for general informational and educational purposes only. All information on the
 Site and our programs is provided in good faith; however, we make no
 representation or warranty of any kind, express or implied, regarding the
@@ -246,7 +246,7 @@ If you have questions about this disclaimer or find errors in our content,
 please contact us:
 
 - **Email:** [we@willcraft.software](mailto:we@willcraft.software)
-- **Website:** [willcraft.software](https://willcraft.software)
+- **Website:** [willcraft.software](https://wewillcraft.org)
 
 We appreciate feedback and corrections from our community.
 
