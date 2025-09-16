@@ -13,10 +13,10 @@ navbar:
   logo_url: /
   title: We Will Craft
   links:
-    - text: Values
-      url: "#values"
     - text: Activities
       url: "#activities"
+    - text: Values
+      url: "#values"
     - text: Apprenticeship
       url: "#apprenticeship"
     - text: Inquiries
@@ -59,6 +59,8 @@ footer:
   legal_links:
     - text: About
       url: /about
+    - text: Manifesto
+      url: /manifesto
     - text: Events
       url: /events
     - text: Get Involved

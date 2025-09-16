@@ -47,16 +47,46 @@ body_class: "bg-stone-900 text-white"
   </div>
 </header>
 
+<!-- Activities -->
+<section
+  id="activities"
+  class="py-20 bg-white text-gray-800"
+>
+  <div class="max-w-6xl mx-auto px-6 text-center">
+    <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight text-gray-800">
+      {{ activities.title }}
+    </h3>
+    <div class="grid gap-5 md:grid-cols-2">
+      {{ for index, item of activities.items }}
+        <div
+          class="bg-white rounded p-6 shadow-lg border-2 border-[#eb4e3b] transition hover:-translate-y-1 hover:shadow-2xl hover:border-[#f69b39] duration-300 group text-left opacity-0"
+          data-animate="animate-fade-up"
+          data-animate-duration="500"
+          data-animate-delay="{{ index * 200 }}"
+        >
+          <h4 class="text-2xl font-semibold text-[#292562]">
+            {{ item.title }}
+          </h4>
+          <p class="italic text-sm mt-1 text-[#eb4e3b]">{{ item.subtitle }}</p>
+          <p class="text-base leading-relaxed mt-3 text-gray-700">
+            {{ item.description }}
+          </p>
+        </div>
+      {{ /for }}
+    </div>
+  </div>
+</section>
+
 <!-- Values -->
-<section id="values" class="py-20 bg-white text-gray-800">
+<section id="values" class="py-20 bg-[#292562]">
   <div class="max-w-6xl mx-auto px-6">
-    <h3 class="text-3xl md:text-5xl font-bold text-center mb-16">
+    <h3 class="text-3xl md:text-5xl font-bold text-center mb-16 text-white">
       {{ values.title }}
     </h3>
     <div class="space-y-6">
       {{ for item of values.items }}
         <div
-          class="flex items-start border border-stone-700 rounded p-6 shadow flex-col md:flex-row text-center md:text-left gap-5 transition hover:-translate-y-1 hover:shadow-2xl duration-300 opacity-0 group"
+          class="flex items-start border border-stone-700 rounded p-6 shadow flex-col md:flex-row text-center md:text-left gap-5 transition hover:-translate-y-1 hover:shadow-2xl duration-300 opacity-0 group bg-white"
           data-animate="animate-fade-up"
           data-animate-duration="500"
           data-animate-delay="100"
@@ -69,40 +99,10 @@ body_class: "bg-stone-900 text-white"
               inline
             />
           </div>
-          <div class="flex flex-col gap-2">
+          <div class="flex flex-col gap-2 text-gray-800">
             <h4 class="text-xl font-bold">{{ item.title }}</h4>
             <p>{{ item.description }}</p>
           </div>
-        </div>
-      {{ /for }}
-    </div>
-  </div>
-</section>
-
-<!-- Activities -->
-<section
-  id="activities"
-  class="py-20 bg-[#292562]"
->
-  <div class="max-w-6xl mx-auto px-6 text-center">
-    <h3 class="text-3xl md:text-5xl font-extrabold mb-16 tracking-tight text-white">
-      {{ activities.title }}
-    </h3>
-    <div class="grid gap-5 md:grid-cols-2 text-black">
-      {{ for index, item of activities.items }}
-        <div
-          class="bg-[#eb4e3b] rounded p-6 shadow-xl border border-stone-700 transition hover:-translate-y-1 hover:shadow-2xl duration-300 group text-left opacity-0"
-          data-animate="animate-fade-up"
-          data-animate-duration="500"
-          data-animate-delay="{{ index * 200 }}"
-        >
-          <h4 class="text-2xl font-semibold text-white">
-            {{ item.title }}
-          </h4>
-          <p class="italic text-sm mt-1 text-[#f9e48b]">{{ item.subtitle }}</p>
-          <p class="text-base leading-relaxed mt-3 text-white">
-            {{ item.description }}
-          </p>
         </div>
       {{ /for }}
     </div>

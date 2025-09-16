@@ -7,36 +7,43 @@
 
 ### The Golden Circle (Simon Sinek Framework)
 
-#### WHY (Our Purpose)
+#### WHY (Our Belief)
 
-We believe that technology should serve humanity's highest calling. We exist
-because we've seen how the right tools in the right hands can multiply good in
-the world. Every line of code we write, every developer we mentor, every project
-we complete is an act of faith that software can be a force for justice, mercy,
-and restoration.
+**Because impossible dreams need builders.**
 
-**In one sentence:** We build because we believe our craft can light up the
-darkness and lift others higher.
+We believe the greatest missions in the world - the ones that heal communities,
+restore dignity, and multiply hope - deserve more than good intentions. They
+deserve builders who understand that code isn't just logic; it's leverage. Every
+nonprofit struggling with broken systems, every church trying to reach further,
+every dreamer with a world-changing idea but no way to scale it - they all need
+someone who can turn vision into working software. We exist because we've seen
+what happens when the right tools meet the right hearts. Mountains move. Lives
+change. The impossible becomes inevitable.
 
-#### HOW (Our Process)
+**In one sentence:** Because impossible dreams need builders.
 
-We create meaningful change through:
+#### HOW (Our Actions)
 
-- **Purposeful Partnership**: Working alongside nonprofits, churches, and
-  community organizations who are on the frontlines of change
-- **Intentional Mentorship**: Walking with the next generation, passing on not
-  just skills but values and vision
-- **Open Collaboration**: Sharing our tools and knowledge freely so no one
-  starts from scratch
-- **Faithful Craftsmanship**: Building with excellence because the missions we
-  serve deserve our best
+**So we're equipping changemakers to solve hard problems, lead movements, and transform the world through technology.**
 
-#### WHAT (Our Actions)
+We don't just teach code; we activate potential. Through massive youth outreach,
+free workshops, and purpose-discovery programs, we help young people see they can
+be the builders the world needs. We provide complete toolkits for transformation:
+open-source frameworks, leadership training, and technical skills that matter. We
+connect youth with mentors, clubs with causes, and movements with momentum. And
+we train young people to multiply impact, showing them how to activate others, start
+new chapters, and spread the fire. This is how one spark becomes a global movement.
 
-- Build custom software for organizations doing good
-- Mentor aspiring developers through the 100-Day Journey
-- Connect and strengthen tech communities
-- Create and maintain open-source tools for the greater good
+#### WHAT (Our Proof)
+
+**We activate youth, build movements, and transform communities.**
+
+- **Activate**: Find and awaken potential in every young person through workshops,
+  programs, and purpose-discovery
+- **Build**: Create infrastructure for change: tools, frameworks, and systems
+  for youth-led transformation
+- **Transform**: Connect and multiply impact across schools, cities, and nations
+  until impossible dreams get built
 
 ### Our Programs
 
@@ -98,9 +105,16 @@ students. This creates a sustainable, self-reinforcing community of growth.
 
 ### Mission Statement
 
-We champion the causes that bring out the best in humanity. We devote our craft
-to missions greater than ourselves, building tools that empower those who bring
-them to life and passing that will to the next generation.
+Because impossible dreams need builders, we're equipping changemakers to solve
+hard problems, lead movements, and transform the world through technology. We
+activate youth, build movements, and transform communities, one spark at a
+time, until the whole world is on fire with purpose.
+
+### Vision Statement
+
+A world where every young person discovers they can be a changemaker, equipped
+with the skills, connections, and confidence to build solutions that transform
+their communities and beyond.
 
 ### Communicating Our WHY
 
@@ -136,15 +150,15 @@ our mission to prove that software can be a force for good."
 - **Faith-Rooted**: Grounded in Christian values but welcoming to all
 - **Craftsmanship-Focused**: Excellence through dedication and care
 
-### Core Values
+### Core Values (CRAFTER)
 
-1. **Build With Purpose** - Create what counts
-2. **Pass It Forward** - Share knowledge generously
-3. **Aim Higher Than Ourselves** - Serve greater missions
-4. **Keep Growing** - Continuous learning and improvement
-5. **Share What We Learn** - Open source mindset
-6. **Carry Each Other** - Community support
-7. **Always Be Creating** - Constant innovation
+1. **Create With Purpose** - Build what matters for humanity
+2. **Reach the Unreached** - Find hidden talent everywhere
+3. **Always Be Crafting** - Continuous creation and learning
+4. **Forge Connections** - Build bridges between communities
+5. **Tend the Flame** - Nurture and multiply knowledge
+6. **Evolve Constantly** - Adapt and improve continuously
+7. **Reinforce Each Other** - Mutual support and collaboration
 
 ## Visual Identity
 
