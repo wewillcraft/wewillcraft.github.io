@@ -1,5 +1,5 @@
 layout: layouts/landing.vto
-title: Software as a Craft
+title: We make the impossible inevitable
 hero:
   logo: /logo-colored.svg
   logo_alt: We Will Craft
@@ -74,22 +74,22 @@ activities:
       description: True movements multiply themselves. We train young people not just to succeed but to replicate success, showing them how to start new clubs, mentor new leaders, and spread the movement to new territories. Our leadership accelerator creates trainers who create trainers. Our framework helps one activated club become ten, ten become a hundred. We're building a self-sustaining, ever-growing movement that will reach every school, every young person, every nation. Because when youth unite around purpose, equipped with skills, and connected to each other, impossible dreams get built.
 apprenticeship:
   title: 🤺 The 100-Day Journey
-  subtitle: A 100-day transformative journey through self-discovery, skill-building, and purpose-finding. Not just a coding bootcamp, this is whole-person development for aspiring crafters.
+  subtitle: A 100-day transformative journey through self-discovery, skill-building, and purpose-finding. Not just a coding bootcamp, this is whole-person development for emerging changemakers.
   faqs:
     - question: What is the 100-Day Journey?
       answer: "It's a 100-day mentorship program divided into 3 phases: Foundation (self-discovery and learning), Systems (building sustainable practices), and Impact (leadership and giving back). Spread across 14 weeks with 8 practical lessons per week, covering technical skills, personal development, and optional spiritual formation."
     - question: Who can apply?
       answer: Anyone! College students, career switchers, self-taught developers, or complete beginners. You don't need coding experience, just curiosity, commitment, and a desire to grow. We especially welcome those from underrepresented backgrounds in tech.
     - question: What's the time commitment?
-      answer: Expect 10-15 hours per week. That's about 2 hours daily for lessons and exercises, plus time for projects and mentorship. Lessons are designed to fit around work or school schedules. Most can be completed in 20-30 minute sessions.
+      answer: There's no minimum and there's no maximum. The more you put in, the more you transform. We've seen people change their lives with 30 minutes a day. We've seen others go all-in and emerge completely different. The program flexes around your life, but your results match your effort.
     - question: What will I actually learn?
-      answer: Week 1-5 covers self-discovery, learning strategies, communication, and resilience. Week 6-10 focuses on productivity, deep work, boundaries, and work-life balance. Week 11-14 addresses career strategy, leadership, giving back, and future planning. Plus hands-on coding projects throughout.
+      answer: You'll discover how to turn your ideas into action. Week 1-5 awakens your purpose and builds foundational skills. Week 6-10 develops systems for sustainable impact. Week 11-14 transforms you into a leader who multiplies change. Technical skills are just the beginning. You're learning to solve problems that matter, lead movements that transform, and build solutions that last.
     - question: Do I need to know how to code already?
       answer: No! The 100-Day Journey is designed for all backgrounds. We'll teach you practical web development skills, but more importantly, we'll help you learn HOW to learn, think like a developer, and build with purpose.
     - question: What makes this different from other bootcamps?
-      answer: We focus on the whole person, not just technical skills. You'll work on real nonprofit projects, receive one-on-one mentorship, and join a supportive community. It's about becoming a thoughtful crafter, not just a coder.
+      answer: We're not building coders, we're activating changemakers. You'll work on real projects that serve real needs, receive mentorship from those who've walked this path, and join a global movement of young people transforming their communities. This isn't about getting a job. It's about discovering your calling and gaining the skills to fulfill it.
     - question: Is this a paid program?
-      answer: No, this is a volunteer-based learning experience. Our reward is growth, impact, and shared purpose, not profit. Some graduates do receive job opportunities through our network, but employment isn't guaranteed.
+      answer: No, this is completely free because we believe every young person deserves to discover their purpose. We're a movement, not a business. Your only payment is paying it forward. Some graduates find opportunities through our network, but our real success is when you go out and change your world.
     - question: Is this religious? Do I need to be a Christian?
       answer: While faith is our foundation, people of all beliefs (or none) are welcome! Each week includes an optional devotional lesson. Some mentors may share their faith perspective, but there's no pressure to believe or convert. We ask only for mutual respect.
     - question: What about impostor syndrome? I don't feel qualified.
@@ -113,12 +113,10 @@ apprenticeship:
     - question: Do you offer scholarships or financial aid?
       answer: The program is already free! If you need help with internet access, equipment, or other barriers to participation, let us know. We have sponsors who specifically support removing obstacles for motivated learners.
 contact:
-  title: 📜 Contact the Guild
+  title: 📜 Join the Movement
   subtitle: 'Send your inquiries or quests to <a class="underline text-white hover:text-[#eb4e3b] transition duration-300" href="mailto:we@willcraft.software">we@willcraft.software</a> or send a message below'
   email: we@willcraft.software
-creed:
-  text: In fire, we are tempered. In craft, we ascend.<br>Our work is our legacy—enduring, resilient, legendary.
 posts:
-  title: 📖 The Guild's Chronicles
+  title: 📖 Stories from the Camp Fire
   subtitle: Read our latest posts, tutorials, and insights on software development, mentorship, and the craft of coding.
   items_to_show: 3
