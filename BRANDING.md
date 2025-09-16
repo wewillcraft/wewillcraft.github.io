@@ -24,22 +24,24 @@ change. The impossible becomes inevitable.
 
 #### HOW (Our Actions)
 
-**So we're equipping changemakers to solve hard problems, lead movements, and transform the world through technology.**
+**So we're equipping changemakers to solve hard problems, lead movements, and
+transform the world through technology.**
 
 We don't just teach code; we activate potential. Through massive youth outreach,
-free workshops, and purpose-discovery programs, we help young people see they can
-be the builders the world needs. We provide complete toolkits for transformation:
-open-source frameworks, leadership training, and technical skills that matter. We
-connect youth with mentors, clubs with causes, and movements with momentum. And
-we train young people to multiply impact, showing them how to activate others, start
-new chapters, and spread the fire. This is how one spark becomes a global movement.
+free workshops, and purpose-discovery programs, we help young people see they
+can be the builders the world needs. We provide complete toolkits for
+transformation: open-source frameworks, leadership training, and technical
+skills that matter. We connect youth with mentors, clubs with causes, and
+movements with momentum. And we train young people to multiply impact, showing
+them how to activate others, start new chapters, and spread the fire. This is
+how one spark becomes a global movement.
 
 #### WHAT (Our Proof)
 
 **We activate youth, build movements, and transform communities.**
 
-- **Activate**: Find and awaken potential in every young person through workshops,
-  programs, and purpose-discovery
+- **Activate**: Find and awaken potential in every young person through
+  workshops, programs, and purpose-discovery
 - **Build**: Create infrastructure for change: tools, frameworks, and systems
   for youth-led transformation
 - **Transform**: Connect and multiply impact across schools, cities, and nations
@@ -107,8 +109,8 @@ students. This creates a sustainable, self-reinforcing community of growth.
 
 Because impossible dreams need builders, we're equipping changemakers to solve
 hard problems, lead movements, and transform the world through technology. We
-activate youth, build movements, and transform communities, one spark at a
-time, until the whole world is on fire with purpose.
+activate youth, build movements, and transform communities, one spark at a time,
+until the whole world is on fire with purpose.
 
 ### Vision Statement
 

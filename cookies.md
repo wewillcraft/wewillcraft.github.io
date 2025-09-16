@@ -219,8 +219,8 @@ changes, we will:
 If you have questions about our use of cookies or this Cookie Policy, please
 contact us:
 
-**Email:** we@willcraft.software **Website:** https://wewillcraft.org
-**Mail:** We Will Craft, Philippines
+**Email:** we@willcraft.software **Website:** https://wewillcraft.org **Mail:**
+We Will Craft, Philippines
 
 ## 12. Legal Basis for Processing (GDPR)
 
